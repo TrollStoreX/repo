@@ -1,10 +1,16 @@
 Package: weifengqad
-Name: 威锋7.3NoAd
-Author: z
-Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
-Depends: mobilesubstrate
-Maintainer: z
-Section: Tweaks
-Architecture: iphoneos-arm64
 Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
 Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/weifengqad_1.1_iphoneos-arm64.deb
+Size: 4040
+MD5sum: a18ea2a882e9370ad99396112df42784
+SHA1: 900c12f06867dc7379adf58f5e140e5ac527496e
+SHA256: 7bdb14262cf04b94cc26e02fe12884f5a179539a45b2f88365b787f7f7b5a64d
+Section: Tweaks
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
+Author: z
+Name: 威锋7.3NoAd
+
