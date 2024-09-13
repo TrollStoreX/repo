@@ -1,3 +1,21 @@
+Package: com.dvntm.ytlite
+Version: 5.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 6100884
+MD5sum: e7658dd0cb309f4654b0fc44cd84dfd0
+SHA1: 3d61d753d2b66c5e903b85a29c537ef368425eb8
+SHA256: d8acb1b05c3f15a1b65cd17af2df9e1f6b54570a981694d8d4051901c7f20e17
+Section: Tweaks
+Description: YouTube 增强插件，去广告、视频下载等 Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: com.sileo.zh-hans
 Version: 2.6
 Architecture: iphoneos-arm64
