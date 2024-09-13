@@ -3,6 +3,6 @@ Label: 巨魔商店Telegram's repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 description:巨魔商店
