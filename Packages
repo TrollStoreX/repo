@@ -73,6 +73,34 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo简体中文包
 Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
 
+Package: me.afhook.app
+Version: 3.3.0
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1028
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/iphoneos-arm64e/me.afhook.app_3.3.0_iphoneos-arm64e.deb
+Size: 219724
+MD5sum: 625b57cf92db01f731d539d88c1c885e
+SHA1: 79a39e569a38b1cdca8cbad9de5fe2464e00916d
+SHA256: 7892533f38eb18b4eecdc685b81b79d4c6f2d85b9f707f5f997f35cc3b352cd4
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
+Description: 快速更改应用的名字、图标、机型、角标、版本号等。
+  快速更改应用的名字、图标、机型、角标、版本号等。
+ -随心所欲地更改系统应用和三方应用的名字
+ -从系统相册任意选择图片剪切为应用的图标
+ -手动选择软件内置机型和自定义需要的机型
+ -只需要点击一次就永久生效的清空角标功能
+Tag: purpose::extension
+Author: 小哥哥 <zhulongfei28@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
+Dev: zhulongfei28
+Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
+Name: 改个应用-专业的应用修改软件
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: weifengqad
 Version: 1.1
 Architecture: iphoneos-arm64
