@@ -7,7 +7,7 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: ./debs/MisakaHelper_END_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/MisakaHelper_END_iphoneos-arm64.deb
 Size: 13176824
 MD5sum: dfdac07dbb49f5871e1f8bff89180faa
 SHA1: 9e80412e9766c8e3dae868cd796d6f374c7057c2
@@ -24,7 +24,7 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 16140
 Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
 Size: 6100884
 MD5sum: e7658dd0cb309f4654b0fc44cd84dfd0
 SHA1: 3d61d753d2b66c5e903b85a29c537ef368425eb8
@@ -42,7 +42,7 @@ Architecture: iphoneos-arm64
 Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/com.p2kdev.twitternoads_1.2.4_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.p2kdev.twitternoads_1.2.4_iphoneos-arm64.deb
 Size: 7452
 MD5sum: 1f195b3ab6b08c190cdc32597cf24fcd
 SHA1: 30b7c9917a37bbe8e994ff50b02dabae5d76659a
@@ -61,7 +61,7 @@ Architecture: iphoneos-arm64
 Maintainer: 巨魔商店Telegram
 Depends: org.coolstar.sileo | org.coolstar.sileonightly
 Replaces: org.coolstar.sileo, org.coolstar.sileonightly
-Filename: ./debs/com.sileo.zh-hans_2.6_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.sileo.zh-hans_2.6_iphoneos-arm64.deb
 Size: 8416
 MD5sum: 497c8f3f3330c0ee7aa31705cdf0dd23
 SHA1: a6b89f26ea57208e084ad1efdf1f1b3f464a0819
@@ -107,7 +107,7 @@ Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/weifengqad_1.1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/weifengqad_1.1_iphoneos-arm64.deb
 Size: 4040
 MD5sum: a18ea2a882e9370ad99396112df42784
 SHA1: 900c12f06867dc7379adf58f5e140e5ac527496e
