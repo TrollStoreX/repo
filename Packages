@@ -36,6 +36,25 @@ Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.p2kdev.twitternoads
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.p2kdev.twitternoads_1.2.4_iphoneos-arm64.deb
+Size: 7452
+MD5sum: 1f195b3ab6b08c190cdc32597cf24fcd
+SHA1: 30b7c9917a37bbe8e994ff50b02dabae5d76659a
+SHA256: 5afe897c68b06a38de6e3b6cf7e29d2942ea17c569a48d58455c3896446cea7c
+Section: Tweaks
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://trollstorex.github.io/sileodepiction/MisakaHelper/js.json
+
 Package: com.sileo.zh-hans
 Version: 2.6
 Architecture: iphoneos-arm64
