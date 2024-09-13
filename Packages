@@ -17,7 +17,6 @@ Priority: optional
 Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
-Sileodepiction: https://trollstorex.github.io/sileodepiction/MisakaHelper/js.json
 
 Package: com.dvntm.ytlite
 Version: 5.0.2
