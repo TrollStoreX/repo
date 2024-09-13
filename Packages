@@ -55,6 +55,24 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon
 Name: TwitterNoAds
 Sileodepiction: https://trollstorex.github.io/sileodepiction/MisakaHelper/js.json
 
+Package: com.sileo.zh-hans
+Version: 2.6
+Architecture: iphoneos-arm64
+Maintainer: 巨魔商店Telegram
+Depends: org.coolstar.sileo | org.coolstar.sileonightly
+Replaces: org.coolstar.sileo, org.coolstar.sileonightly
+Filename: ./debs/com.sileo.zh-hans_2.6_iphoneos-arm64.deb
+Size: 8416
+MD5sum: 497c8f3f3330c0ee7aa31705cdf0dd23
+SHA1: a6b89f26ea57208e084ad1efdf1f1b3f464a0819
+SHA256: 9d54b51fffd37c2865461e7cd922b8b5b760c85397813f7e1a2e9629fc719d60
+Section: Localization
+Description: Sileo本地化语言包，修正翻译错误，卸载汉化包需重新安装Sileo恢复中文https://t.me/iOS_TrollStore
+Author: 巨魔商店Telegram
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo简体中文包
+Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
+
 Package: weifengqad
 Version: 1.1
 Architecture: iphoneos-arm64
