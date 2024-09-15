@@ -111,6 +111,24 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.dvntm.ytlite
+Version: 5.0.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16124
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
+Size: 6092152
+MD5sum: e145ff8864e995f0e3c369ec46178171
+SHA1: b09307df01fb3bd1eb21e142e12b0234ccdf2a51
+SHA256: dc2751d94b80497c5763f6c2dce2964657740121d015d326c7d988eb2f3bd0a6
+Section: Tweaks
+Description: YouTube 增强插件
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
 Package: com.exile90.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64e
