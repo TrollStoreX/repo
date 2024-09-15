@@ -111,6 +111,28 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/iphoneos-arm64e/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 982472
+MD5sum: 7628ccb813c1ca3fe7af14a0825d4502
+SHA1: 51a25db799eaa81a8d61ed61113a572d66274591
+SHA256: a8e5191fee9ddb2d9e908b150c40a83e518fc1a06ccfee987b12ded38c43096c
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
+Name: iCleaner Pro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
+
 Package: com.lns.pogr
 Version: 0.4.0~prerelease1
 Architecture: iphoneos-arm64
