@@ -39,6 +39,23 @@ Description: 微信文字转语音原神版,模型运算版本,等待6秒左右�
 Author: Apibug
 Name: ApibugTextToVoice
 
+Package: com.bandarhl.bhtwitter
+Version: 4.3-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
+Size: 7616612
+MD5sum: 620234bd2467449bea4944c4d0108327
+SHA1: 2284c7a933ccef3cb77a6ed7736a3c40ce81de04
+SHA256: 8ed270d2f96d202cdee35d36e30ce5eac5b241a329d33a1dca8a48bc5b9c3721
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
 Architecture: iphoneos-arm64
