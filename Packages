@@ -113,6 +113,24 @@ Name: PKC_无根
 
 Package: com.dvntm.ytlite
 Version: 5.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 6097852
+MD5sum: a769339e109f4c0e59639698eee7b478
+SHA1: 82c2d5288e92d726d7d4a62502f745f265bcec32
+SHA256: d35d9f0095d97b9db4e8833cd3041897329937bf61b2a4549884dc5a2d645598
+Section: Tweaks
+Description: YouTube 增强插件
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
+Package: com.dvntm.ytlite
+Version: 5.0.2
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
 Installed-Size: 16124
