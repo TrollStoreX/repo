@@ -146,6 +146,25 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo简体中文包
 Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
 
+Package: com.sileo.zh-hans
+Version: 2.6
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店Telegram
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: org.coolstar.sileo | org.coolstar.sileonightly
+Replaces: org.coolstar.sileo, org.coolstar.sileonightly
+Filename: ./debs/iphoneos-arm64e/com.sileo.zh-hans_2.6_iphoneos-arm64e.deb
+Size: 10200
+MD5sum: 153b20e9dc61e1042a7e0831bfc78872
+SHA1: 011c76c9fa2437ebf66c225364d4135c20d5d7c9
+SHA256: 5552994925bb6d62a79ec0246f7a3d5fdd54b3042d1f8ab2cc40f48ef61cd6fa
+Section: Localization
+Description: Sileo本地化语言包，修正翻译错误，卸载汉化包需重新安装Sileo恢复中文https://t.me/iOS_TrollStore
+Author: 巨魔商店Telegram
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo简体中文包
+Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
+
 Package: me.afhook.app
 Version: 3.3.0
 Architecture: iphoneos-arm64e
