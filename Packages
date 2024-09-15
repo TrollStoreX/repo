@@ -56,6 +56,24 @@ Author: Bandar Alruwaili
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
+Package: com.bandarhl.bhtwitter
+Version: 4.3-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64e.deb
+Size: 21392344
+MD5sum: 5d17adc958ebc3b272e9db48657112d6
+SHA1: cb69ac67af3cdb0adbf5dd4568781a0335d46145
+SHA256: 8a5d625f8e13b600b4661f00b67231b14ad2fdae1de03dd0fd5963e870d32be7
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
 Architecture: iphoneos-arm64
