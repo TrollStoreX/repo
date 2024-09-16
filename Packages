@@ -55,6 +55,23 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailun
+Version: 1.7.3
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailun_1.7.3_iphoneos-arm64e.deb
+Size: 25992174
+MD5sum: aad2f5f4ddf4e5bab857fbad97b47df1
+SHA1: d420f8a11ccca3441bb5735c44efbd1ca7ce7bc6
+SHA256: 33e4ccbf62b6cf26535462bc2dc59935a9af252646d41db7348955da309680d1
+Section: Mao
+Description: 黄白助手                                                                                                                                                              一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能）
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: 黄白助手
+
 Package: com.bandarhl.bhtwitter
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64
