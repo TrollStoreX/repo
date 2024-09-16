@@ -412,6 +412,41 @@ Description: 将AirPods Pro 2视为AirPods Pro，使其在旧操作系统上更�
 Author: Ruphane
 Name: PodsGrant
 
+Package: com.p2kdev.facebooknoads
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.p2kdev.facebooknoads_1.3_iphoneos-arm64.deb
+Size: 5436
+MD5sum: 9bca7fdeba43659f25c28c57c8d7b849
+SHA1: 8de281c0d69298adab788e8777b795b8cc716058
+SHA256: 4563d4ae17e7018730b096da98410188d189ff89093082b3d1422717821ba317
+Section: Tweaks
+Description: Facebook NoAds 去广告插件
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/facebook.png
+Name: FacebookNoAds
+
+Package: com.p2kdev.facebooknoads
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.p2kdev.facebooknoads_1.3_iphoneos-arm64e.deb
+Size: 7280
+MD5sum: 5fcd61ef61df646872c475891eca98ca
+SHA1: 0a3c454b25767f300f5cea7b5aa9ed4948efb670
+SHA256: 7c3aefd1b706f3d2229e7c08cda55570b64d7437b4ff93af6a05f9a194e31136
+Section: Tweaks
+Description: Facebook NoAds 去广告插件
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/facebook.png
+Name: FacebookNoAds
+
 Package: com.p2kdev.twitternoads
 Version: 1.2.4
 Architecture: iphoneos-arm64
@@ -430,6 +465,41 @@ Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2k
 Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
 Name: TwitterNoAds
 Sileodepiction: https://trollstorex.github.io/sileodepiction/MisakaHelper/js.json
+
+Package: com.ps.recordpause
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/iphoneos-arm64/com.ps.recordpause_2.0.2_iphoneos-arm64.deb
+Size: 10044
+MD5sum: ba5b7dce6511c9797cd6414fbec3ef71
+SHA1: 117fc144a62a5685d7afb1edc11650c19e9bdc67
+SHA256: 228ae6231b61a53b4e9bb635141c27f2610d0a9c14ce5396d8e7e5d3aad058d6
+Section: Tweaks
+Description: 暂停/恢复视频录制。Pause/resume video recording.
+Author: PoomSmart
+Name: RecordPause 录像暂停
+
+Package: com.ps.recordpause
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./debs/iphoneos-arm64e/com.ps.recordpause_2.0.2_iphoneos-arm64e.deb
+Size: 13494
+MD5sum: 3d72cafdd9097f1e925d073894d755e2
+SHA1: 41290c156d7439c01f62dbf0eb551f1bfd3030b6
+SHA256: 060623bfef3a99dbe482e6780b8a0d3011ea2138f28a4165d93304802360b7a9
+Section: Tweaks
+Description: 暂停/恢复视频录制。Pause/resume video recording.
+Author: PoomSmart
+Name: RecordPause 录像暂停
 
 Package: com.sileo.zh-hans
 Version: 2.6
