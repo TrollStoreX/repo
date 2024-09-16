@@ -39,6 +39,22 @@ Description: 微信文字转语音原神版,模型运算版本,等待6秒左右�
 Author: Apibug
 Name: ApibugTextToVoice
 
+Package: com.HBWechatHelper.ailun
+Version: 1.7.3
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.7.3_iphoneos-arm64.deb
+Size: 9039404
+MD5sum: 92313367a2fda0b81fe115b7c80a6103
+SHA1: 4d0adbc6c5125ca1283b052dca127f3d455cc1c4
+SHA256: 5cc9c8effecbd033ffe028b75302f7ac4e2208e6d1da92d841a4c589c9c04f62
+Section: Mao
+Description: 黄白助手                                                                                                                                                              一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能）
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: 黄白助手
+
 Package: com.bandarhl.bhtwitter
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64
@@ -110,6 +126,41 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
+
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
+Size: 9337424
+MD5sum: fbaebdca05476146e28bc425bf89148e
+SHA1: 52d6d844c3a3abfb4d5c974e93919ff673884f15
+SHA256: 98a46e1ed6e109c879c7be3e1c360b4c6959f892ed21c626498110a20223848f
+Section: Tweaks
+Description: 微信插件，功能与微信净化插件一样，1:1复刻。
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: 锤子助手
+
+Package: com.dumpapp.wechat-rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 24000
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64e/com.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64e.deb
+Size: 25494706
+MD5sum: 47673da31dbbe73ae55908c14ea53409
+SHA1: 6789cbc6fd6bd2153b7cf62614629b092f1a9658
+SHA256: a08899396192c35c6ee1e4a7a0d95c01ba20425f332e347c648f3621d9a50768
+Section: Tweaks
+Description: 微信插件，功能与微信净化插件一样，1:1复刻。
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: 锤子助手
 
 Package: com.dvntm.ytlite
 Version: 5.0.2
