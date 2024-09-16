@@ -206,6 +206,24 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
 Name: iCleaner Pro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
 
+Package: com.lclrc.hammerit
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.lclrc.hammerit_1.7.0_iphoneos-arm64e-2.deb
+Size: 2767590
+MD5sum: df832ea1effd175ce0a31981b93143d6
+SHA1: e465702ddd0cfaf381223a47a029362103ec608a
+SHA256: 956a354f3c6bf5a09f438b24a980d686d98acf796446362a8f545a12ba4e1c81
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
 Package: com.lns.pogr
 Version: 0.4.0~prerelease1
 Architecture: iphoneos-arm64
