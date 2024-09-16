@@ -600,3 +600,38 @@ Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知�
 Author: z
 Name: 威锋7.3NoAd
 
+Package: xyz.cypwn.camscanner
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/xyz.cypwn.camscanner_0.0.1_iphoneos-arm64.deb
+Size: 7256
+MD5sum: e45958b42360cb1a43fba66c986a7011
+SHA1: 4db2a7bc54cb1b29642fed2c5931aeaa3ba66f40
+SHA256: effb7b387f3537ae6affce18c0d3be96bfba8e9d70949fc241be890ad1ae7c35
+Section: Tweaks
+Description: CamScanner 扫描全能王解锁部分功能
+Author: sopranox
+Depiction: https://repo.cypwn.xyz/depiction/2629
+Icon: https://repo.cypwn.xyz/packages/camscanner-Rootless/icon.png
+Name: CamScanner
+
+Package: xyz.cypwn.camscanner
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/xyz.cypwn.camscanner_0.0.1_iphoneos-arm64e.deb
+Size: 9846
+MD5sum: b1ff12fd8bcc3ee8a3b7c86cfbcb891c
+SHA1: 8b9fde2ad3cb7361958c0ba25965a5e39523abbf
+SHA256: 8977fcbc8bc6bf8a6901cdf06aba5c5e21a2379267961fbbf6ef4b2c224fc676
+Section: Tweaks
+Description: CamScanner 扫描全能王解锁部分功能
+Author: sopranox
+Depiction: https://repo.cypwn.xyz/depiction/2629
+Icon: https://repo.cypwn.xyz/packages/camscanner-Rootless/icon.png
+Name: CamScanner
+
