@@ -328,6 +328,39 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
 Name: iCleaner Pro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
 
+Package: com.hw.imepremium
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 🅷🆆
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hw.imepremium_0.0.1_iphoneos-arm64.deb
+Size: 7600
+MD5sum: e4778f8295b61710cd997fcadd4ac9f3
+SHA1: 2624ac95ec86f363dbb9bdb141bdf4199b27191d
+SHA256: f962a0fcd680b4c07feca959a2f6b54551803645e3b70464486953b9f3f960ff
+Section: Tweaks
+Description: 解锁iMe- Premium
+Author: 🅷🆆
+Name: 🅷🆆 iMe
+
+Package: com.hw.imepremium
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 🅷🆆
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.hw.imepremium_0.0.1_iphoneos-arm64e.deb
+Size: 9928
+MD5sum: 71d1ead8c8bf5e1079e0faaea13600b1
+SHA1: 13b8016ba1753948a390fe2102dfdb742a050906
+SHA256: dd4362fcd24b9e97d5b76befb2d84262e7405b18489ab0f422a37cfbd6ac412c
+Section: Tweaks
+Description: 解锁iMe- Premium
+Author: 🅷🆆
+Name: 🅷🆆 iMe
+
 Package: com.lclrc.hammerit
 Version: 1.7.0
 Architecture: iphoneos-arm64e
