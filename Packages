@@ -414,25 +414,6 @@ Name: PodsGrant
 
 Package: com.netskao.appdata
 Version: 1.4.2
-Architecture: iphoneos-arm64e
-Maintainer: Netskao
-Installed-Size: 3772
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.netskao.appdata_1.4.2_iphoneos-arm64e.deb
-Size: 2396142
-MD5sum: b4e5686a1c8fa8059919ad45a81cd59c
-SHA1: 2cbd3b50c25d4a7bd48db20cf234abc7f6371962
-SHA256: 25932df2f60887de3fcd6e3ffeb7eb98da212dd5d2e78195ade272ff9c6737d6
-Section: Netskao-Tweaks
-Description: 汉化修改，桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具。
-Author: Fouad Raheb
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
-
-Package: com.netskao.appdata
-Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: Netskao
 Installed-Size: 3772
@@ -457,14 +438,14 @@ Installed-Size: 3772
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/iphoneos-arm64e/com.netskao.appdata_1.4.2_iphoneos-arm64e.deb
-Size: 2396160
-MD5sum: fd687ea226749d4e78b24fb7ee110866
-SHA1: 64ec17ee4904de363b1445fdbfde162177700d78
-SHA256: dc3d9fd759ad98f2397f8df54bff5c026987a90338e49ff0b7054a70c9808166
+Size: 2396142
+MD5sum: b4e5686a1c8fa8059919ad45a81cd59c
+SHA1: 2cbd3b50c25d4a7bd48db20cf234abc7f6371962
+SHA256: 25932df2f60887de3fcd6e3ffeb7eb98da212dd5d2e78195ade272ff9c6737d6
 Section: Netskao-Tweaks
 Description: 汉化修改，桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具。
 Author: Fouad Raheb
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
