@@ -728,6 +728,49 @@ Tag: role::developer
 Author: eevee
 Name: SwiftProtobuf
 
+Package: visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/visibleisland_2.0_iphoneos-arm64.deb
+Size: 28588
+MD5sum: a82bdf72a10e0d214b3a6d2d7beea784
+SHA1: 2a52ee4be950d8aa3570ed29fc5fb035e41c258e
+SHA256: 8c0eb2e92222de4ef990b3934d53c2f3385930ae8a783a23682a75fa3246cf1c
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: 在旧设备上启用、修复和自定义灵动岛位置。（由M哥汉化）
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
+Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Name: VisibleIsland 灵动岛
+Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+
+Package: visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64e/visibleisland_2.0_iphoneos-arm64e.deb
+Size: 37782
+MD5sum: ecf8f3956ce255ba21b92064239cc888
+SHA1: 5def007d6385a93abe2ddbd239a191f1ca321009
+SHA256: 3df8be32a38b4f9bb2f918a69d3f3e1172c50bac0fbc37a4f009ca24527d3cdb
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: 在旧设备上启用、修复和自定义灵动岛位置。（由M哥汉化）
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
+Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Name: VisibleIsland 灵动岛
+Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+
 Package: weifengqad
 Version: 1.1
 Architecture: iphoneos-arm64
