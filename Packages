@@ -39,6 +39,27 @@ Description: 微信文字转语音原神版,模型运算版本,等待6秒左右�
 Author: Apibug
 Name: ApibugTextToVoice
 
+Package: MisakaHelper
+Version: 2.1-0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/iphoneos-arm64/MisakaHelper_2.1-0_iphoneos-arm64.deb
+Size: 13138644
+MD5sum: 6b78d2362dc5b7928efa30a54ff2d5e7
+SHA1: 1b573171e34bd65a9415022c42d1a58d3fa8da75
+SHA256: b221cec7d26f3d9a7f5700b12386aa3cb70b2999c55cdb6c6dda3e8e22a2a711
+Section: Tweaks
+Priority: optional
+Description: 微信多功能插件，END 最终版本，作者已停止更新。
+Author: Misaka
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/misaka.png
+Name: MisakaHelper
+
 Package: com.HBWechatHelper.ailun
 Version: 1.7.3
 Architecture: iphoneos-arm64
