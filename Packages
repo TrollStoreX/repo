@@ -112,7 +112,7 @@ Version: 0.5-9
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/PKC_0.5-9_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/PKC_0.5-9_iphoneos-arm64.deb
 Size: 572656
 MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
 SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
