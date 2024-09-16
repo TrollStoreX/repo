@@ -524,7 +524,7 @@ Architecture: iphoneos-arm64
 Maintainer: z
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/伟峰qad_1.1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/weifeng_NoAd_1.1_iphoneos-arm64.deb
 Size: 4040
 MD5sum: a18ea2a882e9370ad99396112df42784
 SHA1: 900c12f06867dc7379adf58f5e140e5ac527496e
