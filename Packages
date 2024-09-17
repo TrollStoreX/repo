@@ -645,6 +645,76 @@ Author: z
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
 Name: 威锋去广告
 
+Package: com.xx.dyhooks
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9076
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5_iphoneos-arm64.deb
+Size: 3165704
+MD5sum: 5ed9185109a28f19d637663df86a9518
+SHA1: 1cd24d225dcf172563b1693f8be1df42677e20b2
+SHA256: 19e36f45a17f7e6965a4d6795bb46e20b7a8189dc6df2070b3e25f3249e16094
+Section: Tweaks
+Description: 抖音增强越狱插件，仅支持越狱，双指双击屏幕打开插件设置界面。
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音图层
+
+Package: com.xx.dyhooks
+Version: 2.0.5
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 9076
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.0.5_iphoneos-arm64e.deb
+Size: 8749820
+MD5sum: dcc9c756c038e94f6b03e61f581c7217
+SHA1: eb56cf36f327e45ae6184dbfba91a297b4c2cf33
+SHA256: 94758830bbc334dde67a0458a461223b5ab2a76cb6ad2a340597cb5784c6f6ed
+Section: Tweaks
+Description: 抖音增强越狱插件，仅支持越狱，双指双击屏幕打开插件设置界面。
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音图层
+
+Package: com.xx.xhshooks
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-1_iphoneos-arm64.deb
+Size: 732336
+MD5sum: 992f847496d83b7afb3b12d4f7088e1c
+SHA1: 52c9d697392b65ba6403189f15c61f73a8589a7c
+SHA256: adc3762b0ee4d53cc698a9b69e87365211fd292d8bacf8b0bdee9e9a0e50a480
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
+Name: 小红薯
+
+Package: com.xx.xhshooks
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 2152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.0-1_iphoneos-arm64e.deb
+Size: 1982932
+MD5sum: 7d97807b8b200b1bfc6932e8e721bf37
+SHA1: d2671c86d243c114f9c3d7cb89310486b5378554
+SHA256: b6079d3c5b44346843b53aad104009c872ff76409638d5cc11828eb04e958f0c
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
+Name: 小红薯
+
 Package: com.xybp888.lockbuttons
 Version: 0.1-2
 Architecture: iphoneos-arm64
