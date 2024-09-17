@@ -575,6 +575,41 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo简体中文包
 Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
 
+Package: com.weifeng.noad
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.weifeng.noad_1.1_iphoneos-arm64.deb
+Size: 4164
+MD5sum: 478c1425aadfa531c0cfacfc4a88ffcc
+SHA1: 785a59542a265d1138f736f84b2fa2465d90e59c
+SHA256: b2daeba1f9fd8a3dc889a0da823115839888fa3b019ae55b1ec4d52fd7ae63bf
+Section: Tweaks
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
+Author: z
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
+Name: 威锋去广告
+
+Package: com.weifeng.noad
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.weifeng.noad_1.1_iphoneos-arm64e.deb
+Size: 5826
+MD5sum: f002c90e3caf3549f20d0e5e8815f14f
+SHA1: 3d23504b947a6b33a14525fe33886940c1708bd0
+SHA256: 4b067f8418cea648d6b23780cf40f8d86ed692f05be685e2add587aff44a6b20
+Section: Tweaks
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
+Author: z
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
+Name: 威锋去广告
+
 Package: me.afhook.app
 Version: 3.3.0
 Architecture: iphoneos-arm64e
@@ -770,22 +805,6 @@ Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.v
 Name: VisibleIsland 灵动岛
 Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
-
-Package: weifengqad
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/weifeng_NoAd_1.1_iphoneos-arm64.deb
-Size: 4040
-MD5sum: a18ea2a882e9370ad99396112df42784
-SHA1: 900c12f06867dc7379adf58f5e140e5ac527496e
-SHA256: 7bdb14262cf04b94cc26e02fe12884f5a179539a45b2f88365b787f7f7b5a64d
-Section: Tweaks
-Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
-Author: z
-Name: 威锋7.3NoAd
 
 Package: xyz.cypwn.camscanner
 Version: 0.0.1
