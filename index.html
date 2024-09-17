@@ -1,34 +1,76 @@
-<html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
-		<title>添加软件源</title>
-		<script>
-			addEventListener("load", function () {
-				setTimeout(hideURLbar, 0);
-			}, false);
-			function hideURLbar() {
-				window.scrollTo(0, 1);
-			}
-		</script>
-		<link rel="stylesheet" href="./css/style.css" type="text/css" media="all" />
-		<link href="css/font-awesome.min.css" rel="stylesheet">
-	</head>
-	<body>
-		<div class="main-bg"/>
-		<h1>zhaonan's Repo</h1>
-		<div class="sub-main-w3"/>
-		<div class="bg-content-w3pvt"/>
-		<div class="top-content-style"/>
-		<img src="./images/zhaonan.png" alt=""/>
-		</div>
-		<form action="#" method="post">
-				<p class="legend">添加软件源到 Sileo<span class="fa fa-hand-o-down"></span></p>
-				<a href="sileo://source/https://invalidunit.github.io/repo/">添加</a>
-		</form>
-		<a href="./problems.html"/>其他问题？</a>
-		</br>
-		</br>
-		</br>
-		</div>
-	</body>
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>SkyPain Repo</title>
+    <meta name="description" content="SkyPain">
+    <meta name="keywords" content="SkyPain">
+    <link href="CydiaIcon.png" rel="shortcut icon" />
+    <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/5.12.1/css/all.min.css">
+    <link rel="stylesheet" href="./static/style.css?v=1.1">
+    <link rel="stylesheet" href="./static/APlayer-1.10.1/dist/APlayer.min.css">
+    <style>
+        .photo-bg {
+            background-image: url("https://bu.dusays.com/2022/06/04/629b0a2750921.jpg");
+        }
+    </style>
+</head>
+
+<body>
+    <div id="main" class="container">
+        <div class="row my-card justify-content-center">
+            <div class="col-lg-4 photo-bg"></div>
+            <div class="col-lg-8 card">
+                <h1>SkyPian Repo</h1>
+                <p>
+                    源地址: https://skypain.github.io/repo/
+                </p>
+                <div class="container-fluid">
+                    <div class="row">
+                        <!-- 导航按钮组 -->
+                        <button
+                            onclick="window.location.href='cydia://url/https://cydia.saurik.com/api/share#?source=https://skypain.github.io/repo/'"
+                            data-area-w="80%" data-area-h="90%" data-shade="false"
+                            class="kz-nav-btn btn btn-primary col-lg-4">Cydia</button>
+                        <button onclick="window.location.href='sileo://source/https://skypain.github.io/repo/'"
+                            data-area-w="80%" data-area-h="90%" data-shade="false"
+                            class="kz-nav-btn btn btn-secondary col-lg-4">Sileo</button>
+
+                        <button onclick="window.location.href='zbra://sources/add/https://skypain.github.io/repo/'"
+                            data-area-w="80%" data-area-h="90%" data-shade="false"
+                            class="kz-nav-btn btn btn-success col-lg-4">Zebra</button>
+
+                        <button onclick="window.location.href='installer://add/https://skypain.github.io/repo/'"
+                            data-area-w="80%" data-area-h="90%" data-shade="false"
+                            class="kz-nav-btn btn btn-info col-lg-4">Installer</button>
+                        <!-- end 导航按钮组 -->
+                    </div>
+                </div>
+                <!-- aplayer inner -->
+                <div id="aplayer-inner" class="aplayer"></div>
+                <!-- end aplayer inner -->
+
+                <footer>
+                    <p>Copyright 2022 - Now</p>
+                </footer>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- aplayer -->
+    <div id="aplayer-fixed" class="aplayer"></div>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <!-- <script src="./static/APlayer-1.10.1/dist/APlayer.min.js"></script> -->
+    <!-- <script src="./static/Meting.min.js"></script> -->
+    <!-- end_aplayer -->
+    <!-- <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script> -->
+    <script defer src="https://cdn.staticfile.org/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="./static/layer-v3.5.1/layer/layer.js"></script>
+
+    <script src="./static/main.js"></script>
+
 </html>
