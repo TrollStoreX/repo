@@ -233,6 +233,43 @@ Author: DumpApp
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: 锤子助手
 
+Package: com.dvntm.infusepluss
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.dvntm.infusepluss_1.2.0_iphoneos-arm64.deb
+Size: 125360
+MD5sum: 1dc10b5dd9d405312384e83534218067
+SHA1: 96cb19bd55e58a2b87a702f8c94cf47bfaad8139
+SHA256: 10ed05a6f34e6d88784968abe99b86f43311ea5e113cf15d4b7ebac271359c57
+Section: Tweaks
+Description: Infuse 破解 Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infusepluss
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.dvntm.infusepluss_1.2.0_iphoneos-arm64e.deb
+Size: 164266
+MD5sum: e36ae74eec59877b0d3da855262d069a
+SHA1: ec016d49f7dbc468844b239f5b1d3044908885d7
+SHA256: 652c2e868e49c32d92290209fea49c9d2ef7d92977c3ef8a60238aaf5f34fd99
+Section: Tweaks
+Description: Infuse 破解 Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
 Package: com.dvntm.ytlite
 Version: 5.0.2
 Architecture: iphoneos-arm64
