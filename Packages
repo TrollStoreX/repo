@@ -328,6 +328,41 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
 Name: iCleaner Pro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
 
+Package: com.guozi.kuannoads
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Installed-Size: 2532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.guozi.kuannoads_5.2.0_iphoneos-arm64.deb
+Size: 1088796
+MD5sum: f841390f9bc0dd7e27d27c9f9c75ec7a
+SHA1: 25f17881f2b8ee46e51081b75afae930afaf0e4c
+SHA256: d3ad89d5c4a37ff35a3d2b3b6b030092c277755cdbff96aa9e567b191b9b9b40
+Section: Tweaks
+Description: 酷安去广告插件
+Author: 小果子
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
+Name: 酷安FuckAds
+
+Package: com.guozi.kuannoads
+Version: 5.2.0
+Architecture: iphoneos-arm64e
+Maintainer: 小果子
+Installed-Size: 2532
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.guozi.kuannoads_5.2.0_iphoneos-arm64e.deb
+Size: 1631818
+MD5sum: 3cec0c3d4e3f7a74299476d4932b4591
+SHA1: 5acb4291c77c0aa216378f80bb7a3507d708bc75
+SHA256: cb8497ed8030b59217cb2ed618a5b839bf02da75331307a49fdcdddda93c6916
+Section: Tweaks
+Description: 酷安去广告插件
+Author: 小果子
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
+Name: 酷安FuckAds
+
 Package: com.hw.imepremium
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -609,6 +644,43 @@ Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知�
 Author: z
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
 Name: 威锋去广告
+
+Package: com.xybp888.lockbuttons
+Version: 0.1-2
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.xybp888.lockbutton_ 0.1-2_iphoneos-arm64.deb
+Size: 30708
+MD5sum: 80aa01ad75fa5b6af1320d24b097a8cd
+SHA1: 1897fa89205195d23e991203907fe82723fed5db
+SHA256: 244cd0bb6a0013d9dab65542d6f1757325bdbf0f036e69630a879be003b169e2
+Section: Tweaks
+Priority: optional
+Description: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
+Author: xybp888
+Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
+Name: 一键锁屏
+
+Package: com.xybp888.lockbuttons
+Version: 0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: xybp888
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.xybp888.lockbuttons_0.1-2_iphoneos-arm64e.deb
+Size: 36368
+MD5sum: 5beda24a714515012fb65972adba5444
+SHA1: c48695741e92c7920f1b2221595f1c0871c91139
+SHA256: fb7c6324199c4b1c1e6d3e5a93ef95fd890528716c369f8ff63a7ade9b3f476e
+Section: Tweaks
+Priority: optional
+Description: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
+Author: xybp888
+Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
+Name: 一键锁屏
 
 Package: me.afhook.app
 Version: 3.3.0
