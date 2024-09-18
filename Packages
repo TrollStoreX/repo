@@ -704,6 +704,24 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
 
 Package: com.skypain.teleportcns
 Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: mobilesubstrate, xyz.cypwn.teleports
+Filename: ./debs/iphoneos-arm64e/com.skypain.teleportcns_1.0.0-2_iphoneos-arm64.deb
+Size: 7620
+MD5sum: 846138c341f76af110965a59da315674
+SHA1: 3b8f6bf1aad8f3d6e2b2428a4e95454638faf4a6
+SHA256: 5934ad5a9107c51ac8555f2894fd9211d6d1ef59f6d3197d04cb44d5c0d80392
+Section: Tweaks
+Description: Teleport 简体中文包
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 简体中文包
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
+
+Package: com.skypain.teleportcns
+Version: 1.0.0-2
 Architecture: iphoneos-arm64e
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Installed-Size: 168
@@ -714,24 +732,6 @@ Size: 10260
 MD5sum: 22b969fec485dcee951bd9834b3cbb20
 SHA1: 33ee7a793848f28b522f9aef8909a3884e839ab5
 SHA256: bbf11b52237d740d64560be216aea07fe2adb96686cb6219bdd033899c15a744
-Section: Tweaks
-Description: Teleport 简体中文包
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
-Name: Teleport 简体中文包
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
-
-Package: com.skypain.teleportcns
-Version: 1.0.0-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 168
-Depends: mobilesubstrate, xyz.cypwn.teleports
-Filename: ./debs/iphoneos-arm64e/com.skypain.teleportcns_1.0.0-2_iphoneos-arm64.deb
-Size: 7620
-MD5sum: 846138c341f76af110965a59da315674
-SHA1: 3b8f6bf1aad8f3d6e2b2428a4e95454638faf4a6
-SHA256: 5934ad5a9107c51ac8555f2894fd9211d6d1ef59f6d3197d04cb44d5c0d80392
 Section: Tweaks
 Description: Teleport 简体中文包
 Author: Mr.Zhang <mr_zhang_00@163.com>
@@ -1157,6 +1157,24 @@ Size: 7382772
 MD5sum: 5de5e43c5b794f74d67c935d5fc07860
 SHA1: 14a44dd8fcfc33913eb8a4edd9411879f32154f1
 SHA256: 4aeb5c13776a360902dacb846d4fa2ab4162b4ed46027eba2dae5c5a157678a1
+Section: Tweaks
+Description: 免费虚拟定位 Spoof GPS location
+Author: SGWC
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 虚拟定位
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
+
+Package: xyz.cypwn.teleports
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: CyPwn
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/xyz.cypwn.teleports_1.1_iphoneos-arm64e.deb
+Size: 14909678
+MD5sum: 0143fae4fd826ed052f80a5a03c67db4
+SHA1: e10261168010be062d274fd8ec78ce16641cb0ed
+SHA256: 6dd39d9a93d8ca48baea992da1ed34033e0eac7d17c8c792f72878416041367f
 Section: Tweaks
 Description: 免费虚拟定位 Spoof GPS location
 Author: SGWC
