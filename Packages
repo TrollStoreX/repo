@@ -704,24 +704,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
 
 Package: com.skypain.teleportcns
 Version: 1.0.0-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 168
-Depends: mobilesubstrate, xyz.cypwn.teleports
-Filename: ./debs/iphoneos-arm64e/com.skypain.teleportcns_1.0.0-2_iphoneos-arm64.deb
-Size: 7620
-MD5sum: 846138c341f76af110965a59da315674
-SHA1: 3b8f6bf1aad8f3d6e2b2428a4e95454638faf4a6
-SHA256: 5934ad5a9107c51ac8555f2894fd9211d6d1ef59f6d3197d04cb44d5c0d80392
-Section: Tweaks
-Description: Teleport 简体中文包
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
-Name: Teleport 简体中文包
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
-
-Package: com.skypain.teleportcns
-Version: 1.0.0-2
 Architecture: iphoneos-arm64e
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Installed-Size: 168
@@ -732,6 +714,24 @@ Size: 10260
 MD5sum: 22b969fec485dcee951bd9834b3cbb20
 SHA1: 33ee7a793848f28b522f9aef8909a3884e839ab5
 SHA256: bbf11b52237d740d64560be216aea07fe2adb96686cb6219bdd033899c15a744
+Section: Tweaks
+Description: Teleport 简体中文包
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 简体中文包
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
+
+Package: com.skypain.teleportcns
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: mobilesubstrate, xyz.cypwn.teleports
+Filename: ./debs/iphoneos-arm64e/com.skypain.teleportcns_1.0.0-2_iphoneos-arm64.deb
+Size: 7620
+MD5sum: 846138c341f76af110965a59da315674
+SHA1: 3b8f6bf1aad8f3d6e2b2428a4e95454638faf4a6
+SHA256: 5934ad5a9107c51ac8555f2894fd9211d6d1ef59f6d3197d04cb44d5c0d80392
 Section: Tweaks
 Description: Teleport 简体中文包
 Author: Mr.Zhang <mr_zhang_00@163.com>
