@@ -365,6 +365,42 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
 Name: iCleaner Pro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
 
+Package: com.ginsu.ytmusicultimates
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 26420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.ginsu.ytmusicultimates_2.2_iphoneos-arm64.deb
+Size: 9263780
+MD5sum: 7bc506cefbd5c531742f6ba2d325a77a
+SHA1: 893310270603878828fb52798442331d667c6654
+SHA256: 132b1d6eaf41656b8d2e626931b94f96ca1f064d8dcee9feb1081910811cd01d
+Section: Tweaks
+Description: YouTube Music Premium
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Name: YTMusicUltimate
+
+Package: com.ginsu.ytmusicultimates
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 26420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.ginsu.ytmusicultimates_2.2_iphoneos-arm64e.deb
+Size: 9263568
+MD5sum: a2f80f96f45f0fc6395c88b6342f16ad
+SHA1: 92b5d3effcd984fb4601a25e16ea7fac89b5b1a7
+SHA256: b54af460e13df3a2b7aef4756d366c20fa3bfdd63bcb2c121337028b4d64eced
+Section: Tweaks
+Description: YouTube Music Premium
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Name: YTMusicUltimate
+
 Package: com.guozi.kuannoads
 Version: 5.2.0
 Architecture: iphoneos-arm64
@@ -704,24 +740,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
 
 Package: com.skypain.teleportcns
 Version: 1.0.0-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 168
-Depends: mobilesubstrate, xyz.cypwn.teleports
-Filename: ./debs/iphoneos-arm64e/com.skypain.teleportcns_1.0.0-2_iphoneos-arm64.deb
-Size: 7620
-MD5sum: 846138c341f76af110965a59da315674
-SHA1: 3b8f6bf1aad8f3d6e2b2428a4e95454638faf4a6
-SHA256: 5934ad5a9107c51ac8555f2894fd9211d6d1ef59f6d3197d04cb44d5c0d80392
-Section: Tweaks
-Description: Teleport 简体中文包
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
-Name: Teleport 简体中文包
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
-
-Package: com.skypain.teleportcns
-Version: 1.0.0-2
 Architecture: iphoneos-arm64e
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Installed-Size: 168
@@ -732,6 +750,24 @@ Size: 10260
 MD5sum: 22b969fec485dcee951bd9834b3cbb20
 SHA1: 33ee7a793848f28b522f9aef8909a3884e839ab5
 SHA256: bbf11b52237d740d64560be216aea07fe2adb96686cb6219bdd033899c15a744
+Section: Tweaks
+Description: Teleport 简体中文包
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 简体中文包
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
+
+Package: com.skypain.teleportcns
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: mobilesubstrate, xyz.cypwn.teleports
+Filename: ./debs/iphoneos-arm64e/com.skypain.teleportcns_1.0.0-2_iphoneos-arm64.deb
+Size: 7620
+MD5sum: 846138c341f76af110965a59da315674
+SHA1: 3b8f6bf1aad8f3d6e2b2428a4e95454638faf4a6
+SHA256: 5934ad5a9107c51ac8555f2894fd9211d6d1ef59f6d3197d04cb44d5c0d80392
 Section: Tweaks
 Description: Teleport 简体中文包
 Author: Mr.Zhang <mr_zhang_00@163.com>
