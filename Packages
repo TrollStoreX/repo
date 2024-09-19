@@ -126,38 +126,40 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: 黄白助手
 
-Package: com.bandarhl.bhtwitter
+Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Installed-Size: 23840
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
-Size: 7616612
-MD5sum: 620234bd2467449bea4944c4d0108327
-SHA1: 2284c7a933ccef3cb77a6ed7736a3c40ce81de04
-SHA256: 8ed270d2f96d202cdee35d36e30ce5eac5b241a329d33a1dca8a48bc5b9c3721
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-1+debug_iphoneos-arm64.deb
+Size: 7616624
+MD5sum: 0625d987db14fe1d585032206ddf1f59
+SHA1: 5e278297af44a24619d3a51b05899688cd871bec
+SHA256: a99086737f7b5ba0121dcb26c31c6221a8e708f048a4ddaf1690039f8a6e26b7
 Section: Tweaks
 Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
-Package: com.bandarhl.bhtwitter
+Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64e
 Maintainer: Bandar Alruwaili
 Installed-Size: 23840
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64e.deb
-Size: 21392344
-MD5sum: 5d17adc958ebc3b272e9db48657112d6
-SHA1: cb69ac67af3cdb0adbf5dd4568781a0335d46145
-SHA256: 8a5d625f8e13b600b4661f00b67231b14ad2fdae1de03dd0fd5963e870d32be7
+Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_4.3-1+debug_iphoneos-arm64e.deb
+Size: 21392358
+MD5sum: 157d433dd4f5f13562be86fd257ddaf7
+SHA1: 7a74147929b51633d48c8f26d77d3ed7dcab3bdf
+SHA256: 3626f1b5ffb5182224ca6e01687393f9b0a9e2a00f12144dd63a7afe3a02a183
 Section: Tweaks
 Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
