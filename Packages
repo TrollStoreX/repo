@@ -217,6 +217,25 @@ Icon: https://i.imgur.com/uFWkBXD.png
 Name: HideSerialNumber 简体中文包
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
 
+Package: com.dao.hidenumber.cns
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate, com.ichitaso.hideserialnumbers
+Conflicts: com.hk.hidenumber.cn, com.hk.hidenumber.cn.rl
+Filename: ./debs/iphoneos-arm64e/com.dao.hidenumber.cns_0.0.4_iphoneos-arm64e.deb
+Size: 5332
+MD5sum: 8d5b1ff8360367630750ee6c98e5762c
+SHA1: ab55129d411552f4776c27793b484ffa0dc7391a
+SHA256: 3dcfe96651577b45bae753d2fc7b0221a5d0b473a0b145f170106fb5d8dd16ed
+Section: 汉化
+Description: HideSerialNumber 简体中文包
+Author: 妖刀
+Icon: https://i.imgur.com/uFWkBXD.png
+Name: HideSerialNumber 简体中文包
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
+
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -499,6 +518,26 @@ Size: 56708
 MD5sum: e1558b196df0eb0e5fb29b0f85b6bc3b
 SHA1: 91b9916f5ee4328de75f5b655591abad87436230
 SHA256: 583b469ec36ee57bdb15602474f0e84d5cf40805d776294bce8b673449e0a19d
+Section: Tweaks
+Description: 修改系统版本号 Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Dev: ichitaso
+Icon: https://i.imgur.com/uFWkBXD.png
+Name: HideSerialNumber 修改系统版本
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js.json
+
+Package: com.ichitaso.hideserialnumbers
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: ichitaso
+Installed-Size: 472
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64e/com.ichitaso.hideserialnumbers_0.0.4_iphoneos-arm64e.deb
+Size: 55056
+MD5sum: 87a21b2290b2f2c201f756667bf7de05
+SHA1: d9e18e122cff7a7b62a87718065a9e3e710e00f0
+SHA256: cf4b5d15e539e2651a60dc9f55968eb548fc147c580df5d1ebd4be71ab534e3d
 Section: Tweaks
 Description: 修改系统版本号 Hide Serial Number in Settings About page.
 Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
