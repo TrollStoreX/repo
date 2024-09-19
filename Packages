@@ -1150,6 +1150,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon
 Name: ActionBar Reborn
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
 
+Package: netskao.actionbarreborns
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 796
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/netskao.actionbarreborns_1.1-2_iphoneos-arm64.deb
+Size: 161884
+MD5sum: b4fd3da272816fec2cebf794d7e495c0
+SHA1: e0f9a9b0976ece2f3ac7acd5f482ba1f0a5db8a9
+SHA256: 544a00178b30a2347620a81782d4c5e6dc6e719e802e4a910c2e78700e746390
+Section: Netskao-Tweaks
+Description: 键盘底部显示[撤销] [选择] [粘贴]按钮。Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon
+Name: ActionBar Reborn
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
+
+Package: netskao.actionbarreborns
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 796
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/netskao.actionbarreborns_1.1-2_iphoneos-arm64e.deb
+Size: 223836
+MD5sum: d1044d3f484495bb3f5d4bd9bd999ca7
+SHA1: 605229b8fbd973f9f6bc9fa6641f89e56a7db3bb
+SHA256: 06b3bb4e091bb4c3b6324e801c19aa41ac094107b727cb1566797ef77a556755
+Section: Netskao-Tweaks
+Description: 键盘底部显示[撤销] [选择] [粘贴]按钮。Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon
+Name: ActionBar Reborn
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
+
 Package: org.swift.protobuf.swiftprotobuf
 Version: 1.26.0
 Architecture: iphoneos-arm64
