@@ -198,6 +198,25 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.dao.hidenumber.cns
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate, com.ichitaso.hideserialnumbers
+Conflicts: com.hk.hidenumber.cn, com.hk.hidenumber.cn.rl
+Filename: ./debs/iphoneos-arm64/com.dao.hidenumber.cns_0.0.4_iphoneos-arm64.deb
+Size: 5380
+MD5sum: e0e06f28dbdb015d99c746468bd04d02
+SHA1: c3eff754ed598e9ccfef91fba8b47c883d43dea3
+SHA256: 5ac8e1fc6948cbb7693938e4a1c86b3a85c8a9f0822db6243567872ff493f438
+Section: 汉化
+Description: HideSerialNumber 简体中文包
+Author: 妖刀
+Icon: https://i.imgur.com/uFWkBXD.png
+Name: HideSerialNumber 简体中文包
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
+
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -468,6 +487,26 @@ Section: Tweaks
 Description: 解锁iMe- Premium
 Author: 🅷🆆
 Name: 🅷🆆 iMe
+
+Package: com.ichitaso.hideserialnumbers
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 472
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.ichitaso.hideserialnumbers_0.0.4_iphoneos-arm64.deb
+Size: 56708
+MD5sum: e1558b196df0eb0e5fb29b0f85b6bc3b
+SHA1: 91b9916f5ee4328de75f5b655591abad87436230
+SHA256: 583b469ec36ee57bdb15602474f0e84d5cf40805d776294bce8b673449e0a19d
+Section: Tweaks
+Description: 修改系统版本号 Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Dev: ichitaso
+Icon: https://i.imgur.com/uFWkBXD.png
+Name: HideSerialNumber 修改系统版本
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js.json
 
 Package: com.lclrc.hammerit
 Version: 1.7.0
