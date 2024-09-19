@@ -306,17 +306,17 @@ Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
 
-Package: com.eevee.spotify
-Version: 5.1
+Package: com.eevee.spotifys
+Version: 5.2
 Architecture: iphoneos-arm64
 Maintainer: Eevee
-Installed-Size: 2724
+Installed-Size: 2732
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/iphoneos-arm64/com.eevee.spotify_5.1_iphoneos-arm64.deb
-Size: 557864
-MD5sum: d755e368b2186968272f12a482e4c1e3
-SHA1: 79a9f26bbbd60f2c3ecf2fff60ef9a254c60cc54
-SHA256: b9bedb4a7f35381c8a0674fdafcb299d027f3f9857420af91cb56f57c151339e
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.2_iphoneos-arm64.deb
+Size: 559464
+MD5sum: 962e4874d0808f5fe535270b09fea99e
+SHA1: afba011a28a800a1921aa2738d60f96b4076824c
+SHA256: 59e4e28bde7eae1c1ba1b42db61a55c2e49b8c7a367777db4a2f14e539a3b761
 Section: Tweaks
 Description: Spotify Premium 破解
 Author: Eevee
@@ -324,18 +324,18 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
-Package: com.eevee.spotify
-Version: 5.1
+Package: com.eevee.spotifys
+Version: 5.2
 Architecture: iphoneos-arm64e
 Maintainer: Eevee
-Installed-Size: 2724
+Installed-Size: 2732
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/iphoneos-arm64e/com.eevee.spotify_5.1_iphoneos-arm64e.deb
-Size: 1555506
-MD5sum: a59c16957f0dcd853709697c2bf742e0
-SHA1: d96d7fd9a20b8b64bcdf9b0c57fb1614c7b28219
-SHA256: 910ea03711958a9259cae9537df9e252caa43765d0b256862324c6f371893f09
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.2_iphoneos-arm64e.deb
+Size: 1560968
+MD5sum: f8836b096758eb3a627fbfbb6bd7fa73
+SHA1: 1f0179d701518d319d4d5422229e28c706ef8398
+SHA256: b6181b94e6a2328d0ea55d70489281015d2b38b3d26b04ff11c0549981630e48
 Section: Tweaks
 Description: Spotify Premium 破解
 Author: Eevee
