@@ -549,6 +549,41 @@ Icon: https://i.imgur.com/uFWkBXD.png
 Name: HideSerialNumber 修改系统版本
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js.json
 
+Package: com.initnil.wcenableshowcontactaddcreatetimes
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: INITNIL
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.initnil.wcenableshowcontactaddcreatetimes_1.1-1_iphoneos-arm64.deb
+Size: 3992
+MD5sum: fbb01664ad4af9ba68a98ca12df2c788
+SHA1: 16e4a76124b1ec84b790a16f1ddee349af854d76
+SHA256: ee4e9ecdac264f4f66b1393204c7d446369324c8ab7d5c8b7efb8de768b0b0ab
+Section: Tweaks
+Description: 微信显示好友添加时间 WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
+Author: INITNIL
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WCEnableShowContactAddCreateTime
+
+Package: com.initnil.wcenableshowcontactaddcreatetimes
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: INITNIL
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.initnil.wcenableshowcontactaddcreatetimes_1.1-1_iphoneos-arm64e.deb
+Size: 5482
+MD5sum: 8b9289931369879494509af6abbf82d6
+SHA1: 9e0b5014a72cb1599772002ae9004c8b8d6e75ef
+SHA256: 5c7bcb9914b77b0081f888a2daf16eba1466a099a0c473d5ccc89418af47bf2b
+Section: Tweaks
+Description: 微信显示好友添加时间 WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
+Author: INITNIL
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WCEnableShowContactAddCreateTime
+
 Package: com.lclrc.hammerit
 Version: 1.7.0
 Architecture: iphoneos-arm64e
