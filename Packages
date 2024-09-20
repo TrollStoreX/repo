@@ -874,6 +874,43 @@ Description: 暂停/恢复视频录制。Pause/resume video recording.
 Author: PoomSmart
 Name: RecordPause 录像暂停
 
+Package: com.raulsaeed.bhtiktok++s
+Version: 1.0-5+debug
+Architecture: iphoneos-arm64
+Maintainer: raul saeed
+Installed-Size: 916
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++s_1.0-5+debug_iphoneos-arm64.deb
+Size: 120412
+MD5sum: abf32396ae1dcc0a3823aa3f32c64835
+SHA1: dfc47e8896b2e9247bd432194b09ee6e995ab227
+SHA256: e97f0b828e0633379c1fe844d224e44f021d97876de57accbc2f2d64b9dde36e
+Section: Tweaks
+Description: TikTok 增强插件!
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+
+Package: com.raulsaeed.bhtiktok++s
+Version: 1.0-5+debug
+Architecture: iphoneos-arm64e
+Maintainer: raul saeed
+Installed-Size: 916
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/iphoneos-arm64e/com.raulsaeed.bhtiktok++s_1.0-5+debug_iphoneos-arm64e.deb
+Size: 174218
+MD5sum: be5ad45d82f93e6f2251210bf06d854d
+SHA1: d19822ea072391725f1dbd06eb947b5dbafce32e
+SHA256: f2febb7fbe77584cc70c000792b3a5345d9343a16edcad4a2aa71bda59b8fe69
+Section: Tweaks
+Description: TikTok 增强插件!
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+
 Package: com.sileo.zh-hans
 Version: 2.6
 Architecture: iphoneos-arm64
