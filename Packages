@@ -133,12 +133,12 @@ Maintainer: Bandar Alruwaili
 Installed-Size: 23840
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-1+debug_iphoneos-arm64.deb
-Size: 7616624
-MD5sum: 0625d987db14fe1d585032206ddf1f59
-SHA1: 5e278297af44a24619d3a51b05899688cd871bec
-SHA256: a99086737f7b5ba0121dcb26c31c6221a8e708f048a4ddaf1690039f8a6e26b7
+Size: 7616656
+MD5sum: 46b89ff7383134891f922488d6b7bcf5
+SHA1: 934e42c26c06570ea4d000e315bbf1380bcf3ae4
+SHA256: 88d043db044dd07c9a60508b52dddcec4f819745edcde2cf1dc23298cbda833b
 Section: Tweaks
-Description: Awesome tweak for Twitter
+Description: Twitter/X 增强插件，去广告、视频下载等
 Author: Bandar Alruwaili
 Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
@@ -152,12 +152,12 @@ Installed-Size: 23840
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_4.3-1+debug_iphoneos-arm64e.deb
-Size: 21392358
-MD5sum: 157d433dd4f5f13562be86fd257ddaf7
-SHA1: 7a74147929b51633d48c8f26d77d3ed7dcab3bdf
-SHA256: 3626f1b5ffb5182224ca6e01687393f9b0a9e2a00f12144dd63a7afe3a02a183
+Size: 21392464
+MD5sum: 65bba07a217a02844b0b5e8e3ea72477
+SHA1: 24bae38196a86cd4ec1b86400c3602195fba57d3
+SHA256: 2009b1304f8e6390d2c382f0e558a25e3c29c374cc52ee28fd8fcf63b9a70daa
 Section: Tweaks
-Description: Awesome tweak for Twitter
+Description: Twitter/X 增强插件，去广告、视频下载等
 Author: Bandar Alruwaili
 Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
@@ -574,13 +574,14 @@ Maintainer: Ruphane
 Installed-Size: 648
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64/com.lns.pogr_0.4.0~prerelease1_iphoneos-arm64.deb
-Size: 80048
-MD5sum: afec00b1fab6a55158d789547baf1073
-SHA1: 2dcf88e69cfff08d8259c135a2daba519e2d4275
-SHA256: a3b856d610635331de75429e3c86a9ae8619fd648d5a261c46685a92d01ebeca
+Size: 80104
+MD5sum: 53e08e1abb651207ba6781609fc21d70
+SHA1: fe9e2281a2f06edc185aa5385c8d798485f77ab3
+SHA256: d180b589c0a2710deede5f8d7ebd56a0f73b20e8336472c615085cb4e19b799e
 Section: Tweaks
 Description: 将AirPods Pro 2视为AirPods Pro，使其在旧操作系统上更好地工作（仅适用于少数iOS版本），支持iOS 16和USB-C版本的AirPods Pro 2
 Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
 Name: PodsGrant
 
 Package: com.lns.pogr
@@ -591,13 +592,14 @@ Installed-Size: 648
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/iphoneos-arm64e/com.lns.pogr_0.4.0~prerelease1_iphoneos-arm64e.deb
-Size: 94254
-MD5sum: c8ec02b47dd6e78374c42761abb4c398
-SHA1: 8b44a46502cdeec0b0701d49513bf6459f0c4ad3
-SHA256: 76ace4e9974008c1af71c6c591e1dfbe3edabd9bdd4951c4b95906693a81198a
+Size: 94340
+MD5sum: 4d480bcf703a620a7664ac9c1aba6839
+SHA1: fe51b9b91e8a2908b87f534fc544d1552811ae15
+SHA256: 0a4e541e40a3d7385af91ea7090fdf37fde35054cf33d10f3d84f9c2b1c83a58
 Section: Tweaks
 Description: 将AirPods Pro 2视为AirPods Pro，使其在旧操作系统上更好地工作（仅适用于少数iOS版本），支持iOS 16和USB-C版本的AirPods Pro 2
 Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
 Name: PodsGrant
 
 Package: com.netskao.appdata
@@ -673,6 +675,80 @@ Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音全屏 AwemeFullScreen
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+
+Package: com.netskao.qqnotiavatars
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 204
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.qqnotiavatars_1.2-2_iphoneos-arm64.deb
+Size: 25640
+MD5sum: c4f56e7014cfaae064ca94232923e268
+SHA1: 3381fcdfb8fcbfafa21e61b62f1d1a55c73f5582
+SHA256: 8a9eee424e8eeeb2536fb05708158c4984e9016f32e75d3e69cfb8f91d90689b
+Section: Netskao-Tweaks
+Description: 让 QQ 消息通知显示 QQ 好友头像
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
+Name: QQNotiAvatar QQ头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/jss.json
+
+Package: com.netskao.qqnotiavatars
+Version: 1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.qqnotiavatars_1.2-2_iphoneos-arm64e.deb
+Size: 36172
+MD5sum: 099230d6b786839e67da8daed5a0a190
+SHA1: f211e1c86a63a797852268eefef219fc6f86d9ee
+SHA256: 7e5390a910e3b182e91f35fdc7ff7f61992b96063d21d6dc8f65a48e0559e0e7
+Section: Netskao-Tweaks
+Description: 让 QQ 消息通知显示 QQ 好友头像
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
+Name: QQNotiAvatar QQ头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/jss.json
+
+Package: com.netskao.wechatnotiavatars
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatars_1.2-5_iphoneos-arm64.deb
+Size: 523380
+MD5sum: 1d0320b66d30b25190e737ecd021aa54
+SHA1: af3b014cfde1f48c577c93116214a4ff8ca141c8
+SHA256: a3ca16956f4c7a44b9d76476d3bee7884cddf2bcc9bea2fd591b1a0e9f97272a
+Section: Netskao-Tweaks
+Description: 让微信消息通知显示微信好友头像，傻逼张小龙为什么不支持？
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WeChatNotiAvatar 微信头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
+
+Package: com.netskao.wechatnotiavatars
+Version: 1.2-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 2336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.wechatnotiavatars_1.2-5_iphoneos-arm64e.deb
+Size: 1470532
+MD5sum: 0714395aa74b12c29579008e6cf5652a
+SHA1: 0444b627f0a83ea80c9a3ef13274f19d08c2c6bd
+SHA256: fe9c1226b6516d17b81925ed2d22c5d6cb98f72d8c1a5d97a8bd339af138674c
+Section: Netskao-Tweaks
+Description: 让微信消息通知显示微信好友头像，傻逼张小龙为什么不支持？
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WeChatNotiAvatar 微信头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
 
 Package: com.p2kdev.facebooknoads
 Version: 1.3
@@ -1114,43 +1190,6 @@ Dev: zhulongfei28
 Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
 Name: 改个应用-专业的应用修改软件
 Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: netskao.actionbarreborn
-Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 796
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/netskao.actionbarreborn_1.1-2_iphoneos-arm64.deb
-Size: 161884
-MD5sum: 3e7fd25582960092a1867923a5bc95d6
-SHA1: b7ed0e446e41d3950c607eab02a2a17cb959a48c
-SHA256: 0add21489fe2159aae8eef11962bb50dd28d0220a844828d34ca97cc1de5abe3
-Section: Netskao-Tweaks
-Description: 键盘底部显示[撤销] [选择] [粘贴]按钮。Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
-Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon
-Name: ActionBar Reborn
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
-
-Package: netskao.actionbarreborn
-Version: 1.1-2
-Architecture: iphoneos-arm64e
-Maintainer: Nets
-Installed-Size: 796
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/netskao.actionbarreborn_1.1-2_iphoneos-arm64e.deb
-Size: 223830
-MD5sum: b7b610eec9a259cd72111cda5f5fa95e
-SHA1: 17599537459786ab5d4293bcebc905fd140183cf
-SHA256: 1af1a25100aeaeef1de5769f8c5f6599a92b7a67e59a80c8024b191a4b4c472a
-Section: Netskao-Tweaks
-Description: 键盘底部显示[撤销] [选择] [粘贴]按钮。Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
-Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon
-Name: ActionBar Reborn
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
 
 Package: netskao.actionbarreborns
 Version: 1.1-2
