@@ -690,6 +690,49 @@ Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
 
+Package: com.lenglengyu.passbyccs
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.lenglengyu.passbycc
+Replaces: com.lenglengyu.passbycc
+Provides: com.lenglengyu.passbycc
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.passbyccs_1.0.2_iphoneos-arm64.deb
+Size: 94340
+MD5sum: d151936389857bc02e1511f2862524b4
+SHA1: 7e189887234b6cda54713fa4916e1648e7557186
+SHA256: bb0c0662e9210e8573b25d09c1a562aa4c2f4726c31f725dc0f029031f37c8fc
+Section: 控制中心
+Description: 控制中心模块，临时绕过面容，绕过密码解锁，修改为 FaceID 图标。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
+Icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
+Name: 临时绕过面容 PassbyCC
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
+
+Package: com.lenglengyu.passbyccs
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.lenglengyu.passbycc
+Replaces: com.lenglengyu.passbycc
+Provides: com.lenglengyu.passbycc
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.passbyccs_1.0.2_iphoneos-arm64e.deb
+Size: 131580
+MD5sum: eaf6c4cbb386e98ff7db0c7898fae407
+SHA1: 7feedd098450509f053e9439d60148b8435df407
+SHA256: b90f932df244166eab315ee8d43d1df9cf94fde0c06e47b01e8f8424b5d96ad9
+Section: 控制中心
+Description: 控制中心模块，临时绕过面容，绕过密码解锁，修改为 FaceID 图标。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
+Icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
+Name: 临时绕过面容 PassbyCC
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
