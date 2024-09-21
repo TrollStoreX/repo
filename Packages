@@ -1013,6 +1013,43 @@ Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
 
+Package: com.raulsaeed.bhtiktok++
+Version: 1.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: raul saeed
+Installed-Size: 916
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++_1.1-1+debug_iphoneos-arm64.deb
+Size: 122268
+MD5sum: d986eb63febe14c97bafbe891fd0979a
+SHA1: 28d13ad1125b97dfb0181bad401892684508b3e9
+SHA256: 6f1ce795febb758ffc819b4e10ed0c4c627db0a17598a9f9e478d7efb5d22688
+Section: Tweaks
+Description: TikTok 增强插件。An awesome tweak for TikTok!
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+
+Package: com.raulsaeed.bhtiktok++
+Version: 1.1-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: raul saeed
+Installed-Size: 916
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/iphoneos-arm64e/com.raulsaeed.bhtiktok++_1.1-1+debug_iphoneos-arm64e.deb
+Size: 175480
+MD5sum: 37372e37fe860293668f04b79b5a75e0
+SHA1: 5499a5964a449b3475e1acdb4e07397b041fe430
+SHA256: abd379ea52517a158987748090d1de3d3b226f65d0307a5712c230d1b0605f7c
+Section: Tweaks
+Description: TikTok 增强插件。An awesome tweak for TikTok!
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+
 Package: com.raulsaeed.bhtiktok++s
 Version: 1.0-5+debug
 Architecture: iphoneos-arm64
