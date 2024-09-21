@@ -1546,6 +1546,59 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon.png
 Name: ActionBar Reborn
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
 
+Package: netskao.wechatpurifications
+Version: 4.2-7
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 17133
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/iphoneos-arm64/netskao.wechatpurifications_4.2-7_iphoneos-arm64.deb
+Size: 6273460
+MD5sum: d125bc733c1ff4633ed99171fcbbdeec
+SHA1: f450d94075ac1f1844f325ddd454fdfea5321479
+SHA256: 45940ff997fb84bb171a6ec49a99952e90203de3b9b58bfa1c528fb9a8298359
+Section: 微信插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+Name: 微信净化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: netskao.wechatpurifications
+Version: 4.2-7
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 17133
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/iphoneos-arm64e/netskao.wechatpurifications_4.2-7_iphoneos-arm64e.deb
+Size: 16949454
+MD5sum: 9df17ad8694675c144173a3771c81079
+SHA1: 276de3add348c14c29c6fdcb9b1ace3763de9e38
+SHA256: bd0f5388ed015acde04d9ec2cb3d954bf3d7689586509b1a004cc538d798d4df
+Section: 微信插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+Name: 微信净化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: org.swift.protobuf.swiftprotobuf
 Version: 1.26.0
 Architecture: iphoneos-arm64
