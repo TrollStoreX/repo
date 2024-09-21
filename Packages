@@ -208,6 +208,28 @@ Architecture: iphoneos-arm64e
 Maintainer: curtinlv@126.com
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless
+Replaces: com.curtin.pkc.rootless
+Provides: com.curtin.pkc.rootless
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootless_0.5-9_iphoneos-arm64e.deb
+Size: 1537880
+MD5sum: 4ed52ff40f012d31e55dec761dd2f72a
+SHA1: 0eb0221419ae282adcc6cb616291cf45f0d39bf6
+SHA256: f922a20cdc649db9099ffa67cdc43d6cc71cafc91bf906fd4bad8f7b0b34205d
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 /n API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC 助手
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-9
+Architecture: iphoneos-arm64e
+Maintainer: curtinlv@126.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
 Filename: ./debs/iphoneos-arm64e/PKC_0.5-9_ iphoneos-arm64e.deb
 Size: 1537814
 MD5sum: 1c81b7545d9480131b6173a973088f0e
@@ -697,6 +719,24 @@ Name: PodsGrant
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
+Size: 5692
+MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
+SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
+SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Section: Tweaks
+Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
+Name: 显示存储系统数据详情InternalStorageSettings
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
+
+Package: com.nathan.internalstoragesettingss
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Nathan Senter
 Installed-Size: 136
@@ -705,6 +745,24 @@ Size: 4072
 MD5sum: eea4504514f5ad60d8386a1f7651a8b4
 SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
 SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
+Section: Tweaks
+Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
+Name: 显示存储系统数据详情InternalStorageSettings
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
+
+Package: com.nathan.internalstoragesettingss
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64e/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
+Size: 5692
+MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
+SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
+SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -948,6 +1006,47 @@ Section: Tweaks
 Description: 暂停/恢复视频录制。Pause/resume video recording.
 Author: PoomSmart
 Name: RecordPause 录像暂停
+
+Package: com.ps.recordpauses
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
+Filename: ./debs/iphoneos-arm64/com.ps.recordpauses_2.0.3_iphoneos-arm64.deb
+Size: 10132
+MD5sum: c6774dc21f1183070116a989689b50c6
+SHA1: 01057a62d3cdc3de4238ce255903173909fbb7f4
+SHA256: b0a9d5e6c8074f54a898f8d82a99d217c213983d44a1a79685ab3c53ecff02d4
+Section: Tweaks
+Description: 录像暂停 Pause/resume video recording in iOS Camera app.
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
+Name: 录像暂停 RecordPause
+
+Package: com.ps.recordpauses
+Version: 2.0.3
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
+Filename: ./debs/iphoneos-arm64e/com.ps.recordpauses_2.0.3_iphoneos-arm64e.deb
+Size: 13536
+MD5sum: 10feb2a7d54ec5b3229d4e8f62fab08c
+SHA1: 7812ea0eb6caf119d99eacc0f8f2b612baf6fa6b
+SHA256: d5250873021ccaf715efc81ecc724405d643f4e725a8825fab0d8f108bb4ee14
+Section: Tweaks
+Description: 录像暂停 Pause/resume video recording in iOS Camera app.
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
+Name: 录像暂停 RecordPause
 
 Package: com.raulsaeed.bhtiktok++s
 Version: 1.0-5+debug
@@ -1380,15 +1479,15 @@ Maintainer: Nets
 Installed-Size: 19660
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64/netskao.BlockAppsCreateAlbum_1.1.2_iphoneos-arm64.deb
-Size: 4516
-MD5sum: 6c22d5c24ef3f649ef0d90873c3b0fc3
-SHA1: ec3cd601740fe38bb60a3ddac95409b8b7d49b2e
-SHA256: c029d3241a804e48d4f0e7ede027f87a85aa5e0a2990030998941edd198263e0
+Size: 4508
+MD5sum: 07913f2ebddbb34f9db154c484985b85
+SHA1: 52496d3a6f4043dc19d6c738f3b7538008b2af90
+SHA256: 1a75483d5aff7b1ba8d8a15ef66f7a9eaf0e530a11a24a2895ed3de27a959544
 Section: Netskao-Tweaks
-Description: 阻止应用程序创建自己的相册
+Description: 阻止应用创建自己的相册
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/photo.png
-Name: 禁止相册自动创建相册BlockAppsCreateAlbum
+Name: 禁止应用自动创建相册BlockAppsCreateAlbum
 
 Package: netskao.BlockAppsCreateAlbum
 Version: 1.1.2
@@ -1398,15 +1497,15 @@ Installed-Size: 19660
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: ./debs/iphoneos-arm64e/netskao.BlockAppsCreateAlbum_1.1.2_iphoneos-arm64e.deb
-Size: 6262
-MD5sum: 8c4c4fade96104d2ec1a9585b5692350
-SHA1: d57985010ee602a0cb67cbfe12b0f29c39cd0a10
-SHA256: fcb603f717f4ef8d1b0b8e4faf53d5137dfd60b2d1fd49cf120972a6e43593ae
+Size: 6232
+MD5sum: e8ff13f866a92b806dda8e2419dbe425
+SHA1: eb709609949f5a7488dafeec35bf8434b909ed49
+SHA256: 9ca4085a9a69eafeab20c98f83254a8ff15388dac6943ed5052062caa45d74a1
 Section: Netskao-Tweaks
-Description: 阻止应用程序创建自己的相册
+Description: 阻止应用创建自己的相册
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/photo.png
-Name: 禁止相册自动创建相册BlockAppsCreateAlbum
+Name: 禁止应用自动创建相册BlockAppsCreateAlbum
 
 Package: netskao.actionbarreborns
 Version: 1.1-2
