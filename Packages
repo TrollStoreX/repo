@@ -1180,6 +1180,41 @@ Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
 Name: 一键锁屏
 
+Package: com.yi.wcenablemomentslivephotos
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 怡点日常
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.yi.wcenablemomentslivephotos_1.1-2_iphoneos-arm64.deb
+Size: 12924
+MD5sum: 211a8bf168583019c5024e79d37aca0e
+SHA1: d87458067be43cd50e0a38e184e854e3badc115a
+SHA256: e885fc026e787d80d56e0257775d9c0b40d73c04f1e9970cc9fc5cb09964a1a5
+Section: Tweaks
+Description: 微信强制开启朋友圈LivePhoto功能。WeChat Enable Testing Moments Live Photo v8.0.51+
+Author: 怡点日常
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WCEnableMomentsLivePhoto
+
+Package: com.yi.wcenablemomentslivephotos
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: 怡点日常
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.yi.wcenablemomentslivephotos_1.1-2_iphoneos-arm64e.deb
+Size: 18220
+MD5sum: a57ddc9b707d23e312b20ba0c1536e0b
+SHA1: ce1654bc148725ddb22cf5b8db94385d8c78555f
+SHA256: 111337178d6c6ba7f9a68fbe78746a6cce082a016f2a1345f940690721a6dc3c
+Section: Tweaks
+Description: 微信强制开启朋友圈LivePhoto功能。WeChat Enable Testing Moments Live Photo v8.0.51+
+Author: 怡点日常
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WCEnableMomentsLivePhoto
+
 Package: me.afhook.app
 Version: 3.3.0
 Architecture: iphoneos-arm64e
