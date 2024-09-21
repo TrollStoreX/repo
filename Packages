@@ -627,6 +627,51 @@ Author: INITNIL
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableShowContactAddCreateTime
 
+Package: com.kingpuffdaddi.control-center.ccvpn.surge
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: https://trollstorex.github.io/repo/
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.kingpuffdaddi.control-center.ccvpn
+Replaces: com.kingpuffdaddi.control-center.ccvpn
+Provides: com.kingpuffdaddi.control-center.ccvpn
+Filename: ./debs/iphoneos-arm64/com.kingpuffdaddi.control-center.ccvpn.surge_1.0.6_iphoneos-arm64.deb
+Size: 25584
+MD5sum: 13b79542be7b87f829fa558201ff102a
+SHA1: 98f4ba90af360436757a21dbfeafe9b1ffb58b57
+SHA256: d56ff8e07bf156e40b7e9bdd3e19e0e38b06967bad0ff6ca6e47bb496a905763
+Section: 控制中心
+Description: CCVPN 控制中心图标修改为 Surge
+Tag: purpose::extension
+Author: KingPuffdaddi
+Dev: kingpuffdaddi
+Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
+Name: CCVPN Surge
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
+
+Package: com.kingpuffdaddi.control-center.ccvpn.surge
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: https://trollstorex.github.io/repo/
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.kingpuffdaddi.control-center.ccvpn
+Replaces: com.kingpuffdaddi.control-center.ccvpn
+Provides: com.kingpuffdaddi.control-center.ccvpn
+Filename: ./debs/iphoneos-arm64e/com.kingpuffdaddi.control-center.ccvpn.surge_1.0.6_iphoneos-arm64e.deb
+Size: 28292
+MD5sum: e2a9dcc88b32791e73a180d4c9c08ec0
+SHA1: eafe65d9eb95e68157de95510b5b9ead2299c338
+SHA256: b67cdc9c3f875a5bc416fc3d316ccd7a6081499f926bbe797d340e6aba7fc536
+Section: 控制中心
+Description: CCVPN 控制中心图标修改为 Surge
+Tag: purpose::extension
+Author: KingPuffdaddi
+Dev: kingpuffdaddi
+Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
+Name: CCVPN Surge
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
+
 Package: com.lclrc.hammerit
 Version: 1.7.0
 Architecture: iphoneos-arm64e
