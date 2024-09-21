@@ -602,6 +602,43 @@ Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
 
+Package: com.liuf.jpyj
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: liuf
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
+Size: 3764
+MD5sum: c615ecfd3b17037ad41a76d2939b99af
+SHA1: 0b9946661634b5f5f9401bcf5db23ce586290b89
+SHA256: 9ff289357fdf086cc4f7ee765fbacf151dc864770e2131a5f2834eb3e57ebc22
+Section: Tweaks
+Description: 修改系统键盘圆角 Modify the keyboard icon to have rounded corners.
+Author: liuf
+Icon: https://TrollStoreX.Github.io/sileodepiction/keyboard/icon.png
+Name: 修改系统键盘圆角
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/keyboard/js.json
+
+Package: com.liuf.jpyj
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: liuf
+Installed-Size: 280
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.liuf.jpyj_0.0.1_iphoneos-arm64e.deb
+Size: 5402
+MD5sum: 8e1d52037182ec2295cc25d1ad50f73c
+SHA1: 9bf391e3c6aae9296ac75bfb3fab3d4dabd22270
+SHA256: d000093e6fca2b3f94f94cd11c315f79b4e709b7a0cf6bbe2e3452843b1f31f4
+Section: Tweaks
+Description: 修改系统键盘圆角 Modify the keyboard icon to have rounded corners.
+Author: liuf
+Icon: https://TrollStoreX.Github.io/sileodepiction/keyboard/icon.png
+Name: 修改系统键盘圆角
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/keyboard/js.json
+
 Package: com.lns.pogr
 Version: 0.4.0~prerelease1
 Architecture: iphoneos-arm64
