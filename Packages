@@ -972,41 +972,6 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon
 Name: TwitterNoAds
 Sileodepiction: https://trollstorex.github.io/sileodepiction/MisakaHelper/js.json
 
-Package: com.ps.recordpause
-Version: 2.0.2
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./debs/iphoneos-arm64/com.ps.recordpause_2.0.2_iphoneos-arm64.deb
-Size: 10044
-MD5sum: ba5b7dce6511c9797cd6414fbec3ef71
-SHA1: 117fc144a62a5685d7afb1edc11650c19e9bdc67
-SHA256: 228ae6231b61a53b4e9bb635141c27f2610d0a9c14ce5396d8e7e5d3aad058d6
-Section: Tweaks
-Description: 暂停/恢复视频录制。Pause/resume video recording.
-Author: PoomSmart
-Name: RecordPause 录像暂停
-
-Package: com.ps.recordpause
-Version: 2.0.2
-Architecture: iphoneos-arm64e
-Maintainer: PoomSmart
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./debs/iphoneos-arm64e/com.ps.recordpause_2.0.2_iphoneos-arm64e.deb
-Size: 13494
-MD5sum: 3d72cafdd9097f1e925d073894d755e2
-SHA1: 41290c156d7439c01f62dbf0eb551f1bfd3030b6
-SHA256: 060623bfef3a99dbe482e6780b8a0d3011ea2138f28a4165d93304802360b7a9
-Section: Tweaks
-Description: 暂停/恢复视频录制。Pause/resume video recording.
-Author: PoomSmart
-Name: RecordPause 录像暂停
-
 Package: com.ps.recordpauses
 Version: 2.0.3
 Architecture: iphoneos-arm64
