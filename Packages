@@ -1298,6 +1298,41 @@ Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
 Name: 改个应用-专业的应用修改软件
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: netskao.BlockAppsCreateAlbum
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/netskao.BlockAppsCreateAlbum_1.1.2_iphoneos-arm64.deb
+Size: 4516
+MD5sum: 6c22d5c24ef3f649ef0d90873c3b0fc3
+SHA1: ec3cd601740fe38bb60a3ddac95409b8b7d49b2e
+SHA256: c029d3241a804e48d4f0e7ede027f87a85aa5e0a2990030998941edd198263e0
+Section: Netskao-Tweaks
+Description: 阻止应用程序创建自己的相册
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/photo.png
+Name: 禁止相册自动创建相册BlockAppsCreateAlbum
+
+Package: netskao.BlockAppsCreateAlbum
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 19660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64e/netskao.BlockAppsCreateAlbum_1.1.2_iphoneos-arm64e.deb
+Size: 6262
+MD5sum: 8c4c4fade96104d2ec1a9585b5692350
+SHA1: d57985010ee602a0cb67cbfe12b0f29c39cd0a10
+SHA256: fcb603f717f4ef8d1b0b8e4faf53d5137dfd60b2d1fd49cf120972a6e43593ae
+Section: Netskao-Tweaks
+Description: 阻止应用程序创建自己的相册
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/photo.png
+Name: 禁止相册自动创建相册BlockAppsCreateAlbum
+
 Package: netskao.actionbarreborns
 Version: 1.1-2
 Architecture: iphoneos-arm64
