@@ -163,6 +163,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
+Package: com.bandarhl.bhtwitters
+Version: 4.3-2+debug
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Replaces: com.bandarhl.bhtwitter
+Provides: com.bandarhl.bhtwitter
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-2+debug_iphoneos-arm64.deb
+Size: 7619960
+MD5sum: 7b90c839ffffb436abdbae7f7ebf7aea
+SHA1: ba7a7ef12c8154fe55da9bbf9ec722f63c9ee534
+SHA256: ea923f544d1cf591e4e6074871ae4ae65dd32a76497b127f9f2066395d903d08
+Section: Tweaks
+Description: Twitter/X 增强插件，去广告、视频下载等
+Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
+Package: com.bandarhl.bhtwitters
+Version: 4.3-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Replaces: com.bandarhl.bhtwitter
+Provides: com.bandarhl.bhtwitter
+Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_4.3-2+debug_iphoneos-arm64e.deb
+Size: 21404854
+MD5sum: 5cb08e4c1e0fb52e2c8812f70906e93c
+SHA1: ac481a2d619e46e054a3a03cecb450daf5d496f1
+SHA256: 75cdf5c989daa4dc77b2c4d5963e1d2ac0f4ceb08de7f0c3010b2a5e8a1de010
+Section: Tweaks
+Description: Twitter/X 增强插件，去广告、视频下载等
+Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
 Architecture: iphoneos-arm64
