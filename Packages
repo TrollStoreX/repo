@@ -126,6 +126,71 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailuns
+Version: 1.7.4
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun
+Replaces: com.HBWechatHelper.ailun
+Provides: com.HBWechatHelper.ailun
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7.4_iphoneos-arm64.deb
+Size: 9429404
+MD5sum: 0febf73d846064d91321f5600c20f603
+SHA1: f3a4e123bb1bf24bed5c8632d527a4921e00ee32
+SHA256: c8ffb5cfc1366eeacb6dac88d0d321a28dd6be6171428b26cebc496a47557ca8
+Section: 微信插件
+Description: 黄白助手-微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+ * 1.7.4 更新内容
+ 1. 开启人脸认证：对于部分应用无法识别人脸认证的情况，我们新增了默认功能，开启人脸认证，帮助用户在其他应用时无法使用的情况下，极大提高了使用便捷性。
+ 2. 新的第三方接口语音模型：在语音功能中，我们加入了新的第三方接口模型，此功能主要用于娱乐，提供了更多玩法和体验，丰富了用户的语音互动方式。
+ 3. 新群自动置顶：在群聊功能中，新增了进群自动置顶的功能，用户一旦加入新群，该群聊将自动置顶，方便用户及时关注重要消息。
+ 4. 保存实况图片：新增了保存实况图片至手机相册的功能，用户在最新版客户端中，长按实况图片即可将其保存至相册，为用户记录和分享内容提供了便捷。
+ 5. 消息强提醒功能：为增强消息管理，我们新增了消息强提醒功能，激活方式为输入“%at+内容”。需要注意的是，这个功能对安卓和Windows平台的用户显示为所有人，而在苹果平台则不同，只有当对方完全退出客户端后台时，才能通过推送通知提醒。这是为了更精准的提醒机制设计，请不要再疑惑为什么艾特功能没有效果。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
+Name: 黄白助手
+
+Package: com.HBWechatHelper.ailuns
+Version: 1.7.4
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun
+Replaces: com.HBWechatHelper.ailun
+Provides: com.HBWechatHelper.ailun
+Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailuns_1.7.4_iphoneos-arm64e.deb
+Size: 18865008
+MD5sum: 3f0a826f4e6f18b1ce955c16eb5b0777
+SHA1: 1604e049f5aa8039ef0a36fc2fbed3bb1b73f7f2
+SHA256: 55abe3a38bee8e89dcd8ca2d1902cf961ccbe7ed96bf6f3f65710d31493cd786
+Section: 微信插件
+Description: 黄白助手-微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+ * 1.7.4 更新内容
+ 1. 开启人脸认证：对于部分应用无法识别人脸认证的情况，我们新增了默认功能，开启人脸认证，帮助用户在其他应用时无法使用的情况下，极大提高了使用便捷性。
+ 2. 新的第三方接口语音模型：在语音功能中，我们加入了新的第三方接口模型，此功能主要用于娱乐，提供了更多玩法和体验，丰富了用户的语音互动方式。
+ 3. 新群自动置顶：在群聊功能中，新增了进群自动置顶的功能，用户一旦加入新群，该群聊将自动置顶，方便用户及时关注重要消息。
+ 4. 保存实况图片：新增了保存实况图片至手机相册的功能，用户在最新版客户端中，长按实况图片即可将其保存至相册，为用户记录和分享内容提供了便捷。
+ 5. 消息强提醒功能：为增强消息管理，我们新增了消息强提醒功能，激活方式为输入“%at+内容”。需要注意的是，这个功能对安卓和Windows平台的用户显示为所有人，而在苹果平台则不同，只有当对方完全退出客户端后台时，才能通过推送通知提醒。这是为了更精准的提醒机制设计，请不要再疑惑为什么艾特功能没有效果。
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
+Name: 黄白助手
+
 Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64
