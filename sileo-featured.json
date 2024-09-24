@@ -4,7 +4,7 @@
  "itemCornerRadius": 10,
  "banners": [
   {
-   "url": "icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/top1.png",
+   "url": "https://TrollStoreX.Github.io/sileodepiction/repo_pic/top1.png",
    "title": "CCVPN Surge",
    "package": "com.kingpuffdaddi.control-center.ccvpn.surge",
    "hideShadow": false
