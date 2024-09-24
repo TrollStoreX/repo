@@ -191,6 +191,67 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
 Name: 黄白助手
 
+Package: com.HBWechatHelper.ailuns
+Version: 1.7.5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun
+Replaces: com.HBWechatHelper.ailun
+Provides: com.HBWechatHelper.ailun
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7.5_iphoneos-arm64.deb
+Size: 9563224
+MD5sum: 8cfcadebab8d0bfc2d4584a4383318f1
+SHA1: 018af09689738c4c6933cea99e8479ce792b8e14
+SHA256: 20767f3289c6589a534d2432ec499dc023218da3ae5eb8811f3b4dad5319cf17
+Section: 微信插件
+Description: 黄白助手-微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+ * 1.7.4 更新内容
+ 1. 优化保存朋友圈实况
+ 2. 修复非实况版本保存图片闪退的问题
+ 3. 新增[特色类功能]-进入聊天界面自动呼出输入法
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
+Name: 黄白助手
+
+Package: com.HBWechatHelper.ailuns
+Version: 1.7.5
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun
+Replaces: com.HBWechatHelper.ailun
+Provides: com.HBWechatHelper.ailun
+Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailuns_1.7.5_iphoneos-arm64e.deb
+Size: 18967364
+MD5sum: d63881c1676c4b10f9a4c7f85f1a59ae
+SHA1: cbb68c884585039c8cda5c05460cc5dd91ce849b
+SHA256: 685a128d746b5908b6bc4b09ae4b36a8d5f1ebfdc63a46bfb8001a93b26737b7
+Section: 微信插件
+Description: 黄白助手-微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+ * 1.7.4 更新内容
+ 1. 优化保存朋友圈实况
+ 2. 修复非实况版本保存图片闪退的问题
+ 3. 新增[特色类功能]-进入聊天界面自动呼出输入法
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
+Name: 黄白助手
+
 Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64
