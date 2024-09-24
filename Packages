@@ -200,10 +200,10 @@ Conflicts: com.HBWechatHelper.ailun
 Replaces: com.HBWechatHelper.ailun
 Provides: com.HBWechatHelper.ailun
 Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7.5_iphoneos-arm64.deb
-Size: 9563224
-MD5sum: 8cfcadebab8d0bfc2d4584a4383318f1
-SHA1: 018af09689738c4c6933cea99e8479ce792b8e14
-SHA256: 20767f3289c6589a534d2432ec499dc023218da3ae5eb8811f3b4dad5319cf17
+Size: 9395896
+MD5sum: 8aa2263e0f9219f2e907b39b73a006f9
+SHA1: 900ef177a4fd216d50d09021365ed6991fd564ce
+SHA256: b8d0f85d176fd6fc31bca85f05a227c4baaab194b3f8323494a115f8f8b196b6
 Section: 微信插件
 Description: 黄白助手-微信插件
  * 一个微信插件文本转语音
@@ -213,7 +213,7 @@ Description: 黄白助手-微信插件
  * 抢私聊红包
  * 自定义信息尾巴
  * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
- * 1.7.4 更新内容
+ * 1.7.5 更新内容
  1. 优化保存朋友圈实况
  2. 修复非实况版本保存图片闪退的问题
  3. 新增[特色类功能]-进入聊天界面自动呼出输入法
@@ -231,10 +231,10 @@ Conflicts: com.HBWechatHelper.ailun
 Replaces: com.HBWechatHelper.ailun
 Provides: com.HBWechatHelper.ailun
 Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailuns_1.7.5_iphoneos-arm64e.deb
-Size: 18967364
-MD5sum: d63881c1676c4b10f9a4c7f85f1a59ae
-SHA1: cbb68c884585039c8cda5c05460cc5dd91ce849b
-SHA256: 685a128d746b5908b6bc4b09ae4b36a8d5f1ebfdc63a46bfb8001a93b26737b7
+Size: 18779272
+MD5sum: 99286624638554137d0e191e980de60f
+SHA1: 989af432ea5d4ea164701e9b283cb100619419a9
+SHA256: a3b13e47bc753dbead75e6969a0c61ca5e0579cefda2f3f572c41fbe1c8f4f92
 Section: 微信插件
 Description: 黄白助手-微信插件
  * 一个微信插件文本转语音
@@ -244,7 +244,7 @@ Description: 黄白助手-微信插件
  * 抢私聊红包
  * 自定义信息尾巴
  * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
- * 1.7.4 更新内容
+ * 1.7.5 更新内容
  1. 优化保存朋友圈实况
  2. 修复非实况版本保存图片闪退的问题
  3. 新增[特色类功能]-进入聊天界面自动呼出输入法
