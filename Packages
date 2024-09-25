@@ -83,6 +83,30 @@ Name: 微信助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-0
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.miyou.rootless
+Replaces: com.25mao.miyou.rootless
+Provides: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootlesss_3.8-0_iphoneos-arm64e.deb
+Size: 20125188
+MD5sum: 2815c044055659d3364d874f2480e5fd
+SHA1: 4cf9106b818abc04ba906b318617e54af2e53c42
+SHA256: 310246a3d663fb089998c8a05ca17ae53478bb28f014963ef77d8c2042217abd
+Section: 微信插件
+Priority: optional
+Description: 微信助手/老猫助手/密友
+  * 微信多功能插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
+Sponsor: admin@25mao.com
+
 Package: com.25mao.wcplugins.rootlesss
 Version: 0.1-3
 Architecture: iphoneos-arm64
@@ -96,6 +120,32 @@ Size: 19780
 MD5sum: dec55d88a2eaf90002de5c2782eb579f
 SHA1: 0b32d15819e1ca0778ea0a18991ca0ada3a1fff6
 SHA256: 27be294859561ca45cd8c153dcc92b4d5ef84feac227853426fe2413b2ca48f2
+Section: 微信插件
+Priority: optional
+Description: 微信插件管理
+ * 收纳第三方微信插件
+ * 位于微信右下角“我”-“插件”
+ * 部分微信插件不支持收纳
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/wcplugins/icon.png
+Name: 微信插件管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcplugins.rootlesss
+Version: 0.1-3
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.wcplugins.rootless
+Replaces: com.25mao.wcplugins.rootless
+Provides: com.25mao.wcplugins.rootless
+Filename: ./debs/iphoneos-arm64e/com.25mao.wcplugins.rootlesss_0.1-3_iphoneos-arm64e.deb
+Size: 26668
+MD5sum: 7c0fb718f3dcfc2ac99127454b36f9f1
+SHA1: f97d5e7aa4dd1d3330c9bac3b8b607ff1c633f03
+SHA256: 6e9502650520b81aa151d3156c42ab06b72790ab2fab7d0d948bfe1a7b055083
 Section: 微信插件
 Priority: optional
 Description: 微信插件管理
@@ -140,39 +190,6 @@ Section: Tweaks
 Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
 Author: Lessica
 Name: 语音转文字免跳转
-
-Package: com.HBWechatHelper.ailun
-Version: 1.7.3
-Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.7.3_iphoneos-arm64.deb
-Size: 9039404
-MD5sum: 92313367a2fda0b81fe115b7c80a6103
-SHA1: 4d0adbc6c5125ca1283b052dca127f3d455cc1c4
-SHA256: 5cc9c8effecbd033ffe028b75302f7ac4e2208e6d1da92d841a4c589c9c04f62
-Section: Mao
-Description: 黄白助手                                                                                                                                                              一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能）
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
-Name: 黄白助手
-
-Package: com.HBWechatHelper.ailun
-Version: 1.7.3
-Architecture: iphoneos-arm64e
-Maintainer: HuangBai <QQ:1343309363@qq.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailun_1.7.3_iphoneos-arm64e.deb
-Size: 25992174
-MD5sum: aad2f5f4ddf4e5bab857fbad97b47df1
-SHA1: d420f8a11ccca3441bb5735c44efbd1ca7ce7bc6
-SHA256: 33e4ccbf62b6cf26535462bc2dc59935a9af252646d41db7348955da309680d1
-Section: Mao
-Description: 黄白助手                                                                                                                                                              一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能）
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
-Name: 黄白助手
 
 Package: com.HBWechatHelper.ailuns
 Version: 1.7.4
@@ -1683,86 +1700,56 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15
 Name: 真后台 BackgrounderAction15 CCSupport
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
 
-Package: me.afhook.app
-Version: 3.3.0
+Package: jp.akusio.backgrounderaction15s
+Version: 0.1.0
 Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1028
+Maintainer: @akusio_RR
+Installed-Size: 340
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/iphoneos-arm64e/me.afhook.app_3.3.0_iphoneos-arm64e.deb
-Size: 219724
-MD5sum: 625b57cf92db01f731d539d88c1c885e
-SHA1: 79a39e569a38b1cdca8cbad9de5fe2464e00916d
-SHA256: 7892533f38eb18b4eecdc685b81b79d4c6f2d85b9f707f5f997f35cc3b352cd4
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
-Description: 快速更改应用的名字、图标、机型、角标、版本号等。
-  快速更改应用的名字、图标、机型、角标、版本号等。
- -随心所欲地更改系统应用和三方应用的名字
- -从系统相册任意选择图片剪切为应用的图标
- -手动选择软件内置机型和自定义需要的机型
- -只需要点击一次就永久生效的清空角标功能
-Tag: purpose::extension
-Author: 小哥哥 <zhulongfei28@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
-Dev: zhulongfei28
-Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
-Name: 改个应用-专业的应用修改软件
-Sponsor: thebigboss.org <http://thebigboss.org>
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: jp.akusio.backgrounderaction15
+Replaces: jp.akusio.backgrounderaction15
+Provides: jp.akusio.backgrounderaction15
+Filename: ./debs/iphoneos-arm64e/jp.akusio.backgrounderaction15s_0.1.0_iphoneos-arm64e.deb
+Size: 17388
+MD5sum: c544725c0959a5130452945f91b2b1c3
+SHA1: 8129ba7a6b44e2bdaf37551c07326f3bdae3776e
+SHA256: 819fd7378abf92c7636f80d0e77aaaf9ed62c1cdad0a3770e13a4b024fc0fce2
+Section: 控制中心模块
+Description: 控制中心真后台模块
+ * 设置-控制中心添加模块
+ * 在应用内开启模块应用将真后台，返回其他界面仍然运行
+ * Add "Toggle Background Mode" action to ControlCenter.
+Author: @akusio_RR
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15.png
+Name: 真后台 BackgrounderAction15 CCSupport
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
 
-Package: me.afhook.app
-Version: 3.5.0
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1024
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/iphoneos-arm64/me.afhook.app_3.5.0_iphoneos-arm64.deb
-Size: 157508
-MD5sum: a752e18eb5cefd41b44310250813d93a
-SHA1: 9204b9bc04fdf3bd7203b813bdf4559c0a0ae5c6
-SHA256: 6a7e669335e5a1179948dc5fb3be443e2a9cd22a136afaabb6e6ccaf1f5e00fc
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
-Description: 快速更改应用的名字、图标、机型、角标、版本号等。
-  快速更改应用的名字、图标、机型、角标、版本号等。
- -随心所欲地更改系统应用和三方应用的名字
- -从系统相册任意选择图片剪切为应用的图标
- -手动选择软件内置机型和自定义需要的机型
- -只需要点击一次就永久生效的清空角标功能
-Tag: purpose::extension
-Author: 小哥哥 <zhulongfei28@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
-Dev: zhulongfei28
-Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
-Name: 改个应用-专业的应用修改软件
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: me.afhook.app
+Package: me.afhook.apps
 Version: 3.5.0
 Architecture: iphoneos-arm64e
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: BigBoss
 Installed-Size: 1024
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/iphoneos-arm64e/me.afhook.app_3.5.0_iphoneos-arm64e.deb
-Size: 220274
-MD5sum: ad9bda72fa5b096b7e16a614fe3d8c3b
-SHA1: 302a9f75d5035902df1d6c839c710908b84f33c8
-SHA256: 1276e2f61031315d6c263376c6a464cab1db0b6e0d550c0a9cc48f8119d0ebf4
+Conflicts: me.afhook.app
+Replaces: me.afhook.app
+Provides: me.afhook.app
+Filename: ./debs/iphoneos-arm64/me.afhook.apps_3.5.0_iphoneos-arm64e.deb
+Size: 220242
+MD5sum: f5168515815c546ba4e59c9ac098a802
+SHA1: c8afb618f32baa92b7b8238987fb5a778d8b280c
+SHA256: 5e8c3f85efc1ffb4adc85a282715e39c97eb09fb76e92ebcc2df92caad1ae26a
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
 Description: 快速更改应用的名字、图标、机型、角标、版本号等。
-  快速更改应用的名字、图标、机型、角标、版本号等。
- -随心所欲地更改系统应用和三方应用的名字
- -从系统相册任意选择图片剪切为应用的图标
- -手动选择软件内置机型和自定义需要的机型
- -只需要点击一次就永久生效的清空角标功能
+ 1. 随心所欲地更改系统应用和三方应用的名字
+ 2. 从系统相册任意选择图片剪切为应用的图标
+ 3. 手动选择软件内置机型和自定义需要的机型
+ 4. 只需要点击一次就永久生效的清空角标功能
 Tag: purpose::extension
-Author: 小哥哥 <zhulongfei28@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
+Author: 小哥哥
 Dev: zhulongfei28
-Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/afhook.png
 Name: 改个应用-专业的应用修改软件
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -1776,7 +1763,7 @@ Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: me.afhook.app
 Replaces: me.afhook.app
 Provides: me.afhook.app
-Filename: ./debs/iphoneos-arm64/me.afhook.apps_3.5.0_iphoneos-arm64e.deb
+Filename: ./debs/iphoneos-arm64e/me.afhook.apps_3.5.0_iphoneos-arm64e.deb
 Size: 220242
 MD5sum: f5168515815c546ba4e59c9ac098a802
 SHA1: c8afb618f32baa92b7b8238987fb5a778d8b280c
