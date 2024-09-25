@@ -60,6 +60,54 @@ Author: Misaka
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/misaka.png
 Name: MisakaHelper
 
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.miyou.rootless
+Replaces: com.25mao.miyou.rootless
+Provides: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-0-iphoneos-arm64.deb
+Size: 10146224
+MD5sum: 59361fec2bdc22450ba48d841c24b638
+SHA1: 079711b496d204cb644eb56642de9a135ab7294c
+SHA256: 518297d09914a5c62f965221f8663cf96eebe3aa79bfcd3b95296e54d7132dcf
+Section: 微信插件
+Priority: optional
+Description: 微信助手/老猫助手/密友
+  * 微信多功能插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcplugins.rootlesss
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.wcplugins.rootless
+Replaces: com.25mao.wcplugins.rootless
+Provides: com.25mao.wcplugins.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.wcplugins.rootless_0.1-iphoneos-arm64.deb
+Size: 19780
+MD5sum: dec55d88a2eaf90002de5c2782eb579f
+SHA1: 0b32d15819e1ca0778ea0a18991ca0ada3a1fff6
+SHA256: 27be294859561ca45cd8c153dcc92b4d5ef84feac227853426fe2413b2ca48f2
+Section: 微信插件
+Priority: optional
+Description: 微信插件管理
+ * 收纳第三方微信插件
+ * 位于微信右下角“我”-“插件”
+ * 部分微信插件不支持收纳
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/wcplugins/icon.png
+Name: 微信插件管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
+Sponsor: admin@25mao.com
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1611,6 +1659,30 @@ Author: 怡点日常
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableMomentsLivePhoto
 
+Package: jp.akusio.backgrounderaction15s
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: @akusio_RR
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: jp.akusio.backgrounderaction15
+Replaces: jp.akusio.backgrounderaction15
+Provides: jp.akusio.backgrounderaction15
+Filename: ./debs/iphoneos-arm64/jp.akusio.backgrounderaction15s_0.1.0_iphoneos-arm64.deb
+Size: 13484
+MD5sum: edbc29d2feffc4ddea7233d37b498469
+SHA1: 73beca82ed46db7a62613c9fce7945b3c6b0d051
+SHA256: cabfc7daf934d1613596f9dbae93decf0979ff97c0791a9c5bb68eef103351b9
+Section: 控制中心模块
+Description: 控制中心真后台模块
+ * 设置-控制中心添加模块
+ * 在应用内开启模块应用将真后台，返回其他界面仍然运行
+ * Add "Toggle Background Mode" action to ControlCenter.
+Author: @akusio_RR
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15.png
+Name: 真后台 BackgrounderAction15 CCSupport
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
+
 Package: me.afhook.app
 Version: 3.3.0
 Architecture: iphoneos-arm64e
@@ -1691,6 +1763,34 @@ Author: 小哥哥 <zhulongfei28@gmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afhookDp
 Dev: zhulongfei28
 Icon: file:///Library/PreferenceBundles/AFSet.bundle/icon.png
+Name: 改个应用-专业的应用修改软件
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.afhook.apps
+Version: 3.5.0
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss
+Installed-Size: 1024
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: me.afhook.app
+Replaces: me.afhook.app
+Provides: me.afhook.app
+Filename: ./debs/iphoneos-arm64/me.afhook.apps_3.5.0_iphoneos-arm64e.deb
+Size: 220242
+MD5sum: f5168515815c546ba4e59c9ac098a802
+SHA1: c8afb618f32baa92b7b8238987fb5a778d8b280c
+SHA256: 5e8c3f85efc1ffb4adc85a282715e39c97eb09fb76e92ebcc2df92caad1ae26a
+Section: Tweaks
+Description: 快速更改应用的名字、图标、机型、角标、版本号等。
+ 1. 随心所欲地更改系统应用和三方应用的名字
+ 2. 从系统相册任意选择图片剪切为应用的图标
+ 3. 手动选择软件内置机型和自定义需要的机型
+ 4. 只需要点击一次就永久生效的清空角标功能
+Tag: purpose::extension
+Author: 小哥哥
+Dev: zhulongfei28
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/afhook.png
 Name: 改个应用-专业的应用修改软件
 Sponsor: thebigboss.org <http://thebigboss.org>
 
