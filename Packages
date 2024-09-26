@@ -39,7 +39,7 @@ Description: 微信文字转语音原神版,模型运算版本,等待6秒左右�
 Author: Apibug
 Name: ApibugTextToVoice
 
-Package: MisakaHelper
+Package: MisakaHelpers
 Version: 2.1-0
 Architecture: iphoneos-arm64
 Essential: no
@@ -48,14 +48,40 @@ Depends: mobilesubstrate
 Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
-Filename: ./debs/iphoneos-arm64/MisakaHelper_2.1-0_iphoneos-arm64.deb
-Size: 13138644
-MD5sum: 6b78d2362dc5b7928efa30a54ff2d5e7
-SHA1: 1b573171e34bd65a9415022c42d1a58d3fa8da75
-SHA256: b221cec7d26f3d9a7f5700b12386aa3cb70b2999c55cdb6c6dda3e8e22a2a711
-Section: Tweaks
+Filename: ./debs/iphoneos-arm64/MisakaHelpers_2.1-0_iphoneos-arm64.deb
+Size: 13127104
+MD5sum: 8df9c714d9919eefd75cb983b3234e7d
+SHA1: b724e0f62df5f40ec38bcbb5911796374762b9dd
+SHA256: f212341e862e63480218d3e17a06e262b2dc4502b5e963fa62d814c40a95efe1
+Section: 微信插件
 Priority: optional
-Description: 微信多功能插件，END 最终版本，作者已停止更新。
+Description: 微信多功能插件
+ * END最终版本
+  * 作者已停止更新。
+Author: Misaka
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/misaka.png
+Name: MisakaHelper
+
+Package: MisakaHelpers
+Version: 2.1-0
+Architecture: iphoneos-arm64e
+Essential: no
+Maintainer: Misaka
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/iphoneos-arm64e/MisakaHelpers_2.1-0_iphoneos-arm64e.deb
+Size: 13149628
+MD5sum: 239f239a967bb1db4edccb5d9bfcf870
+SHA1: 842b872348c275888309e6d9f1b9006a45e9a9f7
+SHA256: d3f4a4b65448e1b4df269ff6c9cd6c26fa93e8ea8b9b3f4d3da70231614fda5f
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * END最终版本
+  * 作者已停止更新
 Author: Misaka
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/misaka.png
 Name: MisakaHelper
