@@ -503,6 +503,53 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.curtin.pkc.rootless
+Version: 0.6-0
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless
+Replaces: com.curtin.pkc.rootless
+Provides: com.curtin.pkc.rootless
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootless_0.6-0_iphoneos-arm64.deb
+Size: 595508
+MD5sum: b6d3fade2162cc25464f841235fff655
+SHA1: c147cdcbb59e15d7df0ef87095324d344a877264
+SHA256: 3702d27cd267e938c34f4ce5398453baab4e40e32974746d949efc09253fdf6d
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 微信插件 PKC助手
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 /n API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * （提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。）
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC 助手
+
+Package: com.curtin.pkc.rootless
+Version: 0.6-0
+Architecture: iphoneos-arm64e
+Maintainer: curtinlv@126.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless
+Replaces: com.curtin.pkc.rootless
+Provides: com.curtin.pkc.rootless
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootless_0.6-0_iphoneos-arm64e.deb
+Size: 1602604
+MD5sum: 16fb660bd5b79612f9aca6f8dd01b932
+SHA1: 31f03907d62afc365139a066300493fc6a9103d5
+SHA256: 41cd6188590b862c6cdffadf146408949a2ff915baaa4ad7e4a798deeaddf8c9
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 微信插件 PKC助手
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 /n API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * （提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。）
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC 助手
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64
@@ -1404,11 +1451,14 @@ Architecture: iphoneos-arm64
 Maintainer: raul saeed
 Installed-Size: 916
 Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Replaces: com.raulsaeed.bhtiktok++
+Provides: com.raulsaeed.bhtiktok++
 Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++s_1.2-3+debug_iphoneos-arm64.deb
-Size: 123952
-MD5sum: 6c2a07f0a3a7b0775850fa3ab3b4a02e
-SHA1: 09ac1d802617bd81587205a76d11d1b1ed16fb24
-SHA256: d7eab85c0451b1a769ecd6120d3338e697163cb0467d34c213940037825af7b5
+Size: 123980
+MD5sum: 852592f93b218134c1aba803430f97c4
+SHA1: d69b90afd7dfb0ac237b94c7d71550cd93965bd1
+SHA256: 4611150e2793fd6095369a38a95ba4fde87eaaa8f0d0b47ea046251f503b1afc
 Section: Tweaks
 Description: TikTok 增强插件!
 Author: raul saeed
@@ -1423,11 +1473,14 @@ Maintainer: raul saeed
 Installed-Size: 916
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Replaces: com.raulsaeed.bhtiktok++
+Provides: com.raulsaeed.bhtiktok++
 Filename: ./debs/iphoneos-arm64e/com.raulsaeed.bhtiktok++s_1.2-3+debug_iphoneos-arm64e.deb
-Size: 177458
-MD5sum: 733ec1fffb9b60084296a1bfd4356721
-SHA1: 6f1df9f2c1f99c6be47b2b5c49517bc17f527abf
-SHA256: 1d4c41bbae1eabe48cdac4f3efbcdfaac9f310bc3bc0ebcf57bce3ab5437c11d
+Size: 177546
+MD5sum: 101c66edd0ca9d085a15011d1ed53fcd
+SHA1: 654794b870523acf133e8d7e6d8db50f05ef68c5
+SHA256: ae65bb0a7a4b7d85c28c387b36c274fe1a778eb34a942fc21069fce473f49368
 Section: Tweaks
 Description: TikTok 增强插件!
 Author: raul saeed
