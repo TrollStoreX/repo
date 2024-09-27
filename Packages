@@ -1525,6 +1525,51 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo简体中文包
 Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
 
+Package: com.sileo.zh-hans
+Version: 2.7
+Architecture: iphoneos-arm64
+Maintainer: 巨魔商店 Telegram
+Depends: org.coolstar.sileo | org.coolstar.sileonightly
+Replaces: org.coolstar.sileo, org.coolstar.sileonightly
+Filename: ./debs/iphoneos-arm64/com.sileo.zh-hans_2.7_iphoneos-arm64.deb
+Size: 8608
+MD5sum: 3f35e2f303a6175af84111d98c944b18
+SHA1: cb688dea8d711a4cbc2c42e1f6846ad697cc69a3
+SHA256: f126fa29ea10d5e6944c187b9e9fe385b9616f4e0fa28cd8bd26c799ddf87959
+Section: 汉化
+Description: Sileo 简体中文本地化
+ * 修正翻译错误，本地化
+ * 完善 Sileo 简体中文
+ * 支持 RootHide Sileo
+ * ⚠️注意：卸载汉化包需重新安装Sileo恢复中文
+Author: 巨魔商店 Telegram
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo 简体中文
+Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
+
+Package: com.sileo.zh-hans
+Version: 2.7
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: org.coolstar.sileo | org.coolstar.sileonightly
+Replaces: org.coolstar.sileo, org.coolstar.sileonightly
+Filename: ./debs/iphoneos-arm64e/com.sileo.zh-hans_2.7_iphoneos-arm64e.deb
+Size: 10436
+MD5sum: 6ecc2a36f74fd8c0b7b9537a76c62cf2
+SHA1: 71becc2f684b91a8a49e9cfc0ddea2646caeda78
+SHA256: 9220332775b1fb91efe86f211410d068d7f619336750b08e297677e7df163fd5
+Section: 汉化
+Description: Sileo 简体中文本地化
+ * 修正翻译错误，本地化
+ * 完善 Sileo 简体中文
+ * 支持 RootHide Sileo
+ * ⚠️注意：卸载汉化包需重新安装Sileo恢复中文
+Author: 巨魔商店 Telegram
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo 简体中文
+Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
+
 Package: com.skypain.teleportcns
 Version: 1.0.0-2
 Architecture: iphoneos-arm64
