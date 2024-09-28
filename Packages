@@ -733,24 +733,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
-Package: com.exile90.icleanerpro
+Package: com.exile90.icleanerpros
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
+Replaces: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
+Provides: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
+Filename: ./debs/iphoneos-arm64/com.exile90.icleanerpros_7.10.0_iphoneos-arm64.deb
+Size: 977680
+MD5sum: aa4fe8104c963c0f8112b040b8d03413
+SHA1: 1004d9c9773423cd855f96ca8121d1c6d188c8c5
+SHA256: ae321a446975395ac9add22c6bd2b12bc5d263b029427dfbbd37ea64cfb61e3b
+Section: Tweaks
+Description: iCleaner Pro
+ * 垃圾清理工具，启动项管理等
+ * The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi
+Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
+Name: iCleaner Pro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
+
+Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64e
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/iphoneos-arm64e/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
-Size: 982472
-MD5sum: 7628ccb813c1ca3fe7af14a0825d4502
-SHA1: 51a25db799eaa81a8d61ed61113a572d66274591
-SHA256: a8e5191fee9ddb2d9e908b150c40a83e518fc1a06ccfee987b12ded38c43096c
-Section: Utilities
-Homepage: http://ib-soft.net/icleaner
-Description: The first real iOS system cleanup and management utility
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Conflicts: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
+Replaces: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
+Provides: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
+Filename: ./debs/iphoneos-arm64e/com.exile90.icleanerpros_7.10.0_iphoneos-arm64e.deb
+Size: 2493372
+MD5sum: ce632acbb6906237081b1f84ba05d102
+SHA1: 80064943b239cb44b3112e70cbf6ce24c2465571
+SHA256: a36c141e366dfd15e131bf3562378cc7e1fa60cc9d0eae1f444bb5df991e35ac
+Section: Tweaks
+Description: iCleaner Pro
+ * 垃圾清理工具，启动项管理等
+ * The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi
 Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
 Name: iCleaner Pro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
@@ -1624,6 +1647,51 @@ Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
 Name: Teleport 简体中文包
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
+
+Package: com.squidforce.hidenotificationbadges
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 168
+Conflicts: com.squidforce.hidenotificationbadge
+Replaces: com.squidforce.hidenotificationbadge
+Provides: com.squidforce.hidenotificationbadge
+Filename: ./debs/iphoneos-arm64/com.squidforce.hidenotificationbadges_0.0.1_iphoneos-arm64.deb
+Size: 2968
+MD5sum: 85918b74a1328337f9a908d82bb5b53b
+SHA1: 83271da437533735b7e8b5978ebd555f91704030
+SHA256: 28d2809944df5c0192d7e198fadebdd77abf925008e217842b363744b53c773d
+Section: Tweaks
+Description: HideNotificationBadge
+ * 隐藏推送通知图标右下角标
+ * 可配合 WeChatNotiAvatar 插件使用
+Author: SquidForce
+Icon: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/icon.png
+Name: 隐藏通知图标右下角标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/js.json
+
+Package: com.squidforce.hidenotificationbadges
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.squidforce.hidenotificationbadge
+Replaces: com.squidforce.hidenotificationbadge
+Provides: com.squidforce.hidenotificationbadge
+Filename: ./debs/iphoneos-arm64e/com.squidforce.hidenotificationbadges_0.0.1_iphoneos-arm64e.deb
+Size: 4306
+MD5sum: 75ff321293cb5598f6a24e14c4070949
+SHA1: 50b4e4f76f1a39ec5dd1002f8c9e5b67ec9d1531
+SHA256: 45235b5fce8652d7dbd35db21ed2329a60ed46a61ffa436516f24c2111f04a90
+Section: Tweaks
+Description: HideNotificationBadge
+ * 隐藏推送通知图标右下角标
+ * 可配合 WeChatNotiAvatar 插件使用
+Author: SquidForce
+Icon: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/icon.png
+Name: 隐藏通知图标右下角标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/js.json
 
 Package: com.weifeng.noad
 Version: 1.1
