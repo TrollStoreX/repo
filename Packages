@@ -1764,6 +1764,59 @@ Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音图层
 
+Package: com.xx.dyhooks
+Version: 2.0.5-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook
+Replaces: com.xx.dyhook
+Provides: com.xx.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5-3_iphoneos-arm64.deb
+Size: 3271692
+MD5sum: c57a87cf80efb93256c4de800b8910c6
+SHA1: 7f2ee0001fe574af3298c1cf6710b66721a291ff
+SHA256: be2ffef4225a9d20ddadf01c6b772738d1407a22e95f82ab917dc3d97f7d77f4
+Section: 应用破解
+Description: 抖音增强越狱插件
+ * 仅支持越狱
+ * 双指双击屏幕打开插件设置界面
+ * 抖音图层2.0.5-3
+ 1. 优化一些功能
+ 2. 增强选项里面开启
+ 3. 炫彩模式长按插件头像开启
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音图层
+
+Package: com.xx.dyhooks
+Version: 2.0.5-3
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook
+Replaces: com.xx.dyhook
+Provides: com.xx.dyhook
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.0.5-3_iphoneos-arm64e.deb
+Size: 9047642
+MD5sum: abe78596d24e8ae1415f44d40cb3cf64
+SHA1: 1ea056d269d607840ac3fe8421acba5cc681a41d
+SHA256: 78b6c22ffe7a10a7f4cb458cc57ee71c30c6af9b146f900dec006d03279196a2
+Section: 应用破解
+Description: 抖音增强越狱插件
+ * 仅支持越狱
+ * 双指双击屏幕打开插件设置界面
+ * 抖音图层2.0.5-3
+ 1. 优化一些功能
+ 2. 增强选项里面开启
+ 3. 炫彩模式长按插件头像开启
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音图层
+
 Package: com.xx.xhshooks
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
