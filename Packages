@@ -1868,6 +1868,55 @@ Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音图层
 
+Package: com.xx.dyhooks
+Version: 2.0.5-5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook
+Replaces: com.xx.dyhook
+Provides: com.xx.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5-5_iphoneos-arm64.deb
+Size: 3298952
+MD5sum: 322970dd5bea7fb894db09238dd83089
+SHA1: 0d7805acd573ba0b153293e64357b90bc901174d
+SHA256: 875abd7ff952364177892cb256fb3d53cbbe6f63457a940ccccfa8be943df685
+Section: 应用破解
+Description: ### 抖音增强插件
+ * 仅支持越狱
+ * 无水印下载视频
+ * 隐藏各种元素按钮文字等
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音图层
+
+Package: com.xx.dyhooks
+Version: 2.0.5-5
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook
+Replaces: com.xx.dyhook
+Provides: com.xx.dyhook
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.0.5-5_iphoneos-arm64e.deb
+Size: 9119420
+MD5sum: f4cc0cbf70fe6517018ae9920e0f5612
+SHA1: e62785a24f0079eca7095da594b49df13013a837
+SHA256: ae8188dd31040bc6423d2072cf83c5f76eb410e50aeb025779cc9f3ec94f557e
+Section: 应用破解
+Description: ### 抖音增强插件
+ * 仅支持越狱
+ * 无水印下载视频
+ * 隐藏各种元素按钮文字等
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音图层
+
 Package: com.xx.xhshooks
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
@@ -1938,6 +1987,51 @@ SHA1: 3a5331965e4137542c2a4b47014fe4bb365db09c
 SHA256: 9762dcd8bd7fd2efbcf3c955e03152c890e528779d4d9bc4cfc03e7d36bdb9b8
 Section: Tweaks
 Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
+Name: 小红薯
+
+Package: com.xx.xhshooks
+Version: 1.1.0-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-3_iphoneos-arm64.deb
+Size: 1112984
+MD5sum: 1e8f8eee0afa5117747802ab491fd3c5
+SHA1: 0d4dd517ae3cbfb12ee98f8a74aea50cbfde45de
+SHA256: 29230c3f33260806b2a03ca26d4b5dfd02afaff94235d45b800e9e2f77d4733b
+Section: 应用破解
+Description: ### 小红书增强插件
+ * 仅支持越狱
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
+Name: 小红薯
+
+Package: com.xx.xhshooks
+Version: 1.1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 2152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.0-3_iphoneos-arm64e.deb
+Size: 3046338
+MD5sum: df6aaf0d9585ec52f71d74256d4561e9
+SHA1: 2d1c3f89b091bbac3405f52e4310216450b37708
+SHA256: 57f9d077180c41e48172ea06f16c468e65853597657b75f11e5b8e0d1898f87e
+Section: 应用破解
+Description: ### 小红书增强插件
+ * 仅支持越狱
  * 默认移除一些广告
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
  * 放大图片双指长按可保存高分辨率图片
