@@ -45,6 +45,45 @@ Author: Misaka
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/misaka.png
 Name: MisakaHelper
 
+Package: com.25mao.KuaiDou
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: https://trollstorex.github.io/repo/
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.25mao.KuaiDou_0.1-1_iphoneos-arm64.deb
+Size: 14208
+MD5sum: 64677598d5c90bdb3ebe44287ed3cb8d
+SHA1: f86808e761d9ac15abdbbac9f2d2db14daf9814b
+SHA256: 1b61874eae8980499929200d2a1860e43cdb50e0569472c024557c54daa1c6ec
+Section: 微信插件
+Description: ### 微信插件
+ * 发送文字自动转换为表情
+ * 需要同时安装微信助手和微信插件管理
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/icon.png
+Name: 快斗
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/js.json
+
+Package: com.25mao.KuaiDou
+Version: 0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: https://trollstorex.github.io/repo/
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.25mao.kuaidou_0.1-1_iphoneos-arm64e.deb
+Size: 18862
+MD5sum: c20b000190d4b2e65ad6ab9fb016244b
+SHA1: ec82a2e8a93693c404fe56b74c7f13dbb031841f
+SHA256: 23812dafbed74483a65de71dbd201495bc4f7620cc36238a38cad3aab3ff7d49
+Section: 微信插件
+Description: ### 微信插件
+ * 发送文字自动转换为表情
+ * 需要同时安装微信助手和微信插件管理
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/icon.png
+Name: 快斗
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/js.json
+
 Package: com.25mao.miyou.rootlesss
 Version: 3.8-0
 Architecture: iphoneos-arm64
@@ -1665,6 +1704,47 @@ Author: SquidForce
 Icon: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/icon.png
 Name: 隐藏通知图标右下角标
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/js.json
+
+Package: com.telegram.return
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: IP Man
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.telegram.return_1.0_iphoneos-arm64.deb
+Size: 3760
+MD5sum: a322a508c381ef3ac51fe5b9ff6c86cb
+SHA1: c5b8923f3079d6f0f6d2e805079e1c9ce32295a2
+SHA256: cf446d1c1216c1584395c8c02bcd71aa1fb1d2954d9260f479f3009ecca7ff8b
+Section: 应用破解
+Description: ### Telegram
+ * 回车键/换行键 改为“发送”功能
+ * Enter key/Return key changed to 'Send' function.
+ * https://t.me/TrollStorePro
+ * Telegram IP Man
+Author: IP Man
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Telegram.png
+Name: Telegram Return 回车键
+
+Package: com.telegram.return
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: IP Man
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.telegram.return_1.0_iphoneos-arm64e.deb
+Size: 5226
+MD5sum: b77c3280465f4144bf9a622f0076271c
+SHA1: bfec8642665c76cf7e52092d126b4c5e12dd1123
+SHA256: 3d8c6667bb96aa27c12863199241a2da65c2229fbe902ee3166ff3a3ec85b472
+Section: 应用破解
+Description: ### Telegram
+ * 回车键/换行键 改为“发送”功能
+ * Enter key/Return key changed to 'Send' function.
+ * https://t.me/TrollStorePro
+ * Telegram IP Man
+Author: IP Man
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Telegram.png
+Name: Telegram Return 回车键
 
 Package: com.weifeng.noad
 Version: 1.1
