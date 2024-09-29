@@ -1701,22 +1701,6 @@ Author: z
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
 Name: 威锋去广告
 
-Package: com.xx.dyhook
-Version: 2.0.5-2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 9332
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.xx.dyhook_2.0.5-2_iphoneos-arm64.deb
-Size: 3258888
-MD5sum: 499e558ef0ebf6db9551c6d202bf904f
-SHA1: a10e8eb314bcc1420d84c094dc8b87163b2917e5
-SHA256: f7fbb1a5ba279e39754d1fbefb283248c565af20cd38acf5c5ac17fd17e02572
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Name: 抖音图层
-
 Package: com.xx.dyhooks
 Version: 2.0.5
 Architecture: iphoneos-arm64
