@@ -709,6 +709,50 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.dvntm.safariiis
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.safariiis
+Replaces: com.dvntm.safariiis
+Provides: com.dvntm.safariiis
+Filename: ./debs/iphoneos-arm64/com.dvntm.safariiis_0.0.1_iphoneos-arm64.deb
+Size: 3104
+MD5sum: 544413fe1d82e99744e21b05dfa6e92c
+SHA1: 5e7adad20af888c5cdd02aef4555f25d5c795076
+SHA256: b54b01d1597d3b7c7ae5b2c7fd78adfad793aa845710ff66593048b437253f6c
+Section: 应用破解
+Description: ### Safari 浏览器
+ * 隐藏 Safari 菜单扩展图标
+ * Hides Extensions icon from Adress bar
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Safari.png
+Name: Safariii
+
+Package: com.dvntm.safariiis
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.safariii
+Replaces: com.dvntm.safariii
+Provides: com.dvntm.safariii
+Filename: ./debs/iphoneos-arm64e/com.dvntm.safariiis_0.0.1_iphoneos-arm64e.deb
+Size: 3028
+MD5sum: 7832a5a9e9a73eaa4879c44e17126938
+SHA1: 9720e81a3a6f88541b396baf63ccf7b96f905f24
+SHA256: c575d18af1eaddb23494fe1545d91db8c42c289789cf2b02d8dcd0e3daa2fb3c
+Section: 应用破解
+Description: ### Safari 浏览器
+ * 隐藏 Safari 菜单扩展图标
+ * Hides Extensions icon from Adress bar
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Safari.png
+Name: Safariii
+
 Package: com.dvntm.ytlite
 Version: 5.0.2
 Architecture: iphoneos-arm64
