@@ -382,6 +382,57 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
+Package: com.bandarhl.bhtwitters
+Version: 4.3-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Replaces: com.bandarhl.bhtwitter
+Provides: com.bandarhl.bhtwitter
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-3+debug_iphoneos-arm64.deb
+Size: 7614776
+MD5sum: ae86eb9ac45f6f6509cb3bc5436ef6c2
+SHA1: f0054f46eee7c827f45f1682324839da89eaa6ea
+SHA256: fea3b691a86ffeb8c862df00d583bc09e70a760e6ce6628e9b70ff726fa08ab3
+Section: 应用破解
+Description: ### Twitter/X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、去除 Groy 标签栏等功能
+ * Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
+Package: com.bandarhl.bhtwitters
+Version: 4.3-3+debug
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Replaces: com.bandarhl.bhtwitter
+Provides: com.bandarhl.bhtwitter
+Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_4.3-3+debug_iphoneos-arm64e.deb
+Size: 7503656
+MD5sum: 2b8fd6298e7b7178552b287653a48cce
+SHA1: 4bd159663386592fa10e10536d0cf7c4c375122b
+SHA256: 4a47f1b91b19bcb3c55f46a6d159c0454dde151d0bcfb0e7aa34648fdd9423c0
+Section: 应用破解
+Description: ### Twitter/X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、去除 Groy 标签栏等功能
+ * Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
 Architecture: iphoneos-arm64
