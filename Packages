@@ -637,24 +637,6 @@ Icon: https://i.imgur.com/uFWkBXD.png
 Name: HideSerialNumber 简体中文包
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
 
-Package: com.dumpapp.wechat-rootless
-Version: 2.0.1
-Architecture: iphoneos-arm64e
-Maintainer: WeChat
-Installed-Size: 24000
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/iphoneos-arm64e/com.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64e.deb
-Size: 25494706
-MD5sum: 47673da31dbbe73ae55908c14ea53409
-SHA1: 6789cbc6fd6bd2153b7cf62614629b092f1a9658
-SHA256: a08899396192c35c6ee1e4a7a0d95c01ba20425f332e347c648f3621d9a50768
-Section: Tweaks
-Description: 微信插件，功能与微信净化插件一样，1:1复刻。
-Author: DumpApp
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
-Name: 锤子助手
-
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.1
 Architecture: iphoneos-arm64
