@@ -753,6 +753,48 @@ Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Safari.png
 Name: Safariii
 
+Package: com.dvntm.silentnotifss
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.silentnotifs
+Provides: com.dvntm.silentnotifs
+Filename: ./debs/iphoneos-arm64/com.dvntm.silentnotifss_0.0.1_iphoneos-arm64.deb
+Size: 3744
+MD5sum: d896170c4613c1129b496389a96a86cf
+SHA1: 279a52836c77149ec937a12456294200b456d6cb
+SHA256: 483be310bfc27ad4b85b9d9258d75c70e8b47eab4d47ee8a90056ad4a27edc28
+Section: Tweaks
+Description: ### 播放音乐时，保持推送通知静音。
+ * Keep notifications silent while media is playing.
+ * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
+Name: SilentNotifs
+
+Package: com.dvntm.silentnotifss
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.silentnotifs
+Provides: com.dvntm.silentnotifs
+Filename: ./debs/iphoneos-arm64e/com.dvntm.silentnotifss_0.0.1_iphoneos-arm64e.deb
+Size: 3680
+MD5sum: cc6690d93e98be4e2cd802814518733a
+SHA1: 00da7a29f727daff4b9ebefd787d011c00f831cb
+SHA256: 4943a6e86879d52e65e804e3e5a7aa034ff3f2122be8d08d49ad0b67dc1fc1dd
+Section: Tweaks
+Description: ### 播放音乐时，保持推送通知静音。
+ * Keep notifications silent while media is playing.
+ * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
+Name: SilentNotifs
+
 Package: com.dvntm.ytlite
 Version: 5.0.2
 Architecture: iphoneos-arm64
