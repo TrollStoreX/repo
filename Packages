@@ -1228,6 +1228,28 @@ Author: Ruphane
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
 Name: PodsGrant
 
+Package: com.mrgcgamer.libgcuniversals
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Installed-Size: 380
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Conflicts: com.mrgcgamer.libgcuniversal
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker, com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64e/com.mrgcgamer.libgcuniversals_1.7.0_iphoneos-arm64e.deb
+Size: 55660
+MD5sum: 612cffac67bb3819541eba23217936d9
+SHA1: a479c74e24c3673d14784e058ec4d68d296c90df
+SHA256: b46eb02bffcffa81b6ab75acf194bcecb25049b33782e0572e13b3e7b1357cd7
+Section: 越狱依赖
+Description: #### 越狱依赖 RootHide 版本
+ * 为方便 RootHide 安装上传，并非挟持依赖
+Tag: role::developer
+Author: MrGcGamer
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/LibGcUniversal.png
+Name: LibGcUniversal
+
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
 Architecture: iphoneos-arm64e
