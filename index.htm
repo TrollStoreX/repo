@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>shalaREPO</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Urbanist', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 10px;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+            position: relative;
+        }
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #333;
+                color: #f4f4f4;
+            }
+            a {
+                color: white;
+                background-color: #1e90ff;
+                border: 2px solid #1e90ff;
+            }
+            a.zebra {
+                background-color: #555;
+            }
+            a:hover {
+                background-color: #1e90ff;
+            }
+            a.zebra:hover {
+                background-color: #555;
+            }
+            .notification {
+                background-color: rgba(0, 0, 0, 0.9);
+                border: 2px solid #1e90ff;
+            }
+        }
+        .content {
+            position: relative;
+            z-index: 1;
+            user-select: none;
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(255, 255, 255, 0);
+            z-index: 0;
+        }
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+            40% { transform: translateY(-10px); }
+            60% { transform: translateY(-5px); }
+        }
+        h1 {
+            font-size: 7vw;
+            animation: tilt 5s infinite ease-in-out;
+            margin-bottom: 20px;
+            text-shadow: 0 0 5px #f4f4f4;
+        }
+        .sub-header {
+            font-size: 5vw;
+            margin: 5px 0;
+            animation: bounce 1s infinite;
+            text-shadow: 0 0 5px #f4f4f4;
+        }
+        p {
+            font-size: 4vw;
+            margin: 10px 0;
+        }
+        a {
+            font-size: 5vw;
+            text-decoration: none;
+            padding: 12px 18px;
+            border-radius: 5px;
+            color: white;
+            background-color: #1BC0BC;
+            border: 2px solid #1BC0BC;
+            transition: background-color 0.3s, transform 0.3s;
+            display: inline-block;
+            margin: 5px;
+            position: relative;
+            z-index: 2;
+        }
+        a.zebra {
+            color: white;
+            background-color: #555;
+            border: 2px solid #555;
+        }
+        a.discord {
+            background-color: #5865F2; /* Changed to #5865F2 */
+            border: 2px solid #5865F2; /* Changed to #5865F2 */
+        }
+        a:hover {
+            background-color: #1BC0BC;
+            transform: scale(1.03);
+        }
+        a.discord:hover {
+            background-color: #5865F2; /* Changed to #5865F2 */
+            transform: scale(1.03);
+        }
+        a.zebra:hover {
+            background-color: #555;
+            transform: scale(1.03);
+        }
+        @keyframes tilt {
+            0%, 100% { transform: rotate(1deg); }
+            50% { transform: rotate(-1deg); }
+        }
+        @media (min-width: 768px) {
+            h1 { font-size: 4vw; }
+            .sub-header { font-size: 2.8vw; }
+            p { font-size: 2.2vw; }
+            a { font-size: 2.8vw; }
+            .package-count { font-size: 133333rem; } /* Make package count smaller on larger screens */
+        }
+        .emoji {
+            position: absolute;
+            top: -50px;
+            font-size: 2rem;
+            opacity: 0.8;
+            animation: fall linear forwards;
+            z-index: 0;
+        }
+        @keyframes fall {
+            0% { transform: translateY(0); opacity: 0.8; }
+            90% { opacity: 0.8; }
+            100% { transform: translateY(100vh); opacity: 0; }
+        }
+        .explosion {
+            position: absolute;
+            font-size: 2rem;
+            animation: explode 0.5s forwards;
+            z-index: 2;
+        }
+        @keyframes explode {
+            0% { transform: scale(1); opacity: 1; }
+            100% { transform: scale(2); opacity: 0; }
+        }
+        /* Total package count styling */
+        .package-count {
+            font-size: 1.1rem;
+            margin-top: 10px;
+            animation: flash 1s infinite alternate;
+        }
+        @keyframes flash {
+            0% { color: black; }
+            100% { color: lightgrey; }
+        }
+
+        /* Fade in/out animation for iOS supported text */
+        @keyframes fadeInOut {
+            0%, 100% { opacity: 0; }
+            50% { opacity: 1; }
+        }
+        .package-count {
+            animation: fadeInOut 2s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>hii i made a repo for<br>roothide/bootstrap tweaks</h1>
+        <p class="sub-header">👇 add shalaREPO 👇</p>
+        <p>
+            <a href="sileo://source/https://shalamand3r.github.io/">sileo</a>
+            <a class="zebra" href="zbra://sources/add/https://shalamand3r.github.io/">zebra</a>
+            <a class="discord" href="https://discord.com/invite/twwttTGSuk">discord</a>
+        </p>
+        <p class="package-count">17.0 supported</p>
+    </div>
+    <div class="overlay"></div>
+    <script>
+        let cursorX = 0;
+        let cursorY = 0;
+        let spawnInterval;
+
+        document.addEventListener('mousemove', (event) => {
+            cursorX = event.clientX;
+            cursorY = event.clientY;
+        });
+
+        function createEmoji() {
+            const emoji = document.createElement('div');
+            emoji.classList.add('emoji');
+            emoji.textContent = '🍆';
+
+            const randomX = Math.random() * window.innerWidth;
+            emoji.style.left = `${randomX}px`;
+
+            document.body.appendChild(emoji);
+
+            const fallDuration = Math.random() * 3 + 2;
+            emoji.style.animationDuration = `${fallDuration}s`;
+
+            const interval = setInterval(() => {
+                const emojiRect = emoji.getBoundingClientRect();
+                if (
+                    cursorX >= emojiRect.left &&
+                    cursorX <= emojiRect.right &&
+                    cursorY >= emojiRect.top &&
+                    cursorY <= emojiRect.bottom
+                ) {
+                    explodeEmoji(emoji);
+                    clearInterval(interval);
+                }
+            }, 50);
+
+            emoji.addEventListener('animationend', () => {
+                emoji.remove();
+                clearInterval(interval);
+            });
+        }
+
+        function explodeEmoji(emoji) {
+            const explosion = document.createElement('div');
+            explosion.classList.add('explosion');
+            explosion.textContent = '💥';
+            explosion.style.left = `${cursorX}px`;
+            explosion.style.top = `${cursorY}px`;
+
+            document.body.appendChild(explosion);
+
+            setTimeout(() => {
+                explosion.remove();
+            }, 500);
+
+            emoji.remove();
+        }
+
+        spawnInterval = setInterval(createEmoji, 1000);
+    </script>
+</body>
+</html>
