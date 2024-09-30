@@ -639,23 +639,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js
 
 Package: com.dumpapp.wechat-rootless
 Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 24000
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
-Size: 9337424
-MD5sum: fbaebdca05476146e28bc425bf89148e
-SHA1: 52d6d844c3a3abfb4d5c974e93919ff673884f15
-SHA256: 98a46e1ed6e109c879c7be3e1c360b4c6959f892ed21c626498110a20223848f
-Section: Tweaks
-Description: 微信插件，功能与微信净化插件一样，1:1复刻。
-Author: DumpApp
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
-Name: 锤子助手
-
-Package: com.dumpapp.wechat-rootless
-Version: 2.0.1
 Architecture: iphoneos-arm64e
 Maintainer: WeChat
 Installed-Size: 24000
@@ -670,6 +653,51 @@ Section: Tweaks
 Description: 微信插件，功能与微信净化插件一样，1:1复刻。
 Author: DumpApp
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: 锤子助手
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurifications, netskao.wechatpurification
+Replaces: com.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootlesss_2.0.1_iphoneos-arm64.deb
+Size: 9333556
+MD5sum: 3d1a9c874a3d73c7b2aede974af73535
+SHA1: 025de58744c9e59ef21fcdb2e814ff9861a6d359
+SHA256: f32bb610e323cb6d30d708b1483bd20bcfe03f4fe46fbb62b3294c6e009fabe5
+Section: 微信插件
+Description: ### 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/chuizi.png
+Name: 锤子助手
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 24000
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurifications, netskao.wechatpurification
+Replaces: com.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64e/com.dumpapp.wechat-rootlesss_2.0.1_iphoneos-arm64e.deb
+Size: 9219824
+MD5sum: a9433ef9b0f38b7cf9a0c29835edd14a
+SHA1: 498f8a90d74de04070dd417045713488f5bd75a4
+SHA256: d68e44a0ae98d7480e9b0136a835f9109e599a46d8e13a75188a7c17d6585897
+Section: 微信插件
+Description: ### 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/chuizi.png
 Name: 锤子助手
 
 Package: com.dvntm.infusepluss
@@ -1626,6 +1654,47 @@ SHA1: 654794b870523acf133e8d7e6d8db50f05ef68c5
 SHA256: ae65bb0a7a4b7d85c28c387b36c274fe1a778eb34a942fc21069fce473f49368
 Section: Tweaks
 Description: TikTok 增强插件!
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+
+Package: com.raulsaeed.bhtiktok++s
+Version: 1.3.0-43+debug
+Architecture: iphoneos-arm64
+Maintainer: raul saeed
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Replaces: com.raulsaeed.bhtiktok++
+Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++s_1.3.0-43+debug_iphoneos-arm64.deb
+Size: 127180
+MD5sum: f70f002f10227bfc411b2d7db8ba5e58
+SHA1: 4df87ed55897f4ae6890bece3d6c8e6b9189adc4
+SHA256: 1bc63a5016ba52c6a83999ffe0dd730473637cc418132fb9bc2ff3d469bb302e
+Section: 应用破解
+Description: TikTok 增强插件!
+ * An awesome tweak for TikTok!
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+
+Package: com.raulsaeed.bhtiktok++s
+Version: 1.3.0-43+debug
+Architecture: iphoneos-arm64e
+Maintainer: raul saeed
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Replaces: com.raulsaeed.bhtiktok++
+Filename: ./debs/iphoneos-arm64e/com.raulsaeed.bhtiktok++s_1.3.0-43+debug_iphoneos-arm64e.deb
+Size: 183636
+MD5sum: 5c17d33862f1f407e7da1c3f5407ef60
+SHA1: 0ea20a17ff99c8887aa25c30f8af00df39710c91
+SHA256: cb1249e73bc1a974db0ba22d07868f5a0efb87dea162bb2d9fa0c907c0d610a1
+Section: 应用破解
+Description: TikTok 增强插件!
+ * An awesome tweak for TikTok!
 Author: raul saeed
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: BHTikTok++
