@@ -223,6 +223,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
 Name: No Redirect 禁止启动应用
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
+Package: com.82flex.noredirects
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 468
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.1_iphoneos-arm64.deb
+Size: 37956
+MD5sum: 7c8a4f8243397c47bea536e2de9affd9
+SHA1: eee4ca7f33adff3f2609210056594beacac42cfe
+SHA256: 7260de63ef99477ade8389cf2c13313635f032771775f42b0c01f15f5069eed7
+Section: Tweaks
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
+ * Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
+Name: No Redirect 禁止启动应用
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
+
+Package: com.82flex.noredirects
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 468
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/iphoneos-arm64e/com.82flex.noredirects_1.1_iphoneos-arm64e.deb
+Size: 49272
+MD5sum: 31a610465ab4d5eefdad75e229f5e52e
+SHA1: 2435660a1d7b7bdc7733f68250d81eeee5bfff0d
+SHA256: d0c2bc9163d11bcf701d7f8f6262e7249349d027143cf457d17789a4364800f0
+Section: Tweaks
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
+ * Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
+Name: No Redirect 禁止启动应用
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1222,6 +1263,39 @@ Description: 微信显示好友添加时间 WeChat Enable Testing Show Contact A
 Author: INITNIL
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableShowContactAddCreateTime
+
+Package: com.iosrxwy.xmlynoads
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.iosrxwy.xmlynoads_0.1-1_iphoneos-arm64.deb
+Size: 98384
+MD5sum: 1aa6f767213140263e7bced03353c9da
+SHA1: 6a1b4970fbeb5b594e028450cc1b85f44e1535b9
+SHA256: c9b32e23ea86fb76efcc14417753af70f40859b4e206e9fa6000a2044daca83e
+Section: 应用破解
+Priority: optional
+Description: 喜马拉雅去广告，非破解！
+Author: iosrxwy
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xmly.png
+Name: 喜马拉雅 NoAd
+
+Package: com.iosrxwy.xmlynoads
+Version: 0.1-1
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.iosrxwy.xmlynoads_0.1-1_iphoneos-arm64e.deb
+Size: 133338
+MD5sum: 814452413eb68175b80534d8b98656d3
+SHA1: 74f7ea9d7874714fb75bc903c2dc5540b0963210
+SHA256: ae9de3b8bc992f5ab3aab99877cab7bf38c9819532879c210206d0e9c3f5477e
+Section: 应用破解
+Priority: optional
+Description: 喜马拉雅去广告，非破解！
+Author: iosrxwy
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xmly.png
+Name: 喜马拉雅 NoAd
 
 Package: com.jamme.picsartpatch
 Version: 4.2.0+debug
