@@ -1186,6 +1186,43 @@ Author: INITNIL
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableShowContactAddCreateTime
 
+Package: com.jamme.picsartpatch
+Version: 4.2.0+debug
+Architecture: iphoneos-arm64
+Maintainer: jamme <love@love.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.jamme.picsartpatch_4.2.0+debug_iphoneos-arm64.deb
+Size: 6900
+MD5sum: 39ceba29e0f3a0ef4083293d3375860d
+SHA1: 55512fdf3e88dee6cabac3031747e8ecc78b5ef8
+SHA256: 8f3abe62d1a94daac68003e279c68cf8bbeda5c1e3a2a292703602570ce287f2
+Section: 应用破解
+Description: Made using Flex To Theos updated by: Randy420
+Author: jamme <love@love.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Picsart/icon.png
+Name: PicsArt Patch 破解
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Picsart/js.json
+
+Package: com.jamme.picsartpatch
+Version: 4.2.0+debug
+Architecture: iphoneos-arm64e
+Maintainer: jamme <love@love.com>
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.jamme.picsartpatch_4.2.0+debug_iphoneos-arm64e.deb
+Size: 9064
+MD5sum: 4facf402a5a99f896f0cab4d55d10b45
+SHA1: f343f95df392f616f9072128e8228c38ea644617
+SHA256: 44943f3e40770ac38f7aa6c6f353ab8f7ac0285d72757507638870a8e09e53b2
+Section: 应用破解
+Description: Made using Flex To Theos updated by: Randy420
+Author: jamme <love@love.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Picsart/icon.png
+Name: PicsArt Patch 破解
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Picsart/js.json
+
 Package: com.kingpuffdaddi.control-center.ccvpn.surge
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -1986,6 +2023,47 @@ Author: 0xkuj
 Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
 Name: StoreSwitcher 账号切换
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
+
+Package: com.swing.tiktoknocreatbutton
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.swing.tiktoknocreatbutton_1.0.0_iphoneos-arm64.deb
+Size: 35648
+MD5sum: 19c0bdb9565a29e80167752e215746c6
+SHA1: cc0babec483bcb02df931f9a918b3243d945528b
+SHA256: e5952e65baed9035f809cc7144e8b31b606f43487ae4d542061a67ff57480c79
+Section: 应用破解
+Description: TikTokNoCreatButton
+ * 移除 TikTok ➕创作按钮
+ * TikTok removes the create button from the TabBar!
+Author: SWING
+Icon: https://TrollStoreX.Github.io/sileodepiction/TikTok/TikTokHide.png
+Name: 移除 TikTok ➕按钮
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/jss.json
+
+Package: com.swing.tiktoknocreatbutton
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: SWING
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.swing.tiktoknocreatbutton_1.0.0_iphoneos-arm64e.deb
+Size: 36522
+MD5sum: 2a532bb187782e752cbc643547fcbe48
+SHA1: c4052e92b5db60f30581c10cf44ac5b45784a0ec
+SHA256: 903a2dc69eb66b54bf504ae0358ac55f2985e05ebd755be1a63a771c7c3d1207
+Section: 应用破解
+Description: TikTokNoCreatButton
+ * 移除 TikTok ➕创作按钮
+ * TikTok removes the create button from the TabBar!
+Author: SWING
+Icon: https://TrollStoreX.Github.io/sileodepiction/TikTok/TikTokHide.png
+Name: 移除 TikTok ➕按钮
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/jss.json
 
 Package: com.telegram.return
 Version: 1.0
