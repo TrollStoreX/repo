@@ -926,14 +926,12 @@ Architecture: iphoneos-arm64
 Maintainer: Ivano Bilenchi
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
-Replaces: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
-Provides: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
 Filename: ./debs/iphoneos-arm64/com.exile90.icleanerpros_7.10.0_iphoneos-arm64.deb
-Size: 977680
-MD5sum: aa4fe8104c963c0f8112b040b8d03413
-SHA1: 1004d9c9773423cd855f96ca8121d1c6d188c8c5
-SHA256: ae321a446975395ac9add22c6bd2b12bc5d263b029427dfbbd37ea64cfb61e3b
-Section: Tweaks
+Size: 977640
+MD5sum: af1013a03f20c26c3047a4ef80ada523
+SHA1: 6aa1d4102944e830795db132fce3d5e72dd8d5f2
+SHA256: 94fb4a83e97aad7be17bf2a477d70f5256043b991e1a0884cb9198a95fed01cd
+Section: Bootstrap
 Description: iCleaner Pro
  * 垃圾清理工具，启动项管理等
  * The first real iOS system cleanup and management utility
@@ -949,14 +947,12 @@ Maintainer: Ivano Bilenchi
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
-Replaces: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
-Provides: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
 Filename: ./debs/iphoneos-arm64e/com.exile90.icleanerpros_7.10.0_iphoneos-arm64e.deb
-Size: 2493372
-MD5sum: ce632acbb6906237081b1f84ba05d102
-SHA1: 80064943b239cb44b3112e70cbf6ce24c2465571
-SHA256: a36c141e366dfd15e131bf3562378cc7e1fa60cc9d0eae1f444bb5df991e35ac
-Section: Tweaks
+Size: 2493324
+MD5sum: 88d09886db54aec8b3aa59ddcef1bd06
+SHA1: ad7fd0aed46b7427351a7abd3cd9bba7f3c4de46
+SHA256: b494302ec57388e154e609b84851c00f434e146c0595592f584a587cfc396d9c
+Section: Bootstrap
 Description: iCleaner Pro
  * 垃圾清理工具，启动项管理等
  * The first real iOS system cleanup and management utility
@@ -1075,13 +1071,15 @@ Architecture: iphoneos-arm64
 Maintainer: ichitaso
 Installed-Size: 472
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.hideserialnumber
 Filename: ./debs/iphoneos-arm64/com.ichitaso.hideserialnumbers_0.0.4_iphoneos-arm64.deb
-Size: 56708
-MD5sum: e1558b196df0eb0e5fb29b0f85b6bc3b
-SHA1: 91b9916f5ee4328de75f5b655591abad87436230
-SHA256: 583b469ec36ee57bdb15602474f0e84d5cf40805d776294bce8b673449e0a19d
-Section: Tweaks
-Description: 修改系统版本号 Hide Serial Number in Settings About page.
+Size: 56680
+MD5sum: 5bac06557424609a0b9d107987bd3dff
+SHA1: 3ce5488f944b410f695275d0b19af7881a067c19
+SHA256: b09725c7389372e0a74b53dc1d89f87ccbd3511539235a8489c4f83216ef8234
+Section: Bootstrap
+Description: 修改系统版本号
+ * Hide Serial Number in Settings About page.
 Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
 Author: ichitaso
 Dev: ichitaso
@@ -1094,14 +1092,17 @@ Version: 0.0.4
 Architecture: iphoneos-arm64e
 Maintainer: ichitaso
 Installed-Size: 472
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.hideserialnumber
 Filename: ./debs/iphoneos-arm64e/com.ichitaso.hideserialnumbers_0.0.4_iphoneos-arm64e.deb
-Size: 55056
-MD5sum: 87a21b2290b2f2c201f756667bf7de05
-SHA1: d9e18e122cff7a7b62a87718065a9e3e710e00f0
-SHA256: cf4b5d15e539e2651a60dc9f55968eb548fc147c580df5d1ebd4be71ab534e3d
-Section: Tweaks
-Description: 修改系统版本号 Hide Serial Number in Settings About page.
+Size: 68874
+MD5sum: fb820da90435ee4beb3c9d937bf61f55
+SHA1: 0b7c1f28b3df6579d169d1223bb004dc3632b545
+SHA256: 81331977f5764627acbf5caaf9a674772c561716291bdb2af33b958e62f03c90
+Section: Bootstrap
+Description: 修改系统版本号
+ * Hide Serial Number in Settings About page.
 Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
 Author: ichitaso
 Dev: ichitaso
@@ -1985,6 +1986,47 @@ Description: ### Telegram
 Author: IP Man
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Telegram.png
 Name: Telegram Return 回车键
+
+Package: com.teleports.location
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Super TrollStore
+Depends: mobilesubstrate
+Conflicts: xyz.cypwn.teleport
+Filename: ./debs/iphoneos-arm64/com.teleports.location_1.1_iphoneos-arm64.deb
+Size: 7382240
+MD5sum: 5fa93c667de0694be50e551719c1935b
+SHA1: bb7b835ea56edd6a124dc167d98ace40c110aa29
+SHA256: 89e7d45363e37b71ee6233f32e552eeb15196d68bc4925b0197f1c85f40e596d
+Section: Bootstrap
+Description: 免费虚拟定位
+ * Spoof GPS location
+ * 支持 Bootstrap
+Author: SGWC
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 虚拟定位
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
+
+Package: com.teleports.location
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Super TrollStore
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: xyz.cypwn.teleport
+Filename: ./debs/iphoneos-arm64e/com.teleports.location_1.1_iphoneos-arm64e.deb
+Size: 14909734
+MD5sum: 00e6b43e3f7ae8c85b176143ef5cf121
+SHA1: da2396cdf0ddf910f85594634ce6027826f9598a
+SHA256: def364e8739cc9a5af86a634c207243a5eb4d5482069f50a9bb55dd2e7919446
+Section: Bootstrap
+Description: 免费虚拟定位
+ * Spoof GPS location
+ * 支持 Bootstrap
+Author: SGWC
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 虚拟定位
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
 
 Package: com.weifeng.noad
 Version: 1.1
