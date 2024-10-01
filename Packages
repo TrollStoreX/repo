@@ -1906,6 +1906,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/icon.pn
 Name: 隐藏通知图标右下角标
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/js.json
 
+Package: com.storeswitcher.appstore
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/iphoneos-arm64/com.storeswitcher.appstore_1.0.5_iphoneos-arm64.deb
+Size: 14388
+MD5sum: 95d8e061c12f9ec891cc4e945eee552d
+SHA1: f3bf06b7f7069bd5c68b9f4cbfb3e65e49361a3d
+SHA256: 48b6b4ae592f1dafc5847a72fd533848af3f8ec9104b26ab1d0d3583f574ea89
+Section: Bootstrap
+Description: App Store 账号快速切换
+ * Adds a button to switch account in App Store account page on iOS 11+.
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
+Name: StoreSwitcher 账号切换
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
+
+Package: com.storeswitcher.appstore
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/iphoneos-arm64e/com.storeswitcher.appstore_1.0.5_iphoneos-arm64e.deb
+Size: 19522
+MD5sum: ed776ec491351135065d9be05121799b
+SHA1: 9a833173e7677fe93679ba4c97bd6e0130f79464
+SHA256: 64ca639821a217e30c067a088bfb4fe237c11f7c9b701343a5edf326379fe47d
+Section: Bootstrap
+Description: App Store 账号快速切换
+ * Adds a button to switch account in App Store account page on iOS 11+.
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
+Name: StoreSwitcher 账号切换
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
+
 Package: com.telegram.return
 Version: 1.0
 Architecture: iphoneos-arm64
