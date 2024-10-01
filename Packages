@@ -182,6 +182,47 @@ Name: 微信插件管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
 Sponsor: admin@25mao.com
 
+Package: com.82flex.noredirects
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 468
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.0_iphoneos-arm64.deb
+Size: 35408
+MD5sum: e58df8e1ba65dfaf56a5a198e949ac40
+SHA1: 881066553f2bf8ca05817708729f16403e6b4f24
+SHA256: 59de4c70fe0d442cc7c0e1f2db488253b1d62aadb79167649df2ca28fbfadd5f
+Section: Tweaks
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
+ * Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
+Name: No Redirect 禁止启动应用
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NORedirect/js.json
+
+Package: com.82flex.noredirects
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 468
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/iphoneos-arm64e/com.82flex.noredirects_1.0_iphoneos-arm64e.deb
+Size: 45582
+MD5sum: b75e0770d789518eb64d715d74c7f40c
+SHA1: e781ac8701b19f58f1afd0ca6a9603ca8fea2dfa
+SHA256: 29d71366c0ef29fba70ee22349f18a54be3171067fd258b53f19f58a4eedc2fd
+Section: Tweaks
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
+ * Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
+Name: No Redirect 禁止启动应用
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NORedirect/js.json
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
