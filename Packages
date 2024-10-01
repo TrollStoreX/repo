@@ -1073,6 +1073,43 @@ Author: 小果子
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
 Name: 酷安FuckAds
 
+Package: com.huami.kugouNoAD
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.kugouNoAD_0.1-1_iphoneos-arm64.deb
+Size: 55512
+MD5sum: 0c86eae51c81ca56c31a4ec33241cd52
+SHA1: c691468aa87617066ed24e9b90511a0b834f99ea
+SHA256: 231ca338f2f7d4365b5173a56435ea4227a896123a0dcbad86dc264dfdcc76d9
+Section: 应用破解
+Priority: optional
+Description: 酷狗音乐去广告
+ * 去除开屏广告（含概念版）
+ * 去除【我的】页面寻搭子广告
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kugou.png
+Name: 酷狗 NoAd
+
+Package: com.huami.kugouNoAD
+Version: 0.1-1
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.kugouNoAD_0.1-1_iphoneos-arm64e.deb
+Size: 73986
+MD5sum: a39932847ecd7362d020b5ed9867778a
+SHA1: 0b3594c5699e71d4268fcde1cfec9caea9095a97
+SHA256: ec2d478b220be18ece69aa8a97ed6a8592fa1c075ab6c109567b92c3b2442dca
+Section: 应用破解
+Priority: optional
+Description: 酷狗音乐去广告
+ * 去除开屏广告（含概念版）
+ * 去除【我的】页面寻搭子广告
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kugou.png
+Name: 酷狗 NoAd
+
 Package: com.hw.imepremium
 Version: 0.0.1
 Architecture: iphoneos-arm64
