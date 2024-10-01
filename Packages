@@ -2895,38 +2895,3 @@ Depiction: https://repo.cypwn.xyz/depiction/2629
 Icon: https://repo.cypwn.xyz/packages/camscanner-Rootless/icon.png
 Name: CamScanner
 
-Package: xyz.cypwn.teleports
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/xyz.cypwn.teleports_1.1_iphoneos-arm64.deb
-Size: 7382772
-MD5sum: 5de5e43c5b794f74d67c935d5fc07860
-SHA1: 14a44dd8fcfc33913eb8a4edd9411879f32154f1
-SHA256: 4aeb5c13776a360902dacb846d4fa2ab4162b4ed46027eba2dae5c5a157678a1
-Section: Tweaks
-Description: 免费虚拟定位 Spoof GPS location
-Author: SGWC
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
-Name: Teleport 虚拟定位
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
-
-Package: xyz.cypwn.teleports
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: CyPwn
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/xyz.cypwn.teleports_1.1_iphoneos-arm64e.deb
-Size: 14909678
-MD5sum: 0143fae4fd826ed052f80a5a03c67db4
-SHA1: e10261168010be062d274fd8ec78ce16641cb0ed
-SHA256: 6dd39d9a93d8ca48baea992da1ed34033e0eac7d17c8c792f72878416041367f
-Section: Tweaks
-Description: 免费虚拟定位 Spoof GPS location
-Author: SGWC
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
-Name: Teleport 虚拟定位
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
-
