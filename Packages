@@ -3012,39 +3012,6 @@ Name: 微信净化
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: org.swift.protobuf.swiftprotobuf
-Version: 1.26.0
-Architecture: iphoneos-arm64
-Maintainer: eevee
-Installed-Size: 9564
-Filename: ./debs/iphoneos-arm64/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64.deb
-Size: 1271700
-MD5sum: e4acdbe749226c1eb521d34b6be47038
-SHA1: 9c96f7f42f3418230ed888b55df6f2a3748e30d2
-SHA256: 3a570b9aea51daf385e3bd44e5906314bad859cb08b42bf1fd4d73be76d12263
-Section: System
-Description: Spotify Eevee 插件依赖
-Tag: role::developer
-Author: eevee
-Name: SwiftProtobuf
-
-Package: org.swift.protobuf.swiftprotobuf
-Version: 1.26.0
-Architecture: iphoneos-arm64e
-Maintainer: eevee
-Installed-Size: 9564
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/iphoneos-arm64e/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64e.deb
-Size: 5252918
-MD5sum: 95f46d2f21e285e1406c1c8fbe4f71d9
-SHA1: 9171a980345c6e9f252347ced4773fbce7c87a64
-SHA256: 927d30418e9ac42c7e168ac536d5b4dd72c1de827d8d6b904292b7420e2530a4
-Section: System
-Description: Spotify Eevee 插件依赖
-Tag: role::developer
-Author: eevee
-Name: SwiftProtobuf
-
 Package: org.swift.protobuf.swiftprotobufs
 Version: 1.28.1
 Architecture: iphoneos-arm64
