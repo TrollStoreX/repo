@@ -2737,6 +2737,23 @@ Author: 怡点日常
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableMomentsLivePhoto
 
+Package: com.yourdismissedty.abc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: i0s_tweak3r
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.yourdismissedty.abc_1.0_iphoneos-arm64.deb
+Size: 7332
+MD5sum: afe29371407fb6b7c7b427f57347629d
+SHA1: 26a8e0e48a92b1c3b23405cfff42e10ce1db85c9
+SHA256: b81eaed74245ff57486010ad0f1fdafb88550dcc120fc0bb65adf6c9e96378e4
+Section: 应用破解
+Description: 取消农业银行越狱检测弹窗
+Author: i0s_tweak3r
+Icon: https://TrollStoreX.Github.io/sileodepiction/abc/icon.png
+Name: 取消农业银行越狱检测弹窗
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/abc/js.json
+
 Package: com.yourepo.themepro.themepro-311-rootlesss
 Version: 3.1.1
 Architecture: iphoneos-arm64
