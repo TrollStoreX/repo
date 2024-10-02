@@ -1420,23 +1420,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
 Name: CCVPN Surge
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
 
-Package: com.lclrc.hammerit
+Package: com.lclrc.hammerits
 Version: 1.7.0
 Architecture: iphoneos-arm64e
 Maintainer: lclrc(SquidForce)
 Installed-Size: 3808
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
-Filename: ./debs/iphoneos-arm64e/com.lclrc.hammerit_1.7.0_iphoneos-arm64e-2.deb
-Size: 2767590
-MD5sum: df832ea1effd175ce0a31981b93143d6
-SHA1: e465702ddd0cfaf381223a47a029362103ec608a
-SHA256: 956a354f3c6bf5a09f438b24a980d686d98acf796446362a8f545a12ba4e1c81
-Section: Tweaks
-Description: Control your text or translate as you wish.
+Conflicts: com.lclrc.hammerit
+Filename: ./debs/iphoneos-arm64/com.lclrc.hammerits_1.7.0_iphoneos-arm64e.deb
+Size: 2767754
+MD5sum: daeb14dabefeb181078c31120570b494
+SHA1: 273e45e31f45963c3804315e905c7aca6215e379
+SHA256: 782584980e658f7227ef22f43b25813cb2f5418f956f07609d3cd0296ca0e260
+Section: Bootstrap
+Description: 控制您的文本或根据您的意愿进行翻译。
+ * 支持Twitter Telegram Discord Sileo 等快捷翻译
+ * Control your text or translate as you wish.
 Author: lclrc(SquidForce)
-Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
-Name: Hammer It
+Icon: https://TrollStoreX.Github.io/sileodepiction/Hammerit/icon.png
+Name: Hammer It 翻译
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Hammerit/js.json
+
+Package: com.lclrc.hammerits
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Conflicts: com.lclrc.hammerit
+Filename: ./debs/iphoneos-arm64e/com.lclrc.hammerits_1.7.0_iphoneos-arm64e.deb
+Size: 2767754
+MD5sum: daeb14dabefeb181078c31120570b494
+SHA1: 273e45e31f45963c3804315e905c7aca6215e379
+SHA256: 782584980e658f7227ef22f43b25813cb2f5418f956f07609d3cd0296ca0e260
+Section: Bootstrap
+Description: 控制您的文本或根据您的意愿进行翻译。
+ * 支持Twitter Telegram Discord Sileo 等快捷翻译
+ * Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: https://TrollStoreX.Github.io/sileodepiction/Hammerit/icon.png
+Name: Hammer It 翻译
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Hammerit/js.json
 
 Package: com.lenglengyu.passbyccs
 Version: 1.0.2
