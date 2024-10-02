@@ -1002,6 +1002,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.eevee.spotifys
+Version: 5.3
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.3_iphoneos-arm64.deb
+Size: 563368
+MD5sum: da3ae234adb95519c14f1f91545073bf
+SHA1: c7317decf7379d28716af309ff2a2aa3f3fc775e
+SHA256: 05e465ccc6870b287d923dceba5c312692ae7b1347ba9b01e0b73316824e3c8b
+Section: 应用破解
+Description: Spotify Premium 破解
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.3
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.3_iphoneos-arm64e.deb
+Size: 1578666
+MD5sum: 7cc5001c61e5f94acedb20d687b3a749
+SHA1: 4143c98b5663aa0dea740b35026904e93e99ffed
+SHA256: aded4603c24841d40d25acf53fbfcb0e151c61df648bf0ff8257fe595e57bf50
+Section: 应用破解
+Description: Spotify Premium 破解
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
 Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -3003,6 +3044,49 @@ Description: Spotify Eevee 插件依赖
 Tag: role::developer
 Author: eevee
 Name: SwiftProtobuf
+
+Package: org.swift.protobuf.swiftprotobufs
+Version: 1.28.1
+Architecture: iphoneos-arm64
+Maintainer: eevee
+Installed-Size: 10028
+Conflicts: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Provides: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Filename: ./debs/iphoneos-arm64/org.swift.protobuf.swiftprotobufs_1.28.1_iphoneos-arm64.deb
+Size: 1430188
+MD5sum: ca830cf265abe042bd3f826e2198fe9f
+SHA1: 81f29705e30025b8300f53b8a9ced573fd7fffa6
+SHA256: 3dd0bde9f2134b51e8911af4e8469b8e7312e6b72ef2c10cb2d7368b0d169c0e
+Section: 依赖
+Description: Spotify Eevee 依赖
+ * Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Author: eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.png
+Name: SwiftProtobuf
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.json
+
+Package: org.swift.protobuf.swiftprotobufs
+Version: 1.28.1
+Architecture: iphoneos-arm64e
+Maintainer: eevee
+Installed-Size: 10028
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Provides: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Filename: ./debs/iphoneos-arm64e/org.swift.protobuf.swiftprotobufs_1.28.1_iphoneos-arm64e.deb
+Size: 5516544
+MD5sum: 0f5ac86093f1bfe808d0e96fd0c2603e
+SHA1: 0137d0f068332d8644e570483dc2c8bb1e9d9207
+SHA256: d978e15cf47bbe01fe41645d30f97c342c2668ee8861b2ce1446d966e6da862b
+Section: 依赖
+Description: Spotify Eevee 依赖
+ * Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Author: eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.png
+Name: SwiftProtobuf
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.json
 
 Package: preferenceloader.rootless.tops
 Version: 2.2.6.6
