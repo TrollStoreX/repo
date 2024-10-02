@@ -1563,12 +1563,12 @@ Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
 Conflicts: com.mrgcgamer.libgcuniversal
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker, com.mrgcgamer.libgcuniversal
 Filename: ./debs/iphoneos-arm64e/com.mrgcgamer.libgcuniversals_1.7.0_iphoneos-arm64e.deb
-Size: 55660
-MD5sum: 612cffac67bb3819541eba23217936d9
-SHA1: a479c74e24c3673d14784e058ec4d68d296c90df
-SHA256: b46eb02bffcffa81b6ab75acf194bcecb25049b33782e0572e13b3e7b1357cd7
-Section: 越狱依赖
-Description: #### 越狱依赖 RootHide 版本
+Size: 55656
+MD5sum: be29fb5c3efa26c04206750cca8ae4e9
+SHA1: ed06b482de481dc5edaf8544443dba2f71c9ae38
+SHA256: 848f76874307aea47fc7b9fd6325126cb19c8fd9e0d3b985375741bd675d9502
+Section: 依赖
+Description: 越狱依赖 RootHide 版本
  * 为方便 RootHide 安装上传，并非挟持依赖
 Tag: role::developer
 Author: MrGcGamer
@@ -3064,16 +3064,16 @@ Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootles
 Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
 Provides: preferenceloader (= 2.2.6), preferenceloader.rootless, preferenceloader.rootless.top
 Filename: ./debs/iphoneos-arm64/preferenceloader.rootless.tops_2.2.6.6_iphoneos-arm64.deb
-Size: 16140
-MD5sum: 528e7a62cda9456cbc42314b017eb23f
-SHA1: 3bc818a2acd6725ff4b8769c2f6117cf101597e0
-SHA256: 4ba2a4970d278dda4b432f87438a013acb8eca173cbb7bb939ff2478925fd179
-Section: System
-Description: 系统设置内插件选项置顶
-  * by 真皮 https://rootless.zq666.eu.org/
+Size: 16120
+MD5sum: a6c9bc049c61a12a4757018be408ff42
+SHA1: 4f0f4af64a4e8e560593a341f9e7356549126ef4
+SHA256: 262168b3e680087ebee19d13856d8eca37c52c88fe9ba9b83215b53195b8a145
+Section: 依赖
+Description: 越狱依赖 PreferenceLoader
+ * 系统设置内插件选项置顶
 Author: Dustin Howett
 Icon: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/icon.png
-Name: PreferenceLoader-top
+Name: PreferenceLoader Top
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/js.json
 
 Package: preferenceloader.rootless.tops
@@ -3086,16 +3086,16 @@ Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootles
 Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
 Provides: preferenceloader (= 2.2.6), preferenceloader.rootless, preferenceloader.rootless.top
 Filename: ./debs/iphoneos-arm64e/preferenceloader.rootless.tops_2.2.6.6_iphoneos-arm64e.deb
-Size: 22266
-MD5sum: 507b37943ec8ad0ee9129ba4bf324aa8
-SHA1: 00ce8c5bc90f718ffd7cb9758e8afde8eb0cb471
-SHA256: 3672383d685e9ed1dbe684dc9ad1d30f4126a7167711e2513d777e0d4c75b438
-Section: System
-Description: 系统设置内插件选项置顶
-  * by 真皮 https://rootless.zq666.eu.org/
+Size: 22210
+MD5sum: b122108590a263cdd42afe3500ea609c
+SHA1: e663eb89be822fcfc7c4c97b6f7fa2b75431c7ec
+SHA256: c4a06971c952d6f5ba96e64e8921552094117fc23f10f1db8895c5fe90d43756
+Section: 依赖
+Description: 越狱依赖 PreferenceLoader
+ * 系统设置内插件选项置顶
 Author: Dustin Howett
 Icon: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/icon.png
-Name: PreferenceLoader-top
+Name: PreferenceLoader Top
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/js.json
 
 Package: visibleisland
