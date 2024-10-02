@@ -1007,13 +1007,13 @@ Version: 5.3
 Architecture: iphoneos-arm64
 Maintainer: Eevee
 Installed-Size: 2732
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs
 Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
 Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.3_iphoneos-arm64.deb
 Size: 563368
-MD5sum: da3ae234adb95519c14f1f91545073bf
-SHA1: c7317decf7379d28716af309ff2a2aa3f3fc775e
-SHA256: 05e465ccc6870b287d923dceba5c312692ae7b1347ba9b01e0b73316824e3c8b
+MD5sum: e3386f99fa38ae4d56d59a528c7b79dd
+SHA1: e034a2b159f4c2d5ea98250d205a6b5bde3e346b
+SHA256: b2761ddd7b726607a2af2bb4a812c585993052be4d4f3917a9f3da80f31f8cc1
 Section: 应用破解
 Description: Spotify Premium 破解
  * A tweak to get Spotify Premium for free, just like Spotilife
@@ -1028,13 +1028,13 @@ Architecture: iphoneos-arm64e
 Maintainer: Eevee
 Installed-Size: 2732
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs
 Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
 Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.3_iphoneos-arm64e.deb
-Size: 1578666
-MD5sum: 7cc5001c61e5f94acedb20d687b3a749
-SHA1: 4143c98b5663aa0dea740b35026904e93e99ffed
-SHA256: aded4603c24841d40d25acf53fbfcb0e151c61df648bf0ff8257fe595e57bf50
+Size: 1578674
+MD5sum: 0d8fb9f7e3d02f1b09d6a30702bb84d2
+SHA1: c75d5f161da5118e0baefa27783e4326f2fea5e5
+SHA256: 94438fa8ba1b83d48052459812ef53e2ac6dd77cd49e9bb2a506952aa99537da
 Section: 应用破解
 Description: Spotify Premium 破解
  * A tweak to get Spotify Premium for free, just like Spotilife
@@ -3021,9 +3021,9 @@ Conflicts: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
 Provides: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
 Filename: ./debs/iphoneos-arm64/org.swift.protobuf.swiftprotobufs_1.28.1_iphoneos-arm64.deb
 Size: 1430188
-MD5sum: ca830cf265abe042bd3f826e2198fe9f
-SHA1: 81f29705e30025b8300f53b8a9ced573fd7fffa6
-SHA256: 3dd0bde9f2134b51e8911af4e8469b8e7312e6b72ef2c10cb2d7368b0d169c0e
+MD5sum: 726cc361337577dca8d0c8bc05b5cd19
+SHA1: 2e30d323bd881a58e7556fc45b67711e212243d9
+SHA256: 483c3e4a66accce17096c0b2a96257d76e7a56d8ffc63285ef1d72c3e6592e0b
 Section: 依赖
 Description: Spotify Eevee 依赖
  * Plugin and runtime library for using protobuf with Swift
@@ -3042,10 +3042,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Conflicts: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
 Provides: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
 Filename: ./debs/iphoneos-arm64e/org.swift.protobuf.swiftprotobufs_1.28.1_iphoneos-arm64e.deb
-Size: 5516544
-MD5sum: 0f5ac86093f1bfe808d0e96fd0c2603e
-SHA1: 0137d0f068332d8644e570483dc2c8bb1e9d9207
-SHA256: d978e15cf47bbe01fe41645d30f97c342c2668ee8861b2ce1446d966e6da862b
+Size: 5516542
+MD5sum: 1d2ce88e993ed988712cd898629f0440
+SHA1: cf987e9f88209b81cb612803ad0bbb18897c283a
+SHA256: 8d4c26d237f4e0ca6bb3fdf809a3f66526e223d8b0f1e47c34ef401cddef94e6
 Section: 依赖
 Description: Spotify Eevee 依赖
  * Plugin and runtime library for using protobuf with Swift
