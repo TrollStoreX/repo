@@ -1856,6 +1856,43 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon
 Name: TwitterNoAds
 Sileodepiction: https://trollstorex.github.io/sileodepiction/MisakaHelper/js.json
 
+Package: com.p2kdev.twitternoadss
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.p2kdev.twitternoadss_1.2.4_iphoneos-arm64.deb
+Size: 7420
+MD5sum: 16dec37666eccc9dc0335d3c4034db07
+SHA1: 684d045cb1e91e1a8e57325ce1f889a43458b4a6
+SHA256: e52854aa6e5b8096babe696fd5f913dbb31d6659253e7d1f52c3f1329c1ab527
+Section: 应用破解
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
+
+Package: com.p2kdev.twitternoadss
+Version: 1.2.4
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.p2kdev.twitternoadss_1.2.4_iphoneos-arm64e.deb
+Size: 9810
+MD5sum: 90f4f89db6149be2589b6f31afedab70
+SHA1: dd222175148fc9cb90a1aa03881a66b5cb176449
+SHA256: de584b4a4ad4644e0a3bf945b36e8c0dd34748403e9303f1e91c52a85f00e9e6
+Section: 应用破解
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
+
 Package: com.ps.recordpauses
 Version: 2.0.3
 Architecture: iphoneos-arm64
