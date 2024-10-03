@@ -264,6 +264,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
 Name: No Redirect 禁止启动应用
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
+Package: com.82flex.noredirects
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 468
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.2_iphoneos-arm64.deb
+Size: 37172
+MD5sum: 9b6c0a76b901526b97e6bbea98500f54
+SHA1: cb2649e9b1ef5f6d6f8d3ec289ac91d2255c5452
+SHA256: 9996d5cc65b534c7a5ad0500b4ac5f7e32fae1af147f462542e9e779350adb7f
+Section: Tweaks
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
+ * Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
+Name: No Redirect 禁止启动应用
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
+
+Package: com.82flex.noredirects
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 468
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/iphoneos-arm64e/com.82flex.noredirects_1.2_iphoneos-arm64e.deb
+Size: 48072
+MD5sum: a44f7b0e6ac498b036586552e58bd7cc
+SHA1: 1505910764d78aa113de2d1741ed2359b562a04c
+SHA256: 9c31b561c9622f879e7851e4375533923fe082da3368deb07760e3e3d6c459d7
+Section: Tweaks
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
+ * Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
+Name: No Redirect 禁止启动应用
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
