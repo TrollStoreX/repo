@@ -1802,6 +1802,41 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WeChatNotiAvatar 微信头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
 
+Package: com.opa334.dopamine.trollstore
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: TrollStore
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64/com.opa334.dopamine.trollstore_1.0_iphoneos-arm64.deb
+Size: 872
+MD5sum: 7792fb34c4ebd10de45c5edc5e9fb684
+SHA1: 1e301a6a5dedd284459dac0631e21db08aaa354b
+SHA256: e44d7fcfc1a43e0f0575bf90f1acd6a1a558db15a9a23027b30597dc889f2082
+Section: opa334
+Description: opa334
+Author: TrollStore
+Icon: https://TrollStoreX.Github.io/sileodepiction/opa334/icon.png
+Name: opa334
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
+
+Package: com.opa334.dopamine.trollstore
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: TrollStore
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64e/com.opa334.dopamine.trollstore_1.0_iphoneos-arm64e.deb
+Size: 1128
+MD5sum: d8d2b98c11f210a7dd4f6bc41044b3d1
+SHA1: 25cdca19dbb762948fc9ec3afa8863f17aaa4b6d
+SHA256: 37edd8207dc3fb5908f47b265778afe67a9748c10100ddf6be8c6160968b6b6a
+Section: opa334
+Description: opa334
+Author: TrollStore
+Icon: https://TrollStoreX.Github.io/sileodepiction/opa334/icon.png
+Name: opa334
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
+
 Package: com.p2kdev.facebooknoads
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -2359,6 +2394,47 @@ Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知�
 Author: z
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
 Name: 威锋去广告
+
+Package: com.wrp1002.cornbars
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Conflicts: com.wrp1002.cornbar
+Filename: ./debs/iphoneos-arm64/com.wrp1002.cornbars_1.1.0_iphoneos-arm64.deb
+Size: 110936
+MD5sum: 8e2e95251ac3b91107d0146fa93272b7
+SHA1: d3aeb9e027426b3221c459831e3c18cfb69569c2
+SHA256: 97cea12758898315ba6fa005e52e2285db9cb7e532dee17875baf5c61aff18ca
+Section: Tweaks
+Description: 把你的HomeBar变成玉米！
+ * Change your HomeBar into corn!
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/CornBar/icon.png
+Name: CornBar 玉米手势横杠
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CornBar/js.json
+
+Package: com.wrp1002.cornbars
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Conflicts: com.wrp1002.cornbar
+Filename: ./debs/iphoneos-arm64e/com.wrp1002.cornbars_1.1.0_iphoneos-arm64e.deb
+Size: 117536
+MD5sum: ce990073cf67bc89ef29a17f058a11fd
+SHA1: c3d9a78ab55ec4353705eb6c1fa3db2affca9437
+SHA256: a5abad0efbd1c44f7757630e8f71fba3412257ba7deef7acbd933002024a9264
+Section: Tweaks
+Description: 把你的HomeBar变成玉米！
+ * Change your HomeBar into corn!
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/CornBar/icon.png
+Name: CornBar 玉米手势横杠
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CornBar/js.json
 
 Package: com.xx.dyhooks
 Version: 2.0.5
