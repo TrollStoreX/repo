@@ -2192,6 +2192,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: BHTikTok++
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
 
+Package: com.safarixs.zh-Hans
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Replaces: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix, com.0xkuj.safarixs
+Filename: ./debs/iphoneos-arm64/com.safarixs.zh-Hans_1.3.0_iphoneos-arm64.deb
+Size: 2316
+MD5sum: 69e1ed806effbcaa07626596cf257804
+SHA1: 750df81d506e984ca85ad39582191a8935be2019
+SHA256: bddc4cb6b0d9e9fe7d46b943ee3f85c26616b32b833cb0192c6a1f01de165def
+Section: 汉化
+Description: Safari X 汉化
+ * 设置内按钮未汉化
+Author: Super TrollStore
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/jss.json
+
+Package: com.safarixs.zh-Hans
+Version: 1.3.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Replaces: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix, com.0xkuj.safarixs
+Filename: ./debs/iphoneos-arm64e/com.safarixs.zh-hans_1.3.0_iphoneos-arm64e.deb
+Size: 3006
+MD5sum: 19803e23aa2b444bcde9712df62af286
+SHA1: 434c47a17b73c071bd262ed4523c4c7ed1a16c38
+SHA256: d5dfc17c7b6287823e9c523b12109116ca4fcc729bd10238569728ab8c4b254c
+Section: 汉化
+Description: Safari X 汉化
+ * 设置内按钮未汉化
+Author: Super TrollStore
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/jss.json
+
 Package: com.sileo.zh-hans
 Version: 2.6
 Architecture: iphoneos-arm64
