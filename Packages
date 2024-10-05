@@ -383,6 +383,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
 Name: No Redirect 禁字诀
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
+Package: com.82flex.singlemutes
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.2_iphoneos-arm64.deb
+Size: 5348
+MD5sum: ecff1a8f213e6f95a0ed29b15fb36c97
+SHA1: e14fe2fb993f423c73112cf42c0056a157e37b24
+SHA256: 52c2a0f3ea115f1fbec29530f54648954c2d46324d3e741e3ba301f41e97b7a9
+Section: Tweaks
+Description: 状态栏左上角显示静音图标
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
+Name: Single Mute 静音图标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
+
+Package: com.82flex.singlemutes
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlemutes_1.2_iphoneos-arm64e.deb
+Size: 7168
+MD5sum: 04e8d474555fc084eb57bc4802ec70c3
+SHA1: 8c350a8483e651485b40e0cbec700422819b0b69
+SHA256: 397bc4e139ff9dc8a8deb7bb947b65762fcb7be2ac64b3dd75097ce4c363bfd0
+Section: Tweaks
+Description: 状态栏左上角显示静音图标
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
+Name: Single Mute 静音图标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -2066,6 +2105,53 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 Name: TwitterNoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
+
+Package: com.ps.cahighfpss
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Conflicts: com.ps.cahighfps
+Filename: ./debs/iphoneos-arm64/com.ps.cahighfpss_1.3.1_iphoneos-arm64.deb
+Size: 5688
+MD5sum: c8140a0923b49067ca4ae4528f70c10b
+SHA1: 8ee609df291127289bfa8a6d3020d18ec2ebe95b
+SHA256: 404a4aaf4fb082c693b29ec3fa0b72b55b6b7d103b2a476c288954adc888acd9
+Section: Bootstrap
+Description: 让高帧率设备默认帧率 80hz 达到 120hz
+ * 仅测试 120hz 功能，没用请卸载
+ * 安装后默认开启，无设置选项
+ * 测试 Bootstrap｜13pm ｜17.0
+ * Bootstrap 环境需要某个应用生效，就要在 Bootstrap 开启某个应用注入
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/icon.png
+Name: CAHighFPS 120hz
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/js.json
+
+Package: com.ps.cahighfpss
+Version: 1.3.1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Conflicts: com.ps.cahighfps
+Filename: ./debs/iphoneos-arm64e/com.ps.cahighfpss_1.3.1_iphoneos-arm64e.deb
+Size: 7990
+MD5sum: e136b66be14d72c8f83a048c78fcf1f7
+SHA1: e57924cbcd7230db2166e50b49f0aa1defefd3b7
+SHA256: 6aad6f0510f77285a98de481d7cb76221b47c4a7260ba6b8b0042aebea3e25d2
+Section: Bootstrap
+Description: 让高帧率设备默认帧率 80hz 达到 120hz
+ * 仅测试 120hz 功能，没用请卸载
+ * 安装后默认开启，无设置选项
+ * 测试 Bootstrap｜13pm ｜17.0
+ * Bootstrap 环境需要某个应用生效，就要在 Bootstrap 开启某个应用注入
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/icon.png
+Name: CAHighFPS 120hz
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/js.json
 
 Package: com.ps.recordpauses
 Version: 2.0.3
