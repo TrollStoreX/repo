@@ -422,6 +422,129 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
 Name: Single Mute 静音图标
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
 
+Package: com.82flex.singlemutes
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 82Flex
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.3_iphoneos-arm64.deb
+Size: 5392
+MD5sum: 8ceb5496bb136d1f8cbd0f9a2bf3524a
+SHA1: e78eac790221a7a951c4067105fe4fcbc1dc87c4
+SHA256: 6ed5648ec586f8006786275aec4e17c9acf2ed3b36a1a66f84e59041add7771a
+Section: Tweaks
+Description: 状态栏左上角显示静音图标
+ * Just a single mute icon on the status bar of iOS.
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
+Name: Single Mute 静音图标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
+
+Package: com.82flex.singlemutes
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlemutes_1.3_iphoneos-arm64e.deb
+Size: 7246
+MD5sum: 67b6b20e940f731757af04a2d041b223
+SHA1: 552ccc34fddb6635d386007215f1b7785798ddfa
+SHA256: 507667d5eaf40861f2192c2dee754fe8fb31c7c6570cc531e0914bb71a5e9e31
+Section: Tweaks
+Description: 状态栏左上角显示静音图标
+ * Just a single mute icon on the status bar of iOS.
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
+Name: Single Mute 静音图标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
+
+Package: com.82flex.singlevpn.green
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevp.orange
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn.green_1.0_iphoneos-arm64.deb
+Size: 5848
+MD5sum: 5884e49635e825694f637c01b41845c4
+SHA1: 835a4c1c577b2341c8c71c784ea3fb67f45b8bc8
+SHA256: 2ff40213652e27fc36edf9b323ad65e81ffc7f6489af231ec41f57b4c8f20220
+Section: Tweaks
+Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：绿色 🟢
+ * Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon2.png
+Name: Single VPN Green
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/js.json
+
+Package: com.82flex.singlevpn.green
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevp.orange
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn.green_1.0_iphoneos-arm64e.deb
+Size: 8068
+MD5sum: a8d1a68ace8ab2729dedd99163da03cb
+SHA1: 56043d5eb0b8ae62934db750d41248dafb0ffc26
+SHA256: 19b81e3811cd607ef7fb617be4017304330b24b5ee52b331f7887571fa32f83e
+Section: Tweaks
+Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：绿色 🟢
+ * Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon2.png
+Name: Single VPN Green
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/js.json
+
+Package: com.82flex.singlevpn.orange
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 168
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevp.green
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn.orange_1.0_iphoneos-arm64.deb
+Size: 5844
+MD5sum: 14da8a3f64e0a3a80eb84494367f75a5
+SHA1: 6117996de2622284afb3bc7f20ec71572259ad18
+SHA256: 6f44545491d41d967c20585f1cf0d452a52dbd063e6af1bfed84f21a0e69cb0d
+Section: Tweaks
+Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：橙色 🟠
+ * Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon1.png
+Name: Single VPN Orange
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jss.json
+
+Package: com.82flex.singlevpn.orange
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevp.green
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn.orange_1.0_iphoneos-arm64e.deb
+Size: 8062
+MD5sum: 2dcc5403fcbe596f7c4b2fa6c99e9e4c
+SHA1: 748be8417a0ea56afabcd56dfbd1dfcad828fecd
+SHA256: e9c8879c1ef26fe60670fde47dac0f238768dedcfb28846ad5785aeef47c8be6
+Section: Tweaks
+Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：橙色 🟠
+ * Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon1.png
+Name: Single VPN Orange
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jss.json
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
