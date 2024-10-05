@@ -469,12 +469,12 @@ Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 168
 Depends: firmware (>= 14.0), mobilesubstrate
-Conflicts: com.82flex.singlevpn, com.82flex.singlevp.orange
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.orange
 Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn.green_1.0_iphoneos-arm64.deb
-Size: 5848
-MD5sum: 5884e49635e825694f637c01b41845c4
-SHA1: 835a4c1c577b2341c8c71c784ea3fb67f45b8bc8
-SHA256: 2ff40213652e27fc36edf9b323ad65e81ffc7f6489af231ec41f57b4c8f20220
+Size: 5852
+MD5sum: 07db3431a4ea0ed7a54c6831075a1e2b
+SHA1: 2980762a22d9d3d1a6e89d40b294790fb4cd96d7
+SHA256: 9fd90a845e4605b5b947916d482381f8bd7171632f60a3f8e5d0d836be9de297
 Section: Tweaks
 Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：绿色 🟢
  * Combine VPN state and wireless state into one icon.
@@ -490,12 +490,12 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate
-Conflicts: com.82flex.singlevpn, com.82flex.singlevp.orange
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.orange
 Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn.green_1.0_iphoneos-arm64e.deb
-Size: 8068
-MD5sum: a8d1a68ace8ab2729dedd99163da03cb
-SHA1: 56043d5eb0b8ae62934db750d41248dafb0ffc26
-SHA256: 19b81e3811cd607ef7fb617be4017304330b24b5ee52b331f7887571fa32f83e
+Size: 8052
+MD5sum: d329af4917138ecc3c48af8c59cfe3a7
+SHA1: 9c771e860037fccb840fc1c9c50424ff80844bbd
+SHA256: bdc781a1ded35c6673cb810610828ad7597b82cac5db8993a906a014f4c19d52
 Section: Tweaks
 Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：绿色 🟢
  * Combine VPN state and wireless state into one icon.
@@ -510,12 +510,12 @@ Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 168
 Depends: firmware (>= 14.0), mobilesubstrate
-Conflicts: com.82flex.singlevpn, com.82flex.singlevp.green
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green
 Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn.orange_1.0_iphoneos-arm64.deb
 Size: 5844
-MD5sum: 14da8a3f64e0a3a80eb84494367f75a5
-SHA1: 6117996de2622284afb3bc7f20ec71572259ad18
-SHA256: 6f44545491d41d967c20585f1cf0d452a52dbd063e6af1bfed84f21a0e69cb0d
+MD5sum: 8a4ddc1494bfaa5cf04430b8b2c7dea4
+SHA1: 4c0c70fd9db1e373ea797900d90f707e649b5b0e
+SHA256: cbbfa83d2fa02754e5a4eedf2fee67718002c84b4be599832ac802a90f8aa75d
 Section: Tweaks
 Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：橙色 🟠
  * Combine VPN state and wireless state into one icon.
@@ -531,12 +531,12 @@ Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate
-Conflicts: com.82flex.singlevpn, com.82flex.singlevp.green
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green
 Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpn.orange_1.0_iphoneos-arm64e.deb
-Size: 8062
-MD5sum: 2dcc5403fcbe596f7c4b2fa6c99e9e4c
-SHA1: 748be8417a0ea56afabcd56dfbd1dfcad828fecd
-SHA256: e9c8879c1ef26fe60670fde47dac0f238768dedcfb28846ad5785aeef47c8be6
+Size: 8040
+MD5sum: cc492f1348c3378e87ff2f6f2291f027
+SHA1: 5555e356e88f720ad7468bcc42b29aa068f72eac
+SHA256: a97d9a8907600b60676aaddb22fef9d6ed5427eb51b50b2351c4f06f8a6fd372
 Section: Tweaks
 Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：橙色 🟠
  * Combine VPN state and wireless state into one icon.
