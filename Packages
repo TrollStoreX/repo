@@ -503,6 +503,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
 Name: Single Mute 静音图标
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
 
+Package: com.82flex.singlemutes
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: 82Flex
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.4_iphoneos-arm64.deb
+Size: 23788
+MD5sum: eebfb654a8a29e8d74c0d433f70ae564
+SHA1: 25b6b6be581bd49346f5085c05877b738d7fc7b2
+SHA256: f7bca0454857f87063f19a7044adbd176b93a50e77485286a39c36080bb6619b
+Section: Tweaks
+Description: 状态栏左上角显示静音图标
+ * Just a single mute icon on the status bar of iOS.
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
+Name: Single Mute 静音图标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
+
+Package: com.82flex.singlemutes
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlemutes_1.4_iphoneos-arm64e.deb
+Size: 28606
+MD5sum: 5ca63c4c6234ca8bbb9d86a1739f609a
+SHA1: 66ade4149df3247d4d38eb24ed84afba2357258b
+SHA256: a067b00410868c119c353fed2e5532f6546bd692ed038c40ef736a21e8970ead
+Section: Tweaks
+Description: 状态栏左上角显示静音图标
+ * Just a single mute icon on the status bar of iOS.
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
+Name: Single Mute 静音图标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
+
 Package: com.82flex.singlevpn.green
 Version: 1.0
 Architecture: iphoneos-arm64
