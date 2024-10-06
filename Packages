@@ -1490,13 +1490,13 @@ Version: 5.4
 Architecture: iphoneos-arm64
 Maintainer: Eevee
 Installed-Size: 2732
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
 Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
 Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.4_iphoneos-arm64.deb
 Size: 564372
-MD5sum: 9cfd81a5e45ac1cf844bd5083484ec9b
-SHA1: f41c4e8c7de65c0327bad786cea0c7014b7790ce
-SHA256: e0f4fc443609905cede4c0493a8da66be9ee18964ce700f3efafd9be7ae296c0
+MD5sum: bff539559eb220744640ba6a1dfd07e6
+SHA1: a40c062e35e83178f1ee13e8811dc8348ee53a7e
+SHA256: 11db0a3d9d46d966e000d788ea7f575738e2db7688a029c796ea74a154a99095
 Section: 应用破解
 Description: Spotify Premium 破解
  * A tweak to get Spotify Premium for free, just like Spotilife
@@ -1511,13 +1511,13 @@ Architecture: iphoneos-arm64e
 Maintainer: Eevee
 Installed-Size: 2732
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
 Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
 Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.4_iphoneos-arm64e.deb
-Size: 1582012
-MD5sum: a83a9def91c3d40f7f6120635fab1261
-SHA1: 1ec55b4ba778f2ea8b24ea5a581fd3078f27ee24
-SHA256: 17e587c571ba8c6955d2eeedf9f511060c3f1e3b1256a009ad8c2279fd48337b
+Size: 1582006
+MD5sum: 90c34887f110b720d45b5f5a3aa8cc8f
+SHA1: c0f52108ad3037bc55a8488527588583e2a28f99
+SHA256: 3f9ba04fb22054ef215996f66a8ff07da42ec4e6a235032261c4a053b38c7dbe
 Section: 应用破解
 Description: Spotify Premium 破解
  * A tweak to get Spotify Premium for free, just like Spotilife
