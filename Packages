@@ -1485,6 +1485,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.eevee.spotifys
+Version: 5.4
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.4_iphoneos-arm64.deb
+Size: 564372
+MD5sum: 9cfd81a5e45ac1cf844bd5083484ec9b
+SHA1: f41c4e8c7de65c0327bad786cea0c7014b7790ce
+SHA256: e0f4fc443609905cede4c0493a8da66be9ee18964ce700f3efafd9be7ae296c0
+Section: 应用破解
+Description: Spotify Premium 破解
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.4
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.4_iphoneos-arm64e.deb
+Size: 1582012
+MD5sum: a83a9def91c3d40f7f6120635fab1261
+SHA1: 1ec55b4ba778f2ea8b24ea5a581fd3078f27ee24
+SHA256: 17e587c571ba8c6955d2eeedf9f511060c3f1e3b1256a009ad8c2279fd48337b
+Section: 应用破解
+Description: Spotify Premium 破解
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
 Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64
