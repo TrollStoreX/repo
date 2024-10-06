@@ -706,6 +706,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 Name: Single VPN 上色
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
+Package: com.82flex.singlevpns
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpns_1.2_iphoneos-arm64.deb
+Size: 28312
+MD5sum: f06f3442adaa55269f6e56335e5ba2c3
+SHA1: 9127beb516f23950a3419cbb65298978743f8d28
+SHA256: ef91b49c266735bcc6c3f9152744fcd416b864a060e10c475721220ae5d4eb47
+Section: 乌龙工作室
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+
+Package: com.82flex.singlevpns
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpns_1.2_iphoneos-arm64e.deb
+Size: 34414
+MD5sum: 783c9f336cfa6aa63eba8175080b8de0
+SHA1: 764acd5b83b0e5897449b038ff6244e60771868c
+SHA256: 07f7d5061a150ace194e9bd08aa6831fea58734d711d42a4c791d20639932e1e
+Section: 乌龙工作室
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -2701,6 +2740,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: BHTikTok++
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
 
+Package: com.rocket.zh-Hans
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 巨魔商店 Telegram
+Depends: mobilesubstrate
+Conflicts: com.dvntm.bhinstalocalization
+Filename: ./debs/iphoneos-arm64/com.rocket.zh-Hans_1.0_iphoneos-arm64.deb
+Size: 6520
+MD5sum: 445d087612a62d639ecf42c4573ea833
+SHA1: 24f9b52010a550fdee422c5a25e08ddbc86c211a
+SHA256: 0d02e5359ee89285bde28c3b0e52104cdbef36b24a44fada927ce68932313f5a
+Section: 汉化
+Description: Rocket for Instagram 简体中文
+ * Rocket for Instagram zh-Hans
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js.json
+
+Package: com.rocket.zh-Hans
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.dvntm.bhinstalocalization
+Filename: ./debs/iphoneos-arm64e/com.rocket.zh-Hans_1.0_iphoneos-arm64e.deb
+Size: 8542
+MD5sum: e4079c5be13e31eb95c3e530abfaf973
+SHA1: 1198652e48742cdef6479fc8873f65001aa3c78e
+SHA256: e687bcdae28575ae280a33a8a40018353a60658b1fc3c20809773c8e2740f254
+Section: 汉化
+Description: Rocket for Instagram 简体中文
+ * Rocket for Instagram zh-Hans
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js.json
+
 Package: com.safarixs.zh-Hans
 Version: 1.3.0
 Architecture: iphoneos-arm64
@@ -3758,6 +3836,51 @@ Dev: zhulongfei28
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/afhook.png
 Name: 改个应用-专业的应用修改软件
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.alfhaily.rockets
+Version: 3.8.29
+Architecture: iphoneos-arm64
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6588
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64/me.alfhaily.rockets_3.8.29_iphoneos-arm64.deb
+Size: 1444620
+MD5sum: 67d139c17c079bc1fdf4d0ed97d57f0c
+SHA1: 6cf9d546bef5790a9310bbb128d43d7cc3ce2a7b
+SHA256: c8e26f4f1a24b8c7b8266d5b3451b62183da7e934340d131012fa685e7bdd6d7
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * 破解版
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
+Package: me.alfhaily.rockets
+Version: 3.8.29
+Architecture: iphoneos-arm64e
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64e/me.alfhaily.rockets_3.8.29_iphoneos-arm64e.deb
+Size: 4424488
+MD5sum: d65f49debf34220414a6bfcd66f1d77e
+SHA1: 950d27cb0fd23c73009514f0ba8b1da4f1538ffc
+SHA256: 0af12e0a451ff00cb9e752e995ca9c3270205055da9d6203776780ae29731d2d
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * 破解版
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
 
 Package: netskao.BlockAppsCreateAlbum
 Version: 1.1.2
