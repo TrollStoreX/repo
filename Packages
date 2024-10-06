@@ -403,6 +403,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.p
 Name: 删除小部件背景
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/js.json
 
+Package: com.82flex.removewidgetbgs
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Conflicts: com.82flex.removewidgetbg
+Filename: ./debs/iphoneos-arm64/com.82flex.removewidgetbgs_1.7_iphoneos-arm64.deb
+Size: 29828
+MD5sum: 22c96ca5bc058e0085024146148cb468
+SHA1: a4e816474eda40becc815517bf2b19d8c16f63e6
+SHA256: 80b4fb049b1c97c3d80388b16323ea921957da53b787ff2b998faccf319f02f4
+Section: Tweaks
+Description: 删除主屏幕上小部件的背景。
+ * Remove the background of the widgets on the home screen.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
+Name: 移除小部件背景
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/js.json
+
 Package: com.82flex.singlemutes
 Version: 1.2
 Architecture: iphoneos-arm64
