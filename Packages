@@ -1996,6 +1996,57 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 Name: 临时绕过面容 PassbyCC
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 
+Package: com.link.awemes
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Link
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.link.aweme
+Filename: ./debs/iphoneos-arm64/com.link.awemes_1.0.0_iphoneos-arm64.deb
+Size: 67672
+MD5sum: 3395c5611278fb9e55739cecd3d45ec9
+SHA1: d98dfab913336e603327f30ea1a291a18e9bdf9f
+SHA256: f03c4b6612038d034a53a53075258501fad43be6318dec8a8038d811a27989ac
+Section: 应用破解
+Description: 抖音增强插件
+ * 去广告
+ * 元素按钮隐藏
+ * 视频无水印下载
+ * 支持注入ipa使用
+ * 时间限制？未知
+ * An awesome tweak for Aweme!
+Author: Link
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音增强 Aweme
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
+
+Package: com.link.awemes
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Link
+Installed-Size: 456
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.link.aweme
+Filename: ./debs/iphoneos-arm64e/com.link.awemes_1.0.0_iphoneos-arm64e.deb
+Size: 93024
+MD5sum: b97d65010727e81d442033e947e9131e
+SHA1: 8e2f14842e31c32e5cf9c6c4a61f9081cc097e30
+SHA256: e1985fc483282b291c526e683327ebfbdbf81188026604c21d6925e0b96991d4
+Section: 应用破解
+Description: 抖音增强插件
+ * 去广告
+ * 元素按钮隐藏
+ * 视频无水印下载
+ * 支持注入ipa使用
+ * 时间限制？未知
+ * An awesome tweak for Aweme!
+Author: Link
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音增强 Aweme
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
