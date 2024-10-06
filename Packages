@@ -383,6 +383,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
 Name: No Redirect 禁字诀
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
+Package: com.82flex.removewidgetbgs
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Conflicts: com.82flex.removewidgetbg
+Filename: ./debs/iphoneos-arm64/com.82flex.removewidgetbgs_1.6_iphoneos-arm64.deb
+Size: 30236
+MD5sum: 2541fdc6e752acb808da66b16cf0a9a2
+SHA1: 15841e0d0f016893e2bea5eda29f9e3289247aa2
+SHA256: f85dacd28f703a20d21a8becc7a3cbee06bb8bf681633fa2e3c6da1d214dc9a5
+Section: Tweaks
+Description: 删除主屏幕上小部件的背景。
+ * Remove the background of the widgets on the home screen.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/icon.png
+Name: 删除小部件背景
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackground/js.json
+
 Package: com.82flex.singlemutes
 Version: 1.2
 Architecture: iphoneos-arm64
