@@ -778,6 +778,49 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Name: 语音转文字免跳转
 
+Package: com.82flex.wtvrbglaunchers
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.wtvrbglauncher
+Filename: ./debs/iphoneos-arm64/com.82flex.wtvrbglaunchers_1.1_iphoneos-arm64.deb
+Size: 23208
+MD5sum: e58a25ebca40691067469689b1611591
+SHA1: 2c3ff38cf042d9ca898e7678a27c6cd9ab4d6188
+SHA256: 8eeaeb5b937d6a8658938012fa9dfd2033d1b96dee8e220e92f4ea98d4cd7bbe
+Section: 乌龙工作室
+Description: 中文输入法语音转文字免跳转插件。
+ * 无设置选项，安装并注销后立即生效。
+ * 支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuyin/icon.png
+Name: 语音转文字免跳转
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuyin/js.json
+
+Package: com.82flex.wtvrbglaunchers
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 404
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.wtvrbglauncher
+Filename: ./debs/iphoneos-arm64e/com.82flex.wtvrbglaunchers_1.1_iphoneos-arm64e.deb
+Size: 27738
+MD5sum: 1ec6d954a14222243600789526ec871f
+SHA1: 9ae924dd8b02b8a57673db47d5b14e70078ff1ab
+SHA256: a6490e8266db1dad98bff005bd5138cdb275775375f29ebf38bcbab59b5b06ab
+Section: 乌龙工作室
+Description: 中文输入法语音转文字免跳转插件。
+ * 无设置选项，安装并注销后立即生效。
+ * 支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuyin/icon.png
+Name: 语音转文字免跳转
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuyin/js.json
+
 Package: com.HBWechatHelper.ailuns
 Version: 1.7.4
 Architecture: iphoneos-arm64
@@ -3638,6 +3681,53 @@ Size: 10408920
 MD5sum: f0c92cd0c4679eb3f118e363657dc0fa
 SHA1: 36ee73c9a0158527c3a67dd2732ef068b2f66348
 SHA256: 0d603e7edc290e2034b2cd64e89d96f2ba9609620f51c38e0f734ddf1c94d186
+Section: 应用破解
+Description: 抖音增强插件
+ * 仅支持越狱
+ * 无水印下载视频
+ * 隐藏各种元素按钮文字等
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.0.6+2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+2_iphoneos-arm64.deb
+Size: 3741224
+MD5sum: 7f4287673d957671797245130c9a98d2
+SHA1: 866e2d7a8c573498b86e9a32a76c849efd38e641
+SHA256: 282d49fc224becc603500c520396e03bab3c5696d322df536a6a73bfe00ef305
+Section: 应用破解
+Description: 抖音增强插件
+ * 仅支持越狱
+ * 无水印下载视频
+ * 隐藏各种元素按钮文字等
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.0.6+2
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.0.6+2_iphoneos-arm64e.deb
+Size: 10372834
+MD5sum: 17bc432dbbd35f2503b484a29114ad95
+SHA1: 3c9407c524e4b37fb0ebe0346993b8d8873a7318
+SHA256: 1b507a061fa1a5b80598ddcd1a691793d2fa31d1d4f7f9a22ed7a9888ff371ed
 Section: 应用破解
 Description: 抖音增强插件
  * 仅支持越狱
