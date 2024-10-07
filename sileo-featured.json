@@ -4,21 +4,9 @@
  "itemCornerRadius": 10,
  "banners": [
   {
-   "url": "https://TrollStoreX.Github.io/sileodepiction/repo_pic/top1.png",
-   "title": "支持Rootless RootHide",
+   "url": "https://TrollStoreX.Github.io/sileodepiction/repo_pic/banner.png",
+   "title": "越狱源",
    "package": "com.kingpuffdaddi.control-center.ccvpn.surge",
-   "hideShadow": false
-  },
-  {
-   "url": "https://trollstorex.github.io/sileodepiction/repo_pic/top2.png",
-   "title": "crc",
-   "package": "com.nan.crc",
-   "hideShadow": false
-  },
-  {
-   "url": "https://trollstorex.github.io/sileodepiction/repo_pic/top3.png",
-   "title": "cac",
-   "package": "com.nan.cac",
    "hideShadow": false
   }
  ]
