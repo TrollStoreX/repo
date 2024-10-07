@@ -2356,6 +2356,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/icon.png
 Name: 抖音 AwemeDownloadMedia
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
 
+Package: com.netskao.awemedownloadmedias
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 208
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.netskao.awemedownloadmedia
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-2_iphoneos-arm64.deb
+Size: 66356
+MD5sum: abda7c7ee6043b83e5fed307e141957d
+SHA1: c96b5e02963dd46b01dfadb34f07ee7b28fd76e7
+SHA256: 3d1f19119099bb5af409d08431e5b47ad96b9b8636b5fe68974eaaf57054221b
+Section: 应用破解
+Description: 抖音下载增强插件
+ * 右下角显示下载按钮
+ * 无水印保存图片、视频、LivePhoto
+ * 仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/icon.png
+Name: 抖音 AwemeDownloadMedia
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
+
+Package: com.netskao.awemedownloadmedias
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 208
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.netskao.awemedownloadmedia
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemedownloadmedias_1.1-2_iphoneos-arm64e.deb
+Size: 98152
+MD5sum: 40b1fbfc89b8186f88744acb9b2de54e
+SHA1: baf5d0cb48475da963a4775c50c0343c05aab3fc
+SHA256: d9e361f33f5a4d79d80d2842fbe3c6368f6d594379ee4f098f9b245942ca6a98
+Section: 应用破解
+Description: 抖音下载增强插件
+ * 右下角显示下载按钮
+ * 无水印保存图片、视频、LivePhoto
+ * 仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/icon.png
+Name: 抖音 AwemeDownloadMedia
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
+
 Package: com.netskao.awemefullscreens
 Version: 1.1-8
 Architecture: iphoneos-arm64
