@@ -2403,6 +2403,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
+Package: com.netskao.awemedisablebars
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemedisablebar
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedisablebars_1.1-2_iphoneos-arm64.deb
+Size: 41484
+MD5sum: 0f498c40793224749b7e8f0e63a301c8
+SHA1: f2396be9bebff1070cad29bcfe99b9be7bde12e3
+SHA256: 61930af929f260b40dc4d17450a49c7a7173ba2dd64dc52edb25a872636555b0
+Section: 抖音插件
+Description: 抖音禁用插件
+ * 禁用顶部/底部选项卡按钮
+ * 仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
+Name: 抖音禁用 AwemeDisableBar
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/js.json
+
+Package: com.netskao.awemedisablebars
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemedisablebar
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemedisablebars_1.1-2_iphoneos-arm64e.deb
+Size: 58846
+MD5sum: 4f909583f3497fba247cff775ae37c7f
+SHA1: f9b4faef9c952a01b8b71ae1deffd3460dc321a7
+SHA256: 3f31647587fc68e314ccbc2dd3255b187af3c4ff65280c5be88d8c28976b9677
+Section: 抖音插件
+Description: 抖音禁用插件
+ * 禁用顶部/底部选项卡按钮
+ * 仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
+Name: 抖音禁用 AwemeDisableBar
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/js.json
+
 Package: com.netskao.awemedownloadmedias
 Version: 1.1-1
 Architecture: iphoneos-arm64
