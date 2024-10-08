@@ -4099,46 +4099,50 @@ Package: com.xx.xhshooks
 Version: 1.1.0-3
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 2152
+Installed-Size: 3196
 Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
 Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-3_iphoneos-arm64.deb
-Size: 1112984
-MD5sum: 1e8f8eee0afa5117747802ab491fd3c5
-SHA1: 0d4dd517ae3cbfb12ee98f8a74aea50cbfde45de
-SHA256: 29230c3f33260806b2a03ca26d4b5dfd02afaff94235d45b800e9e2f77d4733b
+Size: 1112896
+MD5sum: 07a254a32eebbed76d743fba1f58a15e
+SHA1: e883d2844cf613c835d7863d08f506cf65223ac2
+SHA256: eac83f97058b65572518bd4d88024bd760132cc0f993e8908385c92d20c07155
 Section: 应用破解
-Description: ### 小红书增强插件
- * 仅支持越狱
+Description: 小红书增强插件
+ * 仅支持越狱、Bootstrap 环境
  * 默认移除一些广告
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
  * 放大图片双指长按可保存高分辨率图片
  * APP设置界面右上角打开插件界面或双指长按设置界面
 Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
-Name: 小红薯
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
 Package: com.xx.xhshooks
 Version: 1.1.0-3
 Architecture: iphoneos-arm64e
 Maintainer: x✨
-Installed-Size: 2152
+Installed-Size: 3196
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
 Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.0-3_iphoneos-arm64e.deb
-Size: 3046338
-MD5sum: df6aaf0d9585ec52f71d74256d4561e9
-SHA1: 2d1c3f89b091bbac3405f52e4310216450b37708
-SHA256: 57f9d077180c41e48172ea06f16c468e65853597657b75f11e5b8e0d1898f87e
+Size: 3046410
+MD5sum: 76c00e903fd9c759bf7f4d730d1b902a
+SHA1: 16819aa43aabc3d2d07a58eced18f23177073577
+SHA256: 083e57b85f30c66d71999a10e72ce50381586a4649f89f4e7ced32a2912293e9
 Section: 应用破解
-Description: ### 小红书增强插件
- * 仅支持越狱
+Description: 小红书增强插件
+ * 仅支持越狱、Bootstrap 环境
  * 默认移除一些广告
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
  * 放大图片双指长按可保存高分辨率图片
  * APP设置界面右上角打开插件界面或双指长按设置界面
 Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
-Name: 小红薯
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
 Package: com.xybp888.lockbuttons
 Version: 0.1-2
