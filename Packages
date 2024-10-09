@@ -2985,16 +2985,16 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.netskao.awemevideotime
 Filename: ./debs/iphoneos-arm64e/com.netskao.awemevideotimes_1.1-1_iphoneos-arm64e.deb
-Size: 41140
-MD5sum: 1546192e959e4e46d34fba686ffbf2fc
-SHA1: 4c4863d602e7473e9a486854387d42b545fe01bc
-SHA256: b56a2297a3d025a46bb0e843b1b5ab33d5da24fa9a03340ccc94e984095026dc
+Size: 41148
+MD5sum: 3d77216d78ca76a8d68a3d604340d567
+SHA1: ec217fd2f03c5ba5dfde9b1f750ede7f2dc8993a
+SHA256: 1b0e2903a0b0b125aa495161cad66f814ffc410db5486519d31e3f19cc1911b6
 Section: 抖音插件
-Description: 抖音视频显示时间进度条
+Description: 抖音视频下方显示视频时长
  * 仅在30.3.0及更高版本上进行测试
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/icon.png
-Name: 抖音进度条 AwemeVideoTime
+Name: 抖音时间 AwemeVideoTime
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/js.json
 
 Package: com.netskao.awemevideotimes
@@ -3005,16 +3005,16 @@ Installed-Size: 124
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.netskao.awemevideotime
 Filename: ./debs/iphoneos-arm64/com.netskao.awemevideotimes_1.1-1_iphoneos-arm64.deb
-Size: 28356
-MD5sum: 0c8f8bd488dc64882d61246dbfe07185
-SHA1: fdb87796484d5bcd42d958139f019d7085a3cb04
-SHA256: c55fb5a6941dc36eb243fbc277d6c3ff99391770e42ad7a95c12c6d3c9cb8d7e
+Size: 28360
+MD5sum: 1b4222db64b24026edce8d07cad8d9e0
+SHA1: aeb089feaa06bd9673538e6a2fd2f3dd43781123
+SHA256: ca84f49f025d729a59daf7d978d8dbaab09c9bad7b589344f04ef1cf3a75363b
 Section: 抖音插件
-Description: 抖音视频显示时间进度条
+Description: 抖音视频下方显示视频时长
  * 仅在30.3.0及更高版本上进行测试
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/icon.png
-Name: 抖音进度条 AwemeVideoTime
+Name: 抖音时间 AwemeVideoTime
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/js.json
 
 Package: com.netskao.qqnotiavatars
