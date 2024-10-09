@@ -1167,24 +1167,6 @@ Version: 0.5-9
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/iphoneos-arm64/PKC_0.5-9_iphoneos-arm64.deb
-Size: 572656
-MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
-SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
-SHA256: 2be5276c2d29e810f27d6d13e5e7e86d98278a6f44518bb50d3bcc517484f29e
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC_无根
-
-Package: com.curtin.pkc.rootless
-Version: 0.5-9
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
 Conflicts: com.curtin.pkc.rootless
 Replaces: com.curtin.pkc.rootless
 Provides: com.curtin.pkc.rootless
@@ -1200,6 +1182,24 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC 助手
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-9
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/PKC_0.5-9_iphoneos-arm64.deb
+Size: 572656
+MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
+SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
+SHA256: 2be5276c2d29e810f27d6d13e5e7e86d98278a6f44518bb50d3bcc517484f29e
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
 
 Package: com.curtin.pkc.rootless
 Version: 0.6-0
@@ -2474,23 +2474,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Nathan Senter
-Installed-Size: 136
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
-Size: 4072
-MD5sum: eea4504514f5ad60d8386a1f7651a8b4
-SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
-SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
-Section: Tweaks
-Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
-Author: Nathan Senter
-Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
-Name: 显示存储系统数据详情InternalStorageSettings
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
-
-Package: com.nathan.internalstoragesettingss
-Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
@@ -2500,6 +2483,23 @@ Size: 5692
 MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
 SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
 SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Section: Tweaks
+Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
+Name: 显示存储系统数据详情InternalStorageSettings
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
+
+Package: com.nathan.internalstoragesettingss
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
+Size: 4072
+MD5sum: eea4504514f5ad60d8386a1f7651a8b4
+SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
+SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
