@@ -1,28 +1,5 @@
 Package: MisakaHelpers
 Version: 2.1-0
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Misaka
-Depends: mobilesubstrate
-Conflicts: MisakaHelper
-Replaces: MisakaHelper
-Provides: MisakaHelper
-Filename: ./debs/iphoneos-arm64/MisakaHelpers_2.1-0_iphoneos-arm64.deb
-Size: 13127104
-MD5sum: 8df9c714d9919eefd75cb983b3234e7d
-SHA1: b724e0f62df5f40ec38bcbb5911796374762b9dd
-SHA256: f212341e862e63480218d3e17a06e262b2dc4502b5e963fa62d814c40a95efe1
-Section: 微信插件
-Priority: optional
-Description: 微信多功能插件
- * END最终版本
-  * 作者已停止更新。
-Author: Misaka
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/misaka.png
-Name: MisakaHelper
-
-Package: MisakaHelpers
-Version: 2.1-0
 Architecture: iphoneos-arm64e
 Essential: no
 Maintainer: Misaka
@@ -45,25 +22,28 @@ Author: Misaka
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/misaka.png
 Name: MisakaHelper
 
-Package: cax.zhumi.ThemeManager.rootlesss
-Version: 1.6.2
+Package: MisakaHelpers
+Version: 2.1-0
 Architecture: iphoneos-arm64
 Essential: no
-Maintainer: zhumi
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: cax.zhumi.ThemeManager.rootless
-Filename: ./debs/iphoneos-arm64/cax.zhumi.ThemeManager.rootlesss_1.6.2_iphoneos-arm64.deb
-Size: 2703524
-MD5sum: e484ab72a287c79d74692656881d4a49
-SHA1: 4e01ce867534b477cd16c246e09d826bda93a4e9
-SHA256: e32293b23f41ee69636c46105a6c3cb5f3687e7d4d68f6d87fd7bc346cdb9a5c
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/iphoneos-arm64/MisakaHelpers_2.1-0_iphoneos-arm64.deb
+Size: 13127104
+MD5sum: 8df9c714d9919eefd75cb983b3234e7d
+SHA1: b724e0f62df5f40ec38bcbb5911796374762b9dd
+SHA256: f212341e862e63480218d3e17a06e262b2dc4502b5e963fa62d814c40a95efe1
 Section: 微信插件
 Priority: optional
-Description: 微信主题插件
-Author: zhumi
-Icon: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/icon.png
-Name: ThemeManager 猪咪微信主题
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.json
+Description: 微信多功能插件
+ * END最终版本
+  * 作者已停止更新。
+Author: Misaka
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/misaka.png
+Name: MisakaHelper
 
 Package: cax.zhumi.ThemeManager.rootlesss
 Version: 1.6.2
@@ -86,23 +66,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/icon.png
 Name: ThemeManager 猪咪微信主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.json
 
-Package: com.0xkuj.safarixs
-Version: 1.3.0
+Package: cax.zhumi.ThemeManager.rootlesss
+Version: 1.6.2
 Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
-Filename: ./debs/iphoneos-arm64/com.0xkuj.safarixs_1.3.0_iphoneos-arm64.deb
-Size: 272120
-MD5sum: 8b5c4a0eea7f8c56427eea130e57d9e9
-SHA1: e3f855e95d545c1765d47fcd1bec8aee0ab53c31
-SHA256: 9e8374a2a90d088e1d3208f8818d5dfe8e7eb0a889c48ee0d148bcdbd328717d
-Section: Bootstrap
-Description: Safari 浏览器增强插件
-Author: 0xkuj
-Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
-Name: Safari X
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
+Essential: no
+Maintainer: zhumi
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: cax.zhumi.ThemeManager.rootless
+Filename: ./debs/iphoneos-arm64/cax.zhumi.ThemeManager.rootlesss_1.6.2_iphoneos-arm64.deb
+Size: 2703524
+MD5sum: e484ab72a287c79d74692656881d4a49
+SHA1: 4e01ce867534b477cd16c246e09d826bda93a4e9
+SHA256: e32293b23f41ee69636c46105a6c3cb5f3687e7d4d68f6d87fd7bc346cdb9a5c
+Section: 微信插件
+Priority: optional
+Description: 微信主题插件
+Author: zhumi
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/icon.png
+Name: ThemeManager 猪咪微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.json
 
 Package: com.0xkuj.safarixs
 Version: 1.3.0
@@ -123,24 +105,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
 Name: Safari X
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
 
-Package: com.25mao.KuaiDou
-Version: 0.1-1
+Package: com.0xkuj.safarixs
+Version: 1.3.0
 Architecture: iphoneos-arm64
-Maintainer: https://trollstorex.github.io/repo/
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.25mao.KuaiDou_0.1-1_iphoneos-arm64.deb
-Size: 14208
-MD5sum: 64677598d5c90bdb3ebe44287ed3cb8d
-SHA1: f86808e761d9ac15abdbbac9f2d2db14daf9814b
-SHA256: 1b61874eae8980499929200d2a1860e43cdb50e0569472c024557c54daa1c6ec
-Section: 微信插件
-Description: ### 微信插件
- * 发送文字自动转换为表情
- * 需要同时安装微信助手和微信插件管理
-Author: Mao
-Icon: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/icon.png
-Name: 快斗
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/js.json
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
+Filename: ./debs/iphoneos-arm64/com.0xkuj.safarixs_1.3.0_iphoneos-arm64.deb
+Size: 272120
+MD5sum: 8b5c4a0eea7f8c56427eea130e57d9e9
+SHA1: e3f855e95d545c1765d47fcd1bec8aee0ab53c31
+SHA256: 9e8374a2a90d088e1d3208f8818d5dfe8e7eb0a889c48ee0d148bcdbd328717d
+Section: Bootstrap
+Description: Safari 浏览器增强插件
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
 
 Package: com.25mao.KuaiDou
 Version: 0.1-1
@@ -162,28 +143,24 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/icon.png
 Name: 快斗
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/js.json
 
-Package: com.25mao.miyou.rootlesss
-Version: 3.8-0
+Package: com.25mao.KuaiDou
+Version: 0.1-1
 Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Conflicts: com.25mao.miyou.rootless
-Replaces: com.25mao.miyou.rootless
-Provides: com.25mao.miyou.rootless
-Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-0-iphoneos-arm64.deb
-Size: 10146224
-MD5sum: 59361fec2bdc22450ba48d841c24b638
-SHA1: 079711b496d204cb644eb56642de9a135ab7294c
-SHA256: 518297d09914a5c62f965221f8663cf96eebe3aa79bfcd3b95296e54d7132dcf
+Maintainer: https://trollstorex.github.io/repo/
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.25mao.KuaiDou_0.1-1_iphoneos-arm64.deb
+Size: 14208
+MD5sum: 64677598d5c90bdb3ebe44287ed3cb8d
+SHA1: f86808e761d9ac15abdbbac9f2d2db14daf9814b
+SHA256: 1b61874eae8980499929200d2a1860e43cdb50e0569472c024557c54daa1c6ec
 Section: 微信插件
-Priority: optional
-Description: 微信助手/老猫助手/密友
-  * 微信多功能插件
+Description: ### 微信插件
+ * 发送文字自动转换为表情
+ * 需要同时安装微信助手和微信插件管理
 Author: Mao
-Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
-Name: 微信助手
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
-Sponsor: admin@25mao.com
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/icon.png
+Name: 快斗
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kuaidou/js.json
 
 Package: com.25mao.miyou.rootlesss
 Version: 3.8-0
@@ -209,29 +186,27 @@ Name: 微信助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
 Sponsor: admin@25mao.com
 
-Package: com.25mao.wcplugins.rootlesss
-Version: 0.1-3
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-0
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Conflicts: com.25mao.wcplugins.rootless
-Replaces: com.25mao.wcplugins.rootless
-Provides: com.25mao.wcplugins.rootless
-Filename: ./debs/iphoneos-arm64/com.25mao.wcplugins.rootless_0.1-iphoneos-arm64.deb
-Size: 19780
-MD5sum: dec55d88a2eaf90002de5c2782eb579f
-SHA1: 0b32d15819e1ca0778ea0a18991ca0ada3a1fff6
-SHA256: 27be294859561ca45cd8c153dcc92b4d5ef84feac227853426fe2413b2ca48f2
+Conflicts: com.25mao.miyou.rootless
+Replaces: com.25mao.miyou.rootless
+Provides: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-0-iphoneos-arm64.deb
+Size: 10146224
+MD5sum: 59361fec2bdc22450ba48d841c24b638
+SHA1: 079711b496d204cb644eb56642de9a135ab7294c
+SHA256: 518297d09914a5c62f965221f8663cf96eebe3aa79bfcd3b95296e54d7132dcf
 Section: 微信插件
 Priority: optional
-Description: 微信插件管理
- * 收纳第三方微信插件
- * 位于微信右下角“我”-“插件”
- * 部分微信插件不支持收纳
+Description: 微信助手/老猫助手/密友
+  * 微信多功能插件
 Author: Mao
-Icon: https://TrollStoreX.Github.io/sileodepiction/wcplugins/icon.png
-Name: 微信插件管理
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
 Sponsor: admin@25mao.com
 
 Package: com.25mao.wcplugins.rootlesss
@@ -260,25 +235,30 @@ Name: 微信插件管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
 Sponsor: admin@25mao.com
 
-Package: com.82flex.noredirects
-Version: 1.0
+Package: com.25mao.wcplugins.rootlesss
+Version: 0.1-3
 Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 468
-Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
-Conflicts: com.82flex.noredirect
-Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.0_iphoneos-arm64.deb
-Size: 35404
-MD5sum: e7c28eacc30e4192270c1a42d58c9bbc
-SHA1: f1be35cf421fdf37d99dbb468d696442520517f4
-SHA256: 8906682227ffa062a91915e8ab09c38b1bf6d4e79b1f6a0f85d05588b1ffde6a
-Section: Tweaks
-Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
- * Stop specified apps from redirecting to App Store, Safari or other apps.
-Author: Lessica <82flex@gmail.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
-Name: No Redirect 禁止启动应用
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.wcplugins.rootless
+Replaces: com.25mao.wcplugins.rootless
+Provides: com.25mao.wcplugins.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.wcplugins.rootless_0.1-iphoneos-arm64.deb
+Size: 19780
+MD5sum: dec55d88a2eaf90002de5c2782eb579f
+SHA1: 0b32d15819e1ca0778ea0a18991ca0ada3a1fff6
+SHA256: 27be294859561ca45cd8c153dcc92b4d5ef84feac227853426fe2413b2ca48f2
+Section: 微信插件
+Priority: optional
+Description: 微信插件管理
+ * 收纳第三方微信插件
+ * 位于微信右下角“我”-“插件”
+ * 部分微信插件不支持收纳
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/wcplugins/icon.png
+Name: 微信插件管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
+Sponsor: admin@25mao.com
 
 Package: com.82flex.noredirects
 Version: 1.0
@@ -302,17 +282,17 @@ Name: No Redirect 禁止启动应用
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
 Package: com.82flex.noredirects
-Version: 1.1
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 468
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Conflicts: com.82flex.noredirect
-Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.1_iphoneos-arm64.deb
-Size: 37956
-MD5sum: 7c8a4f8243397c47bea536e2de9affd9
-SHA1: eee4ca7f33adff3f2609210056594beacac42cfe
-SHA256: 7260de63ef99477ade8389cf2c13313635f032771775f42b0c01f15f5069eed7
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.0_iphoneos-arm64.deb
+Size: 35404
+MD5sum: e7c28eacc30e4192270c1a42d58c9bbc
+SHA1: f1be35cf421fdf37d99dbb468d696442520517f4
+SHA256: 8906682227ffa062a91915e8ab09c38b1bf6d4e79b1f6a0f85d05588b1ffde6a
 Section: Tweaks
 Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
  * Stop specified apps from redirecting to App Store, Safari or other apps.
@@ -343,17 +323,17 @@ Name: No Redirect 禁止启动应用
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
 Package: com.82flex.noredirects
-Version: 1.2
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 468
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Conflicts: com.82flex.noredirect
-Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.2_iphoneos-arm64.deb
-Size: 37172
-MD5sum: 9b6c0a76b901526b97e6bbea98500f54
-SHA1: cb2649e9b1ef5f6d6f8d3ec289ac91d2255c5452
-SHA256: 9996d5cc65b534c7a5ad0500b4ac5f7e32fae1af147f462542e9e779350adb7f
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.1_iphoneos-arm64.deb
+Size: 37956
+MD5sum: 7c8a4f8243397c47bea536e2de9affd9
+SHA1: eee4ca7f33adff3f2609210056594beacac42cfe
+SHA256: 7260de63ef99477ade8389cf2c13313635f032771775f42b0c01f15f5069eed7
 Section: Tweaks
 Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
  * Stop specified apps from redirecting to App Store, Safari or other apps.
@@ -384,23 +364,23 @@ Name: No Redirect 禁止启动应用
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
 Package: com.82flex.noredirects
-Version: 1.3
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 468
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Conflicts: com.82flex.noredirect
-Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.3_iphoneos-arm64.deb
-Size: 44248
-MD5sum: 7decf0db8b5b7e3650e88092ed6e65bd
-SHA1: 1abcee55cafe31a48817237835392bcf464ffbef
-SHA256: fb8590c8b57e1a66e8960c7a3f78429ed35135e267b24c98b6f2556af919d6aa
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.2_iphoneos-arm64.deb
+Size: 37172
+MD5sum: 9b6c0a76b901526b97e6bbea98500f54
+SHA1: cb2649e9b1ef5f6d6f8d3ec289ac91d2255c5452
+SHA256: 9996d5cc65b534c7a5ad0500b4ac5f7e32fae1af147f462542e9e779350adb7f
 Section: Tweaks
 Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
  * Stop specified apps from redirecting to App Store, Safari or other apps.
 Author: Lessica <82flex@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
-Name: No Redirect 禁字诀
+Name: No Redirect 禁止启动应用
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
 Package: com.82flex.noredirects
@@ -416,6 +396,26 @@ Size: 57588
 MD5sum: 3380788e193d1f3c2dba03afdf902f1f
 SHA1: ac04a78d2afd569db65a15a251d6ffb9de68924a
 SHA256: fa4aff3b9c6dd223e63f2f77cb1cc233daaf33b45b326fe5c6354049212ec553
+Section: Tweaks
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
+ * Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
+Name: No Redirect 禁字诀
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
+
+Package: com.82flex.noredirects
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 468
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/iphoneos-arm64/com.82flex.noredirects_1.3_iphoneos-arm64.deb
+Size: 44248
+MD5sum: 7decf0db8b5b7e3650e88092ed6e65bd
+SHA1: 1abcee55cafe31a48817237835392bcf464ffbef
+SHA256: fb8590c8b57e1a66e8960c7a3f78429ed35135e267b24c98b6f2556af919d6aa
 Section: Tweaks
 Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
  * Stop specified apps from redirecting to App Store, Safari or other apps.
@@ -466,25 +466,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/RemoveWidgetBackgro
 
 Package: com.82flex.singlemutes
 Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: 82Flex
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.82flex.singlemute
-Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.2_iphoneos-arm64.deb
-Size: 5348
-MD5sum: ecff1a8f213e6f95a0ed29b15fb36c97
-SHA1: e14fe2fb993f423c73112cf42c0056a157e37b24
-SHA256: 52c2a0f3ea115f1fbec29530f54648954c2d46324d3e741e3ba301f41e97b7a9
-Section: Tweaks
-Description: 状态栏左上角显示静音图标
-Author: 82Flex
-Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
-Name: Single Mute 静音图标
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
-
-Package: com.82flex.singlemutes
-Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: 82Flex
 Installed-Size: 168
@@ -504,20 +485,19 @@ Name: Single Mute 静音图标
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
 
 Package: com.82flex.singlemutes
-Version: 1.3
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 82Flex
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.82flex.singlemute
-Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.3_iphoneos-arm64.deb
-Size: 5392
-MD5sum: 8ceb5496bb136d1f8cbd0f9a2bf3524a
-SHA1: e78eac790221a7a951c4067105fe4fcbc1dc87c4
-SHA256: 6ed5648ec586f8006786275aec4e17c9acf2ed3b36a1a66f84e59041add7771a
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.2_iphoneos-arm64.deb
+Size: 5348
+MD5sum: ecff1a8f213e6f95a0ed29b15fb36c97
+SHA1: e14fe2fb993f423c73112cf42c0056a157e37b24
+SHA256: 52c2a0f3ea115f1fbec29530f54648954c2d46324d3e741e3ba301f41e97b7a9
 Section: Tweaks
 Description: 状态栏左上角显示静音图标
- * Just a single mute icon on the status bar of iOS.
 Author: 82Flex
 Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
 Name: Single Mute 静音图标
@@ -545,17 +525,17 @@ Name: Single Mute 静音图标
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
 
 Package: com.82flex.singlemutes
-Version: 1.4
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: 82Flex
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.82flex.singlemute
-Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.4_iphoneos-arm64.deb
-Size: 23788
-MD5sum: eebfb654a8a29e8d74c0d433f70ae564
-SHA1: 25b6b6be581bd49346f5085c05877b738d7fc7b2
-SHA256: f7bca0454857f87063f19a7044adbd176b93a50e77485286a39c36080bb6619b
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.3_iphoneos-arm64.deb
+Size: 5392
+MD5sum: 8ceb5496bb136d1f8cbd0f9a2bf3524a
+SHA1: e78eac790221a7a951c4067105fe4fcbc1dc87c4
+SHA256: 6ed5648ec586f8006786275aec4e17c9acf2ed3b36a1a66f84e59041add7771a
 Section: Tweaks
 Description: 状态栏左上角显示静音图标
  * Just a single mute icon on the status bar of iOS.
@@ -585,25 +565,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
 Name: Single Mute 静音图标
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
 
-Package: com.82flex.singlevpn.green
-Version: 1.0
+Package: com.82flex.singlemutes
+Version: 1.4
 Architecture: iphoneos-arm64
-Maintainer: 82Flex <82flex@gmail.com>
+Maintainer: 82Flex
 Installed-Size: 168
-Depends: firmware (>= 14.0), mobilesubstrate
-Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.orange
-Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn.green_1.0_iphoneos-arm64.deb
-Size: 5852
-MD5sum: 07db3431a4ea0ed7a54c6831075a1e2b
-SHA1: 2980762a22d9d3d1a6e89d40b294790fb4cd96d7
-SHA256: 9fd90a845e4605b5b947916d482381f8bd7171632f60a3f8e5d0d836be9de297
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.82flex.singlemute
+Filename: ./debs/iphoneos-arm64/com.82flex.singlemutes_1.4_iphoneos-arm64.deb
+Size: 23788
+MD5sum: eebfb654a8a29e8d74c0d433f70ae564
+SHA1: 25b6b6be581bd49346f5085c05877b738d7fc7b2
+SHA256: f7bca0454857f87063f19a7044adbd176b93a50e77485286a39c36080bb6619b
 Section: Tweaks
-Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：绿色 🟢
- * Combine VPN state and wireless state into one icon.
-Author: 82Flex <82flex@gmail.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon2.png
-Name: Single VPN Green
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/js.json
+Description: 状态栏左上角显示静音图标
+ * Just a single mute icon on the status bar of iOS.
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleMute/icon.png
+Name: Single Mute 静音图标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleMute/js.json
 
 Package: com.82flex.singlevpn.green
 Version: 1.0
@@ -626,25 +606,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon2.png
 Name: Single VPN Green
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/js.json
 
-Package: com.82flex.singlevpn.orange
+Package: com.82flex.singlevpn.green
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 168
 Depends: firmware (>= 14.0), mobilesubstrate
-Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green
-Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn.orange_1.0_iphoneos-arm64.deb
-Size: 5844
-MD5sum: 8a4ddc1494bfaa5cf04430b8b2c7dea4
-SHA1: 4c0c70fd9db1e373ea797900d90f707e649b5b0e
-SHA256: cbbfa83d2fa02754e5a4eedf2fee67718002c84b4be599832ac802a90f8aa75d
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.orange
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn.green_1.0_iphoneos-arm64.deb
+Size: 5852
+MD5sum: 07db3431a4ea0ed7a54c6831075a1e2b
+SHA1: 2980762a22d9d3d1a6e89d40b294790fb4cd96d7
+SHA256: 9fd90a845e4605b5b947916d482381f8bd7171632f60a3f8e5d0d836be9de297
 Section: Tweaks
-Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：橙色 🟠
+Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：绿色 🟢
  * Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon1.png
-Name: Single VPN Orange
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jss.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon2.png
+Name: Single VPN Green
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/js.json
 
 Package: com.82flex.singlevpn.orange
 Version: 1.0
@@ -667,24 +647,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon1.png
 Name: Single VPN Orange
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jss.json
 
-Package: com.82flex.singlevpns
-Version: 1.1
+Package: com.82flex.singlevpn.orange
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
-Installed-Size: 384
+Installed-Size: 168
 Depends: firmware (>= 14.0), mobilesubstrate
-Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange
-Filename: ./debs/iphoneos-arm64/com.82flex.singlevpns_1.1_iphoneos-arm64.deb
-Size: 27528
-MD5sum: 44f2c1c9957f44983064b15f12a0152c
-SHA1: 947346940e9e302fdba724b2110d1a2d8bda007b
-SHA256: b83f3332d321a68b8bbcce0054b0e76d0ec2de40e338e1a216d925d08339d731
-Section: 乌龙工作室
-Description: Combine VPN state and wireless state into one icon.
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpn.orange_1.0_iphoneos-arm64.deb
+Size: 5844
+MD5sum: 8a4ddc1494bfaa5cf04430b8b2c7dea4
+SHA1: 4c0c70fd9db1e373ea797900d90f707e649b5b0e
+SHA256: cbbfa83d2fa02754e5a4eedf2fee67718002c84b4be599832ac802a90f8aa75d
+Section: Tweaks
+Description: 连接 VPN 时，Wi-Fi 和 移动数据图标着色：橙色 🟠
+ * Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
-Name: Single VPN 上色
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon1.png
+Name: Single VPN Orange
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jss.json
 
 Package: com.82flex.singlevpns
 Version: 1.1
@@ -707,17 +688,17 @@ Name: Single VPN 上色
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
 Package: com.82flex.singlevpns
-Version: 1.2
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 82Flex <82flex@gmail.com>
 Installed-Size: 384
 Depends: firmware (>= 14.0), mobilesubstrate
 Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange
-Filename: ./debs/iphoneos-arm64/com.82flex.singlevpns_1.2_iphoneos-arm64.deb
-Size: 28312
-MD5sum: f06f3442adaa55269f6e56335e5ba2c3
-SHA1: 9127beb516f23950a3419cbb65298978743f8d28
-SHA256: ef91b49c266735bcc6c3f9152744fcd416b864a060e10c475721220ae5d4eb47
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpns_1.1_iphoneos-arm64.deb
+Size: 27528
+MD5sum: 44f2c1c9957f44983064b15f12a0152c
+SHA1: 947346940e9e302fdba724b2110d1a2d8bda007b
+SHA256: b83f3332d321a68b8bbcce0054b0e76d0ec2de40e338e1a216d925d08339d731
 Section: 乌龙工作室
 Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
@@ -745,21 +726,24 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 Name: Single VPN 上色
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
-Package: com.82flex.wtvrbglauncher
-Version: 1.1
+Package: com.82flex.singlevpns
+Version: 1.2
 Architecture: iphoneos-arm64
-Maintainer: Lessica
-Installed-Size: 404
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64.deb
-Size: 23110
-MD5sum: f8d9cab6047df775de991cbf18485793
-SHA1: dc01469063c2181611cb9aeb3f881692676fa427
-SHA256: 2cbb75ef557754343f5f366b17fa0da794d56f1cb4ed5265427c54a305307bc4
-Section: Tweaks
-Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
-Author: Lessica
-Name: 语音转文字免跳转
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpns_1.2_iphoneos-arm64.deb
+Size: 28312
+MD5sum: f06f3442adaa55269f6e56335e5ba2c3
+SHA1: 9127beb516f23950a3419cbb65298978743f8d28
+SHA256: ef91b49c266735bcc6c3f9152744fcd416b864a060e10c475721220ae5d4eb47
+Section: 乌龙工作室
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
@@ -778,26 +762,21 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Name: 语音转文字免跳转
 
-Package: com.82flex.wtvrbglaunchers
+Package: com.82flex.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Lessica
 Installed-Size: 404
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: com.82flex.wtvrbglauncher
-Filename: ./debs/iphoneos-arm64/com.82flex.wtvrbglaunchers_1.1_iphoneos-arm64.deb
-Size: 23208
-MD5sum: e58a25ebca40691067469689b1611591
-SHA1: 2c3ff38cf042d9ca898e7678a27c6cd9ab4d6188
-SHA256: 8eeaeb5b937d6a8658938012fa9dfd2033d1b96dee8e220e92f4ea98d4cd7bbe
-Section: 乌龙工作室
-Description: 中文输入法语音转文字免跳转插件。
- * 无设置选项，安装并注销后立即生效。
- * 支持的输入法：微信、百度、搜狗、讯飞
+Filename: ./debs/iphoneos-arm64/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64.deb
+Size: 23110
+MD5sum: f8d9cab6047df775de991cbf18485793
+SHA1: dc01469063c2181611cb9aeb3f881692676fa427
+SHA256: 2cbb75ef557754343f5f366b17fa0da794d56f1cb4ed5265427c54a305307bc4
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
 Author: Lessica
-Icon: https://TrollStoreX.Github.io/sileodepiction/Yuyin/icon.png
 Name: 语音转文字免跳转
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuyin/js.json
 
 Package: com.82flex.wtvrbglaunchers
 Version: 1.1
@@ -821,37 +800,69 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Yuyin/icon.png
 Name: 语音转文字免跳转
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuyin/js.json
 
-Package: com.HBWechatHelper.ailuns
-Version: 1.7.4
+Package: com.82flex.wtvrbglaunchers
+Version: 1.1
 Architecture: iphoneos-arm64
-Maintainer: HuangBai <QQ:1343309363@qq.com>
+Maintainer: Lessica
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.wtvrbglauncher
+Filename: ./debs/iphoneos-arm64/com.82flex.wtvrbglaunchers_1.1_iphoneos-arm64.deb
+Size: 23208
+MD5sum: e58a25ebca40691067469689b1611591
+SHA1: 2c3ff38cf042d9ca898e7678a27c6cd9ab4d6188
+SHA256: 8eeaeb5b937d6a8658938012fa9dfd2033d1b96dee8e220e92f4ea98d4cd7bbe
+Section: 乌龙工作室
+Description: 中文输入法语音转文字免跳转插件。
+ * 无设置选项，安装并注销后立即生效。
+ * 支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuyin/icon.png
+Name: 语音转文字免跳转
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuyin/js.json
+
+Package: com.BeanbunsHelpers.DBs
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Beanbuns
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Conflicts: com.HBWechatHelper.ailun
-Replaces: com.HBWechatHelper.ailun
-Provides: com.HBWechatHelper.ailun
-Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7.4_iphoneos-arm64.deb
-Size: 9429404
-MD5sum: 0febf73d846064d91321f5600c20f603
-SHA1: f3a4e123bb1bf24bed5c8632d527a4921e00ee32
-SHA256: c8ffb5cfc1366eeacb6dac88d0d321a28dd6be6171428b26cebc496a47557ca8
-Section: 微信插件
-Description: 黄白助手-微信插件
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
- * 1.7.4 更新内容
- 1. 开启人脸认证：对于部分应用无法识别人脸认证的情况，我们新增了默认功能，开启人脸认证，帮助用户在其他应用时无法使用的情况下，极大提高了使用便捷性。
- 2. 新的第三方接口语音模型：在语音功能中，我们加入了新的第三方接口模型，此功能主要用于娱乐，提供了更多玩法和体验，丰富了用户的语音互动方式。
- 3. 新群自动置顶：在群聊功能中，新增了进群自动置顶的功能，用户一旦加入新群，该群聊将自动置顶，方便用户及时关注重要消息。
- 4. 保存实况图片：新增了保存实况图片至手机相册的功能，用户在最新版客户端中，长按实况图片即可将其保存至相册，为用户记录和分享内容提供了便捷。
- 5. 消息强提醒功能：为增强消息管理，我们新增了消息强提醒功能，激活方式为输入“%at+内容”。需要注意的是，这个功能对安卓和Windows平台的用户显示为所有人，而在苹果平台则不同，只有当对方完全退出客户端后台时，才能通过推送通知提醒。这是为了更精准的提醒机制设计，请不要再疑惑为什么艾特功能没有效果。
-Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
-Name: 黄白助手
+Conflicts: com.BeanbunsHelpers.DB
+Filename: ./debs/iphoneos-arm64e/com.BeanbunsHelpers.DBs_1.0-1_iphoneos-arm64e.deb
+Size: 660742
+MD5sum: c738a9bb923b73a8363f4382ebc4b7a3
+SHA1: 0a00e26e4801ca84cf1df2097c6af1a571a8e45e
+SHA256: d05a8ffd7192055260bb104e9b1a0e2fd0af87a47338d00fac9ad87e1905c1bc
+Section: 抖音插件
+Description: 抖音增强插件
+ * 无水印保存视频、图片、音频
+ * 双击打开评论区
+ * 隐藏菜单按钮
+Author: Beanbuns
+Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
+Name: 抖音 豆包助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
+
+Package: com.BeanbunsHelpers.DBs
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Conflicts: com.BeanbunsHelpers.DB
+Filename: ./debs/iphoneos-arm64/com.BeanbunsHelpers.DBs_1.0-1_iphoneos-arm64.deb
+Size: 465280
+MD5sum: 0a40c1c1e2b6dd9a550c0e12ad26e327
+SHA1: 5b932bec34deb7064833212215266efa3b03ad40
+SHA256: 3d3020b7288067872d79d41e540f77a3b909b64274d7f222f6b05ef1f0cd5741
+Section: 抖音插件
+Description: 抖音增强插件
+ * 无水印保存视频、图片、音频
+ * 双击打开评论区
+ * 隐藏菜单按钮
+Author: Beanbuns
+Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
+Name: 抖音 豆包助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
 
 Package: com.HBWechatHelper.ailuns
 Version: 1.7.4
@@ -887,18 +898,18 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
 Name: 黄白助手
 
 Package: com.HBWechatHelper.ailuns
-Version: 1.7.5
+Version: 1.7.4
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
 Conflicts: com.HBWechatHelper.ailun
 Replaces: com.HBWechatHelper.ailun
 Provides: com.HBWechatHelper.ailun
-Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7.5_iphoneos-arm64.deb
-Size: 9395896
-MD5sum: 8aa2263e0f9219f2e907b39b73a006f9
-SHA1: 900ef177a4fd216d50d09021365ed6991fd564ce
-SHA256: b8d0f85d176fd6fc31bca85f05a227c4baaab194b3f8323494a115f8f8b196b6
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7.4_iphoneos-arm64.deb
+Size: 9429404
+MD5sum: 0febf73d846064d91321f5600c20f603
+SHA1: f3a4e123bb1bf24bed5c8632d527a4921e00ee32
+SHA256: c8ffb5cfc1366eeacb6dac88d0d321a28dd6be6171428b26cebc496a47557ca8
 Section: 微信插件
 Description: 黄白助手-微信插件
  * 一个微信插件文本转语音
@@ -908,10 +919,12 @@ Description: 黄白助手-微信插件
  * 抢私聊红包
  * 自定义信息尾巴
  * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
- * 1.7.5 更新内容
- 1. 优化保存朋友圈实况
- 2. 修复非实况版本保存图片闪退的问题
- 3. 新增[特色类功能]-进入聊天界面自动呼出输入法
+ * 1.7.4 更新内容
+ 1. 开启人脸认证：对于部分应用无法识别人脸认证的情况，我们新增了默认功能，开启人脸认证，帮助用户在其他应用时无法使用的情况下，极大提高了使用便捷性。
+ 2. 新的第三方接口语音模型：在语音功能中，我们加入了新的第三方接口模型，此功能主要用于娱乐，提供了更多玩法和体验，丰富了用户的语音互动方式。
+ 3. 新群自动置顶：在群聊功能中，新增了进群自动置顶的功能，用户一旦加入新群，该群聊将自动置顶，方便用户及时关注重要消息。
+ 4. 保存实况图片：新增了保存实况图片至手机相册的功能，用户在最新版客户端中，长按实况图片即可将其保存至相册，为用户记录和分享内容提供了便捷。
+ 5. 消息强提醒功能：为增强消息管理，我们新增了消息强提醒功能，激活方式为输入“%at+内容”。需要注意的是，这个功能对安卓和Windows平台的用户显示为所有人，而在苹果平台则不同，只有当对方完全退出客户端后台时，才能通过推送通知提醒。这是为了更精准的提醒机制设计，请不要再疑惑为什么艾特功能没有效果。
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
 Name: 黄白助手
@@ -947,23 +960,35 @@ Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
 Name: 黄白助手
 
-Package: com.bandarhl.bhtwitters
-Version: 4.3-1+debug
+Package: com.HBWechatHelper.ailuns
+Version: 1.7.5
 Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Installed-Size: 23840
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-1+debug_iphoneos-arm64.deb
-Size: 7616656
-MD5sum: 46b89ff7383134891f922488d6b7bcf5
-SHA1: 934e42c26c06570ea4d000e315bbf1380bcf3ae4
-SHA256: 88d043db044dd07c9a60508b52dddcec4f819745edcde2cf1dc23298cbda833b
-Section: Tweaks
-Description: Twitter/X 增强插件，去广告、视频下载等
-Author: Bandar Alruwaili
-Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
-Name: BHTwitter
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun
+Replaces: com.HBWechatHelper.ailun
+Provides: com.HBWechatHelper.ailun
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7.5_iphoneos-arm64.deb
+Size: 9395896
+MD5sum: 8aa2263e0f9219f2e907b39b73a006f9
+SHA1: 900ef177a4fd216d50d09021365ed6991fd564ce
+SHA256: b8d0f85d176fd6fc31bca85f05a227c4baaab194b3f8323494a115f8f8b196b6
+Section: 微信插件
+Description: 黄白助手-微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+ * 1.7.5 更新内容
+ 1. 优化保存朋友圈实况
+ 2. 修复非实况版本保存图片闪退的问题
+ 3. 新增[特色类功能]-进入聊天界面自动呼出输入法
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/HB.png
+Name: 黄白助手
 
 Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
@@ -985,19 +1010,16 @@ Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
 Package: com.bandarhl.bhtwitters
-Version: 4.3-2+debug
+Version: 4.3-1+debug
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Installed-Size: 23840
 Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.bhtwitter
-Replaces: com.bandarhl.bhtwitter
-Provides: com.bandarhl.bhtwitter
-Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-2+debug_iphoneos-arm64.deb
-Size: 7619960
-MD5sum: 7b90c839ffffb436abdbae7f7ebf7aea
-SHA1: ba7a7ef12c8154fe55da9bbf9ec722f63c9ee534
-SHA256: ea923f544d1cf591e4e6074871ae4ae65dd32a76497b127f9f2066395d903d08
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-1+debug_iphoneos-arm64.deb
+Size: 7616656
+MD5sum: 46b89ff7383134891f922488d6b7bcf5
+SHA1: 934e42c26c06570ea4d000e315bbf1380bcf3ae4
+SHA256: 88d043db044dd07c9a60508b52dddcec4f819745edcde2cf1dc23298cbda833b
 Section: Tweaks
 Description: Twitter/X 增强插件，去广告、视频下载等
 Author: Bandar Alruwaili
@@ -1028,7 +1050,7 @@ Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
 Package: com.bandarhl.bhtwitters
-Version: 4.3-3+debug
+Version: 4.3-2+debug
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Installed-Size: 23840
@@ -1036,17 +1058,13 @@ Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
 Replaces: com.bandarhl.bhtwitter
 Provides: com.bandarhl.bhtwitter
-Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-3+debug_iphoneos-arm64.deb
-Size: 7614776
-MD5sum: ae86eb9ac45f6f6509cb3bc5436ef6c2
-SHA1: f0054f46eee7c827f45f1682324839da89eaa6ea
-SHA256: fea3b691a86ffeb8c862df00d583bc09e70a760e6ce6628e9b70ff726fa08ab3
-Section: 应用破解
-Description: ### Twitter/X 增强插件
- * 视频下载
- * 修改应用图标
- * 去广告、去除 Groy 标签栏等功能
- * Awesome tweak for Twitter
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-2+debug_iphoneos-arm64.deb
+Size: 7619960
+MD5sum: 7b90c839ffffb436abdbae7f7ebf7aea
+SHA1: ba7a7ef12c8154fe55da9bbf9ec722f63c9ee534
+SHA256: ea923f544d1cf591e4e6074871ae4ae65dd32a76497b127f9f2066395d903d08
+Section: Tweaks
+Description: Twitter/X 增强插件，去广告、视频下载等
 Author: Bandar Alruwaili
 Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
@@ -1078,37 +1096,42 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
-Package: com.curtin.pkc.rootless
-Version: 0.5-9
+Package: com.bandarhl.bhtwitters
+Version: 4.3-3+debug
 Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Conflicts: com.curtin.pkc.rootless
-Replaces: com.curtin.pkc.rootless
-Provides: com.curtin.pkc.rootless
-Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootless_0.5-9_iphoneos-arm64.deb
-Size: 572472
-MD5sum: a6cdaceba9b806d4e85635f8eaa90caa
-SHA1: 8a2ad67fccbba616e9326028f90cee33bac15c06
-SHA256: 17e14495f77df35df1b7e1c13ae1da7f0a567158454f8652839c3b39b286e643
-Section: 微信插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 /n API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC 助手
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Replaces: com.bandarhl.bhtwitter
+Provides: com.bandarhl.bhtwitter
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-3+debug_iphoneos-arm64.deb
+Size: 7614776
+MD5sum: ae86eb9ac45f6f6509cb3bc5436ef6c2
+SHA1: f0054f46eee7c827f45f1682324839da89eaa6ea
+SHA256: fea3b691a86ffeb8c862df00d583bc09e70a760e6ce6628e9b70ff726fa08ab3
+Section: 应用破解
+Description: ### Twitter/X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、去除 Groy 标签栏等功能
+ * Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: curtinlv@126.com
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
-Filename: ./debs/iphoneos-arm64/PKC_0.5-9_iphoneos-arm64.deb
-Size: 572656
-MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
-SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
-SHA256: 2be5276c2d29e810f27d6d13e5e7e86d98278a6f44518bb50d3bcc517484f29e
+Filename: ./debs/iphoneos-arm64e/PKC_0.5-9_ iphoneos-arm64e.deb
+Size: 1537814
+MD5sum: 1c81b7545d9480131b6173a973088f0e
+SHA1: e122eee41f40290351be31be03e2caf1e9f966c5
+SHA256: aa06eb0d4de9bbe26ba3a06d5be37ed33e0bcc2a5f6542832d56231f8fb926d7
 Section: PKC-插件
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -1141,15 +1164,14 @@ Name: PKC 助手
 
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
-Filename: ./debs/iphoneos-arm64e/PKC_0.5-9_ iphoneos-arm64e.deb
-Size: 1537814
-MD5sum: 1c81b7545d9480131b6173a973088f0e
-SHA1: e122eee41f40290351be31be03e2caf1e9f966c5
-SHA256: aa06eb0d4de9bbe26ba3a06d5be37ed33e0bcc2a5f6542832d56231f8fb926d7
+Filename: ./debs/iphoneos-arm64/PKC_0.5-9_iphoneos-arm64.deb
+Size: 572656
+MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
+SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
+SHA256: 2be5276c2d29e810f27d6d13e5e7e86d98278a6f44518bb50d3bcc517484f29e
 Section: PKC-插件
 Priority: optional
 Homepage: https://github.com/curtinlv
@@ -1159,24 +1181,22 @@ Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135
 Name: PKC_无根
 
 Package: com.curtin.pkc.rootless
-Version: 0.6-0
+Version: 0.5-9
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
 Conflicts: com.curtin.pkc.rootless
 Replaces: com.curtin.pkc.rootless
 Provides: com.curtin.pkc.rootless
-Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootless_0.6-0_iphoneos-arm64.deb
-Size: 595508
-MD5sum: b6d3fade2162cc25464f841235fff655
-SHA1: c147cdcbb59e15d7df0ef87095324d344a877264
-SHA256: 3702d27cd267e938c34f4ce5398453baab4e40e32974746d949efc09253fdf6d
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootless_0.5-9_iphoneos-arm64.deb
+Size: 572472
+MD5sum: a6cdaceba9b806d4e85635f8eaa90caa
+SHA1: 8a2ad67fccbba616e9326028f90cee33bac15c06
+SHA256: 17e14495f77df35df1b7e1c13ae1da7f0a567158454f8652839c3b39b286e643
 Section: 微信插件
 Priority: optional
 Homepage: https://github.com/curtinlv
-Description: 微信插件 PKC助手
- * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 /n API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
- * （提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。）
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 /n API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC 助手
@@ -1205,24 +1225,28 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC 助手
 
-Package: com.dao.hidenumber.cns
-Version: 0.0.4
+Package: com.curtin.pkc.rootless
+Version: 0.6-0
 Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate, com.ichitaso.hideserialnumbers
-Conflicts: com.hk.hidenumber.cn, com.hk.hidenumber.cn.rl
-Filename: ./debs/iphoneos-arm64/com.dao.hidenumber.cns_0.0.4_iphoneos-arm64.deb
-Size: 5380
-MD5sum: e0e06f28dbdb015d99c746468bd04d02
-SHA1: c3eff754ed598e9ccfef91fba8b47c883d43dea3
-SHA256: 5ac8e1fc6948cbb7693938e4a1c86b3a85c8a9f0822db6243567872ff493f438
-Section: 汉化
-Description: HideSerialNumber 简体中文包
-Author: 妖刀
-Icon: https://i.imgur.com/uFWkBXD.png
-Name: HideSerialNumber 简体中文包
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless
+Replaces: com.curtin.pkc.rootless
+Provides: com.curtin.pkc.rootless
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootless_0.6-0_iphoneos-arm64.deb
+Size: 595508
+MD5sum: b6d3fade2162cc25464f841235fff655
+SHA1: c147cdcbb59e15d7df0ef87095324d344a877264
+SHA256: 3702d27cd267e938c34f4ce5398453baab4e40e32974746d949efc09253fdf6d
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 微信插件 PKC助手
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 /n API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * （提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。）
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC 助手
 
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
@@ -1243,27 +1267,24 @@ Icon: https://i.imgur.com/uFWkBXD.png
 Name: HideSerialNumber 简体中文包
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
 
-Package: com.dumpapp.wechat-rootlesss
-Version: 2.0.1
+Package: com.dao.hidenumber.cns
+Version: 0.0.4
 Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 24000
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurifications, netskao.wechatpurification
-Replaces: com.dumpapp.wechat-rootless
-Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootlesss_2.0.1_iphoneos-arm64.deb
-Size: 9333556
-MD5sum: 3d1a9c874a3d73c7b2aede974af73535
-SHA1: 025de58744c9e59ef21fcdb2e814ff9861a6d359
-SHA256: f32bb610e323cb6d30d708b1483bd20bcfe03f4fe46fbb62b3294c6e009fabe5
-Section: 微信插件
-Description: ### 微信插件
- * 微信多功能插件
- * 1:1 复刻“微信净化”插件，功能一模一样
- * ⚠️注意：不可与“微信净化”共存
-Author: DumpApp
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/chuizi.png
-Name: 锤子助手
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate, com.ichitaso.hideserialnumbers
+Conflicts: com.hk.hidenumber.cn, com.hk.hidenumber.cn.rl
+Filename: ./debs/iphoneos-arm64/com.dao.hidenumber.cns_0.0.4_iphoneos-arm64.deb
+Size: 5380
+MD5sum: e0e06f28dbdb015d99c746468bd04d02
+SHA1: c3eff754ed598e9ccfef91fba8b47c883d43dea3
+SHA256: 5ac8e1fc6948cbb7693938e4a1c86b3a85c8a9f0822db6243567872ff493f438
+Section: 汉化
+Description: HideSerialNumber 简体中文包
+Author: 妖刀
+Icon: https://i.imgur.com/uFWkBXD.png
+Name: HideSerialNumber 简体中文包
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
 
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.1
@@ -1288,23 +1309,27 @@ Author: DumpApp
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/chuizi.png
 Name: 锤子助手
 
-Package: com.dvntm.infusepluss
-Version: 1.2.0
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.1
 Architecture: iphoneos-arm64
-Maintainer: dvntm
-Installed-Size: 420
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.dvntm.infusepluss_1.2.0_iphoneos-arm64.deb
-Size: 125360
-MD5sum: 1dc10b5dd9d405312384e83534218067
-SHA1: 96cb19bd55e58a2b87a702f8c94cf47bfaad8139
-SHA256: 10ed05a6f34e6d88784968abe99b86f43311ea5e113cf15d4b7ebac271359c57
-Section: Tweaks
-Description: Infuse 破解 Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurifications, netskao.wechatpurification
+Replaces: com.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootlesss_2.0.1_iphoneos-arm64.deb
+Size: 9333556
+MD5sum: 3d1a9c874a3d73c7b2aede974af73535
+SHA1: 025de58744c9e59ef21fcdb2e814ff9861a6d359
+SHA256: f32bb610e323cb6d30d708b1483bd20bcfe03f4fe46fbb62b3294c6e009fabe5
+Section: 微信插件
+Description: ### 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/chuizi.png
+Name: 锤子助手
 
 Package: com.dvntm.infusepluss
 Version: 1.2.0
@@ -1325,27 +1350,23 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
-Package: com.dvntm.safariiis
-Version: 0.0.1
+Package: com.dvntm.infusepluss
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: dvntm
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.dvntm.safariiis
-Replaces: com.dvntm.safariiis
-Provides: com.dvntm.safariiis
-Filename: ./debs/iphoneos-arm64/com.dvntm.safariiis_0.0.1_iphoneos-arm64.deb
-Size: 3104
-MD5sum: 544413fe1d82e99744e21b05dfa6e92c
-SHA1: 5e7adad20af888c5cdd02aef4555f25d5c795076
-SHA256: b54b01d1597d3b7c7ae5b2c7fd78adfad793aa845710ff66593048b437253f6c
-Section: 应用破解
-Description: ### Safari 浏览器
- * 隐藏 Safari 菜单扩展图标
- * Hides Extensions icon from Adress bar
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.dvntm.infusepluss_1.2.0_iphoneos-arm64.deb
+Size: 125360
+MD5sum: 1dc10b5dd9d405312384e83534218067
+SHA1: 96cb19bd55e58a2b87a702f8c94cf47bfaad8139
+SHA256: 10ed05a6f34e6d88784968abe99b86f43311ea5e113cf15d4b7ebac271359c57
+Section: Tweaks
+Description: Infuse 破解 Enhancer for Infuse app
 Author: dvntm
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Safari.png
-Name: Safariii
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
 Package: com.dvntm.safariiis
 Version: 0.0.1
@@ -1369,26 +1390,27 @@ Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Safari.png
 Name: Safariii
 
-Package: com.dvntm.silentnotifss
+Package: com.dvntm.safariiis
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.dvntm.silentnotifs
-Provides: com.dvntm.silentnotifs
-Filename: ./debs/iphoneos-arm64/com.dvntm.silentnotifss_0.0.1_iphoneos-arm64.deb
-Size: 3744
-MD5sum: d896170c4613c1129b496389a96a86cf
-SHA1: 279a52836c77149ec937a12456294200b456d6cb
-SHA256: 483be310bfc27ad4b85b9d9258d75c70e8b47eab4d47ee8a90056ad4a27edc28
-Section: Tweaks
-Description: ### 播放音乐时，保持推送通知静音。
- * Keep notifications silent while media is playing.
- * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
+Conflicts: com.dvntm.safariiis
+Replaces: com.dvntm.safariiis
+Provides: com.dvntm.safariiis
+Filename: ./debs/iphoneos-arm64/com.dvntm.safariiis_0.0.1_iphoneos-arm64.deb
+Size: 3104
+MD5sum: 544413fe1d82e99744e21b05dfa6e92c
+SHA1: 5e7adad20af888c5cdd02aef4555f25d5c795076
+SHA256: b54b01d1597d3b7c7ae5b2c7fd78adfad793aa845710ff66593048b437253f6c
+Section: 应用破解
+Description: ### Safari 浏览器
+ * 隐藏 Safari 菜单扩展图标
+ * Hides Extensions icon from Adress bar
 Author: dvntm
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
-Name: SilentNotifs
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Safari.png
+Name: Safariii
 
 Package: com.dvntm.silentnotifss
 Version: 0.0.1
@@ -1412,18 +1434,18 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
 Name: SilentNotifs
 
 Package: com.dvntm.silentnotifss
-Version: 0.0.2
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.dvntm.silentnotifs
 Provides: com.dvntm.silentnotifs
-Filename: ./debs/iphoneos-arm64/com.dvntm.silentnotifss_0.0.2_iphoneos-arm64.deb
-Size: 3924
-MD5sum: 7e0fcde515ac20d948366f919e6d791e
-SHA1: cf85b11e072a622b88802a95d134bd812ac69035
-SHA256: 8d105e11f0d86ec944fac8f6fea2e779446965d82dc5f8034b1e195a6872f166
+Filename: ./debs/iphoneos-arm64/com.dvntm.silentnotifss_0.0.1_iphoneos-arm64.deb
+Size: 3744
+MD5sum: d896170c4613c1129b496389a96a86cf
+SHA1: 279a52836c77149ec937a12456294200b456d6cb
+SHA256: 483be310bfc27ad4b85b9d9258d75c70e8b47eab4d47ee8a90056ad4a27edc28
 Section: Tweaks
 Description: ### 播放音乐时，保持推送通知静音。
  * Keep notifications silent while media is playing.
@@ -1453,23 +1475,26 @@ Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
 Name: SilentNotifs
 
-Package: com.dvntm.ytlite
-Version: 5.0.2
+Package: com.dvntm.silentnotifss
+Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
-Installed-Size: 16140
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
-Size: 6097852
-MD5sum: a769339e109f4c0e59639698eee7b478
-SHA1: 82c2d5288e92d726d7d4a62502f745f265bcec32
-SHA256: d35d9f0095d97b9db4e8833cd3041897329937bf61b2a4549884dc5a2d645598
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.silentnotifs
+Provides: com.dvntm.silentnotifs
+Filename: ./debs/iphoneos-arm64/com.dvntm.silentnotifss_0.0.2_iphoneos-arm64.deb
+Size: 3924
+MD5sum: 7e0fcde515ac20d948366f919e6d791e
+SHA1: cf85b11e072a622b88802a95d134bd812ac69035
+SHA256: 8d105e11f0d86ec944fac8f6fea2e779446965d82dc5f8034b1e195a6872f166
 Section: Tweaks
-Description: YouTube 增强插件
+Description: ### 播放音乐时，保持推送通知静音。
+ * Keep notifications silent while media is playing.
+ * Tested on iOS 14.8 and iOS 16.4.1, no options to configure
 Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
-Name: YTLite
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/music.png
+Name: SilentNotifs
 
 Package: com.dvntm.ytlite
 Version: 5.0.2
@@ -1489,23 +1514,23 @@ Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
 
-Package: com.eevee.spotifys
-Version: 5.2
+Package: com.dvntm.ytlite
+Version: 5.0.2
 Architecture: iphoneos-arm64
-Maintainer: Eevee
-Installed-Size: 2732
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.2_iphoneos-arm64.deb
-Size: 559464
-MD5sum: 962e4874d0808f5fe535270b09fea99e
-SHA1: afba011a28a800a1921aa2738d60f96b4076824c
-SHA256: 59e4e28bde7eae1c1ba1b42db61a55c2e49b8c7a367777db4a2f14e539a3b761
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 6097852
+MD5sum: a769339e109f4c0e59639698eee7b478
+SHA1: 82c2d5288e92d726d7d4a62502f745f265bcec32
+SHA256: d35d9f0095d97b9db4e8833cd3041897329937bf61b2a4549884dc5a2d645598
 Section: Tweaks
-Description: Spotify Premium 破解
-Author: Eevee
-Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
-Name: EeveeSpotify
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+Description: YouTube 增强插件
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
 
 Package: com.eevee.spotifys
 Version: 5.2
@@ -1527,20 +1552,18 @@ Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
 Package: com.eevee.spotifys
-Version: 5.3
+Version: 5.2
 Architecture: iphoneos-arm64
 Maintainer: Eevee
 Installed-Size: 2732
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs
-Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
-Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.3_iphoneos-arm64.deb
-Size: 563368
-MD5sum: e3386f99fa38ae4d56d59a528c7b79dd
-SHA1: e034a2b159f4c2d5ea98250d205a6b5bde3e346b
-SHA256: b2761ddd7b726607a2af2bb4a812c585993052be4d4f3917a9f3da80f31f8cc1
-Section: 应用破解
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.2_iphoneos-arm64.deb
+Size: 559464
+MD5sum: 962e4874d0808f5fe535270b09fea99e
+SHA1: afba011a28a800a1921aa2738d60f96b4076824c
+SHA256: 59e4e28bde7eae1c1ba1b42db61a55c2e49b8c7a367777db4a2f14e539a3b761
+Section: Tweaks
 Description: Spotify Premium 破解
- * A tweak to get Spotify Premium for free, just like Spotilife
 Author: Eevee
 Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
@@ -1568,17 +1591,17 @@ Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
 Package: com.eevee.spotifys
-Version: 5.4
+Version: 5.3
 Architecture: iphoneos-arm64
 Maintainer: Eevee
 Installed-Size: 2732
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs
 Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
-Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.4_iphoneos-arm64.deb
-Size: 564372
-MD5sum: bff539559eb220744640ba6a1dfd07e6
-SHA1: a40c062e35e83178f1ee13e8811dc8348ee53a7e
-SHA256: 11db0a3d9d46d966e000d788ea7f575738e2db7688a029c796ea74a154a99095
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.3_iphoneos-arm64.deb
+Size: 563368
+MD5sum: e3386f99fa38ae4d56d59a528c7b79dd
+SHA1: e034a2b159f4c2d5ea98250d205a6b5bde3e346b
+SHA256: b2761ddd7b726607a2af2bb4a812c585993052be4d4f3917a9f3da80f31f8cc1
 Section: 应用破解
 Description: Spotify Premium 破解
  * A tweak to get Spotify Premium for free, just like Spotilife
@@ -1608,25 +1631,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
-Package: com.exile90.icleanerpros
-Version: 7.10.0
+Package: com.eevee.spotifys
+Version: 5.4
 Architecture: iphoneos-arm64
-Maintainer: Ivano Bilenchi
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
-Filename: ./debs/iphoneos-arm64/com.exile90.icleanerpros_7.10.0_iphoneos-arm64.deb
-Size: 977640
-MD5sum: af1013a03f20c26c3047a4ef80ada523
-SHA1: 6aa1d4102944e830795db132fce3d5e72dd8d5f2
-SHA256: 94fb4a83e97aad7be17bf2a477d70f5256043b991e1a0884cb9198a95fed01cd
-Section: Bootstrap
-Description: iCleaner Pro
- * 垃圾清理工具，启动项管理等
- * The first real iOS system cleanup and management utility
-Author: Ivano Bilenchi
-Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
-Name: iCleaner Pro
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
+Maintainer: Eevee
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.4_iphoneos-arm64.deb
+Size: 564372
+MD5sum: bff539559eb220744640ba6a1dfd07e6
+SHA1: a40c062e35e83178f1ee13e8811dc8348ee53a7e
+SHA256: 11db0a3d9d46d966e000d788ea7f575738e2db7688a029c796ea74a154a99095
+Section: 应用破解
+Description: Spotify Premium 破解
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
 Package: com.exile90.icleanerpros
 Version: 7.10.0
@@ -1649,23 +1672,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
 Name: iCleaner Pro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
 
-Package: com.ginsu.ytmusicultimates
-Version: 2.2
+Package: com.exile90.icleanerpros
+Version: 7.10.0
 Architecture: iphoneos-arm64
-Maintainer: Ginsu
-Installed-Size: 26420
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.ginsu.ytmusicultimates_2.2_iphoneos-arm64.deb
-Size: 9263780
-MD5sum: 7bc506cefbd5c531742f6ba2d325a77a
-SHA1: 893310270603878828fb52798442331d667c6654
-SHA256: 132b1d6eaf41656b8d2e626931b94f96ca1f064d8dcee9feb1081910811cd01d
-Section: Tweaks
-Description: YouTube Music Premium
-Author: Ginsu
-Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
-Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
-Name: YTMusicUltimate
+Maintainer: Ivano Bilenchi
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: com.exile90.icleanerpro, org.altervista.exilecom.icleaner
+Filename: ./debs/iphoneos-arm64/com.exile90.icleanerpros_7.10.0_iphoneos-arm64.deb
+Size: 977640
+MD5sum: af1013a03f20c26c3047a4ef80ada523
+SHA1: 6aa1d4102944e830795db132fce3d5e72dd8d5f2
+SHA256: 94fb4a83e97aad7be17bf2a477d70f5256043b991e1a0884cb9198a95fed01cd
+Section: Bootstrap
+Description: iCleaner Pro
+ * 垃圾清理工具，启动项管理等
+ * The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi
+Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
+Name: iCleaner Pro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
 
 Package: com.ginsu.ytmusicultimates
 Version: 2.2
@@ -1685,22 +1710,23 @@ Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Name: YTMusicUltimate
 
-Package: com.guozi.kuannoads
-Version: 5.2.0
+Package: com.ginsu.ytmusicultimates
+Version: 2.2
 Architecture: iphoneos-arm64
-Maintainer: 小果子
-Installed-Size: 2532
+Maintainer: Ginsu
+Installed-Size: 26420
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.guozi.kuannoads_5.2.0_iphoneos-arm64.deb
-Size: 1088796
-MD5sum: f841390f9bc0dd7e27d27c9f9c75ec7a
-SHA1: 25f17881f2b8ee46e51081b75afae930afaf0e4c
-SHA256: d3ad89d5c4a37ff35a3d2b3b6b030092c277755cdbff96aa9e567b191b9b9b40
+Filename: ./debs/iphoneos-arm64/com.ginsu.ytmusicultimates_2.2_iphoneos-arm64.deb
+Size: 9263780
+MD5sum: 7bc506cefbd5c531742f6ba2d325a77a
+SHA1: 893310270603878828fb52798442331d667c6654
+SHA256: 132b1d6eaf41656b8d2e626931b94f96ca1f064d8dcee9feb1081910811cd01d
 Section: Tweaks
-Description: 酷安去广告插件
-Author: 小果子
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
-Name: 酷安FuckAds
+Description: YouTube Music Premium
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Name: YTMusicUltimate
 
 Package: com.guozi.kuannoads
 Version: 5.2.0
@@ -1720,28 +1746,22 @@ Author: 小果子
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
 Name: 酷安FuckAds
 
-Package: com.huami.DYYYs
-Version: 1.2
+Package: com.guozi.kuannoads
+Version: 5.2.0
 Architecture: iphoneos-arm64
-Depends: firmware (>= 5.0), mobilesubstrate
-Conflicts: com.huami.DYYY
-Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.2_iphoneos-arm64.deb
-Size: 468324
-MD5sum: fef9ba40d3dd7875098ebc7c60761883
-SHA1: a8a72805864f4421bb1c96acc5fb6600d328da93
-SHA256: 27516a25d88cd622996ecf4bd4551f6ef3bc7f08847f0b1045411c3c35002b63
-Section: 应用破解
-Priority: optional
-Description: 抖音增强插件
- * 设置全局透明度
- * 隐藏全屏观看
- * 隐藏底栏加号
- * 开启弹幕改色
- * 仅供学习交流，请在24内小时内自觉删除
-Author: huami
-Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
-Name: 抖音 DYYY
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+Maintainer: 小果子
+Installed-Size: 2532
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.guozi.kuannoads_5.2.0_iphoneos-arm64.deb
+Size: 1088796
+MD5sum: f841390f9bc0dd7e27d27c9f9c75ec7a
+SHA1: 25f17881f2b8ee46e51081b75afae930afaf0e4c
+SHA256: d3ad89d5c4a37ff35a3d2b3b6b030092c277755cdbff96aa9e567b191b9b9b40
+Section: Tweaks
+Description: 酷安去广告插件
+Author: 小果子
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
+Name: 酷安FuckAds
 
 Package: com.huami.DYYYs
 Version: 1.2
@@ -1768,15 +1788,15 @@ Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
 Package: com.huami.DYYYs
-Version: 1.3
+Version: 1.2
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.huami.DYYY
-Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.3_iphoneos-arm64.deb
-Size: 17456
-MD5sum: 0c642b4d80528ad495344f9284114ed4
-SHA1: 642fff6ef88984b9d441c1e31413d3dee9abcafa
-SHA256: c646279ef4d049d47ae101d3e7ac4f934dd34fd9117834630781e6961a90b04f
+Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.2_iphoneos-arm64.deb
+Size: 468324
+MD5sum: fef9ba40d3dd7875098ebc7c60761883
+SHA1: a8a72805864f4421bb1c96acc5fb6600d328da93
+SHA256: 27516a25d88cd622996ecf4bd4551f6ef3bc7f08847f0b1045411c3c35002b63
 Section: 应用破解
 Priority: optional
 Description: 抖音增强插件
@@ -1784,7 +1804,6 @@ Description: 抖音增强插件
  * 隐藏全屏观看
  * 隐藏底栏加号
  * 开启弹幕改色
- * 隐藏底栏、侧栏红点
  * 仅供学习交流，请在24内小时内自觉删除
 Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
@@ -1817,16 +1836,16 @@ Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
 Package: com.huami.DYYYs
-Version: 1.4
+Version: 1.3
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.huami.DYYY
-Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.4_iphoneos-arm64.deb
-Size: 19884
-MD5sum: f4f194885b97942d3bdb58067ee3d2df
-SHA1: a796c6b0ee0b4063df23e78540b5a0e787ccf25b
-SHA256: 0f40bc0c5e4e3df89b8933b2a7df2413578bb157f9c64d2029aebafb7bcddd59
-Section: 抖音插件
+Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.3_iphoneos-arm64.deb
+Size: 17456
+MD5sum: 0c642b4d80528ad495344f9284114ed4
+SHA1: 642fff6ef88984b9d441c1e31413d3dee9abcafa
+SHA256: c646279ef4d049d47ae101d3e7ac4f934dd34fd9117834630781e6961a90b04f
+Section: 应用破解
 Priority: optional
 Description: 抖音增强插件
  * 设置全局透明度
@@ -1866,15 +1885,15 @@ Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
 Package: com.huami.DYYYs
-Version: 1.4-1
+Version: 1.4
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.huami.DYYY
-Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.4-1_iphoneos-arm64.deb
-Size: 20048
-MD5sum: 45cdacb05014092b6029da6400b3815a
-SHA1: 6e9e5a6a2319c3dac2b8766a4af2f0bc5824a280
-SHA256: 4dfba7fd45ebba74ba82675b7532c60d5d2ac4da63461eb2951121b2bb7a6409
+Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.4_iphoneos-arm64.deb
+Size: 19884
+MD5sum: f4f194885b97942d3bdb58067ee3d2df
+SHA1: a796c6b0ee0b4063df23e78540b5a0e787ccf25b
+SHA256: 0f40bc0c5e4e3df89b8933b2a7df2413578bb157f9c64d2029aebafb7bcddd59
 Section: 抖音插件
 Priority: optional
 Description: 抖音增强插件
@@ -1914,23 +1933,29 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
-Package: com.huami.kugouNoAD
-Version: 0.1-1
+Package: com.huami.DYYYs
+Version: 1.4-1
 Architecture: iphoneos-arm64
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.huami.kugouNoAD_0.1-1_iphoneos-arm64.deb
-Size: 55512
-MD5sum: 0c86eae51c81ca56c31a4ec33241cd52
-SHA1: c691468aa87617066ed24e9b90511a0b834f99ea
-SHA256: 231ca338f2f7d4365b5173a56435ea4227a896123a0dcbad86dc264dfdcc76d9
-Section: 应用破解
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.4-1_iphoneos-arm64.deb
+Size: 20048
+MD5sum: 45cdacb05014092b6029da6400b3815a
+SHA1: 6e9e5a6a2319c3dac2b8766a4af2f0bc5824a280
+SHA256: 4dfba7fd45ebba74ba82675b7532c60d5d2ac4da63461eb2951121b2bb7a6409
+Section: 抖音插件
 Priority: optional
-Description: 酷狗音乐去广告
- * 去除开屏广告（含概念版）
- * 去除【我的】页面寻搭子广告
+Description: 抖音增强插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 隐藏底栏、侧栏红点
+ * 仅供学习交流，请在24内小时内自觉删除
 Author: huami
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kugou.png
-Name: 酷狗 NoAd
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
 Package: com.huami.kugouNoAD
 Version: 0.1-1
@@ -1951,21 +1976,23 @@ Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kugou.png
 Name: 酷狗 NoAd
 
-Package: com.hw.imepremium
-Version: 0.0.1
+Package: com.huami.kugouNoAD
+Version: 0.1-1
 Architecture: iphoneos-arm64
-Maintainer: 🅷🆆
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.hw.imepremium_0.0.1_iphoneos-arm64.deb
-Size: 7600
-MD5sum: e4778f8295b61710cd997fcadd4ac9f3
-SHA1: 2624ac95ec86f363dbb9bdb141bdf4199b27191d
-SHA256: f962a0fcd680b4c07feca959a2f6b54551803645e3b70464486953b9f3f960ff
-Section: Tweaks
-Description: 解锁iMe- Premium
-Author: 🅷🆆
-Name: 🅷🆆 iMe
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.huami.kugouNoAD_0.1-1_iphoneos-arm64.deb
+Size: 55512
+MD5sum: 0c86eae51c81ca56c31a4ec33241cd52
+SHA1: c691468aa87617066ed24e9b90511a0b834f99ea
+SHA256: 231ca338f2f7d4365b5173a56435ea4227a896123a0dcbad86dc264dfdcc76d9
+Section: 应用破解
+Priority: optional
+Description: 酷狗音乐去广告
+ * 去除开屏广告（含概念版）
+ * 去除【我的】页面寻搭子广告
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kugou.png
+Name: 酷狗 NoAd
 
 Package: com.hw.imepremium
 Version: 0.0.1
@@ -1984,27 +2011,21 @@ Description: 解锁iMe- Premium
 Author: 🅷🆆
 Name: 🅷🆆 iMe
 
-Package: com.ichitaso.hideserialnumbers
-Version: 0.0.4
+Package: com.hw.imepremium
+Version: 0.0.1
 Architecture: iphoneos-arm64
-Maintainer: ichitaso
-Installed-Size: 472
-Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Conflicts: com.ichitaso.hideserialnumber
-Filename: ./debs/iphoneos-arm64/com.ichitaso.hideserialnumbers_0.0.4_iphoneos-arm64.deb
-Size: 56680
-MD5sum: 5bac06557424609a0b9d107987bd3dff
-SHA1: 3ce5488f944b410f695275d0b19af7881a067c19
-SHA256: b09725c7389372e0a74b53dc1d89f87ccbd3511539235a8489c4f83216ef8234
-Section: Bootstrap
-Description: 修改系统版本号
- * Hide Serial Number in Settings About page.
-Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
-Author: ichitaso
-Dev: ichitaso
-Icon: https://i.imgur.com/uFWkBXD.png
-Name: HideSerialNumber 修改系统版本
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js.json
+Maintainer: 🅷🆆
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.hw.imepremium_0.0.1_iphoneos-arm64.deb
+Size: 7600
+MD5sum: e4778f8295b61710cd997fcadd4ac9f3
+SHA1: 2624ac95ec86f363dbb9bdb141bdf4199b27191d
+SHA256: f962a0fcd680b4c07feca959a2f6b54551803645e3b70464486953b9f3f960ff
+Section: Tweaks
+Description: 解锁iMe- Premium
+Author: 🅷🆆
+Name: 🅷🆆 iMe
 
 Package: com.ichitaso.hideserialnumbers
 Version: 0.0.4
@@ -2029,22 +2050,27 @@ Icon: https://i.imgur.com/uFWkBXD.png
 Name: HideSerialNumber 修改系统版本
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js.json
 
-Package: com.initnil.wcenableshowcontactaddcreatetimes
-Version: 1.1-1
+Package: com.ichitaso.hideserialnumbers
+Version: 0.0.4
 Architecture: iphoneos-arm64
-Maintainer: INITNIL
-Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/iphoneos-arm64/com.initnil.wcenableshowcontactaddcreatetimes_1.1-1_iphoneos-arm64.deb
-Size: 3992
-MD5sum: fbb01664ad4af9ba68a98ca12df2c788
-SHA1: 16e4a76124b1ec84b790a16f1ddee349af854d76
-SHA256: ee4e9ecdac264f4f66b1393204c7d446369324c8ab7d5c8b7efb8de768b0b0ab
-Section: Tweaks
-Description: 微信显示好友添加时间 WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
-Author: INITNIL
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
-Name: WCEnableShowContactAddCreateTime
+Maintainer: ichitaso
+Installed-Size: 472
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.hideserialnumber
+Filename: ./debs/iphoneos-arm64/com.ichitaso.hideserialnumbers_0.0.4_iphoneos-arm64.deb
+Size: 56680
+MD5sum: 5bac06557424609a0b9d107987bd3dff
+SHA1: 3ce5488f944b410f695275d0b19af7881a067c19
+SHA256: b09725c7389372e0a74b53dc1d89f87ccbd3511539235a8489c4f83216ef8234
+Section: Bootstrap
+Description: 修改系统版本号
+ * Hide Serial Number in Settings About page.
+Tag: purpose::extension, compatible_min::ios12.2, compatible_max::ios17.1.2
+Author: ichitaso
+Dev: ichitaso
+Icon: https://i.imgur.com/uFWkBXD.png
+Name: HideSerialNumber 修改系统版本
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js.json
 
 Package: com.initnil.wcenableshowcontactaddcreatetimes
 Version: 1.1-1
@@ -2064,21 +2090,22 @@ Author: INITNIL
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableShowContactAddCreateTime
 
-Package: com.iosrxwy.xmlynoads
-Version: 0.1-1
+Package: com.initnil.wcenableshowcontactaddcreatetimes
+Version: 1.1-1
 Architecture: iphoneos-arm64
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.iosrxwy.xmlynoads_0.1-1_iphoneos-arm64.deb
-Size: 98384
-MD5sum: 1aa6f767213140263e7bced03353c9da
-SHA1: 6a1b4970fbeb5b594e028450cc1b85f44e1535b9
-SHA256: c9b32e23ea86fb76efcc14417753af70f40859b4e206e9fa6000a2044daca83e
-Section: 应用破解
-Priority: optional
-Description: 喜马拉雅去广告，非破解！
-Author: iosrxwy
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xmly.png
-Name: 喜马拉雅 NoAd
+Maintainer: INITNIL
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.initnil.wcenableshowcontactaddcreatetimes_1.1-1_iphoneos-arm64.deb
+Size: 3992
+MD5sum: fbb01664ad4af9ba68a98ca12df2c788
+SHA1: 16e4a76124b1ec84b790a16f1ddee349af854d76
+SHA256: ee4e9ecdac264f4f66b1393204c7d446369324c8ab7d5c8b7efb8de768b0b0ab
+Section: Tweaks
+Description: 微信显示好友添加时间 WeChat Enable Testing Show Contact Add CreateTime v8.0.51+
+Author: INITNIL
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WCEnableShowContactAddCreateTime
 
 Package: com.iosrxwy.xmlynoads
 Version: 0.1-1
@@ -2097,23 +2124,21 @@ Author: iosrxwy
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xmly.png
 Name: 喜马拉雅 NoAd
 
-Package: com.jamme.picsartpatch
-Version: 4.2.0+debug
+Package: com.iosrxwy.xmlynoads
+Version: 0.1-1
 Architecture: iphoneos-arm64
-Maintainer: jamme <love@love.com>
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.jamme.picsartpatch_4.2.0+debug_iphoneos-arm64.deb
-Size: 6900
-MD5sum: 39ceba29e0f3a0ef4083293d3375860d
-SHA1: 55512fdf3e88dee6cabac3031747e8ecc78b5ef8
-SHA256: 8f3abe62d1a94daac68003e279c68cf8bbeda5c1e3a2a292703602570ce287f2
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.iosrxwy.xmlynoads_0.1-1_iphoneos-arm64.deb
+Size: 98384
+MD5sum: 1aa6f767213140263e7bced03353c9da
+SHA1: 6a1b4970fbeb5b594e028450cc1b85f44e1535b9
+SHA256: c9b32e23ea86fb76efcc14417753af70f40859b4e206e9fa6000a2044daca83e
 Section: 应用破解
-Description: Made using Flex To Theos updated by: Randy420
-Author: jamme <love@love.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/Picsart/icon.png
-Name: PicsArt Patch 破解
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Picsart/js.json
+Priority: optional
+Description: 喜马拉雅去广告，非破解！
+Author: iosrxwy
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xmly.png
+Name: 喜马拉雅 NoAd
 
 Package: com.jamme.picsartpatch
 Version: 4.2.0+debug
@@ -2134,27 +2159,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Picsart/icon.png
 Name: PicsArt Patch 破解
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Picsart/js.json
 
-Package: com.kingpuffdaddi.control-center.ccvpn.surge
-Version: 1.0.6
+Package: com.jamme.picsartpatch
+Version: 4.2.0+debug
 Architecture: iphoneos-arm64
-Maintainer: https://trollstorex.github.io/repo/
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Conflicts: com.kingpuffdaddi.control-center.ccvpn
-Replaces: com.kingpuffdaddi.control-center.ccvpn
-Provides: com.kingpuffdaddi.control-center.ccvpn
-Filename: ./debs/iphoneos-arm64/com.kingpuffdaddi.control-center.ccvpn.surge_1.0.6_iphoneos-arm64.deb
-Size: 25584
-MD5sum: 13b79542be7b87f829fa558201ff102a
-SHA1: 98f4ba90af360436757a21dbfeafe9b1ffb58b57
-SHA256: d56ff8e07bf156e40b7e9bdd3e19e0e38b06967bad0ff6ca6e47bb496a905763
-Section: 控制中心
-Description: CCVPN 控制中心图标修改为 Surge
-Tag: purpose::extension
-Author: KingPuffdaddi
-Dev: kingpuffdaddi
-Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
-Name: CCVPN Surge
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
+Maintainer: jamme <love@love.com>
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.jamme.picsartpatch_4.2.0+debug_iphoneos-arm64.deb
+Size: 6900
+MD5sum: 39ceba29e0f3a0ef4083293d3375860d
+SHA1: 55512fdf3e88dee6cabac3031747e8ecc78b5ef8
+SHA256: 8f3abe62d1a94daac68003e279c68cf8bbeda5c1e3a2a292703602570ce287f2
+Section: 应用破解
+Description: Made using Flex To Theos updated by: Randy420
+Author: jamme <love@love.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Picsart/icon.png
+Name: PicsArt Patch 破解
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Picsart/js.json
 
 Package: com.kingpuffdaddi.control-center.ccvpn.surge
 Version: 1.0.6
@@ -2179,27 +2200,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
 Name: CCVPN Surge
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
 
-Package: com.lclrc.hammerits
-Version: 1.7.0
-Architecture: iphoneos-arm64e
-Maintainer: lclrc(SquidForce)
-Installed-Size: 3808
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
-Conflicts: com.lclrc.hammerit
-Filename: ./debs/iphoneos-arm64/com.lclrc.hammerits_1.7.0_iphoneos-arm64e.deb
-Size: 2767754
-MD5sum: daeb14dabefeb181078c31120570b494
-SHA1: 273e45e31f45963c3804315e905c7aca6215e379
-SHA256: 782584980e658f7227ef22f43b25813cb2f5418f956f07609d3cd0296ca0e260
-Section: Bootstrap
-Description: 控制您的文本或根据您的意愿进行翻译。
- * 支持Twitter Telegram Discord Sileo 等快捷翻译
- * Control your text or translate as you wish.
-Author: lclrc(SquidForce)
-Icon: https://TrollStoreX.Github.io/sileodepiction/Hammerit/icon.png
-Name: Hammer It 翻译
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Hammerit/js.json
+Package: com.kingpuffdaddi.control-center.ccvpn.surge
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: https://trollstorex.github.io/repo/
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.kingpuffdaddi.control-center.ccvpn
+Replaces: com.kingpuffdaddi.control-center.ccvpn
+Provides: com.kingpuffdaddi.control-center.ccvpn
+Filename: ./debs/iphoneos-arm64/com.kingpuffdaddi.control-center.ccvpn.surge_1.0.6_iphoneos-arm64.deb
+Size: 25584
+MD5sum: 13b79542be7b87f829fa558201ff102a
+SHA1: 98f4ba90af360436757a21dbfeafe9b1ffb58b57
+SHA256: d56ff8e07bf156e40b7e9bdd3e19e0e38b06967bad0ff6ca6e47bb496a905763
+Section: 控制中心
+Description: CCVPN 控制中心图标修改为 Surge
+Tag: purpose::extension
+Author: KingPuffdaddi
+Dev: kingpuffdaddi
+Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
+Name: CCVPN Surge
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
 
 Package: com.lclrc.hammerits
 Version: 1.7.0
@@ -2223,26 +2244,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Hammerit/icon.png
 Name: Hammer It 翻译
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Hammerit/js.json
 
-Package: com.lenglengyu.passbyccs
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: lenglengyu
-Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
-Conflicts: com.lenglengyu.passbycc
-Replaces: com.lenglengyu.passbycc
-Provides: com.lenglengyu.passbycc
-Filename: ./debs/iphoneos-arm64/com.lenglengyu.passbyccs_1.0.2_iphoneos-arm64.deb
-Size: 94340
-MD5sum: d151936389857bc02e1511f2862524b4
-SHA1: 7e189887234b6cda54713fa4916e1648e7557186
-SHA256: bb0c0662e9210e8573b25d09c1a562aa4c2f4726c31f725dc0f029031f37c8fc
-Section: 控制中心
-Description: 控制中心模块，临时绕过面容，绕过密码解锁，修改为 FaceID 图标。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
-Icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
-Name: 临时绕过面容 PassbyCC
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
+Package: com.lclrc.hammerits
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Conflicts: com.lclrc.hammerit
+Filename: ./debs/iphoneos-arm64/com.lclrc.hammerits_1.7.0_iphoneos-arm64e.deb
+Size: 2767754
+MD5sum: daeb14dabefeb181078c31120570b494
+SHA1: 273e45e31f45963c3804315e905c7aca6215e379
+SHA256: 782584980e658f7227ef22f43b25813cb2f5418f956f07609d3cd0296ca0e260
+Section: Bootstrap
+Description: 控制您的文本或根据您的意愿进行翻译。
+ * 支持Twitter Telegram Discord Sileo 等快捷翻译
+ * Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: https://TrollStoreX.Github.io/sileodepiction/Hammerit/icon.png
+Name: Hammer It 翻译
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Hammerit/js.json
 
 Package: com.lenglengyu.passbyccs
 Version: 1.0.2
@@ -2266,30 +2288,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 Name: 临时绕过面容 PassbyCC
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 
-Package: com.link.awemes
-Version: 1.0.0
+Package: com.lenglengyu.passbyccs
+Version: 1.0.2
 Architecture: iphoneos-arm64
-Maintainer: Link
-Installed-Size: 456
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.link.aweme
-Filename: ./debs/iphoneos-arm64/com.link.awemes_1.0.0_iphoneos-arm64.deb
-Size: 67672
-MD5sum: 3395c5611278fb9e55739cecd3d45ec9
-SHA1: d98dfab913336e603327f30ea1a291a18e9bdf9f
-SHA256: f03c4b6612038d034a53a53075258501fad43be6318dec8a8038d811a27989ac
-Section: 应用破解
-Description: 抖音增强插件
- * 去广告
- * 元素按钮隐藏
- * 视频无水印下载
- * 支持注入ipa使用
- * 时间限制？未知
- * An awesome tweak for Aweme!
-Author: Link
-Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
-Name: 抖音增强 Aweme
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
+Maintainer: lenglengyu
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.lenglengyu.passbycc
+Replaces: com.lenglengyu.passbycc
+Provides: com.lenglengyu.passbycc
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.passbyccs_1.0.2_iphoneos-arm64.deb
+Size: 94340
+MD5sum: d151936389857bc02e1511f2862524b4
+SHA1: 7e189887234b6cda54713fa4916e1648e7557186
+SHA256: bb0c0662e9210e8573b25d09c1a562aa4c2f4726c31f725dc0f029031f37c8fc
+Section: 控制中心
+Description: 控制中心模块，临时绕过面容，绕过密码解锁，修改为 FaceID 图标。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/passbycc.html
+Icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
+Name: 临时绕过面容 PassbyCC
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 
 Package: com.link.awemes
 Version: 1.0.0
@@ -2317,23 +2335,30 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音增强 Aweme
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
 
-Package: com.liuf.jpyj
-Version: 0.0.1
+Package: com.link.awemes
+Version: 1.0.0
 Architecture: iphoneos-arm64
-Maintainer: liuf
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
-Size: 3764
-MD5sum: c615ecfd3b17037ad41a76d2939b99af
-SHA1: 0b9946661634b5f5f9401bcf5db23ce586290b89
-SHA256: 9ff289357fdf086cc4f7ee765fbacf151dc864770e2131a5f2834eb3e57ebc22
-Section: Tweaks
-Description: 修改系统键盘圆角 Modify the keyboard icon to have rounded corners.
-Author: liuf
-Icon: https://TrollStoreX.Github.io/sileodepiction/keyboard/icon.png
-Name: 修改系统键盘圆角
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/keyboard/js.json
+Maintainer: Link
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.link.aweme
+Filename: ./debs/iphoneos-arm64/com.link.awemes_1.0.0_iphoneos-arm64.deb
+Size: 67672
+MD5sum: 3395c5611278fb9e55739cecd3d45ec9
+SHA1: d98dfab913336e603327f30ea1a291a18e9bdf9f
+SHA256: f03c4b6612038d034a53a53075258501fad43be6318dec8a8038d811a27989ac
+Section: 应用破解
+Description: 抖音增强插件
+ * 去广告
+ * 元素按钮隐藏
+ * 视频无水印下载
+ * 支持注入ipa使用
+ * 时间限制？未知
+ * An awesome tweak for Aweme!
+Author: Link
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音增强 Aweme
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
 
 Package: com.liuf.jpyj
 Version: 0.0.1
@@ -2354,22 +2379,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/keyboard/icon.png
 Name: 修改系统键盘圆角
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/keyboard/js.json
 
-Package: com.lns.pogr
-Version: 0.4.0~prerelease1
+Package: com.liuf.jpyj
+Version: 0.0.1
 Architecture: iphoneos-arm64
-Maintainer: Ruphane
-Installed-Size: 648
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.lns.pogr_0.4.0~prerelease1_iphoneos-arm64.deb
-Size: 80104
-MD5sum: 53e08e1abb651207ba6781609fc21d70
-SHA1: fe9e2281a2f06edc185aa5385c8d798485f77ab3
-SHA256: d180b589c0a2710deede5f8d7ebd56a0f73b20e8336472c615085cb4e19b799e
+Maintainer: liuf
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.liuf.jpyj_0.0.1_iphoneos-arm64.deb
+Size: 3764
+MD5sum: c615ecfd3b17037ad41a76d2939b99af
+SHA1: 0b9946661634b5f5f9401bcf5db23ce586290b89
+SHA256: 9ff289357fdf086cc4f7ee765fbacf151dc864770e2131a5f2834eb3e57ebc22
 Section: Tweaks
-Description: 将AirPods Pro 2视为AirPods Pro，使其在旧操作系统上更好地工作（仅适用于少数iOS版本），支持iOS 16和USB-C版本的AirPods Pro 2
-Author: Ruphane
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
-Name: PodsGrant
+Description: 修改系统键盘圆角 Modify the keyboard icon to have rounded corners.
+Author: liuf
+Icon: https://TrollStoreX.Github.io/sileodepiction/keyboard/icon.png
+Name: 修改系统键盘圆角
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/keyboard/js.json
 
 Package: com.lns.pogr
 Version: 0.4.0~prerelease1
@@ -2383,6 +2409,23 @@ Size: 94340
 MD5sum: 4d480bcf703a620a7664ac9c1aba6839
 SHA1: fe51b9b91e8a2908b87f534fc544d1552811ae15
 SHA256: 0a4e541e40a3d7385af91ea7090fdf37fde35054cf33d10f3d84f9c2b1c83a58
+Section: Tweaks
+Description: 将AirPods Pro 2视为AirPods Pro，使其在旧操作系统上更好地工作（仅适用于少数iOS版本），支持iOS 16和USB-C版本的AirPods Pro 2
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
+Name: PodsGrant
+
+Package: com.lns.pogr
+Version: 0.4.0~prerelease1
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 648
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.lns.pogr_0.4.0~prerelease1_iphoneos-arm64.deb
+Size: 80104
+MD5sum: 53e08e1abb651207ba6781609fc21d70
+SHA1: fe9e2281a2f06edc185aa5385c8d798485f77ab3
+SHA256: d180b589c0a2710deede5f8d7ebd56a0f73b20e8336472c615085cb4e19b799e
 Section: Tweaks
 Description: 将AirPods Pro 2视为AirPods Pro，使其在旧操作系统上更好地工作（仅适用于少数iOS版本），支持iOS 16和USB-C版本的AirPods Pro 2
 Author: Ruphane
@@ -2417,7 +2460,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
+Filename: ./debs/iphoneos-arm64e/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
 Size: 5692
 MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
 SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
@@ -2452,7 +2495,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/iphoneos-arm64e/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
 Size: 5692
 MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
 SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
@@ -2463,24 +2506,6 @@ Author: Nathan Senter
 Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
 Name: 显示存储系统数据详情InternalStorageSettings
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
-
-Package: com.netskao.appdata
-Version: 1.4.2
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 3772
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
-Size: 824308
-MD5sum: 87424d5f75667d720c9c22fadfe403fb
-SHA1: 74ae3a3982fe98d9f1e3f06f21f52e60fd52fb68
-SHA256: f5fb3b0d7db0dfe39f9e5c7e47c57b74570da1264fb33bcec9af98aa1849f641
-Section: Netskao-Tweaks
-Description: 汉化修改，桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具。
-Author: Fouad Raheb
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
 Package: com.netskao.appdata
 Version: 1.4.2
@@ -2501,26 +2526,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
-Package: com.netskao.awemedisablebars
-Version: 1.1-2
+Package: com.netskao.appdata
+Version: 1.4.2
 Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 172
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.awemedisablebar
-Filename: ./debs/iphoneos-arm64/com.netskao.awemedisablebars_1.1-2_iphoneos-arm64.deb
-Size: 41484
-MD5sum: 0f498c40793224749b7e8f0e63a301c8
-SHA1: f2396be9bebff1070cad29bcfe99b9be7bde12e3
-SHA256: 61930af929f260b40dc4d17450a49c7a7173ba2dd64dc52edb25a872636555b0
-Section: 抖音插件
-Description: 抖音禁用插件
- * 禁用顶部/底部选项卡按钮
- * 仅在30.3.0及更高版本上进行测试
-Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
-Name: 抖音禁用 AwemeDisableBar
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/js.json
+Maintainer: Netskao
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/iphoneos-arm64/com.netskao.appdata_1.4.2_iphoneos-arm64.deb
+Size: 824308
+MD5sum: 87424d5f75667d720c9c22fadfe403fb
+SHA1: 74ae3a3982fe98d9f1e3f06f21f52e60fd52fb68
+SHA256: f5fb3b0d7db0dfe39f9e5c7e47c57b74570da1264fb33bcec9af98aa1849f641
+Section: Netskao-Tweaks
+Description: 汉化修改，桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具。
+Author: Fouad Raheb
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
 Package: com.netskao.awemedisablebars
 Version: 1.1-2
@@ -2544,27 +2566,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
 Name: 抖音禁用 AwemeDisableBar
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/js.json
 
-Package: com.netskao.awemedownloadmedias
-Version: 1.1-1
+Package: com.netskao.awemedisablebars
+Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 208
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: com.netskao.awemedownloadmedia
-Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-1_iphoneos-arm64.deb
-Size: 59552
-MD5sum: 6614df999bfe71b61d69c50d139d1bbc
-SHA1: 2615ac930778bc76ccfa22f1beb51695fad1da89
-SHA256: 7a46200aa65602d3393eeff38b7a1d778865633758a7f1139f9c597a831b0236
-Section: 应用破解
-Description: 抖音下载增强插件
- * 右下角显示下载按钮
- * 无水印保存图片、视频、LivePhoto
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemedisablebar
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedisablebars_1.1-2_iphoneos-arm64.deb
+Size: 41484
+MD5sum: 0f498c40793224749b7e8f0e63a301c8
+SHA1: f2396be9bebff1070cad29bcfe99b9be7bde12e3
+SHA256: 61930af929f260b40dc4d17450a49c7a7173ba2dd64dc52edb25a872636555b0
+Section: 抖音插件
+Description: 抖音禁用插件
+ * 禁用顶部/底部选项卡按钮
  * 仅在30.3.0及更高版本上进行测试
 Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/icon.png
-Name: 抖音 AwemeDownloadMedia
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
+Name: 抖音禁用 AwemeDisableBar
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/js.json
 
 Package: com.netskao.awemedownloadmedias
 Version: 1.1-1
@@ -2590,17 +2611,17 @@ Name: 抖音 AwemeDownloadMedia
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
 
 Package: com.netskao.awemedownloadmedias
-Version: 1.1-2
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 208
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.netskao.awemedownloadmedia
-Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-2_iphoneos-arm64.deb
-Size: 66356
-MD5sum: abda7c7ee6043b83e5fed307e141957d
-SHA1: c96b5e02963dd46b01dfadb34f07ee7b28fd76e7
-SHA256: 3d1f19119099bb5af409d08431e5b47ad96b9b8636b5fe68974eaaf57054221b
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-1_iphoneos-arm64.deb
+Size: 59552
+MD5sum: 6614df999bfe71b61d69c50d139d1bbc
+SHA1: 2615ac930778bc76ccfa22f1beb51695fad1da89
+SHA256: 7a46200aa65602d3393eeff38b7a1d778865633758a7f1139f9c597a831b0236
 Section: 应用破解
 Description: 抖音下载增强插件
  * 右下角显示下载按钮
@@ -2635,17 +2656,17 @@ Name: 抖音 AwemeDownloadMedia
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
 
 Package: com.netskao.awemedownloadmedias
-Version: 1.1-3
+Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 208
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.netskao.awemedownloadmedia
-Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-3_iphoneos-arm64.deb
-Size: 81312
-MD5sum: 53db07242092dd4070d39f17ddced307
-SHA1: 217a1ad87920832c27d16afe6ec7aec224ce107b
-SHA256: e7fb01fb9c373fb6a9c0156d02dee98ad4d3d2783892c6ca2caa12aa5eccba48
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-2_iphoneos-arm64.deb
+Size: 66356
+MD5sum: abda7c7ee6043b83e5fed307e141957d
+SHA1: c96b5e02963dd46b01dfadb34f07ee7b28fd76e7
+SHA256: 3d1f19119099bb5af409d08431e5b47ad96b9b8636b5fe68974eaaf57054221b
 Section: 应用破解
 Description: 抖音下载增强插件
  * 右下角显示下载按钮
@@ -2680,17 +2701,17 @@ Name: 抖音 AwemeDownloadMedia
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
 
 Package: com.netskao.awemedownloadmedias
-Version: 1.1-5
+Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 208
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.netskao.awemedownloadmedia
-Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-5_iphoneos-arm64.deb
-Size: 85020
-MD5sum: 926a25e6e1623949d026dce1ef81a8eb
-SHA1: 9a58e90c48d29e17815cde3473e35fa98ee8a271
-SHA256: 2324d146573ddda8642ba6a9dbe584f538552cce2d657e1e247b3af43a76f90f
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-3_iphoneos-arm64.deb
+Size: 81312
+MD5sum: 53db07242092dd4070d39f17ddced307
+SHA1: 217a1ad87920832c27d16afe6ec7aec224ce107b
+SHA256: e7fb01fb9c373fb6a9c0156d02dee98ad4d3d2783892c6ca2caa12aa5eccba48
 Section: 应用破解
 Description: 抖音下载增强插件
  * 右下角显示下载按钮
@@ -2725,17 +2746,17 @@ Name: 抖音 AwemeDownloadMedia
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
 
 Package: com.netskao.awemedownloadmedias
-Version: 1.1-6
+Version: 1.1-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 208
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.netskao.awemedownloadmedia
-Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-6_iphoneos-arm64.deb
-Size: 112724
-MD5sum: accddee53ac7f2cb53a79b67e1ad63db
-SHA1: a4270f9d543d20afbdc1f9a44f9e670c3636a193
-SHA256: c06315a2d0f0b0d5d09f9b4d7149cc0541ab78ade55018c95bc52fe7d83a8f76
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-5_iphoneos-arm64.deb
+Size: 85020
+MD5sum: 926a25e6e1623949d026dce1ef81a8eb
+SHA1: 9a58e90c48d29e17815cde3473e35fa98ee8a271
+SHA256: 2324d146573ddda8642ba6a9dbe584f538552cce2d657e1e247b3af43a76f90f
 Section: 应用破解
 Description: 抖音下载增强插件
  * 右下角显示下载按钮
@@ -2769,23 +2790,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/icon.png
 Name: 抖音 AwemeDownloadMedia
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
 
-Package: com.netskao.awemefullscreens
-Version: 1.1-8
+Package: com.netskao.awemedownloadmedias
+Version: 1.1-6
 Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 108
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreens_1.1-8_iphoneos-arm64.deb
-Size: 23844
-MD5sum: c11ef0c13d6abed4d0f0e2bde10c9883
-SHA1: 147bd4f2c809d2b04c9f969cae5f8899a06d33f6
-SHA256: da0884af5746c837daf86a2b6c114003cf0b762cf123c6df58c48f0bd3b91763
-Section: Netskao-Tweaks
-Description: 抖音全屏显示，仅在29.8.0版本上测试，后续版本更新导致的问题将不会被维护。
+Maintainer: Nets
+Installed-Size: 208
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.netskao.awemedownloadmedia
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-6_iphoneos-arm64.deb
+Size: 112724
+MD5sum: accddee53ac7f2cb53a79b67e1ad63db
+SHA1: a4270f9d543d20afbdc1f9a44f9e670c3636a193
+SHA256: c06315a2d0f0b0d5d09f9b4d7149cc0541ab78ade55018c95bc52fe7d83a8f76
+Section: 应用破解
+Description: 抖音下载增强插件
+ * 右下角显示下载按钮
+ * 无水印保存图片、视频、LivePhoto
+ * 仅在30.3.0及更高版本上进行测试
 Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
-Name: 抖音全屏 AwemeFullScreen
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/icon.png
+Name: 抖音 AwemeDownloadMedia
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDownloadMedia/js.json
 
 Package: com.netskao.awemefullscreens
 Version: 1.1-8
@@ -2807,18 +2832,17 @@ Name: 抖音全屏 AwemeFullScreen
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
 
 Package: com.netskao.awemefullscreens
-Version: 1.1-9
+Version: 1.1-8
 Architecture: iphoneos-arm64
 Maintainer: Netskao
 Installed-Size: 108
 Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.awemefullscreen, com.huami.FixFullScreenForDY30
-Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreens_1.1-9_iphoneos-arm64.deb
-Size: 26116
-MD5sum: cf66ab9cc6a644cde8bdd044dabc7de0
-SHA1: c1868e398f04737f2a60bb1f3ce9471be08820ae
-SHA256: 2c2e819b2ee97c70571f07399e784c8fa26a79ec2e07bb2000cd104d46c8d9c7
-Section: 应用破解
+Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreens_1.1-8_iphoneos-arm64.deb
+Size: 23844
+MD5sum: c11ef0c13d6abed4d0f0e2bde10c9883
+SHA1: 147bd4f2c809d2b04c9f969cae5f8899a06d33f6
+SHA256: da0884af5746c837daf86a2b6c114003cf0b762cf123c6df58c48f0bd3b91763
+Section: Netskao-Tweaks
 Description: 抖音全屏显示，仅在29.8.0版本上测试，后续版本更新导致的问题将不会被维护。
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
@@ -2845,23 +2869,65 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音全屏 AwemeFullScreen
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
 
-Package: com.netskao.qqnotiavatars
-Version: 1.2-2
+Package: com.netskao.awemefullscreens
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemefullscreen, com.huami.FixFullScreenForDY30
+Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreens_1.1-9_iphoneos-arm64.deb
+Size: 26116
+MD5sum: cf66ab9cc6a644cde8bdd044dabc7de0
+SHA1: c1868e398f04737f2a60bb1f3ce9471be08820ae
+SHA256: 2c2e819b2ee97c70571f07399e784c8fa26a79ec2e07bb2000cd104d46c8d9c7
+Section: 应用破解
+Description: 抖音全屏显示，仅在29.8.0版本上测试，后续版本更新导致的问题将不会被维护。
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音全屏 AwemeFullScreen
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+
+Package: com.netskao.awemevideotimes
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 124
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemevideotime
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemevideotimes_1.1-1_iphoneos-arm64e.deb
+Size: 41140
+MD5sum: 1546192e959e4e46d34fba686ffbf2fc
+SHA1: 4c4863d602e7473e9a486854387d42b545fe01bc
+SHA256: b56a2297a3d025a46bb0e843b1b5ab33d5da24fa9a03340ccc94e984095026dc
+Section: 抖音插件
+Description: 抖音视频显示时间进度条
+ * 仅在30.3.0及更高版本上进行测试
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/icon.png
+Name: 抖音进度条 AwemeVideoTime
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/js.json
+
+Package: com.netskao.awemevideotimes
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 204
-Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.netskao.qqnotiavatars_1.2-2_iphoneos-arm64.deb
-Size: 25640
-MD5sum: c4f56e7014cfaae064ca94232923e268
-SHA1: 3381fcdfb8fcbfafa21e61b62f1d1a55c73f5582
-SHA256: 8a9eee424e8eeeb2536fb05708158c4984e9016f32e75d3e69cfb8f91d90689b
-Section: Netskao-Tweaks
-Description: 让 QQ 消息通知显示 QQ 好友头像
+Installed-Size: 124
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemevideotime
+Filename: ./debs/iphoneos-arm64/com.netskao.awemevideotimes_1.1-1_iphoneos-arm64.deb
+Size: 28356
+MD5sum: 0c8f8bd488dc64882d61246dbfe07185
+SHA1: fdb87796484d5bcd42d958139f019d7085a3cb04
+SHA256: c55fb5a6941dc36eb243fbc277d6c3ff99391770e42ad7a95c12c6d3c9cb8d7e
+Section: 抖音插件
+Description: 抖音视频显示时间进度条
+ * 仅在30.3.0及更高版本上进行测试
 Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
-Name: QQNotiAvatar QQ头像
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/jss.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/icon.png
+Name: 抖音进度条 AwemeVideoTime
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/js.json
 
 Package: com.netskao.qqnotiavatars
 Version: 1.2-2
@@ -2882,23 +2948,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
 Name: QQNotiAvatar QQ头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/jss.json
 
-Package: com.netskao.wechatnotiavatars
-Version: 1.2-5
+Package: com.netskao.qqnotiavatars
+Version: 1.2-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 2336
+Installed-Size: 204
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatars_1.2-5_iphoneos-arm64.deb
-Size: 523380
-MD5sum: 1d0320b66d30b25190e737ecd021aa54
-SHA1: af3b014cfde1f48c577c93116214a4ff8ca141c8
-SHA256: a3ca16956f4c7a44b9d76476d3bee7884cddf2bcc9bea2fd591b1a0e9f97272a
+Filename: ./debs/iphoneos-arm64/com.netskao.qqnotiavatars_1.2-2_iphoneos-arm64.deb
+Size: 25640
+MD5sum: c4f56e7014cfaae064ca94232923e268
+SHA1: 3381fcdfb8fcbfafa21e61b62f1d1a55c73f5582
+SHA256: 8a9eee424e8eeeb2536fb05708158c4984e9016f32e75d3e69cfb8f91d90689b
 Section: Netskao-Tweaks
-Description: 让微信消息通知显示微信好友头像，傻逼张小龙为什么不支持？
+Description: 让 QQ 消息通知显示 QQ 好友头像
 Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
-Name: WeChatNotiAvatar 微信头像
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
+Name: QQNotiAvatar QQ头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/jss.json
 
 Package: com.netskao.wechatnotiavatars
 Version: 1.2-5
@@ -2919,22 +2985,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WeChatNotiAvatar 微信头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
 
-Package: com.opa334.dopamine.trollstore
-Version: 1.0
+Package: com.netskao.wechatnotiavatars
+Version: 1.2-5
 Architecture: iphoneos-arm64
-Maintainer: TrollStore
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/iphoneos-arm64/com.opa334.dopamine.trollstore_1.0_iphoneos-arm64.deb
-Size: 872
-MD5sum: 7792fb34c4ebd10de45c5edc5e9fb684
-SHA1: 1e301a6a5dedd284459dac0631e21db08aaa354b
-SHA256: e44d7fcfc1a43e0f0575bf90f1acd6a1a558db15a9a23027b30597dc889f2082
-Section: opa334
-Description: opa334
-Author: TrollStore
-Icon: https://TrollStoreX.Github.io/sileodepiction/opa334/icon.png
-Name: opa334
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatars_1.2-5_iphoneos-arm64.deb
+Size: 523380
+MD5sum: 1d0320b66d30b25190e737ecd021aa54
+SHA1: af3b014cfde1f48c577c93116214a4ff8ca141c8
+SHA256: a3ca16956f4c7a44b9d76476d3bee7884cddf2bcc9bea2fd591b1a0e9f97272a
+Section: Netskao-Tweaks
+Description: 让微信消息通知显示微信好友头像，傻逼张小龙为什么不支持？
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WeChatNotiAvatar 微信头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
 
 Package: com.opa334.dopamine.trollstore
 Version: 1.0
@@ -2954,22 +3021,22 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/opa334/icon.png
 Name: opa334
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
 
-Package: com.p2kdev.facebooknoads
-Version: 1.3
+Package: com.opa334.dopamine.trollstore
+Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.p2kdev.facebooknoads_1.3_iphoneos-arm64.deb
-Size: 5436
-MD5sum: 9bca7fdeba43659f25c28c57c8d7b849
-SHA1: 8de281c0d69298adab788e8777b795b8cc716058
-SHA256: 4563d4ae17e7018730b096da98410188d189ff89093082b3d1422717821ba317
-Section: Tweaks
-Description: Facebook NoAds 去广告插件
-Author: P2KDev <p2kdev@gmail.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/facebook.png
-Name: FacebookNoAds
+Maintainer: TrollStore
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64/com.opa334.dopamine.trollstore_1.0_iphoneos-arm64.deb
+Size: 872
+MD5sum: 7792fb34c4ebd10de45c5edc5e9fb684
+SHA1: 1e301a6a5dedd284459dac0631e21db08aaa354b
+SHA256: e44d7fcfc1a43e0f0575bf90f1acd6a1a558db15a9a23027b30597dc889f2082
+Section: opa334
+Description: opa334
+Author: TrollStore
+Icon: https://TrollStoreX.Github.io/sileodepiction/opa334/icon.png
+Name: opa334
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/opa334/js.json
 
 Package: com.p2kdev.facebooknoads
 Version: 1.3
@@ -2989,23 +3056,22 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/facebook.png
 Name: FacebookNoAds
 
-Package: com.p2kdev.twitternoadss
-Version: 1.2.4
+Package: com.p2kdev.facebooknoads
+Version: 1.3
 Architecture: iphoneos-arm64
-Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Maintainer: P2KDev <p2kdev@gmail.com>
 Installed-Size: 172
 Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.p2kdev.twitternoadss_1.2.4_iphoneos-arm64.deb
-Size: 7420
-MD5sum: 16dec37666eccc9dc0335d3c4034db07
-SHA1: 684d045cb1e91e1a8e57325ce1f889a43458b4a6
-SHA256: e52854aa6e5b8096babe696fd5f913dbb31d6659253e7d1f52c3f1329c1ab527
-Section: 应用破解
-Description: No Ads in the Twitter App!
+Filename: ./debs/iphoneos-arm64/com.p2kdev.facebooknoads_1.3_iphoneos-arm64.deb
+Size: 5436
+MD5sum: 9bca7fdeba43659f25c28c57c8d7b849
+SHA1: 8de281c0d69298adab788e8777b795b8cc716058
+SHA256: 4563d4ae17e7018730b096da98410188d189ff89093082b3d1422717821ba317
+Section: Tweaks
+Description: Facebook NoAds 去广告插件
 Author: P2KDev <p2kdev@gmail.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
-Name: TwitterNoAds
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/facebook.png
+Name: FacebookNoAds
 
 Package: com.p2kdev.twitternoadss
 Version: 1.2.4
@@ -3026,28 +3092,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 Name: TwitterNoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
 
-Package: com.ps.cahighfpss
-Version: 1.3.1
+Package: com.p2kdev.twitternoadss
+Version: 1.2.4
 Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
-Conflicts: com.ps.cahighfps
-Filename: ./debs/iphoneos-arm64/com.ps.cahighfpss_1.3.1_iphoneos-arm64.deb
-Size: 5688
-MD5sum: c8140a0923b49067ca4ae4528f70c10b
-SHA1: 8ee609df291127289bfa8a6d3020d18ec2ebe95b
-SHA256: 404a4aaf4fb082c693b29ec3fa0b72b55b6b7d103b2a476c288954adc888acd9
-Section: Bootstrap
-Description: 让高帧率设备默认帧率 80hz 达到 120hz
- * 仅测试 120hz 功能，没用请卸载
- * 安装后默认开启，无设置选项
- * 测试 Bootstrap｜13pm ｜17.0
- * Bootstrap 环境需要某个应用生效，就要在 Bootstrap 开启某个应用注入
-Author: PoomSmart
-Icon: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/icon.png
-Name: CAHighFPS 120hz
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/js.json
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.p2kdev.twitternoadss_1.2.4_iphoneos-arm64.deb
+Size: 7420
+MD5sum: 16dec37666eccc9dc0335d3c4034db07
+SHA1: 684d045cb1e91e1a8e57325ce1f889a43458b4a6
+SHA256: e52854aa6e5b8096babe696fd5f913dbb31d6659253e7d1f52c3f1329c1ab527
+Section: 应用破解
+Description: No Ads in the Twitter App!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
 
 Package: com.ps.cahighfpss
 Version: 1.3.1
@@ -3073,25 +3134,28 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/icon.png
 Name: CAHighFPS 120hz
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/js.json
 
-Package: com.ps.recordpauses
-Version: 2.0.3
+Package: com.ps.cahighfpss
+Version: 1.3.1
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Conflicts: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
-Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
-Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
-Filename: ./debs/iphoneos-arm64/com.ps.recordpauses_2.0.3_iphoneos-arm64.deb
-Size: 10132
-MD5sum: c6774dc21f1183070116a989689b50c6
-SHA1: 01057a62d3cdc3de4238ce255903173909fbb7f4
-SHA256: b0a9d5e6c8074f54a898f8d82a99d217c213983d44a1a79685ab3c53ecff02d4
-Section: Tweaks
-Description: 录像暂停 Pause/resume video recording in iOS Camera app.
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Conflicts: com.ps.cahighfps
+Filename: ./debs/iphoneos-arm64/com.ps.cahighfpss_1.3.1_iphoneos-arm64.deb
+Size: 5688
+MD5sum: c8140a0923b49067ca4ae4528f70c10b
+SHA1: 8ee609df291127289bfa8a6d3020d18ec2ebe95b
+SHA256: 404a4aaf4fb082c693b29ec3fa0b72b55b6b7d103b2a476c288954adc888acd9
+Section: Bootstrap
+Description: 让高帧率设备默认帧率 80hz 达到 120hz
+ * 仅测试 120hz 功能，没用请卸载
+ * 安装后默认开启，无设置选项
+ * 测试 Bootstrap｜13pm ｜17.0
+ * Bootstrap 环境需要某个应用生效，就要在 Bootstrap 开启某个应用注入
 Author: PoomSmart
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
-Name: 录像暂停 RecordPause
+Icon: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/icon.png
+Name: CAHighFPS 120hz
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CAHighFPS/js.json
 
 Package: com.ps.recordpauses
 Version: 2.0.3
@@ -3114,26 +3178,25 @@ Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
 
-Package: com.raulsaeed.bhtiktok++s
-Version: 1.2-3+debug
+Package: com.ps.recordpauses
+Version: 2.0.3
 Architecture: iphoneos-arm64
-Maintainer: raul saeed
-Installed-Size: 916
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++
-Replaces: com.raulsaeed.bhtiktok++
-Provides: com.raulsaeed.bhtiktok++
-Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++s_1.2-3+debug_iphoneos-arm64.deb
-Size: 123980
-MD5sum: 852592f93b218134c1aba803430f97c4
-SHA1: d69b90afd7dfb0ac237b94c7d71550cd93965bd1
-SHA256: 4611150e2793fd6095369a38a95ba4fde87eaaa8f0d0b47ea046251f503b1afc
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause, com.ps.recordpause
+Provides: org.thebigboss.recordpause, com.spicat.recordpause,com.ps.recordpause
+Filename: ./debs/iphoneos-arm64/com.ps.recordpauses_2.0.3_iphoneos-arm64.deb
+Size: 10132
+MD5sum: c6774dc21f1183070116a989689b50c6
+SHA1: 01057a62d3cdc3de4238ce255903173909fbb7f4
+SHA256: b0a9d5e6c8074f54a898f8d82a99d217c213983d44a1a79685ab3c53ecff02d4
 Section: Tweaks
-Description: TikTok 增强插件!
-Author: raul saeed
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
-Name: BHTikTok++
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+Description: 录像暂停 Pause/resume video recording in iOS Camera app.
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
+Name: 录像暂停 RecordPause
 
 Package: com.raulsaeed.bhtiktok++s
 Version: 1.2-3+debug
@@ -3158,20 +3221,21 @@ Name: BHTikTok++
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
 
 Package: com.raulsaeed.bhtiktok++s
-Version: 1.3.0-43+debug
+Version: 1.2-3+debug
 Architecture: iphoneos-arm64
 Maintainer: raul saeed
+Installed-Size: 916
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.raulsaeed.bhtiktok++
 Replaces: com.raulsaeed.bhtiktok++
-Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++s_1.3.0-43+debug_iphoneos-arm64.deb
-Size: 127180
-MD5sum: f70f002f10227bfc411b2d7db8ba5e58
-SHA1: 4df87ed55897f4ae6890bece3d6c8e6b9189adc4
-SHA256: 1bc63a5016ba52c6a83999ffe0dd730473637cc418132fb9bc2ff3d469bb302e
-Section: 应用破解
+Provides: com.raulsaeed.bhtiktok++
+Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++s_1.2-3+debug_iphoneos-arm64.deb
+Size: 123980
+MD5sum: 852592f93b218134c1aba803430f97c4
+SHA1: d69b90afd7dfb0ac237b94c7d71550cd93965bd1
+SHA256: 4611150e2793fd6095369a38a95ba4fde87eaaa8f0d0b47ea046251f503b1afc
+Section: Tweaks
 Description: TikTok 增强插件!
- * An awesome tweak for TikTok!
 Author: raul saeed
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: BHTikTok++
@@ -3198,24 +3262,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: BHTikTok++
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
 
-Package: com.rocket.zh-Hans
-Version: 1.0
+Package: com.raulsaeed.bhtiktok++s
+Version: 1.3.0-43+debug
 Architecture: iphoneos-arm64
-Maintainer: 巨魔商店 Telegram
-Depends: mobilesubstrate
-Conflicts: com.dvntm.bhinstalocalization
-Filename: ./debs/iphoneos-arm64/com.rocket.zh-Hans_1.0_iphoneos-arm64.deb
-Size: 6520
-MD5sum: 445d087612a62d639ecf42c4573ea833
-SHA1: 24f9b52010a550fdee422c5a25e08ddbc86c211a
-SHA256: 0d02e5359ee89285bde28c3b0e52104cdbef36b24a44fada927ce68932313f5a
-Section: 汉化
-Description: Rocket for Instagram 简体中文
- * Rocket for Instagram zh-Hans
-Author: 巨魔商店 Telegram
-Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
-Name: Rocket for Instagram 简体中文
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js.json
+Maintainer: raul saeed
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++
+Replaces: com.raulsaeed.bhtiktok++
+Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++s_1.3.0-43+debug_iphoneos-arm64.deb
+Size: 127180
+MD5sum: f70f002f10227bfc411b2d7db8ba5e58
+SHA1: 4df87ed55897f4ae6890bece3d6c8e6b9189adc4
+SHA256: 1bc63a5016ba52c6a83999ffe0dd730473637cc418132fb9bc2ff3d469bb302e
+Section: 应用破解
+Description: TikTok 增强插件!
+ * An awesome tweak for TikTok!
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
 
 Package: com.rocket.zh-Hans
 Version: 1.0
@@ -3237,24 +3302,24 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
 Name: Rocket for Instagram 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js.json
 
-Package: com.safarixs.zh-Hans
-Version: 1.3.0
+Package: com.rocket.zh-Hans
+Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Replaces: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix, com.0xkuj.safarixs
-Filename: ./debs/iphoneos-arm64/com.safarixs.zh-Hans_1.3.0_iphoneos-arm64.deb
-Size: 2316
-MD5sum: 69e1ed806effbcaa07626596cf257804
-SHA1: 750df81d506e984ca85ad39582191a8935be2019
-SHA256: bddc4cb6b0d9e9fe7d46b943ee3f85c26616b32b833cb0192c6a1f01de165def
+Maintainer: 巨魔商店 Telegram
+Depends: mobilesubstrate
+Conflicts: com.dvntm.bhinstalocalization
+Filename: ./debs/iphoneos-arm64/com.rocket.zh-Hans_1.0_iphoneos-arm64.deb
+Size: 6520
+MD5sum: 445d087612a62d639ecf42c4573ea833
+SHA1: 24f9b52010a550fdee422c5a25e08ddbc86c211a
+SHA256: 0d02e5359ee89285bde28c3b0e52104cdbef36b24a44fada927ce68932313f5a
 Section: 汉化
-Description: Safari X 汉化
- * 设置内按钮未汉化
-Author: Super TrollStore
-Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
-Name: Safari X 简体中文
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/jss.json
+Description: Rocket for Instagram 简体中文
+ * Rocket for Instagram zh-Hans
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js.json
 
 Package: com.safarixs.zh-Hans
 Version: 1.3.0
@@ -3276,23 +3341,24 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
 Name: Safari X 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/jss.json
 
-Package: com.sileo.zh-hans
-Version: 2.6
+Package: com.safarixs.zh-Hans
+Version: 1.3.0
 Architecture: iphoneos-arm64
-Maintainer: 巨魔商店Telegram
-Depends: org.coolstar.sileo | org.coolstar.sileonightly
-Replaces: org.coolstar.sileo, org.coolstar.sileonightly
-Filename: ./debs/iphoneos-arm64/com.sileo.zh-hans_2.6_iphoneos-arm64.deb
-Size: 8416
-MD5sum: 497c8f3f3330c0ee7aa31705cdf0dd23
-SHA1: a6b89f26ea57208e084ad1efdf1f1b3f464a0819
-SHA256: 9d54b51fffd37c2865461e7cd922b8b5b760c85397813f7e1a2e9629fc719d60
-Section: Localization
-Description: Sileo本地化语言包，修正翻译错误，卸载汉化包需重新安装Sileo恢复中文https://t.me/iOS_TrollStore
-Author: 巨魔商店Telegram
-Icon: https://getsileo.app/img/icon.png
-Name: Sileo简体中文包
-Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Replaces: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix, com.0xkuj.safarixs
+Filename: ./debs/iphoneos-arm64/com.safarixs.zh-Hans_1.3.0_iphoneos-arm64.deb
+Size: 2316
+MD5sum: 69e1ed806effbcaa07626596cf257804
+SHA1: 750df81d506e984ca85ad39582191a8935be2019
+SHA256: bddc4cb6b0d9e9fe7d46b943ee3f85c26616b32b833cb0192c6a1f01de165def
+Section: 汉化
+Description: Safari X 汉化
+ * 设置内按钮未汉化
+Author: Super TrollStore
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/jss.json
 
 Package: com.sileo.zh-hans
 Version: 2.6
@@ -3314,25 +3380,21 @@ Name: Sileo简体中文包
 Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
 
 Package: com.sileo.zh-hans
-Version: 2.7
+Version: 2.6
 Architecture: iphoneos-arm64
-Maintainer: 巨魔商店 Telegram
+Maintainer: 巨魔商店Telegram
 Depends: org.coolstar.sileo | org.coolstar.sileonightly
 Replaces: org.coolstar.sileo, org.coolstar.sileonightly
-Filename: ./debs/iphoneos-arm64/com.sileo.zh-hans_2.7_iphoneos-arm64.deb
-Size: 8608
-MD5sum: 3f35e2f303a6175af84111d98c944b18
-SHA1: cb688dea8d711a4cbc2c42e1f6846ad697cc69a3
-SHA256: f126fa29ea10d5e6944c187b9e9fe385b9616f4e0fa28cd8bd26c799ddf87959
-Section: 汉化
-Description: Sileo 简体中文本地化
- * 修正翻译错误，本地化
- * 完善 Sileo 简体中文
- * 支持 RootHide Sileo
- * ⚠️注意：卸载汉化包需重新安装Sileo恢复中文
-Author: 巨魔商店 Telegram
+Filename: ./debs/iphoneos-arm64/com.sileo.zh-hans_2.6_iphoneos-arm64.deb
+Size: 8416
+MD5sum: 497c8f3f3330c0ee7aa31705cdf0dd23
+SHA1: a6b89f26ea57208e084ad1efdf1f1b3f464a0819
+SHA256: 9d54b51fffd37c2865461e7cd922b8b5b760c85397813f7e1a2e9629fc719d60
+Section: Localization
+Description: Sileo本地化语言包，修正翻译错误，卸载汉化包需重新安装Sileo恢复中文https://t.me/iOS_TrollStore
+Author: 巨魔商店Telegram
 Icon: https://getsileo.app/img/icon.png
-Name: Sileo 简体中文
+Name: Sileo简体中文包
 Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
 
 Package: com.sileo.zh-hans
@@ -3358,23 +3420,27 @@ Icon: https://getsileo.app/img/icon.png
 Name: Sileo 简体中文
 Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
 
-Package: com.skypain.teleportcns
-Version: 1.0.0-2
+Package: com.sileo.zh-hans
+Version: 2.7
 Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Installed-Size: 168
-Depends: mobilesubstrate, com.teleports.location
-Filename: ./debs/iphoneos-arm64/com.skypain.teleportcns_1.0.0-2_iphoneos-arm64.deb
-Size: 7700
-MD5sum: 06b0cc4cff365ec578ecb878a432dba9
-SHA1: b805285a5935a70416b45207d084d924229f6c73
-SHA256: 5b220e46166fc7ea7b7d42cb4d74b03955787df347bd046a1b8fed886d69cf65
+Maintainer: 巨魔商店 Telegram
+Depends: org.coolstar.sileo | org.coolstar.sileonightly
+Replaces: org.coolstar.sileo, org.coolstar.sileonightly
+Filename: ./debs/iphoneos-arm64/com.sileo.zh-hans_2.7_iphoneos-arm64.deb
+Size: 8608
+MD5sum: 3f35e2f303a6175af84111d98c944b18
+SHA1: cb688dea8d711a4cbc2c42e1f6846ad697cc69a3
+SHA256: f126fa29ea10d5e6944c187b9e9fe385b9616f4e0fa28cd8bd26c799ddf87959
 Section: 汉化
-Description: Teleport 简体中文
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
-Name: Teleport 简体中文
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
+Description: Sileo 简体中文本地化
+ * 修正翻译错误，本地化
+ * 完善 Sileo 简体中文
+ * 支持 RootHide Sileo
+ * ⚠️注意：卸载汉化包需重新安装Sileo恢复中文
+Author: 巨魔商店 Telegram
+Icon: https://getsileo.app/img/icon.png
+Name: Sileo 简体中文
+Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
 
 Package: com.skypain.teleportcns
 Version: 1.0.0-2
@@ -3395,27 +3461,23 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
 Name: Teleport 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
 
-Package: com.squidforce.hidenotificationbadges
-Version: 0.0.1
+Package: com.skypain.teleportcns
+Version: 1.0.0-2
 Architecture: iphoneos-arm64
-Maintainer: SquidForce
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Installed-Size: 168
-Conflicts: com.squidforce.hidenotificationbadge
-Replaces: com.squidforce.hidenotificationbadge
-Provides: com.squidforce.hidenotificationbadge
-Filename: ./debs/iphoneos-arm64/com.squidforce.hidenotificationbadges_0.0.1_iphoneos-arm64.deb
-Size: 2968
-MD5sum: 85918b74a1328337f9a908d82bb5b53b
-SHA1: 83271da437533735b7e8b5978ebd555f91704030
-SHA256: 28d2809944df5c0192d7e198fadebdd77abf925008e217842b363744b53c773d
-Section: Tweaks
-Description: HideNotificationBadge
- * 隐藏推送通知图标右下角标
- * 可配合 WeChatNotiAvatar 插件使用
-Author: SquidForce
-Icon: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/icon.png
-Name: 隐藏通知图标右下角标
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/js.json
+Depends: mobilesubstrate, com.teleports.location
+Filename: ./debs/iphoneos-arm64/com.skypain.teleportcns_1.0.0-2_iphoneos-arm64.deb
+Size: 7700
+MD5sum: 06b0cc4cff365ec578ecb878a432dba9
+SHA1: b805285a5935a70416b45207d084d924229f6c73
+SHA256: 5b220e46166fc7ea7b7d42cb4d74b03955787df347bd046a1b8fed886d69cf65
+Section: 汉化
+Description: Teleport 简体中文
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/jss.json
 
 Package: com.squidforce.hidenotificationbadges
 Version: 0.0.1
@@ -3440,24 +3502,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/icon.pn
 Name: 隐藏通知图标右下角标
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/js.json
 
-Package: com.storeswitcher.appstore
-Version: 1.0.5
+Package: com.squidforce.hidenotificationbadges
+Version: 0.0.1
 Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: firmware (>= 11)
-Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
-Filename: ./debs/iphoneos-arm64/com.storeswitcher.appstore_1.0.5_iphoneos-arm64.deb
-Size: 14388
-MD5sum: 95d8e061c12f9ec891cc4e945eee552d
-SHA1: f3bf06b7f7069bd5c68b9f4cbfb3e65e49361a3d
-SHA256: 48b6b4ae592f1dafc5847a72fd533848af3f8ec9104b26ab1d0d3583f574ea89
-Section: Bootstrap
-Description: App Store 账号快速切换
- * Adds a button to switch account in App Store account page on iOS 11+.
-Author: 0xkuj
-Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
-Name: StoreSwitcher 账号切换
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
+Maintainer: SquidForce
+Installed-Size: 168
+Conflicts: com.squidforce.hidenotificationbadge
+Replaces: com.squidforce.hidenotificationbadge
+Provides: com.squidforce.hidenotificationbadge
+Filename: ./debs/iphoneos-arm64/com.squidforce.hidenotificationbadges_0.0.1_iphoneos-arm64.deb
+Size: 2968
+MD5sum: 85918b74a1328337f9a908d82bb5b53b
+SHA1: 83271da437533735b7e8b5978ebd555f91704030
+SHA256: 28d2809944df5c0192d7e198fadebdd77abf925008e217842b363744b53c773d
+Section: Tweaks
+Description: HideNotificationBadge
+ * 隐藏推送通知图标右下角标
+ * 可配合 WeChatNotiAvatar 插件使用
+Author: SquidForce
+Icon: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/icon.png
+Name: 隐藏通知图标右下角标
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideNotificationBadge/js.json
 
 Package: com.storeswitcher.appstore
 Version: 1.0.5
@@ -3479,25 +3544,24 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
 Name: StoreSwitcher 账号切换
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
 
-Package: com.swing.tiktoknocreatbutton
-Version: 1.0.0
+Package: com.storeswitcher.appstore
+Version: 1.0.5
 Architecture: iphoneos-arm64
-Maintainer: SWING
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.swing.tiktoknocreatbutton_1.0.0_iphoneos-arm64.deb
-Size: 35648
-MD5sum: 19c0bdb9565a29e80167752e215746c6
-SHA1: cc0babec483bcb02df931f9a918b3243d945528b
-SHA256: e5952e65baed9035f809cc7144e8b31b606f43487ae4d542061a67ff57480c79
-Section: 应用破解
-Description: TikTokNoCreatButton
- * 移除 TikTok ➕创作按钮
- * TikTok removes the create button from the TabBar!
-Author: SWING
-Icon: https://TrollStoreX.Github.io/sileodepiction/TikTok/TikTokHide.png
-Name: 移除 TikTok ➕按钮
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/jss.json
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/iphoneos-arm64/com.storeswitcher.appstore_1.0.5_iphoneos-arm64.deb
+Size: 14388
+MD5sum: 95d8e061c12f9ec891cc4e945eee552d
+SHA1: f3bf06b7f7069bd5c68b9f4cbfb3e65e49361a3d
+SHA256: 48b6b4ae592f1dafc5847a72fd533848af3f8ec9104b26ab1d0d3583f574ea89
+Section: Bootstrap
+Description: App Store 账号快速切换
+ * Adds a button to switch account in App Store account page on iOS 11+.
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
+Name: StoreSwitcher 账号切换
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
 
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
@@ -3520,25 +3584,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TikTok/TikTokHide.png
 Name: 移除 TikTok ➕按钮
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/jss.json
 
-Package: com.telegram.return
-Version: 1.0
+Package: com.swing.tiktoknocreatbutton
+Version: 1.0.0
 Architecture: iphoneos-arm64
-Maintainer: IP Man
+Maintainer: SWING
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.telegram.return_1.0_iphoneos-arm64.deb
-Size: 3760
-MD5sum: a322a508c381ef3ac51fe5b9ff6c86cb
-SHA1: c5b8923f3079d6f0f6d2e805079e1c9ce32295a2
-SHA256: cf446d1c1216c1584395c8c02bcd71aa1fb1d2954d9260f479f3009ecca7ff8b
+Filename: ./debs/iphoneos-arm64/com.swing.tiktoknocreatbutton_1.0.0_iphoneos-arm64.deb
+Size: 35648
+MD5sum: 19c0bdb9565a29e80167752e215746c6
+SHA1: cc0babec483bcb02df931f9a918b3243d945528b
+SHA256: e5952e65baed9035f809cc7144e8b31b606f43487ae4d542061a67ff57480c79
 Section: 应用破解
-Description: ### Telegram
- * 回车键/换行键 改为“发送”功能
- * Enter key/Return key changed to 'Send' function.
- * https://t.me/TrollStorePro
- * Telegram IP Man
-Author: IP Man
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Telegram.png
-Name: Telegram Return 回车键
+Description: TikTokNoCreatButton
+ * 移除 TikTok ➕创作按钮
+ * TikTok removes the create button from the TabBar!
+Author: SWING
+Icon: https://TrollStoreX.Github.io/sileodepiction/TikTok/TikTokHide.png
+Name: 移除 TikTok ➕按钮
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/jss.json
 
 Package: com.telegram.return
 Version: 1.0
@@ -3561,25 +3625,25 @@ Author: IP Man
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Telegram.png
 Name: Telegram Return 回车键
 
-Package: com.teleports.location
-Version: 1.1
+Package: com.telegram.return
+Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: Super TrollStore
-Depends: mobilesubstrate
-Conflicts: xyz.cypwn.teleport
-Filename: ./debs/iphoneos-arm64/com.teleports.location_1.1_iphoneos-arm64.deb
-Size: 7382240
-MD5sum: 5fa93c667de0694be50e551719c1935b
-SHA1: bb7b835ea56edd6a124dc167d98ace40c110aa29
-SHA256: 89e7d45363e37b71ee6233f32e552eeb15196d68bc4925b0197f1c85f40e596d
-Section: Bootstrap
-Description: 免费虚拟定位
- * Spoof GPS location
- * 支持 Bootstrap
-Author: SGWC
-Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
-Name: Teleport 虚拟定位
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
+Maintainer: IP Man
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.telegram.return_1.0_iphoneos-arm64.deb
+Size: 3760
+MD5sum: a322a508c381ef3ac51fe5b9ff6c86cb
+SHA1: c5b8923f3079d6f0f6d2e805079e1c9ce32295a2
+SHA256: cf446d1c1216c1584395c8c02bcd71aa1fb1d2954d9260f479f3009ecca7ff8b
+Section: 应用破解
+Description: ### Telegram
+ * 回车键/换行键 改为“发送”功能
+ * Enter key/Return key changed to 'Send' function.
+ * https://t.me/TrollStorePro
+ * Telegram IP Man
+Author: IP Man
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Telegram.png
+Name: Telegram Return 回车键
 
 Package: com.teleports.location
 Version: 1.1
@@ -3602,22 +3666,25 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
 Name: Teleport 虚拟定位
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
 
-Package: com.weifeng.noad
+Package: com.teleports.location
 Version: 1.1
 Architecture: iphoneos-arm64
-Maintainer: z
-Installed-Size: 168
+Maintainer: Super TrollStore
 Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.weifeng.noad_1.1_iphoneos-arm64.deb
-Size: 4164
-MD5sum: 478c1425aadfa531c0cfacfc4a88ffcc
-SHA1: 785a59542a265d1138f736f84b2fa2465d90e59c
-SHA256: b2daeba1f9fd8a3dc889a0da823115839888fa3b019ae55b1ec4d52fd7ae63bf
-Section: Tweaks
-Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
-Author: z
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
-Name: 威锋去广告
+Conflicts: xyz.cypwn.teleport
+Filename: ./debs/iphoneos-arm64/com.teleports.location_1.1_iphoneos-arm64.deb
+Size: 7382240
+MD5sum: 5fa93c667de0694be50e551719c1935b
+SHA1: bb7b835ea56edd6a124dc167d98ace40c110aa29
+SHA256: 89e7d45363e37b71ee6233f32e552eeb15196d68bc4925b0197f1c85f40e596d
+Section: Bootstrap
+Description: 免费虚拟定位
+ * Spoof GPS location
+ * 支持 Bootstrap
+Author: SGWC
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 虚拟定位
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
 
 Package: com.weifeng.noad
 Version: 1.1
@@ -3637,25 +3704,22 @@ Author: z
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
 Name: 威锋去广告
 
-Package: com.wrp1002.cornbars
-Version: 1.1.0
+Package: com.weifeng.noad
+Version: 1.1
 Architecture: iphoneos-arm64
-Maintainer: Wes <wes.hamster@gmail.com>
-Installed-Size: 480
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
-Conflicts: com.wrp1002.cornbar
-Filename: ./debs/iphoneos-arm64/com.wrp1002.cornbars_1.1.0_iphoneos-arm64.deb
-Size: 110936
-MD5sum: 8e2e95251ac3b91107d0146fa93272b7
-SHA1: d3aeb9e027426b3221c459831e3c18cfb69569c2
-SHA256: 97cea12758898315ba6fa005e52e2285db9cb7e532dee17875baf5c61aff18ca
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.weifeng.noad_1.1_iphoneos-arm64.deb
+Size: 4164
+MD5sum: 478c1425aadfa531c0cfacfc4a88ffcc
+SHA1: 785a59542a265d1138f736f84b2fa2465d90e59c
+SHA256: b2daeba1f9fd8a3dc889a0da823115839888fa3b019ae55b1ec4d52fd7ae63bf
 Section: Tweaks
-Description: 把你的HomeBar变成玉米！
- * Change your HomeBar into corn!
-Author: Wes <wes.hamster@gmail.com>
-Icon: https://TrollStoreX.Github.io/sileodepiction/CornBar/icon.png
-Name: CornBar 玉米手势横杠
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CornBar/js.json
+Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知的，不装插件进威锋一次后，在装插件就正常了。去除推荐新内容xx条模块，脑残威锋。原版都去除推荐新内容xx条模块了，还显示半截模块。
+Author: z
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
+Name: 威锋去广告
 
 Package: com.wrp1002.cornbars
 Version: 1.1.0
@@ -3678,22 +3742,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CornBar/icon.png
 Name: CornBar 玉米手势横杠
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CornBar/js.json
 
-Package: com.xx.dyhooks
-Version: 2.0.5
+Package: com.wrp1002.cornbars
+Version: 1.1.0
 Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 9076
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5_iphoneos-arm64.deb
-Size: 3165704
-MD5sum: 5ed9185109a28f19d637663df86a9518
-SHA1: 1cd24d225dcf172563b1693f8be1df42677e20b2
-SHA256: 19e36f45a17f7e6965a4d6795bb46e20b7a8189dc6df2070b3e25f3249e16094
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Conflicts: com.wrp1002.cornbar
+Filename: ./debs/iphoneos-arm64/com.wrp1002.cornbars_1.1.0_iphoneos-arm64.deb
+Size: 110936
+MD5sum: 8e2e95251ac3b91107d0146fa93272b7
+SHA1: d3aeb9e027426b3221c459831e3c18cfb69569c2
+SHA256: 97cea12758898315ba6fa005e52e2285db9cb7e532dee17875baf5c61aff18ca
 Section: Tweaks
-Description: 抖音增强越狱插件，仅支持越狱，双指双击屏幕打开插件设置界面。
-Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
-Name: 抖音图层
+Description: 把你的HomeBar变成玉米！
+ * Change your HomeBar into corn!
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/CornBar/icon.png
+Name: CornBar 玉米手势横杠
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CornBar/js.json
 
 Package: com.xx.dyhooks
 Version: 2.0.5
@@ -3714,16 +3781,16 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音图层
 
 Package: com.xx.dyhooks
-Version: 2.0.5-1
+Version: 2.0.5
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 9076
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5-1_iphoneos-arm64.deb
-Size: 3208112
-MD5sum: 89a3d0cf5f4840fa64a39857a9d73abb
-SHA1: bfc3ee9b30079b1af7c41768d42de82ddf53ec3d
-SHA256: 4842ad3325e84b80bbc37ede769160c64b25eb36fd101a23bed4d03b9d3c37d1
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5_iphoneos-arm64.deb
+Size: 3165704
+MD5sum: 5ed9185109a28f19d637663df86a9518
+SHA1: 1cd24d225dcf172563b1693f8be1df42677e20b2
+SHA256: 19e36f45a17f7e6965a4d6795bb46e20b7a8189dc6df2070b3e25f3249e16094
 Section: Tweaks
 Description: 抖音增强越狱插件，仅支持越狱，双指双击屏幕打开插件设置界面。
 Author: x✨
@@ -3742,6 +3809,23 @@ Size: 8876522
 MD5sum: b155a10a750861018aa6241a8104e4e2
 SHA1: 7204f923b7f77e882fe3c663e618c3a2103b47c8
 SHA256: 23ca9466a740a35807c740b9a092ac5ed9885246bd996bd9ca4b7311e34ec88e
+Section: Tweaks
+Description: 抖音增强越狱插件，仅支持越狱，双指双击屏幕打开插件设置界面。
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音图层
+
+Package: com.xx.dyhooks
+Version: 2.0.5-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9076
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5-1_iphoneos-arm64.deb
+Size: 3208112
+MD5sum: 89a3d0cf5f4840fa64a39857a9d73abb
+SHA1: bfc3ee9b30079b1af7c41768d42de82ddf53ec3d
+SHA256: 4842ad3325e84b80bbc37ede769160c64b25eb36fd101a23bed4d03b9d3c37d1
 Section: Tweaks
 Description: 抖音增强越狱插件，仅支持越狱，双指双击屏幕打开插件设置界面。
 Author: x✨
@@ -3778,32 +3862,6 @@ Name: 抖音图层
 
 Package: com.xx.dyhooks
 Version: 2.0.5-3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 9332
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.xx.dyhook
-Replaces: com.xx.dyhook
-Provides: com.xx.dyhook
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5-3_iphoneos-arm64.deb
-Size: 3271692
-MD5sum: c57a87cf80efb93256c4de800b8910c6
-SHA1: 7f2ee0001fe574af3298c1cf6710b66721a291ff
-SHA256: be2ffef4225a9d20ddadf01c6b772738d1407a22e95f82ab917dc3d97f7d77f4
-Section: 应用破解
-Description: 抖音增强越狱插件
- * 仅支持越狱
- * 双指双击屏幕打开插件设置界面
- * 抖音图层2.0.5-3
- 1. 优化一些功能
- 2. 增强选项里面开启
- 3. 炫彩模式长按插件头像开启
-Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
-Name: 抖音图层
-
-Package: com.xx.dyhooks
-Version: 2.0.5-3
 Architecture: iphoneos-arm64e
 Maintainer: x✨
 Installed-Size: 9332
@@ -3830,7 +3888,7 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音图层
 
 Package: com.xx.dyhooks
-Version: 2.0.5-5
+Version: 2.0.5-3
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 9332
@@ -3838,17 +3896,19 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook
 Replaces: com.xx.dyhook
 Provides: com.xx.dyhook
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5-5_iphoneos-arm64.deb
-Size: 3298952
-MD5sum: 322970dd5bea7fb894db09238dd83089
-SHA1: 0d7805acd573ba0b153293e64357b90bc901174d
-SHA256: 875abd7ff952364177892cb256fb3d53cbbe6f63457a940ccccfa8be943df685
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5-3_iphoneos-arm64.deb
+Size: 3271692
+MD5sum: c57a87cf80efb93256c4de800b8910c6
+SHA1: 7f2ee0001fe574af3298c1cf6710b66721a291ff
+SHA256: be2ffef4225a9d20ddadf01c6b772738d1407a22e95f82ab917dc3d97f7d77f4
 Section: 应用破解
-Description: ### 抖音增强插件
+Description: 抖音增强越狱插件
  * 仅支持越狱
- * 无水印下载视频
- * 隐藏各种元素按钮文字等
  * 双指双击屏幕打开插件设置界面
+ * 抖音图层2.0.5-3
+ 1. 优化一些功能
+ 2. 增强选项里面开启
+ 3. 炫彩模式长按插件头像开启
 Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音图层
@@ -3879,27 +3939,28 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音图层
 
 Package: com.xx.dyhooks
-Version: 2.0.6
+Version: 2.0.5-5
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 9332
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6_iphoneos-arm64.deb
-Size: 3729104
-MD5sum: 8247345e5cc80910e537fe73a77e32e0
-SHA1: dd3e9f19fec1100030a282098edcf594344ede6a
-SHA256: 49314dd0cd82b186025b93d19af28a8b73bef3f7e27355c7f23ca8871c0d8958
+Replaces: com.xx.dyhook
+Provides: com.xx.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.5-5_iphoneos-arm64.deb
+Size: 3298952
+MD5sum: 322970dd5bea7fb894db09238dd83089
+SHA1: 0d7805acd573ba0b153293e64357b90bc901174d
+SHA256: 875abd7ff952364177892cb256fb3d53cbbe6f63457a940ccccfa8be943df685
 Section: 应用破解
-Description: 抖音增强插件
+Description: ### 抖音增强插件
  * 仅支持越狱
  * 无水印下载视频
  * 隐藏各种元素按钮文字等
  * 双指双击屏幕打开插件设置界面
 Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音图层
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
 Package: com.xx.dyhooks
 Version: 2.0.6
@@ -3926,17 +3987,17 @@ Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
 Package: com.xx.dyhooks
-Version: 2.0.6+1
+Version: 2.0.6
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 9332
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+1_iphoneos-arm64.deb
-Size: 3759140
-MD5sum: eff580108bb3d27e7e7799e2821666f6
-SHA1: 74074086fe7dc5ff903d0fe1f16289210d6f0a02
-SHA256: 5ddaacb2ae0e35d979c4e23f3399d77ab8f4e7ba4ebfcc368591c8e5cac40d6e
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6_iphoneos-arm64.deb
+Size: 3729104
+MD5sum: 8247345e5cc80910e537fe73a77e32e0
+SHA1: dd3e9f19fec1100030a282098edcf594344ede6a
+SHA256: 49314dd0cd82b186025b93d19af28a8b73bef3f7e27355c7f23ca8871c0d8958
 Section: 应用破解
 Description: 抖音增强插件
  * 仅支持越狱
@@ -3973,17 +4034,17 @@ Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
 Package: com.xx.dyhooks
-Version: 2.0.6+2
+Version: 2.0.6+1
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 9332
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+2_iphoneos-arm64.deb
-Size: 3741224
-MD5sum: 7f4287673d957671797245130c9a98d2
-SHA1: 866e2d7a8c573498b86e9a32a76c849efd38e641
-SHA256: 282d49fc224becc603500c520396e03bab3c5696d322df536a6a73bfe00ef305
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+1_iphoneos-arm64.deb
+Size: 3759140
+MD5sum: eff580108bb3d27e7e7799e2821666f6
+SHA1: 74074086fe7dc5ff903d0fe1f16289210d6f0a02
+SHA256: 5ddaacb2ae0e35d979c4e23f3399d77ab8f4e7ba4ebfcc368591c8e5cac40d6e
 Section: 应用破解
 Description: 抖音增强插件
  * 仅支持越狱
@@ -4020,18 +4081,18 @@ Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
 Package: com.xx.dyhooks
-Version: 2.0.6+3
+Version: 2.0.6+2
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 9332
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+3_iphoneos-arm64.deb
-Size: 3872244
-MD5sum: 2ea013c2487282eca213153d1d99d029
-SHA1: fdbaa985d884a5128580eb078e676f386b14775a
-SHA256: 5c13a32140de6f1099e4b51e52513a27ce3ab772bcf03298e6ede62dfdd06338
-Section: 抖音插件
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+2_iphoneos-arm64.deb
+Size: 3741224
+MD5sum: 7f4287673d957671797245130c9a98d2
+SHA1: 866e2d7a8c573498b86e9a32a76c849efd38e641
+SHA256: 282d49fc224becc603500c520396e03bab3c5696d322df536a6a73bfe00ef305
+Section: 应用破解
 Description: 抖音增强插件
  * 仅支持越狱
  * 无水印下载视频
@@ -4067,17 +4128,17 @@ Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
 Package: com.xx.dyhooks
-Version: 2.0.6+5
+Version: 2.0.6+3
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 9332
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook
-Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+5_iphoneos-arm64.deb
-Size: 3879816
-MD5sum: 29faa9ce44a41da555454afb6ee756ea
-SHA1: 96bc41a1e7a833bc1cdf5441f1f7f0c5cce1960c
-SHA256: 04e86d8d86e5ddf6b2db7b63daeec8a66f3c39bf58cb79e59f83dead96432c0a
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+3_iphoneos-arm64.deb
+Size: 3872244
+MD5sum: 2ea013c2487282eca213153d1d99d029
+SHA1: fdbaa985d884a5128580eb078e676f386b14775a
+SHA256: 5c13a32140de6f1099e4b51e52513a27ce3ab772bcf03298e6ede62dfdd06338
 Section: 抖音插件
 Description: 抖音增强插件
  * 仅支持越狱
@@ -4113,22 +4174,28 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
-Package: com.xx.xhshooks
-Version: 1.1.0-1
+Package: com.xx.dyhooks
+Version: 2.0.6+5
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 2152
+Installed-Size: 9332
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-1_iphoneos-arm64.deb
-Size: 732336
-MD5sum: 992f847496d83b7afb3b12d4f7088e1c
-SHA1: 52c9d697392b65ba6403189f15c61f73a8589a7c
-SHA256: adc3762b0ee4d53cc698a9b69e87365211fd292d8bacf8b0bdee9e9a0e50a480
-Section: Tweaks
-Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
+Conflicts: com.xx.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.6+5_iphoneos-arm64.deb
+Size: 3879816
+MD5sum: 29faa9ce44a41da555454afb6ee756ea
+SHA1: 96bc41a1e7a833bc1cdf5441f1f7f0c5cce1960c
+SHA256: 04e86d8d86e5ddf6b2db7b63daeec8a66f3c39bf58cb79e59f83dead96432c0a
+Section: 抖音插件
+Description: 抖音增强插件
+ * 仅支持越狱
+ * 无水印下载视频
+ * 隐藏各种元素按钮文字等
+ * 双指双击屏幕打开插件设置界面
 Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
-Name: 小红薯
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
 Package: com.xx.xhshooks
 Version: 1.1.0-1
@@ -4149,22 +4216,18 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
 Name: 小红薯
 
 Package: com.xx.xhshooks
-Version: 1.1.0-2
+Version: 1.1.0-1
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 2152
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-2_iphoneos-arm64.deb
-Size: 1107748
-MD5sum: 1d362a7ed21938fa05b3185b13bee802
-SHA1: 7fe646468203f66d70fb0bce4244e00f83ea97e9
-SHA256: 3807ecc7ac32fe629980a8cdac33e6d2a2a93a12c9f37f8fb4e5f61e3d361f4e
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-1_iphoneos-arm64.deb
+Size: 732336
+MD5sum: 992f847496d83b7afb3b12d4f7088e1c
+SHA1: 52c9d697392b65ba6403189f15c61f73a8589a7c
+SHA256: adc3762b0ee4d53cc698a9b69e87365211fd292d8bacf8b0bdee9e9a0e50a480
 Section: Tweaks
-Description: 小红书增强插件
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP设置界面右上角打开插件界面或双指长按设置界面
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
 Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
 Name: 小红薯
@@ -4192,28 +4255,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
 Name: 小红薯
 
 Package: com.xx.xhshooks
-Version: 1.1.0-3
+Version: 1.1.0-2
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 3196
+Installed-Size: 2152
 Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.xx.xhshook
-Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-3_iphoneos-arm64.deb
-Size: 1112896
-MD5sum: 07a254a32eebbed76d743fba1f58a15e
-SHA1: e883d2844cf613c835d7863d08f506cf65223ac2
-SHA256: eac83f97058b65572518bd4d88024bd760132cc0f993e8908385c92d20c07155
-Section: 应用破解
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-2_iphoneos-arm64.deb
+Size: 1107748
+MD5sum: 1d362a7ed21938fa05b3185b13bee802
+SHA1: 7fe646468203f66d70fb0bce4244e00f83ea97e9
+SHA256: 3807ecc7ac32fe629980a8cdac33e6d2a2a93a12c9f37f8fb4e5f61e3d361f4e
+Section: Tweaks
 Description: 小红书增强插件
- * 仅支持越狱、Bootstrap 环境
  * 默认移除一些广告
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
  * 放大图片双指长按可保存高分辨率图片
  * APP设置界面右上角打开插件界面或双指长按设置界面
 Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
-Name: 小红书 小红薯
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xhs.png
+Name: 小红薯
 
 Package: com.xx.xhshooks
 Version: 1.1.0-3
@@ -4240,23 +4300,29 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书 小红薯
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
-Package: com.xybp888.lockbuttons
-Version: 0.1-2
+Package: com.xx.xhshooks
+Version: 1.1.0-3
 Architecture: iphoneos-arm64
-Maintainer: xybp888
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.xybp888.lockbutton_ 0.1-2_iphoneos-arm64.deb
-Size: 30708
-MD5sum: 80aa01ad75fa5b6af1320d24b097a8cd
-SHA1: 1897fa89205195d23e991203907fe82723fed5db
-SHA256: 244cd0bb6a0013d9dab65542d6f1757325bdbf0f036e69630a879be003b169e2
-Section: Tweaks
-Priority: optional
-Description: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
-Author: xybp888
-Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
-Name: 一键锁屏
+Maintainer: x✨
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.0-3_iphoneos-arm64.deb
+Size: 1112896
+MD5sum: 07a254a32eebbed76d743fba1f58a15e
+SHA1: e883d2844cf613c835d7863d08f506cf65223ac2
+SHA256: eac83f97058b65572518bd4d88024bd760132cc0f993e8908385c92d20c07155
+Section: 应用破解
+Description: 小红书增强插件
+ * 仅支持越狱、Bootstrap 环境
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
 Package: com.xybp888.lockbuttons
 Version: 0.1-2
@@ -4277,22 +4343,23 @@ Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
 Name: 一键锁屏
 
-Package: com.yi.wcenablemomentslivephotos
-Version: 1.1-2
+Package: com.xybp888.lockbuttons
+Version: 0.1-2
 Architecture: iphoneos-arm64
-Maintainer: 怡点日常
-Installed-Size: 88
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: ./debs/iphoneos-arm64/com.yi.wcenablemomentslivephotos_1.1-2_iphoneos-arm64.deb
-Size: 12924
-MD5sum: 211a8bf168583019c5024e79d37aca0e
-SHA1: d87458067be43cd50e0a38e184e854e3badc115a
-SHA256: e885fc026e787d80d56e0257775d9c0b40d73c04f1e9970cc9fc5cb09964a1a5
+Maintainer: xybp888
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.xybp888.lockbutton_ 0.1-2_iphoneos-arm64.deb
+Size: 30708
+MD5sum: 80aa01ad75fa5b6af1320d24b097a8cd
+SHA1: 1897fa89205195d23e991203907fe82723fed5db
+SHA256: 244cd0bb6a0013d9dab65542d6f1757325bdbf0f036e69630a879be003b169e2
 Section: Tweaks
-Description: 微信强制开启朋友圈LivePhoto功能。WeChat Enable Testing Moments Live Photo v8.0.51+
-Author: 怡点日常
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
-Name: WCEnableMomentsLivePhoto
+Priority: optional
+Description: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
+Author: xybp888
+Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
+Name: 一键锁屏
 
 Package: com.yi.wcenablemomentslivephotos
 Version: 1.1-2
@@ -4306,6 +4373,23 @@ Size: 18220
 MD5sum: a57ddc9b707d23e312b20ba0c1536e0b
 SHA1: ce1654bc148725ddb22cf5b8db94385d8c78555f
 SHA256: 111337178d6c6ba7f9a68fbe78746a6cce082a016f2a1345f940690721a6dc3c
+Section: Tweaks
+Description: 微信强制开启朋友圈LivePhoto功能。WeChat Enable Testing Moments Live Photo v8.0.51+
+Author: 怡点日常
+Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Name: WCEnableMomentsLivePhoto
+
+Package: com.yi.wcenablemomentslivephotos
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 怡点日常
+Installed-Size: 88
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.yi.wcenablemomentslivephotos_1.1-2_iphoneos-arm64.deb
+Size: 12924
+MD5sum: 211a8bf168583019c5024e79d37aca0e
+SHA1: d87458067be43cd50e0a38e184e854e3badc115a
+SHA256: e885fc026e787d80d56e0257775d9c0b40d73c04f1e9970cc9fc5cb09964a1a5
 Section: Tweaks
 Description: 微信强制开启朋友圈LivePhoto功能。WeChat Enable Testing Moments Live Photo v8.0.51+
 Author: 怡点日常
@@ -4328,32 +4412,6 @@ Author: i0s_tweak3r
 Icon: https://TrollStoreX.Github.io/sileodepiction/abc/icon.png
 Name: 取消农业银行越狱检测弹窗
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/abc/js.json
-
-Package: com.yourepo.themepro.themepro-311-rootlesss
-Version: 3.1.1
-Architecture: iphoneos-arm64
-Maintainer: MustangYM
-Depends: mobilesubstrate
-Conflicts: com.yourepo.themepro.themepro-311-rootless
-Replaces: com.yourepo.themepro.themepro-311-rootless
-Provides: com.yourepo.themepro.themepro-311-rootless
-Filename: ./debs/iphoneos-arm64/com.yourepo.themepro.themepro-311-rootlesss_3.1.1_iphoneos-arm64.deb
-Size: 6302584
-MD5sum: a705832ac66b92a3d26aac4201b7cd79
-SHA1: cb0d3a7b6871640c04a58fcaadc1883760e6d44e
-SHA256: af0995cbdac324550586cedde71913d50661ff840912dca22bfb3530a66f5a5e
-Section: 微信插件
-Description: ThemePro 微信主题插件
- * 由ThemePro团队开发
- * 用于加载微信美化主题
- * 安装完成重启微信生效!
- * 3.1.1 更新
- 1. 适配8.0.52 订阅号，群消息图标加载
- 2. 补全8.0.52服务页图标适配
- 3. 适配16全系配套加载，16系列配套DIY命名继续延用14、15系列命名自动适配
-Author: MustangYM
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/ThemePro.png
-Name: ThemePro
 
 Package: com.yourepo.themepro.themepro-311-rootlesss
 Version: 3.1.1
@@ -4382,29 +4440,31 @@ Author: MustangYM
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/ThemePro.png
 Name: ThemePro
 
-Package: jp.akusio.backgrounderaction15s
-Version: 0.1.0
+Package: com.yourepo.themepro.themepro-311-rootlesss
+Version: 3.1.1
 Architecture: iphoneos-arm64
-Maintainer: @akusio_RR
-Installed-Size: 340
-Depends: mobilesubstrate, com.opa334.ccsupport
-Conflicts: jp.akusio.backgrounderaction15
-Replaces: jp.akusio.backgrounderaction15
-Provides: jp.akusio.backgrounderaction15
-Filename: ./debs/iphoneos-arm64/jp.akusio.backgrounderaction15s_0.1.0_iphoneos-arm64.deb
-Size: 13484
-MD5sum: adeb01881842020835d81b6c27209790
-SHA1: f1ef4c0fa2b721b962af079aeb8ecc005f766493
-SHA256: 9bfa51153a80326a188aa17e66e0045876bf326e526bdc36b2fd799b2489dbed
-Section: 控制中心
-Description: 控制中心真后台模块
- * 设置-控制中心添加模块
- * 在应用内开启模块应用将真后台，返回其他界面仍然运行
- * Add "Toggle Background Mode" action to ControlCenter.
-Author: @akusio_RR
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15.png
-Name: 真后台 BackgrounderAction15 CCSupport
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-311-rootless
+Replaces: com.yourepo.themepro.themepro-311-rootless
+Provides: com.yourepo.themepro.themepro-311-rootless
+Filename: ./debs/iphoneos-arm64/com.yourepo.themepro.themepro-311-rootlesss_3.1.1_iphoneos-arm64.deb
+Size: 6302584
+MD5sum: a705832ac66b92a3d26aac4201b7cd79
+SHA1: cb0d3a7b6871640c04a58fcaadc1883760e6d44e
+SHA256: af0995cbdac324550586cedde71913d50661ff840912dca22bfb3530a66f5a5e
+Section: 微信插件
+Description: ThemePro 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+ * 3.1.1 更新
+ 1. 适配8.0.52 订阅号，群消息图标加载
+ 2. 补全8.0.52服务页图标适配
+ 3. 适配16全系配套加载，16系列配套DIY命名继续延用14、15系列命名自动适配
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/ThemePro.png
+Name: ThemePro
 
 Package: jp.akusio.backgrounderaction15s
 Version: 0.1.0
@@ -4431,33 +4491,29 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15
 Name: 真后台 BackgrounderAction15 CCSupport
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
 
-Package: me.afhook.apps
-Version: 3.5.0
-Architecture: iphoneos-arm64e
-Maintainer: BigBoss
-Installed-Size: 1024
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: me.afhook.app
-Replaces: me.afhook.app
-Provides: me.afhook.app
-Filename: ./debs/iphoneos-arm64/me.afhook.apps_3.5.0_iphoneos-arm64e.deb
-Size: 220242
-MD5sum: f5168515815c546ba4e59c9ac098a802
-SHA1: c8afb618f32baa92b7b8238987fb5a778d8b280c
-SHA256: 5e8c3f85efc1ffb4adc85a282715e39c97eb09fb76e92ebcc2df92caad1ae26a
-Section: Tweaks
-Description: 快速更改应用的名字、图标、机型、角标、版本号等。
- 1. 随心所欲地更改系统应用和三方应用的名字
- 2. 从系统相册任意选择图片剪切为应用的图标
- 3. 手动选择软件内置机型和自定义需要的机型
- 4. 只需要点击一次就永久生效的清空角标功能
-Tag: purpose::extension
-Author: 小哥哥
-Dev: zhulongfei28
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/afhook.png
-Name: 改个应用-专业的应用修改软件
-Sponsor: thebigboss.org <http://thebigboss.org>
+Package: jp.akusio.backgrounderaction15s
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: @akusio_RR
+Installed-Size: 340
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: jp.akusio.backgrounderaction15
+Replaces: jp.akusio.backgrounderaction15
+Provides: jp.akusio.backgrounderaction15
+Filename: ./debs/iphoneos-arm64/jp.akusio.backgrounderaction15s_0.1.0_iphoneos-arm64.deb
+Size: 13484
+MD5sum: adeb01881842020835d81b6c27209790
+SHA1: f1ef4c0fa2b721b962af079aeb8ecc005f766493
+SHA256: 9bfa51153a80326a188aa17e66e0045876bf326e526bdc36b2fd799b2489dbed
+Section: 控制中心
+Description: 控制中心真后台模块
+ * 设置-控制中心添加模块
+ * 在应用内开启模块应用将真后台，返回其他界面仍然运行
+ * Add "Toggle Background Mode" action to ControlCenter.
+Author: @akusio_RR
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/BackgrounderAction15.png
+Name: 真后台 BackgrounderAction15 CCSupport
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
 
 Package: me.afhook.apps
 Version: 3.5.0
@@ -4487,27 +4543,33 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/afhook.png
 Name: 改个应用-专业的应用修改软件
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: me.alfhaily.rockets
-Version: 3.8.29
-Architecture: iphoneos-arm64
-Maintainer: Rocket App <support@getrocketapp.io>
-Installed-Size: 6588
-Depends: firmware (>= 8.0), mobilesubstrate
-Conflicts: me.alfhaily.rocket
-Filename: ./debs/iphoneos-arm64/me.alfhaily.rockets_3.8.29_iphoneos-arm64.deb
-Size: 1444620
-MD5sum: 67d139c17c079bc1fdf4d0ed97d57f0c
-SHA1: 6cf9d546bef5790a9310bbb128d43d7cc3ce2a7b
-SHA256: c8e26f4f1a24b8c7b8266d5b3451b62183da7e934340d131012fa685e7bdd6d7
-Section: 应用破解
-Priority: optional
-Description: Instagram 增强插件
- * 破解版
- * Save posts and view stories anonymously and do much more
-Author: Rocket App
-Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
-Name: Rocket for Instagram
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+Package: me.afhook.apps
+Version: 3.5.0
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss
+Installed-Size: 1024
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: me.afhook.app
+Replaces: me.afhook.app
+Provides: me.afhook.app
+Filename: ./debs/iphoneos-arm64/me.afhook.apps_3.5.0_iphoneos-arm64e.deb
+Size: 220242
+MD5sum: f5168515815c546ba4e59c9ac098a802
+SHA1: c8afb618f32baa92b7b8238987fb5a778d8b280c
+SHA256: 5e8c3f85efc1ffb4adc85a282715e39c97eb09fb76e92ebcc2df92caad1ae26a
+Section: Tweaks
+Description: 快速更改应用的名字、图标、机型、角标、版本号等。
+ 1. 随心所欲地更改系统应用和三方应用的名字
+ 2. 从系统相册任意选择图片剪切为应用的图标
+ 3. 手动选择软件内置机型和自定义需要的机型
+ 4. 只需要点击一次就永久生效的清空角标功能
+Tag: purpose::extension
+Author: 小哥哥
+Dev: zhulongfei28
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/afhook.png
+Name: 改个应用-专业的应用修改软件
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: me.alfhaily.rockets
 Version: 3.8.29
@@ -4532,22 +4594,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
 Name: Rocket for Instagram
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
 
-Package: netskao.BlockAppsCreateAlbum
-Version: 1.1.2
+Package: me.alfhaily.rockets
+Version: 3.8.29
 Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 19660
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: ./debs/iphoneos-arm64/netskao.BlockAppsCreateAlbum_1.1.2_iphoneos-arm64.deb
-Size: 4508
-MD5sum: 07913f2ebddbb34f9db154c484985b85
-SHA1: 52496d3a6f4043dc19d6c738f3b7538008b2af90
-SHA256: 1a75483d5aff7b1ba8d8a15ef66f7a9eaf0e530a11a24a2895ed3de27a959544
-Section: Netskao-Tweaks
-Description: 阻止应用创建自己的相册
-Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/photo.png
-Name: 禁止应用自动创建相册BlockAppsCreateAlbum
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6588
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64/me.alfhaily.rockets_3.8.29_iphoneos-arm64.deb
+Size: 1444620
+MD5sum: 67d139c17c079bc1fdf4d0ed97d57f0c
+SHA1: 6cf9d546bef5790a9310bbb128d43d7cc3ce2a7b
+SHA256: c8e26f4f1a24b8c7b8266d5b3451b62183da7e934340d131012fa685e7bdd6d7
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * 破解版
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
 
 Package: netskao.BlockAppsCreateAlbum
 Version: 1.1.2
@@ -4567,23 +4634,22 @@ Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/photo.png
 Name: 禁止应用自动创建相册BlockAppsCreateAlbum
 
-Package: netskao.actionbarreborns
-Version: 1.1-2
+Package: netskao.BlockAppsCreateAlbum
+Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 796
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/netskao.actionbarreborns_1.1-2_iphoneos-arm64.deb
-Size: 161888
-MD5sum: bdd448bf466fa19ea6590dffe022980b
-SHA1: 86c58e65c40c094ff9496537a96f4d8348ec8374
-SHA256: b72c093c2f56862d768b877f457e26935f73250f3dd401b49c4e3add1f3b6b91
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/iphoneos-arm64/netskao.BlockAppsCreateAlbum_1.1.2_iphoneos-arm64.deb
+Size: 4508
+MD5sum: 07913f2ebddbb34f9db154c484985b85
+SHA1: 52496d3a6f4043dc19d6c738f3b7538008b2af90
+SHA256: 1a75483d5aff7b1ba8d8a15ef66f7a9eaf0e530a11a24a2895ed3de27a959544
 Section: Netskao-Tweaks
-Description: 键盘底部显示[撤销] [选择] [粘贴]按钮。Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
+Description: 阻止应用创建自己的相册
 Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon.png
-Name: ActionBar Reborn
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/photo.png
+Name: 禁止应用自动创建相册BlockAppsCreateAlbum
 
 Package: netskao.actionbarreborns
 Version: 1.1-2
@@ -4604,31 +4670,23 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon.png
 Name: ActionBar Reborn
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
 
-Package: netskao.wechatpurifications
-Version: 4.2-7
+Package: netskao.actionbarreborns
+Version: 1.1-2
 Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 17133
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/iphoneos-arm64/netskao.wechatpurifications_4.2-7_iphoneos-arm64.deb
-Size: 6273460
-MD5sum: d125bc733c1ff4633ed99171fcbbdeec
-SHA1: f450d94075ac1f1844f325ddd454fdfea5321479
-SHA256: 45940ff997fb84bb171a6ec49a99952e90203de3b9b58bfa1c528fb9a8298359
-Section: 微信插件
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Tag: purpose::extension
-Author: Netskao <admin@initnil.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
-Dev: netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
-Name: 微信净化
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
-Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: Nets
+Installed-Size: 796
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/netskao.actionbarreborns_1.1-2_iphoneos-arm64.deb
+Size: 161888
+MD5sum: bdd448bf466fa19ea6590dffe022980b
+SHA1: 86c58e65c40c094ff9496537a96f4d8348ec8374
+SHA256: b72c093c2f56862d768b877f457e26935f73250f3dd401b49c4e3add1f3b6b91
+Section: Netskao-Tweaks
+Description: 键盘底部显示[撤销] [选择] [粘贴]按钮。Undo, redo, select all, copy, cut and paste actions on bottom of keyboard. ActionBar Free Reborn Edition
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon.png
+Name: ActionBar Reborn
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
 
 Package: netskao.wechatpurifications
 Version: 4.2-7
@@ -4657,26 +4715,31 @@ Name: 微信净化
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: org.swift.protobuf.swiftprotobufs
-Version: 1.28.1
+Package: netskao.wechatpurifications
+Version: 4.2-7
 Architecture: iphoneos-arm64
-Maintainer: eevee
-Installed-Size: 10028
-Conflicts: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
-Provides: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
-Filename: ./debs/iphoneos-arm64/org.swift.protobuf.swiftprotobufs_1.28.1_iphoneos-arm64.deb
-Size: 1430188
-MD5sum: 726cc361337577dca8d0c8bc05b5cd19
-SHA1: 2e30d323bd881a58e7556fc45b67711e212243d9
-SHA256: 483c3e4a66accce17096c0b2a96257d76e7a56d8ffc63285ef1d72c3e6592e0b
-Section: 依赖
-Description: Spotify Eevee 依赖
- * Plugin and runtime library for using protobuf with Swift
-Tag: role::developer
-Author: eevee
-Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.png
-Name: SwiftProtobuf
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.json
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 17133
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Provides: netskao.wechatpurification
+Filename: ./debs/iphoneos-arm64/netskao.wechatpurifications_4.2-7_iphoneos-arm64.deb
+Size: 6273460
+MD5sum: d125bc733c1ff4633ed99171fcbbdeec
+SHA1: f450d94075ac1f1844f325ddd454fdfea5321479
+SHA256: 45940ff997fb84bb171a6ec49a99952e90203de3b9b58bfa1c528fb9a8298359
+Section: 微信插件
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
+Dev: netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+Name: 微信净化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: org.swift.protobuf.swiftprotobufs
 Version: 1.28.1
@@ -4700,26 +4763,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.png
 Name: SwiftProtobuf
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.json
 
-Package: preferenceloader.rootless.tops
-Version: 2.2.6.6
+Package: org.swift.protobuf.swiftprotobufs
+Version: 1.28.1
 Architecture: iphoneos-arm64
-Maintainer: zp,Dustin Howett
-Installed-Size: 337
-Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
-Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
-Provides: preferenceloader (= 2.2.6), preferenceloader.rootless, preferenceloader.rootless.top
-Filename: ./debs/iphoneos-arm64/preferenceloader.rootless.tops_2.2.6.6_iphoneos-arm64.deb
-Size: 16120
-MD5sum: a6c9bc049c61a12a4757018be408ff42
-SHA1: 4f0f4af64a4e8e560593a341f9e7356549126ef4
-SHA256: 262168b3e680087ebee19d13856d8eca37c52c88fe9ba9b83215b53195b8a145
+Maintainer: eevee
+Installed-Size: 10028
+Conflicts: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Provides: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Filename: ./debs/iphoneos-arm64/org.swift.protobuf.swiftprotobufs_1.28.1_iphoneos-arm64.deb
+Size: 1430188
+MD5sum: 726cc361337577dca8d0c8bc05b5cd19
+SHA1: 2e30d323bd881a58e7556fc45b67711e212243d9
+SHA256: 483c3e4a66accce17096c0b2a96257d76e7a56d8ffc63285ef1d72c3e6592e0b
 Section: 依赖
-Description: 越狱依赖 PreferenceLoader
- * 系统设置内插件选项置顶
-Author: Dustin Howett
-Icon: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/icon.png
-Name: PreferenceLoader Top
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/js.json
+Description: Spotify Eevee 依赖
+ * Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Author: eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.png
+Name: SwiftProtobuf
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.json
 
 Package: preferenceloader.rootless.tops
 Version: 2.2.6.6
@@ -4743,26 +4806,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/icon.png
 Name: PreferenceLoader Top
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/js.json
 
-Package: visibleisland
-Version: 2.0
+Package: preferenceloader.rootless.tops
+Version: 2.2.6.6
 Architecture: iphoneos-arm64
-Maintainer: ethxnn88 <ethxnn88@gmail.com>
-Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
-Filename: ./debs/iphoneos-arm64/visibleisland_2.0_iphoneos-arm64.deb
-Size: 28588
-MD5sum: a82bdf72a10e0d214b3a6d2d7beea784
-SHA1: 2a52ee4be950d8aa3570ed29fc5fb035e41c258e
-SHA256: 8c0eb2e92222de4ef990b3934d53c2f3385930ae8a783a23682a75fa3246cf1c
-Section: Tweaks
-Homepage: https://shuga.co/
-Description: 在旧设备上启用、修复和自定义灵动岛位置。（由M哥汉化）
-Author: ethxnn88 <ethxnn88@gmail.com>
-Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
-Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
-Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
-Name: VisibleIsland 灵动岛
-Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
-Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+Maintainer: zp,Dustin Howett
+Installed-Size: 337
+Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Provides: preferenceloader (= 2.2.6), preferenceloader.rootless, preferenceloader.rootless.top
+Filename: ./debs/iphoneos-arm64/preferenceloader.rootless.tops_2.2.6.6_iphoneos-arm64.deb
+Size: 16120
+MD5sum: a6c9bc049c61a12a4757018be408ff42
+SHA1: 4f0f4af64a4e8e560593a341f9e7356549126ef4
+SHA256: 262168b3e680087ebee19d13856d8eca37c52c88fe9ba9b83215b53195b8a145
+Section: 依赖
+Description: 越狱依赖 PreferenceLoader
+ * 系统设置内插件选项置顶
+Author: Dustin Howett
+Icon: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/icon.png
+Name: PreferenceLoader Top
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/js.json
 
 Package: visibleisland
 Version: 2.0
@@ -4786,22 +4849,26 @@ Name: VisibleIsland 灵动岛
 Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
 Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 
-Package: xyz.cypwn.camscanner
-Version: 0.0.1
+Package: visibleisland
+Version: 2.0
 Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/xyz.cypwn.camscanner_0.0.1_iphoneos-arm64.deb
-Size: 7256
-MD5sum: e45958b42360cb1a43fba66c986a7011
-SHA1: 4db2a7bc54cb1b29642fed2c5931aeaa3ba66f40
-SHA256: effb7b387f3537ae6affce18c0d3be96bfba8e9d70949fc241be890ad1ae7c35
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debs/iphoneos-arm64/visibleisland_2.0_iphoneos-arm64.deb
+Size: 28588
+MD5sum: a82bdf72a10e0d214b3a6d2d7beea784
+SHA1: 2a52ee4be950d8aa3570ed29fc5fb035e41c258e
+SHA256: 8c0eb2e92222de4ef990b3934d53c2f3385930ae8a783a23682a75fa3246cf1c
 Section: Tweaks
-Description: CamScanner 扫描全能王解锁部分功能
-Author: sopranox
-Depiction: https://repo.cypwn.xyz/depiction/2629
-Icon: https://repo.cypwn.xyz/packages/camscanner-Rootless/icon.png
-Name: CamScanner
+Homepage: https://shuga.co/
+Description: 在旧设备上启用、修复和自定义灵动岛位置。（由M哥汉化）
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
+Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Name: VisibleIsland 灵动岛
+Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
 
 Package: xyz.cypwn.camscanner
 Version: 0.0.1
@@ -4814,6 +4881,23 @@ Size: 9846
 MD5sum: b1ff12fd8bcc3ee8a3b7c86cfbcb891c
 SHA1: 8b9fde2ad3cb7361958c0ba25965a5e39523abbf
 SHA256: 8977fcbc8bc6bf8a6901cdf06aba5c5e21a2379267961fbbf6ef4b2c224fc676
+Section: Tweaks
+Description: CamScanner 扫描全能王解锁部分功能
+Author: sopranox
+Depiction: https://repo.cypwn.xyz/depiction/2629
+Icon: https://repo.cypwn.xyz/packages/camscanner-Rootless/icon.png
+Name: CamScanner
+
+Package: xyz.cypwn.camscanner
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/xyz.cypwn.camscanner_0.0.1_iphoneos-arm64.deb
+Size: 7256
+MD5sum: e45958b42360cb1a43fba66c986a7011
+SHA1: 4db2a7bc54cb1b29642fed2c5931aeaa3ba66f40
+SHA256: effb7b387f3537ae6affce18c0d3be96bfba8e9d70949fc241be890ad1ae7c35
 Section: Tweaks
 Description: CamScanner 扫描全能王解锁部分功能
 Author: sopranox
