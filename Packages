@@ -1167,6 +1167,24 @@ Version: 0.5-9
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64/PKC_0.5-9_iphoneos-arm64.deb
+Size: 572656
+MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
+SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
+SHA256: 2be5276c2d29e810f27d6d13e5e7e86d98278a6f44518bb50d3bcc517484f29e
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-9
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
 Conflicts: com.curtin.pkc.rootless
 Replaces: com.curtin.pkc.rootless
 Provides: com.curtin.pkc.rootless
@@ -1182,24 +1200,6 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC 助手
-
-Package: com.curtin.pkc.rootless
-Version: 0.5-9
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/iphoneos-arm64/PKC_0.5-9_iphoneos-arm64.deb
-Size: 572656
-MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
-SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
-SHA256: 2be5276c2d29e810f27d6d13e5e7e86d98278a6f44518bb50d3bcc517484f29e
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC_无根
 
 Package: com.curtin.pkc.rootless
 Version: 0.6-0
@@ -2365,19 +2365,18 @@ Maintainer: Link
 Installed-Size: 456
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.link.aweme
+Conflicts: com.link.aweme, byg.iosios.net.aweme
 Filename: ./debs/iphoneos-arm64e/com.link.awemes_1.0.0_iphoneos-arm64e.deb
-Size: 93024
-MD5sum: b97d65010727e81d442033e947e9131e
-SHA1: 8e2f14842e31c32e5cf9c6c4a61f9081cc097e30
-SHA256: e1985fc483282b291c526e683327ebfbdbf81188026604c21d6925e0b96991d4
-Section: 应用破解
+Size: 93008
+MD5sum: 9f9ef42673f109fed6eb29971e2fad93
+SHA1: 2728644e6054f48b0157a4fb2fc511a59750d672
+SHA256: 7ebd9a40be358536e3bc99e3646499306526fec1d4bb29567c0ae5a17d921461
+Section: 抖音插件
 Description: 抖音增强插件
  * 去广告
  * 元素按钮隐藏
  * 视频无水印下载
  * 支持注入ipa使用
- * 时间限制？未知
  * An awesome tweak for Aweme!
 Author: Link
 Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
@@ -2390,19 +2389,18 @@ Architecture: iphoneos-arm64
 Maintainer: Link
 Installed-Size: 456
 Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.link.aweme
+Conflicts: com.link.aweme, byg.iosios.net.aweme
 Filename: ./debs/iphoneos-arm64/com.link.awemes_1.0.0_iphoneos-arm64.deb
-Size: 67672
-MD5sum: 3395c5611278fb9e55739cecd3d45ec9
-SHA1: d98dfab913336e603327f30ea1a291a18e9bdf9f
-SHA256: f03c4b6612038d034a53a53075258501fad43be6318dec8a8038d811a27989ac
-Section: 应用破解
+Size: 67696
+MD5sum: a14bba9399bffba41844055373e783cd
+SHA1: aee24ea105118c8daf85f9155d5d39e92459ba1c
+SHA256: 2c85085a310a74833e10de128bd322c30db8ca6f1a5b78ceacf4a9acd4ed1fbd
+Section: 抖音插件
 Description: 抖音增强插件
  * 去广告
  * 元素按钮隐藏
  * 视频无水印下载
  * 支持注入ipa使用
- * 时间限制？未知
  * An awesome tweak for Aweme!
 Author: Link
 Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
@@ -2523,15 +2521,14 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Nathan Senter
 Installed-Size: 136
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
-Size: 5692
-MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
-SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
-SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
+Size: 4072
+MD5sum: eea4504514f5ad60d8386a1f7651a8b4
+SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
+SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -2541,14 +2538,15 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
-Size: 4072
-MD5sum: eea4504514f5ad60d8386a1f7651a8b4
-SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
-SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
+Size: 5692
+MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
+SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
+SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -2993,13 +2991,13 @@ Maintainer: Netskao
 Installed-Size: 108
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.awemefullscreen, com.huami.FixFullScreenForDY30
+Conflicts: com.netskao.awemefullscreen, com.huami.FixFullScreenForDY30, byg.iosios.net.awemefullscreen
 Filename: ./debs/iphoneos-arm64e/com.netskao.awemefullscreens_1.1-9_iphoneos-arm64e.deb
-Size: 35098
-MD5sum: 2a36ec819c4aaf6c1b30c14f6e7c1660
-SHA1: 4e38b792addac4078e2dd9172abc7cd0730968df
-SHA256: 4c0a12bc48184e81d9329f911c6954e404b68818f3355d9fa93a7bac1131c08e
-Section: 应用破解
+Size: 35114
+MD5sum: c4f013f632bf81e7dd4e56bcc43f7b5b
+SHA1: f03d9dabfb6765c26cc0e4cd782e5c34df5964a1
+SHA256: dea0a0f80bf99dcc036c09155eaa13c01b51b949d06ee9a12a96b5f4cc2b8dfc
+Section: 抖音插件
 Description: 抖音全屏显示，仅在29.8.0版本上测试，后续版本更新导致的问题将不会被维护。
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
@@ -3012,13 +3010,13 @@ Architecture: iphoneos-arm64
 Maintainer: Netskao
 Installed-Size: 108
 Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.awemefullscreen, com.huami.FixFullScreenForDY30
+Conflicts: com.netskao.awemefullscreen, com.huami.FixFullScreenForDY30, byg.iosios.net.awemefullscreen
 Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreens_1.1-9_iphoneos-arm64.deb
-Size: 26116
-MD5sum: cf66ab9cc6a644cde8bdd044dabc7de0
-SHA1: c1868e398f04737f2a60bb1f3ce9471be08820ae
-SHA256: 2c2e819b2ee97c70571f07399e784c8fa26a79ec2e07bb2000cd104d46c8d9c7
-Section: 应用破解
+Size: 26132
+MD5sum: d23a6f8df4ba6ffc69ff5a6b041b2bc0
+SHA1: 2e62b3c0dc131415f6552617ab947077626a837c
+SHA256: 3c0f881d5bbfa4e6ff961c36bda1cab77079aa48e960253c74affc164afceb0d
+Section: 抖音插件
 Description: 抖音全屏显示，仅在29.8.0版本上测试，后续版本更新导致的问题将不会被维护。
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
