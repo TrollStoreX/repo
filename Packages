@@ -3536,6 +3536,86 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
 Name: Safari X 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/jss.json
 
+Package: com.settingswidgets.zh-Hans
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Replaces: com.shepgoba.settingswidgets, com.shepgoba.settingswidgetss
+Filename: ./debs/iphoneos-arm64e/com.settingswidgets.zh-Hans_1.0_iphoneos-arm64e.deb
+Size: 2876
+MD5sum: c336e41ee41c8dfcbcb0c2e6ba1c7099
+SHA1: b65d2d493b0307fda9aadaef7f6752c298a41728
+SHA256: 556f47a09751d7c5613c6b8f47ae20c9014890281d8161f14017ac88e663dbc6
+Section: 汉化
+Description: zh-Hans for SettingsWidgets
+ * SettingsWidgets 简体中文
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/icon.png
+Name: SettingsWidgets 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/js1.json
+
+Package: com.settingswidgets.zh-Hans
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 巨魔商店 Telegram
+Installed-Size: 512
+Replaces: com.shepgoba.settingswidgets, com.shepgoba.settingswidgetss
+Filename: ./debs/iphoneos-arm64/com.settingswidgets.zh-Hans_1.0_iphoneos-arm64.deb
+Size: 2108
+MD5sum: ba73d7820c96a4537c6f1a68b5f7e97c
+SHA1: 1f69c156690165d683561c147bb98370a54a5cad
+SHA256: 3910a0d1af9106636f585d12fa7166400a2cbb46317333baff04fd7780fe53e1
+Section: 汉化
+Description: zh-Hans for SettingsWidgets
+ * SettingsWidgets 简体中文
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/icon.png
+Name: SettingsWidgets 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/js1.json
+
+Package: com.shepgoba.settingswidgetss
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: shepgoba
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.shepgoba.settingswidgets
+Filename: ./debs/iphoneos-arm64e/com.shepgoba.settingswidgetss_1.2.3_iphoneos-arm64e.deb
+Size: 85498
+MD5sum: b7bcd387754789d571dbdc85630fd728
+SHA1: 2148d79fc8507fec04b387888b16602efad79558
+SHA256: 198e239e73cf5d9ce5ca03623b3ff3cbdc96f833426ad1cd1ae8727e76a0fa3f
+Section: Bootstrap
+Description: 将好看的小部件带到设置首页！
+ * Bring good looking widgets to the front page of settings!
+Author: shepgoba
+Icon: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/icon.png
+Name: SettingsWidgets 设置小部件
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/js.json
+
+Package: com.shepgoba.settingswidgetss
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: shepgoba
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.shepgoba.settingswidgets
+Filename: ./debs/iphoneos-arm64/com.shepgoba.settingswidgetss_1.2.3_iphoneos-arm64.deb
+Size: 73316
+MD5sum: bd4523119de9a863ae45c4f352fa227e
+SHA1: e5b026dcbfbbed7f395e2a9b46b65bd8133543e8
+SHA256: 7ff1397c4aad0fef95672215393c9dc2f221505e68ec13abe28319ba3d1908f5
+Section: Bootstrap
+Description: 将好看的小部件带到设置首页！
+ * Bring good looking widgets to the front page of settings!
+Author: shepgoba
+Icon: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/icon.png
+Name: SettingsWidgets 设置小部件
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/js.json
+
 Package: com.sileo.zh-hans
 Version: 2.6
 Architecture: iphoneos-arm64e
