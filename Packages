@@ -424,6 +424,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
 Name: No Redirect 禁字诀
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
+Package: com.82flex.ohmyinsetss
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.ohmyinsets
+Filename: ./debs/iphoneos-arm64e/com.82flex.ohmyinsetss_0.1_iphoneos-arm64e.deb
+Size: 16074
+MD5sum: 0a546b23743b9526b1e72061e0adbb94
+SHA1: f5d91b06049f459a766323547fc412f6d477fc58
+SHA256: 2c4b467f589c351a8737912989107c30cc89b0b9a4e94ba956ec0ee4abf5e1bc
+Section: 乌龙工作室
+Description: 控制中心模块五列显示
+ * Control Center module five-column layout
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Insets/icon.png
+Name: Oh My Insets 控制中心五列
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Insets/js.json
+
+Package: com.82flex.ohmyinsetss
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 236
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.ohmyinsets
+Filename: ./debs/iphoneos-arm64/com.82flex.ohmyinsetss_0.1_iphoneos-arm64.deb
+Size: 12160
+MD5sum: 9390100c0b687d316e83c5cf7430928b
+SHA1: ce54875757800bcfadfd43820d1d0f025b43414e
+SHA256: fb9e00ad6303fb9d5cffd47d3e23cb35c334f2a3245fde09b768cc4be1096b9b
+Section: 乌龙工作室
+Description: 控制中心模块五列显示
+ * Control Center module five-column layout
+Author: Lessica <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Insets/icon.png
+Name: Oh My Insets 控制中心五列
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Insets/js.json
+
 Package: com.82flex.removewidgetbgs
 Version: 1.6
 Architecture: iphoneos-arm64
