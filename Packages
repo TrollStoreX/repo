@@ -1409,6 +1409,46 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.dvntm.oledkeyboards
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.oledkeyboard
+Filename: ./debs/iphoneos-arm64e/com.dvntm.oledkeyboards_0.0.1_iphoneos-arm64e.deb
+Size: 4376
+MD5sum: 8d065a48da193a03e96ddde538091247
+SHA1: 0136a70527993039b78644eae2471b0924b37246
+SHA256: e8c316d38f37dc913965a3a232263c33949443f8dad7e1b71e8a4dd542815090
+Section: Bootstrap
+Description: 深色模式下键盘背景显示为纯黑
+ * OLED Dark Mode for iOS System Keyboard
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+Name: OledKeyboard 深色纯黑键盘
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/js.json
+
+Package: com.dvntm.oledkeyboards
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.oledkeyboard
+Filename: ./debs/iphoneos-arm64/com.dvntm.oledkeyboards_0.0.1_iphoneos-arm64.deb
+Size: 4444
+MD5sum: 37dc2c12f8459d6e40ec39a9f7d3bed0
+SHA1: 19d76801c88d6ff9d075097fa23cea1897cdadb5
+SHA256: d151289d888497069fea1bcd85a8310d2ee41b812d2a9773e2222fc61c81cc26
+Section: Bootstrap
+Description: 深色模式下键盘背景显示为纯黑
+ * OLED Dark Mode for iOS System Keyboard
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+Name: OledKeyboard 深色纯黑键盘
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/js.json
+
 Package: com.dvntm.safariiis
 Version: 0.0.1
 Architecture: iphoneos-arm64e
