@@ -906,6 +906,57 @@ Name: 抖音 豆包助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
 
 Package: com.HBWechatHelper.ailuns
+Version: 1.7-6
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailuns_1.7-6_iphoneos-arm64e.deb
+Size: 11853816
+MD5sum: 0bcf60d59bd82461b9513d531900dea6
+SHA1: 145da0d043808cc2abfc62d4a2cf2c780b767ed9
+SHA256: 85a43f8dc2b1d5dcaf9b2fb57dcdd82330db746c515714b8321716f06dbb33c3
+Section: 微信插件
+Description: 微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.HBWechatHelper.ailuns
+Version: 1.7-6
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7-6_iphoneos-arm64.deb
+Size: 11857816
+MD5sum: 1e31b5110df1856d499ef6cd0a809acb
+SHA1: 1230462f1f3c5617438650bda52954f330c86f16
+SHA256: 649c678d053dd1b43bacff842cfa92c9da29b5dd61d6aac0c4efb98a70612571
+Section: 微信插件
+Description: 微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.HBWechatHelper.ailuns
 Version: 1.7.4
 Architecture: iphoneos-arm64e
 Maintainer: HuangBai <QQ:1343309363@qq.com>
