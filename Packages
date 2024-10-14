@@ -1341,6 +1341,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
 Name: OledKeyboard 深色纯黑键盘
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/js.json
 
+Package: com.dvntm.oledkeyboards
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.oledkeyboard
+Filename: ./debs/iphoneos-arm64e/com.dvntm.oledkeyboards_0.0.3_iphoneos-arm64e.deb
+Size: 4764
+MD5sum: f9dddbd2adf7d106d813540a653a09eb
+SHA1: bcbee940c350f2ca14112fdfd5059acf534f7c4f
+SHA256: 20d112c0cc626752c828b8eb21a0b5933b20c33a1c0b15b6b28c545f00a9868f
+Section: Bootstrap
+Description: 深色模式下键盘背景显示为纯黑
+ * OLED Dark Mode for iOS System Keyboard
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+Name: OledKeyboard 深色纯黑键盘
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/js.json
+
+Package: com.dvntm.oledkeyboards
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.oledkeyboard
+Filename: ./debs/iphoneos-arm64/com.dvntm.oledkeyboards_0.0.3_iphoneos-arm64.deb
+Size: 4828
+MD5sum: 90dc2255e8df19be9cfb84df2fdd5b33
+SHA1: 4ecb07d44a4cc95b95dca30eb37d232794213d0e
+SHA256: c3cd02e41c4e726cd0b3314146e540b5f3671e73a60e813d52bd2e6dace5f342
+Section: Bootstrap
+Description: 深色模式下键盘背景显示为纯黑
+ * OLED Dark Mode for iOS System Keyboard
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/icon.png
+Name: OledKeyboard 纯黑键盘
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/OledKeyboard/js.json
+
 Package: com.dvntm.safariiis
 Version: 0.0.1
 Architecture: iphoneos-arm64e
