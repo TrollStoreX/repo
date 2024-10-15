@@ -129,6 +129,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
 Name: Kayoko
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
 
+Package: codes.aurora.kayokos
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_2.3_iphoneos-arm64e.deb
+Size: 168908
+MD5sum: f372ac2fd0466ccefdca534d7f4a26eb
+SHA1: 6d92af5718d4979d182c2e1d8103d3798b1ee40c
+SHA256: ac116ad1f0279a56b5df917a0d73b76647c792112d2c0e4f70a0443bc3e32b73
+Section: Tweaks
+Description: iOS 剪切板越狱插件
+ * Clipboard manager for iOS.
+ * 由 Lessica 修复支持iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
+Package: codes.aurora.kayokos
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_2.3_iphoneos-arm64.deb
+Size: 118720
+MD5sum: bb1cf16dc9263c615ab7ced071d98686
+SHA1: e65cba289acc56dcbd7722620c961890d8118835
+SHA256: 56c49ba2c25512296384008634bc625dc9357a7288e8b336c5fbd434527363d7
+Section: Tweaks
+Description: iOS 剪切板越狱插件
+ * Clipboard manager for iOS.
+ * 由 Lessica 修复支持iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
 Package: com.0xkuj.safarixs
 Version: 1.3.0
 Architecture: iphoneos-arm64e
