@@ -3996,6 +3996,49 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
 Name: Teleport 虚拟定位
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
 
+Package: com.wechat.themepro
+Version: 3.1.2
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM <MustangYM@yeah.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.1.2_iphoneos-arm64e.deb
+Size: 6325488
+MD5sum: e65434dbb02c9c5aab972c292979df87
+SHA1: 828b07a5989b69131e9f107cf77ff0cc79827f1f
+SHA256: c225dd461a69f19694a5ebc94836263ae6d2501f93cdb50bbe184a4aca70ac0c
+Section: 微信插件
+Description: 微信插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.1.2
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.1.2_iphoneos-arm64.deb
+Size: 6322440
+MD5sum: e77b9264ceb1db657b2dea7191fe0c64
+SHA1: 4950ec13d1f8c6e0c420c9985117b76e957dbb71
+SHA256: 4a08512da7e9427d4ee0f459a93a51155812f4b1cf86a40a2fdb5aa6be5597ea
+Section: 微信插件
+Description: 微信插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
 Package: com.weifeng.noad
 Version: 1.1
 Architecture: iphoneos-arm64e
