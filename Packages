@@ -181,10 +181,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: codes.aurora.kayoko
 Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_2.4_iphoneos-arm64e.deb
-Size: 170950
-MD5sum: 5882488b1391deaa66a8f8efb6bd45c0
-SHA1: 70d0c787221fc8fa2336b7d1c8dc63699d0af03a
-SHA256: 031c89af47ae0a04dd55a56049d1f5202ffb139989e245196ace50bdd741260a
+Size: 176108
+MD5sum: 286b379562cd9cae09bd266297bc060a
+SHA1: 60fbb98b215308df405a8b0d70622fdf630a8d07
+SHA256: 6781a817eed6de0cbfa4a9a8128bd3a204eb43c5b5cacc8921e21c1b2861c7e5
 Section: 乌龙工作室
 Description: iOS 剪切板越狱插件
  * Clipboard manager for iOS.
@@ -202,10 +202,10 @@ Installed-Size: 1076
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: codes.aurora.kayoko
 Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_2.4_iphoneos-arm64.deb
-Size: 120304
-MD5sum: 0712f409930b882e077ac9070b582da9
-SHA1: 34cf951d0e108f98bc056fbbb417857d4032ec03
-SHA256: 939a7ce615e93387ad75056518865a17ca1896bfc7a81575880a00ff49208e6c
+Size: 125580
+MD5sum: 3e9bb14c26d0258bef6ee268c8043cd3
+SHA1: 3c41b70ee875b7c157e3f2d3800c62c944ece507
+SHA256: 84a1ae78ec5c00cdfb4806a2e8c72fe14b40c1c7779069c0970aa49ecc98a375
 Section: 乌龙工作室
 Description: iOS 剪切板越狱插件
  * Clipboard manager for iOS.
