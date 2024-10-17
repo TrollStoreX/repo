@@ -3351,6 +3351,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/icon.png
 Name: 抖音时间 AwemeVideoTime
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeVideoTime/js.json
 
+Package: com.netskao.dumpdecrypters
+Version: 1.4-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 848
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter, byg.iosios.net.dumpbinaryfiles-rootless, com.dao.dumpdecrypter
+Filename: ./debs/iphoneos-arm64e/com.netskao.dumpdecrypters_1.4-5_iphoneos-arm64e.deb
+Size: 477206
+MD5sum: c94f75f23f1cc6b72e626d729518f14f
+SHA1: 62803519ffeb1f5d3377c3f534687fd22ec88f16
+SHA256: 1fc4c53e07c354520fcb392e4c81de3d4129386747970a3d569c64116fb3e430
+Section: Bootstrap
+Description: 砸壳 App Store 应用插件
+ * 支持砸壳小组件和分享组件
+ * 动态砸壳，不支持全量包解密砸壳
+ * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+Name: DumpDecrypter 砸壳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
+Package: com.netskao.dumpdecrypters
+Version: 1.4-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter, byg.iosios.net.dumpbinaryfiles-rootless, com.dao.dumpdecrypter
+Filename: ./debs/iphoneos-arm64/com.netskao.dumpdecrypters_1.4-5_iphoneos-arm64.deb
+Size: 348928
+MD5sum: 9863ab230ee63140228a5bfb121db49b
+SHA1: 7782513ffc764ef3749fd83c87c82377d277768a
+SHA256: 964e265839ff9ff301e4ecc7c710711ed1ab9036f149baa93ad654b17b70fe9a
+Section: Bootstrap
+Description: 砸壳 App Store 应用插件
+ * 支持砸壳小组件和分享组件
+ * 动态砸壳，不支持全量包解密砸壳
+ * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+Name: DumpDecrypter 砸壳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
 Package: com.netskao.qqnotiavatars
 Version: 1.2-2
 Architecture: iphoneos-arm64e
