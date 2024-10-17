@@ -1052,6 +1052,57 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
 Name: 黄白助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
 
+Package: com.HBWechatHelper.ailuns
+Version: 1.7-7
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailuns_1.7-7_iphoneos-arm64e.deb
+Size: 10891556
+MD5sum: e480ead0b50952331334ae098c2c93df
+SHA1: f9db559a9cc10401a9a623030fa718fd5ae077fc
+SHA256: 10ade24aadf64088c6656281bd68a045cf0c68d622aa498fd973e9a29b18b7c1
+Section: 微信插件
+Description: 微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.HBWechatHelper.ailuns
+Version: 1.7-7
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7-7_iphoneos-arm64.deb
+Size: 10883488
+MD5sum: b30e6b5286761a9c6a9c66d2c5f0ea04
+SHA1: 814ba2bfcd4752883da7381c00b04db9d4cbe009
+SHA256: 7e9e096259bfcc0f48313fdfc7b302f17275adaef2787e5b17ab97dea97b82d2
+Section: 微信插件
+Description: 微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
 Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64e
@@ -1189,25 +1240,6 @@ Architecture: iphoneos-arm64e
 Maintainer: curtinlv@126.com
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
-Filename: ./debs/iphoneos-arm64e/PKC_0.5-9_ iphoneos-arm64e.deb
-Size: 1537814
-MD5sum: 1c81b7545d9480131b6173a973088f0e
-SHA1: e122eee41f40290351be31be03e2caf1e9f966c5
-SHA256: aa06eb0d4de9bbe26ba3a06d5be37ed33e0bcc2a5f6542832d56231f8fb926d7
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC_无根
-
-Package: com.curtin.pkc.rootless
-Version: 0.5-9
-Architecture: iphoneos-arm64e
-Maintainer: curtinlv@126.com
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0)
 Conflicts: com.curtin.pkc.rootless
 Replaces: com.curtin.pkc.rootless
 Provides: com.curtin.pkc.rootless
@@ -1223,6 +1255,25 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC 助手
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-9
+Architecture: iphoneos-arm64e
+Maintainer: curtinlv@126.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/PKC_0.5-9_ iphoneos-arm64e.deb
+Size: 1537814
+MD5sum: 1c81b7545d9480131b6173a973088f0e
+SHA1: e122eee41f40290351be31be03e2caf1e9f966c5
+SHA256: aa06eb0d4de9bbe26ba3a06d5be37ed33e0bcc2a5f6542832d56231f8fb926d7
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
 
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
@@ -2706,23 +2757,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Nathan Senter
-Installed-Size: 136
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
-Size: 4072
-MD5sum: eea4504514f5ad60d8386a1f7651a8b4
-SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
-SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
-Section: Tweaks
-Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
-Author: Nathan Senter
-Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
-Name: 显示存储系统数据详情InternalStorageSettings
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
-
-Package: com.nathan.internalstoragesettingss
-Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
@@ -2732,6 +2766,23 @@ Size: 5692
 MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
 SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
 SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Section: Tweaks
+Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
+Name: 显示存储系统数据详情InternalStorageSettings
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
+
+Package: com.nathan.internalstoragesettingss
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
+Size: 4072
+MD5sum: eea4504514f5ad60d8386a1f7651a8b4
+SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
+SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
