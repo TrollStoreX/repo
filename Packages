@@ -2242,6 +2242,57 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.DYYYs
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64e/com.huami.DYYYs_1.5_iphoneos-arm64e.deb
+Size: 27554
+MD5sum: d17c4acc25ea86b8c98ac27c4b020d62
+SHA1: f7e74283772b405bb177808c42378d9e367e2d10
+SHA256: 08460cb488c546716fa16e05fdc6ae54d9f703e2ea432892a4e5f63856d012dd
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 隐藏底栏、侧栏红点
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.DYYYs
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.5_iphoneos-arm64.deb
+Size: 20388
+MD5sum: c2a7faafe821077396b28a4d9911d31a
+SHA1: 9e0608b8d6112e599314fa2def510c1abead5d64
+SHA256: 64784765a1de8a275026e6c4d5c3219989c4021c659d0259b7f50462f92180fc
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 隐藏底栏、侧栏红点
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64e
