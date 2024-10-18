@@ -86,6 +86,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/icon.png
 Name: ThemeManager 猪咪微信主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.json
 
+Package: cn.llld.zfbbs
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: cn.llld.zfbb
+Filename: ./debs/iphoneos-arm64e/cn.llld.zfbbs_1.3_iphoneos-arm64e.deb
+Size: 25070
+MD5sum: 88cf6d897dbd88a4002a53f11c5e6c80
+SHA1: c860de35c3b07adf4a9fcb7c1052746ccdd98ee6
+SHA256: bfce98f4ae15d2957a45042c8d7ad1c94eb85e1b500962f4690442dfa8beb858
+Section: 应用破解
+Description: 支付宝步数插件
+ * 自定义步数，屏蔽越狱检测(代码半年没动了)
+ * 精简主页显示内容
+ * 长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置
+ * 支持任意版本
+Author: 来了老弟 X：h_h_x_t
+Icon: https://TrollStoreX.Github.io/sileodepiction/ZFB/icon.png
+Name: 支付宝步数 XD
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ZFB/js.json
+
+Package: cn.llld.zfbbs
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 X：h_h_x_t
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: cn.llld.zfbb
+Filename: ./debs/iphoneos-arm64/cn.llld.zfbbs_1.3_iphoneos-arm64.deb
+Size: 18524
+MD5sum: 80b4be09f061bf23a91d0c4dfe6063e9
+SHA1: 6cfd726556244569197d564d98d625cd1c82f035
+SHA256: 614f395d62a9e6ffa38a9b29c03716f844a8d44987ba42485e6b433d27868318
+Section: 应用破解
+Description: 支付宝步数插件
+ * 自定义步数，屏蔽越狱检测(代码半年没动了)
+ * 精简主页显示内容
+ * 长按底栏1秒控件或森林、运动顶栏或任意右上角控件顶部，弹出设置
+ * 支持任意版本
+Author: 来了老弟 X：h_h_x_t
+Icon: https://TrollStoreX.Github.io/sileodepiction/ZFB/icon.png
+Name: 支付宝步数 XD
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ZFB/js.json
+
 Package: codes.aurora.kayokos
 Version: 2.2
 Architecture: iphoneos-arm64e
@@ -3396,6 +3443,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
 Name: DumpDecrypter 砸壳
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
 
+Package: com.netskao.dumpdecrypters
+Version: 1.4-6
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 848
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter, byg.iosios.net.dumpbinaryfiles-rootless, com.dao.dumpdecrypter
+Filename: ./debs/iphoneos-arm64e/com.netskao.dumpdecrypters_1.4-6_iphoneos-arm64e.deb
+Size: 479384
+MD5sum: 4803dd99ed06e75e5790fcb61a3b5f45
+SHA1: 5d9894b97c1281be8b86fd9c1f0e5766571fba7d
+SHA256: db4df2709ad0e62533d2529b883c7a1dd733b84041623c9e024a1a10804e10aa
+Section: Bootstrap
+Description: 砸壳 App Store 应用插件
+ * 支持砸壳小组件和分享组件
+ * 动态砸壳，不支持全量包解密砸壳
+ * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+Name: DumpDecrypter 砸壳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
+Package: com.netskao.dumpdecrypters
+Version: 1.4-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter, byg.iosios.net.dumpbinaryfiles-rootless, com.dao.dumpdecrypter
+Filename: ./debs/iphoneos-arm64/com.netskao.dumpdecrypters_1.4-6_iphoneos-arm64.deb
+Size: 350392
+MD5sum: 538c674e7a7239996b1d3039b32ae16d
+SHA1: 8ecf4be6f2d4adc4dfa0d0c91dbcb4639ba197a0
+SHA256: 067180c47d2735e3ef386c1fc8a77ac7bf11d15db646f8b96e582c5a39b47726
+Section: Bootstrap
+Description: 砸壳 App Store 应用插件
+ * 支持砸壳小组件和分享组件
+ * 动态砸壳，不支持全量包解密砸壳
+ * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+Name: DumpDecrypter 砸壳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
 Package: com.netskao.qqnotiavatars
 Version: 1.2-2
 Architecture: iphoneos-arm64e
@@ -5190,6 +5282,49 @@ Description: ThemePro 微信主题插件
 Author: MustangYM
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/ThemePro.png
 Name: ThemePro
+
+Package: it.ned.noappthinnings
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: ned
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: ./debs/iphoneos-arm64e/it.ned.noappthinnings_1.2_iphoneos-arm64e.deb
+Size: 5494
+MD5sum: 10bd5d2c06591d817943eb94f6ecaa5f
+SHA1: 4386b285eeb32c893a7a308f8b74594392279311
+SHA256: d88dbc9117f4b2a9b82a3a54202688cd267e8b5b2feb386098282125c5f6a6af
+Section: Tweaks
+Description: 允许从 App Store 下载全量包应用
+ * 配合 Dumpdecrypter 全权限砸壳使用
+ * Disable AppStore/TestFlight app thinning - by level3tjg
+Author: ned
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/icon.png
+Name: NoAppThinning 全量包下载
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/js.json
+
+Package: it.ned.noappthinnings
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: ned
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: ./debs/iphoneos-arm64/it.ned.noappthinnings_1.2_iphoneos-arm64.deb
+Size: 3812
+MD5sum: 7768f5252a61c469d27cf65f34bce58d
+SHA1: 1f0f8d94a14fc8a7f5c47ef709032ba076c27f84
+SHA256: 6ddf1a97084f29a9f8008a859cc7f0c19121790592efcfda2823d7e11b42e988
+Section: Tweaks
+Description: 允许从 App Store 下载全量包应用
+ * 配合 Dumpdecrypter 全权限砸壳使用
+ * Disable AppStore/TestFlight app thinning - by level3tjg
+Author: ned
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/icon.png
+Name: NoAppThinning 全量包下载
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/js.json
 
 Package: jp.akusio.backgrounderaction15s
 Version: 0.1.0
