@@ -3531,6 +3531,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
 Name: DumpDecrypter 砸壳
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
 
+Package: com.netskao.dumpdecrypters
+Version: 1.4-8
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 848
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter, byg.iosios.net.dumpbinaryfiles-rootless, com.dao.dumpdecrypter
+Filename: ./debs/iphoneos-arm64e/com.netskao.dumpdecrypters_1.4-8_iphoneos-arm64e.deb
+Size: 514664
+MD5sum: 9c9417e3bd6b06224283eaa54a435c3c
+SHA1: 53a4ab3b945185a90fce00c1dd9a946f1d1dcf47
+SHA256: 55f5916229c2164041abca973b261f6440102c0fad5fb4aef5b83f35f9bb2066
+Section: Bootstrap
+Description: 砸壳 App Store 应用插件
+ * 支持砸壳小组件和分享组件
+ * 动态砸壳，支持全量包解密砸壳
+ * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+Name: DumpDecrypter 砸壳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
+Package: com.netskao.dumpdecrypters
+Version: 1.4-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter, byg.iosios.net.dumpbinaryfiles-rootless, com.dao.dumpdecrypter
+Filename: ./debs/iphoneos-arm64/com.netskao.dumpdecrypters_1.4-8_iphoneos-arm64.deb
+Size: 376768
+MD5sum: e1bcde4c2c1be45d592946d5267152b6
+SHA1: 52e067359fcf468a06b4fa54b94b93922be4173b
+SHA256: d56dfad51cff551a6f770b7ae7e52ea18d7062202f9a18418d6dba8e96d706e8
+Section: Bootstrap
+Description: 砸壳 App Store 应用插件
+ * 支持砸壳小组件和分享组件
+ * 动态砸壳，支持全量包解密砸壳
+ * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+Name: DumpDecrypter 砸壳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
 Package: com.netskao.qqnotiavatars
 Version: 1.2-2
 Architecture: iphoneos-arm64e
