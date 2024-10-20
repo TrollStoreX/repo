@@ -1556,6 +1556,26 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
 Package: com.dvntm.cc18s
 Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/iphoneos-arm64/com.dvntm.cc18s_0.0.1_iphoneos-arm.deb
+Size: 4472
+MD5sum: bf37fc85c447535dbc9d51c209ee04f1
+SHA1: 9c2d57063efad4e6f613f3bc07ba337fa6762b09
+SHA256: 5a4e82d62aefa2e8fdf97d518a1e0d24299502138f46bb3d7f6bc16dec176cf7
+Section: Tweaks
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Name: CC18 iOS18 圆角控制中心
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
+Package: com.dvntm.cc18s
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 152
