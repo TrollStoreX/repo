@@ -1534,6 +1534,46 @@ Author: DumpApp
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/chuizi.png
 Name: 锤子助手
 
+Package: com.dvntm.cc18s
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/iphoneos-arm64e/com.dvntm.cc18s_0.0.1_iphoneos-arm64e.deb
+Size: 4488
+MD5sum: 34844d540040345640e6819af20e89c7
+SHA1: 692e13d077fc65885b0dce4622b7bedcfbde53d2
+SHA256: 6fdc3caf3db82fdb673d548552de4399677a3075e692115bf69822858848a2b8
+Section: Tweaks
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Name: CC18 iOS18 圆角控制中心
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
+Package: com.dvntm.cc18s
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/iphoneos-arm64/com.dvntm.cc18s_0.0.1_iphoneos-arm64.deb
+Size: 4536
+MD5sum: 9c766e19c189b1dac845806eb1a5898d
+SHA1: f41b24996cf322162b18bf4bf41a1225e423ee72
+SHA256: 80e27db0e1adc8e4a8498bda985691189f82c2a195132adda120ed88d5649339
+Section: Tweaks
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Name: CC18 iOS18 圆角控制中心
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
 Package: com.dvntm.infusepluss
 Version: 1.2.0
 Architecture: iphoneos-arm64e
