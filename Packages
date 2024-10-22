@@ -3079,6 +3079,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
+Package: com.netskao.awemeclearlikess
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemeclearlikes
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemeclearlikess_1.1-2_iphoneos-arm64e.deb
+Size: 25806
+MD5sum: 3af5c46d2d55ad7f55722505827c8023
+SHA1: 49b4225c5b02f24276233b3ef84d7a288060d61e
+SHA256: ad2bf282d7c3ddf542ebf701ac0cc19a0eeb253398f47b8b8a0b3867495c02c7
+Section: 抖音插件
+Description: 抖音清除点赞
+ * 自动清除抖音喜欢点赞过的视频
+ * 使用：抖音-我-喜欢界面-摇晃手机
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeClearLikes/icon.png
+Name: 抖音清除点赞 AwemeClearLikes
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeClearLikes/js.json
+
+Package: com.netskao.awemeclearlikess
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemeclearlikes
+Filename: ./debs/iphoneos-arm64/com.netskao.awemeclearlikess_1.1-2_iphoneos-arm64.deb
+Size: 19908
+MD5sum: cc95a8fb0cfbe7e3992560fe5fc45821
+SHA1: ab04fe4b179a5b17868f512d6c22a633fd8bf389
+SHA256: 953c7aa6d9a0c9ba1430b6bfcc5fdebe09e96c6b36e55fefaecde05d6f0d3a19
+Section: 抖音插件
+Description: 抖音清除点赞
+ * 自动清除抖音喜欢点赞过的视频
+ * 使用：抖音-我-喜欢界面-摇晃手机
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeClearLikes/icon.png
+Name: 抖音清除点赞 AwemeClearLikes
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeClearLikes/js.json
+
 Package: com.netskao.awemedisablebars
 Version: 1.1-2
 Architecture: iphoneos-arm64e
