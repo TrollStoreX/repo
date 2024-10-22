@@ -4813,24 +4813,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CornBar/icon.png
 Name: CornBar 玉米手势横杠
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CornBar/js.json
 
-Package: com.xuuz.nathanlrhh
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: XUUᶻ
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.xuuz.nathanlrhh_0.0.1_iphoneos-arm64.deb
-Size: 39136
-MD5sum: 09c59c381ce7bbbdd34f4ce02188ab2f
-SHA1: 26f8e25db7582714ba1a247d2c84c6fb17e5ef4c
-SHA256: b099785772991718b62814e74b1621892df98c8eb47510562d10662e8e3abe09
-Section: 汉化
-Description: zh-Hans for NathanLR
- * NathanLR 汉化补丁
-Author: XUUᶻ
-Icon: https://TrollStoreX.Github.io/sileodepiction/NathanLR/icon.png
-Name: NathanLR 简体中文
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NathanLR/js.json
-
 Package: com.xx.dyhooks
 Version: 2.0.5
 Architecture: iphoneos-arm64e
