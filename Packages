@@ -1324,6 +1324,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
+Package: com.bandarhl.bhtwitters
+Version: 4.3-4
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
+Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_4.3-4_iphoneos-arm64e.deb
+Size: 7493204
+MD5sum: 88be109853d768eb5e4dad4def090368
+SHA1: a65f018cf71a1a69b64aba7090c47647cf3f8b82
+SHA256: 27cacc5ed5a903fbb5e225aec27c348359f4bda5438a256ffa67edef9b4af335
+Section: 应用破解
+Description: Twitter/X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、去除 Groy 标签栏等功能
+ * Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
+Package: com.bandarhl.bhtwitters
+Version: 4.3-4
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.3-4_iphoneos-arm64.deb
+Size: 7619016
+MD5sum: 699073f1a3b84a78748407cbd565abb9
+SHA1: d5886962b321ef525cca3b47c4e2b5a008625b38
+SHA256: c0177a6278cee9b4c588acc6d5f735271060363a84d335298df922b40b12ddc5
+Section: 应用破解
+Description: Twitter/X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、去除 Groy 标签栏等功能
+ * Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
 Architecture: iphoneos-arm64e
