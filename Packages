@@ -2170,6 +2170,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.eevee.spotifys
+Version: 5.7
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.7_iphoneos-arm64e.deb
+Size: 579156
+MD5sum: 2ab1f6b92d3ad2414f80d2e448b1a1f0
+SHA1: f497c796d5a8247a71c34c8e920e7d605797a661
+SHA256: 8aca8d379ac40382ac784dd09b42b142d47fce62345e504c786a1f4a76cd5de4
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样。
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.7
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.7_iphoneos-arm64.deb
+Size: 592240
+MD5sum: 2b454d191e99c59dfd2178f49ec3732e
+SHA1: bd2497e70e801884bf48e86e7fefb741315baac2
+SHA256: a661027bacb8be2a51d227bbc553d680ad2db206493202272a48a613539d3143
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样。
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
 Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -4346,6 +4389,86 @@ Description: 录像暂停 Pause/resume video recording in iOS Camera app.
 Author: PoomSmart
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/camera.png
 Name: 录像暂停 RecordPause
+
+Package: com.ps.youpips
+Version: 1.8.14
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.ps.youpip
+Filename: ./debs/iphoneos-arm64e/com.ps.youpips_1.8.14_iphoneos-arm64e.deb
+Size: 34282
+MD5sum: 56e7211759cad256ec69eb8a35c84dd1
+SHA1: 139ee47df396212620f8cdd457fac5f4cd10095f
+SHA256: 7e55734c3f3e89717a98d99831bac4bab051085f9d7fae13b0e89d408960b706
+Section: YouTube 插件
+Description: 在 YouTube 中启用原生画中画 PiP
+ * Enable native PiP in iOS YouTube app.
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/YouTube/icon.png
+Name: YouTube YouPiP 画中画
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YouTube/YouPiP.json
+
+Package: com.ps.youpips
+Version: 1.8.14
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture | com.cabralcole.forceinpicture
+Conflicts: com.ps.youpip
+Filename: ./debs/iphoneos-arm64/com.ps.youpips_1.8.14_iphoneos-arm64.deb
+Size: 25704
+MD5sum: 6be206a0ce0e92eb778c8c32ba5e5b4d
+SHA1: f95a0452c72b010eb1fda4e4339cbfee8fb1098f
+SHA256: 67c253f0266016b4e4bb64f132170dccc6bf2dba651c4d5847421b9e6624d49d
+Section: YouTube 插件
+Description: 在 YouTube 中启用原生画中画 PiP
+ * Enable native PiP in iOS YouTube app.
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/YouTube/icon.png
+Name: YouTube YouPiP 画中画
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YouTube/YouPiP.json
+
+Package: com.ps.ytuhds
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.ps.ytuhd
+Filename: ./debs/iphoneos-arm64e/com.ps.ytuhds_1.5.5_iphoneos-arm64e.deb
+Size: 17542
+MD5sum: fcf6898befa2c3bdfc15047edab79caf
+SHA1: 3614a5cfd8d791ee16777b0e0cb4ebec118d0a7f
+SHA256: 726b8010c9f35979748f2791667a6dcdfa937fdef5d421c450f5b5605bcb4cb3
+Section: YouTube 插件
+Description: 解锁 YouTube 1440p 和 2160p 分辨率
+ * Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/YouTube/icon.png
+Name: YouTube YTUHD
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YouTube/YTUHD.json
+
+Package: com.ps.ytuhds
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.ps.ytuhd
+Filename: ./debs/iphoneos-arm64/com.ps.ytuhds_1.5.5_iphoneos-arm64.deb
+Size: 13100
+MD5sum: 8ccd293de4ab3097dc9acb1ca276cc1a
+SHA1: 55817569ca587f594ee81b43b97c6b8e88c46213
+SHA256: 01da3a3417659ff7afce8b171ffa42759955c422730797e141d1576287de9232
+Section: YouTube 插件
+Description: 解锁 YouTube 1440p 和 2160p 分辨率
+ * Unlock 1440p and 2160p resolutions in iOS YouTube app.
+Author: PoomSmart
+Icon: https://TrollStoreX.Github.io/sileodepiction/YouTube/icon.png
+Name: YouTube YTUHD
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YouTube/YTUHD.json
 
 Package: com.raulsaeed.bhtiktok++s
 Version: 1.2-3+debug
