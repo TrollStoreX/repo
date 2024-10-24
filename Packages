@@ -3994,6 +3994,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
 Name: DumpDecrypter 砸壳
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
 
+Package: com.netskao.qqipadmodelogins
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.netskao.qqipadmodelogin
+Filename: ./debs/iphoneos-arm64e/com.netskao.qqipadmodelogins_1.1-1_iphoneos-arm64e.deb
+Size: 3566
+MD5sum: aa6a678602246fc390b935c7a0ed6c3f
+SHA1: dade4262e0a8b8863fa15c1ef3047b8496f51106
+SHA256: 672427ebe2ed75ac9ac41b8deb56fd4783068cf8a742b87690f13413ac4cf032
+Section: 应用破解
+Description: 让 iPhone QQ 客户端伪装成 iPad 登陆
+ * QQ simulates iPad mode login
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
+Name: QQ iPad 模式
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/js.json
+
+Package: com.netskao.qqipadmodelogins
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.netskao.qqipadmodelogin
+Filename: ./debs/iphoneos-arm64/com.netskao.qqipadmodelogins_1.1-1_iphoneos-arm64.deb
+Size: 2416
+MD5sum: 1dd5a3791d2388a22dc546864f39a238
+SHA1: 2e5422d2685351dfd6ff88e1bb86dfba6beea891
+SHA256: e05a8fd260be4afd53028498c8e6499c116e9c2d90a1e5a9f1ac72cfe86100b3
+Section: 应用破解
+Description: 让 iPhone QQ 客户端伪装成 iPad 登陆
+ * QQ simulates iPad mode login
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
+Name: QQ iPad 模式
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/js.json
+
 Package: com.netskao.qqnotiavatars
 Version: 1.2-2
 Architecture: iphoneos-arm64e
