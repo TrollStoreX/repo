@@ -4072,6 +4072,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
 Name: QQNotiAvatar QQ头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/jss.json
 
+Package: com.netskao.twitternoadss
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.twitternoads
+Filename: ./debs/iphoneos-arm64e/com.netskao.twitternoadss_1.1-1_iphoneos-arm64e.deb
+Size: 3906
+MD5sum: 1bb5a447e44a09dfc2c9a2613338d8ae
+SHA1: 523b96622e0d88e6a2d27d8f46a97fe69cafc99d
+SHA256: 0d0631d67e820df8c093112311e0620702f99ad2f6b53346935dce11175946d8
+Section: 应用破解
+Description: Twitter X 去广告
+ * 在 Twitter 中删除广告，仅在 10.64.1 版本上测试
+ * Twitter removes ads from data stream. Tested on version 10.64.1 only
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: Twitter NoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js1.json
+
+Package: com.netskao.twitternoadss
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.twitternoads
+Filename: ./debs/iphoneos-arm64/com.netskao.twitternoadss_1.1-1_iphoneos-arm64.deb
+Size: 2652
+MD5sum: 80e8557431fedfd2827f93f1e802567a
+SHA1: 027e90887b6d39c06d9dd3be2313ebbb765dd1b6
+SHA256: aa0b3cda6385052fc55f83110d7bd3d3a53d635c757ff808677f6a0246fb0e08
+Section: 应用破解
+Description: Twitter X 去广告
+ * 在 Twitter 中删除广告，仅在 10.64.1 版本上测试
+ * Twitter removes ads from data stream. Tested on version 10.64.1 only
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: Twitter NoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js1.json
+
 Package: com.netskao.wechatnotiavatars
 Version: 1.2-5
 Architecture: iphoneos-arm64e
