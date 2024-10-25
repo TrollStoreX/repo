@@ -1620,6 +1620,51 @@ Author: DumpApp
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/chuizi.png
 Name: 锤子助手
 
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 24000
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64e/com.dumpapp.wechat-rootlesss_2.0.2_iphoneos-arm64e.deb
+Size: 9234680
+MD5sum: 5d6c7df61f8fb9ba87c91dddcee0279c
+SHA1: d007a97267e93fb8dd9bbaca9a7dfe7d632a99c4
+SHA256: 67b07f5dd02c6d6da60386c62a1859c75c76e9645d57e227db7de61e4ffe84ce
+Section: 微信插件
+Description: 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootlesss_2.0.2_iphoneos-arm64.deb
+Size: 9359056
+MD5sum: 83152a020d9a83a1af825f62193f24fa
+SHA1: b55c8b5a1cd6da31bab584ee83798a0545453e13
+SHA256: 7e3f4b4d7048b65af4781aa2f15dd4df1d641c7cd82bac08c1cfaa9bc8a282f1
+Section: 微信插件
+Description: 微信插件
+ * 微信多功能插件
+ * 1:1 复刻“微信净化”插件，功能一模一样
+ * ⚠️注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
 Package: com.dvntm.cc18s
 Version: 0.0.1
 Architecture: iphoneos-arm64e
