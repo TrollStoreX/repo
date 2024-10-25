@@ -1193,6 +1193,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
 Name: 黄白助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
 
+Package: com.autoscroll.jb
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: pxcex
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.autoscroll.jb_1.0.0_iphoneos-arm64e.deb
+Size: 7390
+MD5sum: 800ee7bc62172ec7feba9941786dd598
+SHA1: f60a6197ae17e6aa520dad038f8e7acbc9c87437
+SHA256: 41b8966d3d59f7a34902fcabde2ea92db3d3534fb992514d2530b7277aed1ca4
+Section: Bootstrap
+Description: 页面自动滑动
+ * 安装生效无设置选项
+ * 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止
+Author: pxcex
+Icon: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/icon.png
+Name: AutoScroll 自动滑动
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/js.json
+
+Package: com.autoscroll.jb
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: pxcex
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.autoscroll.jb_1.0.0_iphoneos-arm64.deb
+Size: 5408
+MD5sum: 8f6c2e9751c57d4fd5c9bce6774ec660
+SHA1: 57c9c8f79d5fec9128d43bfb65e9fea152a4de09
+SHA256: 9ef9d7fb5f92e6d664cd6f9872d25f4699c14ce680e6de47a5036128fced6b5f
+Section: Bootstrap
+Description: 页面自动滑动
+ * 安装生效无设置选项
+ * 跟随你的手指滑动幅度，页面始终自动滑动，直到你触摸屏幕才停止
+Author: pxcex
+Icon: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/icon.png
+Name: AutoScroll 自动滑动
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/js.json
+
 Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64e
