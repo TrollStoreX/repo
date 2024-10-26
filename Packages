@@ -3151,6 +3151,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 Name: Telegram 删除分隔符
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js.json
 
+Package: com.level3tjg.telegramnoseparatorss
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: level3tjg
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.level3tjg.telegramnoseparators
+Filename: ./debs/iphoneos-arm64e/com.level3tjg.telegramnoseparatorss_0.0.3_iphoneos-arm64e.deb
+Size: 6000
+MD5sum: 12677785e985aeba2fc68e1ac2e0e95e
+SHA1: d1aab35f4e692199c394cd91f3f9f798100b9433
+SHA256: 516bfaefd8756d820e07abdec3f384803b2fee7a2ff0c67ca5cf3fcaf293d613
+Section: 应用破解
+Description: 从 Telegram 中删除分隔符
+ * 支持 Telegram、Swiftgram、Turrit、Nicegram
+ * Remove table view cell separators from Telegram
+Author: level3tjg
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram 删除分隔符
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js.json
+
+Package: com.level3tjg.telegramnoseparatorss
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: level3tjg
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.level3tjg.telegramnoseparators
+Filename: ./debs/iphoneos-arm64/com.level3tjg.telegramnoseparatorss_0.0.3_iphoneos-arm64.deb
+Size: 4652
+MD5sum: 83a2a6a7f8ea791fd4f83bb5a9c3942d
+SHA1: 53be438d016e45544576b0a3dd75135d68a24543
+SHA256: 2ff48f0c65ee9b7120fffe709c9ba2a1dc691d86c3d4154e9dfcdb1c17348a28
+Section: 应用破解
+Description: 从 Telegram 中删除分隔符
+ * 支持 Telegram、Swiftgram、Turrit、Nicegram
+ * Remove table view cell separators from Telegram
+Author: level3tjg
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram 删除分隔符
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js.json
+
 Package: com.link.awemes
 Version: 1.0.0
 Architecture: iphoneos-arm64e
