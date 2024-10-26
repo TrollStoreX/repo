@@ -3065,6 +3065,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 Name: 临时绕过面容 PassbyCC
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 
+Package: com.level3tjg.telegramnoseparatorss
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: level3tjg
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.level3tjg.telegramnoseparators
+Filename: ./debs/iphoneos-arm64e/com.level3tjg.telegramnoseparatorss_0.0.1_iphoneos-arm64e.deb
+Size: 5886
+MD5sum: 1159d1aab84fd65f77cee80119dc531e
+SHA1: ca95273f08174596e2a919f82ea33907e33e4be8
+SHA256: 1b54a8f8dbe7b290502681b186be4b0dd094115429c4144bbe5095b1a8093acc
+Section: 应用破解
+Description: 从 Telegram 中删除分隔符
+ * 支持 Telegram、Swiftgram、Turrit、Nicegram
+ * Remove table view cell separators from Telegram
+Author: level3tjg
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram 删除分隔符
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js.json
+
+Package: com.level3tjg.telegramnoseparatorss
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: level3tjg
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.level3tjg.telegramnoseparators
+Filename: ./debs/iphoneos-arm64/com.level3tjg.telegramnoseparatorss_0.0.1_iphoneos-arm64.deb
+Size: 4660
+MD5sum: 85c61cca38d86a1eb7b9d34737792082
+SHA1: 7a56430bb4234a64becde5092f4c1ea019a885c2
+SHA256: ffb212039f33cedcd0398cb9a139a1573ba49f6b977bb4e69c19b938b43c65c5
+Section: 应用破解
+Description: 从 Telegram 中删除分隔符
+ * 支持 Telegram、Swiftgram、Turrit、Nicegram
+ * Remove table view cell separators from Telegram
+Author: level3tjg
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram 删除分隔符
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js.json
+
 Package: com.link.awemes
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -5901,6 +5944,51 @@ Size: 4268828
 MD5sum: 2c463d9e9b7ab2727a4cbb60346042e7
 SHA1: 68fb328c3838ba747c578176f8c5b310548497a5
 SHA256: 6917ee039dbe902cf61e34d224f33e8b5950d807f125edb72a3c8fb9fb36a529
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.0.7+2
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.0.7+2_iphoneos-arm64e.deb
+Size: 4414244
+MD5sum: 5727390438d927cb2080133db2c4858c
+SHA1: 495cbf5d0bbe9bb7f9f6a4049db1ae8b0cda6a27
+SHA256: 205bd46e83d87695ed00e00a8e1e8c4794ce5e14ac02ff39111937f91cd05f4d
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.0.7+2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.7+2_iphoneos-arm64.deb
+Size: 4478640
+MD5sum: 54f69021576f50e2cd571d1f589e1d40
+SHA1: d9a136af906a8c9d991baa2530019e31391612e9
+SHA256: 21e5f0c29308d522cf9d3d6ef2281e17d24684fbfda9597d81e919daedbe7a93
 Section: 抖音插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
