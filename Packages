@@ -6306,6 +6306,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书 小红薯
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
+Package: com.xx.xhshooks
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 3196
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, byg.iosios.net.xhshook
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.1_iphoneos-arm64e.deb
+Size: 3023790
+MD5sum: 8d2b6b3900a32855e6c11863c764b6c6
+SHA1: 6f7daeee43b2a6c0a7c1e9ea2cb1bda759357b9a
+SHA256: 9e380b3242966d298e53944ca2e052238503acf855c93c5128b5fa2e31032214
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, byg.iosios.net.xhshook
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.1_iphoneos-arm64.deb
+Size: 1107772
+MD5sum: b8623d1809267d26a7892c17128f58be
+SHA1: b1c0c490ee922996c1f0e79ce3e8fa0a63c5bd22
+SHA256: 3b54371d3ea0cb696f40636216c3426029058193122fd5c5efcd90564b8b59d0
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
 Package: com.xybp888.lockbuttons
 Version: 0.1-2
 Architecture: iphoneos-arm64e
