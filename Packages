@@ -2963,6 +2963,47 @@ Icon: https://i.imgur.com/uFWkBXD.png
 Name: HideSerialNumber 修改系统版本
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/js.json
 
+Package: com.icraze.smallboards
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: iCraze
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.icraze.smallboard
+Filename: ./debs/iphoneos-arm64e/com.icraze.smallboards_1.1_iphoneos-arm64e.deb
+Size: 5228
+MD5sum: 07433f1a7936858fa8e2a7533cdc6767
+SHA1: 7bd8aa12402a28e9bcf194903ec02544feef22f1
+SHA256: 3811a0ddc75d73f00208b63a02a76af48b58a0db31f28f6deba3960d45a3b1fd
+Section: Bootstrap
+Description: 缩小键盘与底部的间隙
+ * Shrink the keyboard gap on notched devices
+Author: iCraze
+Icon: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/icon.png
+Name: SmallBoard 键盘下沉
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/js.json
+
+Package: com.icraze.smallboards
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.icraze.smallboard
+Filename: ./debs/iphoneos-arm64/com.icraze.smallboards_1.1_iphoneos-arm64.deb
+Size: 3712
+MD5sum: 2bbda32e67519439103e909f49d1dcb4
+SHA1: 75c0ec0f7717d14b53fd926dc54350f45dc336b8
+SHA256: 7c5ea7684e4b45bb85e1661370841f984324c84cdb7b61bb69780c6eae85d34d
+Section: Bootstrap
+Description: 缩小键盘与底部的间隙
+ * Shrink the keyboard gap on notched devices
+Author: iCraze
+Icon: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/icon.png
+Name: SmallBoard 键盘下沉
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/js.json
+
 Package: com.initnil.wcenableshowcontactaddcreatetimes
 Version: 1.1-1
 Architecture: iphoneos-arm64e
