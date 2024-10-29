@@ -3491,6 +3491,47 @@ Author: Ruphane
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
 Name: PodsGrant
 
+Package: com.mikifp.griddys
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: mikifp
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/iphoneos-arm64e/com.mikifp.griddys_1.0.4_iphoneos-arm64e.deb
+Size: 26236
+MD5sum: d0a1a25133dfd7c24794c8fa3cce8d12
+SHA1: ffe41d6aa160672c1360011365d43702165a8bd6
+SHA256: 27f097f86ec4a9f804026bb1bec1aaf27aa8bc884b45fee86ea71e2176c3724d
+Section: Tweaks
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy 图标随意摆
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
+
+Package: com.mikifp.griddys
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/iphoneos-arm64/com.mikifp.griddys_1.0.4_iphoneos-arm64.deb
+Size: 19932
+MD5sum: cbfd0ba5f76c3f2e4ac2d680bfef7078
+SHA1: 0cfb7b0b076794c050bc7ab6ddf6c868db3895b7
+SHA256: 2b4c2cde2400a0e31785bad6ab3a33316bd393e723c3140da264dd19f4f123ff
+Section: Tweaks
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy 图标随意摆
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
+
 Package: com.mrgcgamer.libgcuniversals
 Version: 1.7.0
 Architecture: iphoneos-arm64e
@@ -5069,6 +5110,45 @@ Author: Super TrollStore
 Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
 Name: Safari X 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/jss.json
+
+Package: com.screenshot.telegram
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: https://trollstorex.github.io/repo/
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.screenshot.telegram_1.0_iphoneos-arm64e.deb
+Size: 4572
+MD5sum: 511b32cd4daeac8d35b8dfecc36762b7
+SHA1: 5003127331a9d4cb6d7e9ba4b9b556d62dcfefc4
+SHA256: 2905414038f4c46f33ea053b2d895b0172399c309c43a9753db113ef31901b9d
+Section: 应用破解
+Description: 部分群组频道开启限制截图功能，安装后可以绕过限制
+ * 支持 Swiftgram、Turit、iMe、Nicegram
+ * Some group channels have enabled restrictions on screenshotting. After installation, this can bypass the restriction
+Author: Unknown 佚名
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram 去除截图限制
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js1.json
+
+Package: com.screenshot.telegram
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: https://trollstorex.github.io/repo/
+Depends: firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.screenshot.telegram_1.0_iphoneos-arm64.deb
+Size: 3320
+MD5sum: cbdf2e2dfdb92f3583fbfdff84b94dfc
+SHA1: 11e16c4e3cf359f9a1854ccae9df8dd884927216
+SHA256: c888e7b7a04ba34775176f13a390d257ff73a085887728ce0fd12ef3882ffa44
+Section: 应用破解
+Description: 部分群组频道开启限制截图功能，安装后可以绕过限制
+ * 支持 Swiftgram、Turit、iMe、Nicegram
+ * Some group channels have enabled restrictions on screenshotting. After installation, this can bypass the restriction
+Author: Unknown 佚名
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram 去除截图限制
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js1.json
 
 Package: com.settingswidgets.zh-Hans
 Version: 1.0
