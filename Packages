@@ -4761,6 +4761,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WeChatNotiAvatar 微信头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
 
+Package: com.notificationsgroupcounts.zh-Hans
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.0xkuj.notificationsgroupcounts, com.0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64e/com.notificationsgroupcounts.zh-hans_1.0_iphoneos-arm64e.deb
+Size: 2530
+MD5sum: b0787e973c18d9f2ef3b8a0eed916afd
+SHA1: a9f7ff1e59cf1dc0c5194a739a8022051aa201dc
+SHA256: a16df3bd6093d83837975bb0d735547d4a3115869858d00e04bf10f13f31e165
+Section: 汉化
+Description: zh-Hans for NotificationsGroupCount
+ * NotificationsGroupCount 简体中文
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+Name: NotificationsGroupCount 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js1.json
+
+Package: com.notificationsgroupcounts.zh-Hans
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 巨魔商店 Telegram
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.0xkuj.notificationsgroupcounts, com.0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64/com.notificationsgroupcounts.zh-Hans_1.0_iphoneos-arm64.deb
+Size: 1908
+MD5sum: 7e2efa9cb4c05b6e384046f8930956ea
+SHA1: 900ca818dc1af7cbb0699136e19dea4d1251ecab
+SHA256: ce83586ff81c822b7d3e9116766c42f87e6d67cd62ba79aeae65d24a52541105
+Section: 汉化
+Description: zh-Hans for NotificationsGroupCount
+ * NotificationsGroupCount 简体中文
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+Name: NotificationsGroupCount 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js1.json
+
 Package: com.opa334.dopamine.trollstore
 Version: 1.0
 Architecture: iphoneos-arm64e
