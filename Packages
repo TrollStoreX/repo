@@ -388,6 +388,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.
 Name: NotificationsGroupCount 通知分组计数
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
 
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: 0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.notificationsgroupcounts_1.0.2_iphoneos-arm64e.deb
+Size: 93680
+MD5sum: 7e5fb67305832b7a1b7500f05ad100cb
+SHA1: 225a7bb89c30d010c3389d72fede95d1fa8e7067
+SHA256: 4cff9c4eb4265f96717e0cd7d423e9a68f458f8c7bbdaa5cf146664ec14a98ef
+Section: Tweaks
+Description: 在通知界面显示分组消息数量
+ * Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+Name: NotificationsGroupCount 通知分组计数
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
+
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: 0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64/com.0xkuj.notificationsgroupcounts_1.0.2_iphoneos-arm64.deb
+Size: 79664
+MD5sum: 490900456ede1c9b4fcc541eb99acf44
+SHA1: 791d66766257823a96dd1d46b3c38a0e5629313a
+SHA256: 7c1e870a6b8595023ec01622e8a0bd2dda1f451087092347afee04f1159c78cc
+Section: Tweaks
+Description: 在通知界面显示分组消息数量
+ * Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+Name: NotificationsGroupCount 通知分组计数
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
+
 Package: com.0xkuj.safarixs
 Version: 1.3.0
 Architecture: iphoneos-arm64e
@@ -2967,6 +3008,53 @@ Description: 酷狗音乐去广告
 Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kugou.png
 Name: 酷狗 NoAd
+
+Package: com.huami.wbnoadss
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.wbnoads
+Filename: ./debs/iphoneos-arm64e/com.huami.wbnoadss_1.0.0_iphoneos-arm64e.deb
+Size: 4594
+MD5sum: 87b145ec29b6599d215b8caea4c0e946
+SHA1: dc484cbef47fd417444334fef59339cd95d70a21
+SHA256: c1d168fc26716e9e1dfd3d0d6a46e653a8bab280d6bed755e248109049499915
+Section: 应用破解
+Priority: optional
+Description: 微博去广告
+ * 去除开屏广告
+ * 去除顶栏红包按钮
+ * 去除底部右侧红包按钮
+ * Give you a pure Weibo
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/Weibo/icon.png
+Name: 微博 WBNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Weibo/js.json
+
+Package: com.huami.wbnoadss
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.wbnoads
+Filename: ./debs/iphoneos-arm64/com.huami.wbnoadss_1.0.0_iphoneos-arm64.deb
+Size: 3216
+MD5sum: a2c96730d27becd29248ef0e08f7fb5a
+SHA1: 17218f3b09ecee5ee6d5fbef1439fd140c110fdd
+SHA256: 0052a916fad57453d2af1ac9a03f118c699d45433f210771e5a131905c377d44
+Section: 应用破解
+Priority: optional
+Description: 微博去广告
+ * 去除开屏广告
+ * 去除顶栏红包按钮
+ * 去除底部右侧红包按钮
+ * Give you a pure Weibo
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/Weibo/icon.png
+Name: 微博 WBNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Weibo/js.json
 
 Package: com.hw.imepremium
 Version: 0.0.1
