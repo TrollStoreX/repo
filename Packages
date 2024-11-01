@@ -3453,55 +3453,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 Name: Telegram 删除分隔符
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js.json
 
-Package: com.link.awemes
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: Link
-Installed-Size: 456
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.link.aweme, byg.iosios.net.aweme
-Filename: ./debs/iphoneos-arm64e/com.link.awemes_1.0.0_iphoneos-arm64e.deb
-Size: 93008
-MD5sum: 9f9ef42673f109fed6eb29971e2fad93
-SHA1: 2728644e6054f48b0157a4fb2fc511a59750d672
-SHA256: 7ebd9a40be358536e3bc99e3646499306526fec1d4bb29567c0ae5a17d921461
-Section: 抖音插件
-Description: 抖音增强插件
- * 去广告
- * 元素按钮隐藏
- * 视频无水印下载
- * 支持注入ipa使用
- * An awesome tweak for Aweme!
-Author: Link
-Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
-Name: 抖音增强 Aweme
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
-
-Package: com.link.awemes
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Link
-Installed-Size: 456
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.link.aweme, byg.iosios.net.aweme
-Filename: ./debs/iphoneos-arm64/com.link.awemes_1.0.0_iphoneos-arm64.deb
-Size: 67696
-MD5sum: a14bba9399bffba41844055373e783cd
-SHA1: aee24ea105118c8daf85f9155d5d39e92459ba1c
-SHA256: 2c85085a310a74833e10de128bd322c30db8ca6f1a5b78ceacf4a9acd4ed1fbd
-Section: 抖音插件
-Description: 抖音增强插件
- * 去广告
- * 元素按钮隐藏
- * 视频无水印下载
- * 支持注入ipa使用
- * An awesome tweak for Aweme!
-Author: Link
-Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
-Name: 抖音增强 Aweme
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
-
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64e
