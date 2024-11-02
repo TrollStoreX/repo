@@ -3099,6 +3099,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Weibo/icon.png
 Name: 微博 WBNoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Weibo/js.json
 
+Package: com.huami.wbnoadss
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.wbnoads
+Filename: ./debs/iphoneos-arm64e/com.huami.wbnoadss_1.0.1_iphoneos-arm64e.deb
+Size: 5018
+MD5sum: bfab1b154e23d0ae6946501e85978422
+SHA1: 0ed3d9b6b42b5e0eeb333e10d3e8c6ee4bacc4bf
+SHA256: 1f97e46448871ca6431f5fc3b8c6e41cd51256c5d7e63fc414dec080ed3bbc3d
+Section: 应用破解
+Priority: optional
+Description: 微博去广告
+ * 去除开屏广告
+ * 去除顶栏红包按钮
+ * 去除底部右侧红包按钮
+ * Give you a pure Weibo
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/Weibo/icon.png
+Name: 微博 WBNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Weibo/js.json
+
+Package: com.huami.wbnoadss
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.wbnoads
+Filename: ./debs/iphoneos-arm64/com.huami.wbnoadss_1.0.1_iphoneos-arm64.deb
+Size: 3604
+MD5sum: 9768e5331eb7fcc2776b19c73c1502ad
+SHA1: 350694b04d2aee0ddbb0392493125ff8782564f1
+SHA256: e03a177c409632ba9f8d231250b961c5c0c06a4c07f4366c1b708b3f514ab546
+Section: 应用破解
+Priority: optional
+Description: 微博去广告
+ * 去除开屏广告
+ * 去除顶栏红包按钮
+ * 去除底部右侧红包按钮
+ * Give you a pure Weibo
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/Weibo/icon.png
+Name: 微博 WBNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Weibo/js.json
+
 Package: com.hw.imepremium
 Version: 0.0.1
 Architecture: iphoneos-arm64e
