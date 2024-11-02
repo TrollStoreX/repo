@@ -2972,6 +2972,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.bilinoads
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.bilinoad
+Filename: ./debs/iphoneos-arm64e/com.huami.bilinoads_1.0.1_iphoneos-arm64e.deb
+Size: 4952
+MD5sum: 9390586324c0ed3a23396da6e714b26b
+SHA1: 4a678a1f86eea6eda9dad9637c6e2fd8fc166015
+SHA256: eb0c37fe27299d5fedb0b1385e18ddc9664491fd9de0c1630706c1eb4b357b66
+Section: 应用破解
+Priority: optional
+Description: BiliBili 净化开屏广告
+ * 加速开屏动画
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/Bilibili/icon.png
+Name: 哔哩哔哩 BiliNoAd
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Bilibili/js.json
+
+Package: com.huami.bilinoads
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.bilinoad
+Filename: ./debs/iphoneos-arm64/com.huami.bilinoads_1.0.1_iphoneos-arm64.deb
+Size: 3556
+MD5sum: 700303a513d65ce9af4ba804a68e662d
+SHA1: c3abd81f494ff9402c4f35a5ec7116e2498119eb
+SHA256: 7d9ba97aae88278542c6368ed5ccf369704dd0e662dc554b5c25f36494e36bbe
+Section: 应用破解
+Priority: optional
+Description: BiliBili 净化开屏广告
+ * 加速开屏动画
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/Bilibili/icon.png
+Name: 哔哩哔哩 BiliNoAd
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Bilibili/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64e
