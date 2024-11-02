@@ -5731,6 +5731,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
 Name: StoreSwitcher 账号切换
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.0-2
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.0-2_iphoneos-arm64e.deb
+Size: 616868
+MD5sum: 2b738b7ba9f64f777742d85a95b1eb88
+SHA1: 4e3ce5f241df999ad8855ccda9433d2f67d25afc
+SHA256: da1359d0bf28a6bc54339efaba449adb08253dec515d3887dc9d19e6f699c5d1
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.0-2
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.0-2_iphoneos-arm64.deb
+Size: 480400
+MD5sum: e0ca9edbc76028d8b97bbf7d47456be2
+SHA1: febdadc4ac200f6927d4469798af2a7e36ea387e
+SHA256: eeecff6f6652ec6c93f0bb456c04e5ad48141922806dd3e5da9cfc2358dd79f5
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
