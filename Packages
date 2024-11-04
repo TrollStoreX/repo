@@ -7221,6 +7221,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/icon.png
 Name: NoAppThinning 全量包下载
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/js.json
 
+Package: it.ned.noappthinnings
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: ned
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning, byg.iosios.net.noappthinnings, com.dao.noappthinning
+Filename: ./debs/iphoneos-arm64e/it.ned.noappthinnings_1.4_iphoneos-arm64e.deb
+Size: 6298
+MD5sum: e3d9ba13b3f3b1d01c3ab6c68090c1e5
+SHA1: fed766b4f801bfa9350ce8b59eca252863d5d719
+SHA256: ee7f4eb9c3e671fa04de65309be20e164e005aa206b9df74bab7b46e557c21d5
+Section: Tweaks
+Description: 允许从 App Store 下载全量包应用
+ * 配合 Dumpdecrypter 全权限砸壳使用
+ * Disable AppStore/TestFlight app thinning - by level3tjg
+Author: ned
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/icon.png
+Name: NoAppThinning 全量包下载
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/js.json
+
+Package: it.ned.noappthinnings
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: ned
+Installed-Size: 168
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning, byg.iosios.net.noappthinnings, com.dao.noappthinning
+Filename: ./debs/iphoneos-arm64/it.ned.noappthinnings_1.4_iphoneos-arm64.deb
+Size: 4412
+MD5sum: 4a13b1763cbce109814c9d80765bd665
+SHA1: 2033f2c144a4be550f19dd7d64cfd2e1fdcff9bb
+SHA256: 9c59fec9d0b07702a16fd70386ead56ff1978dbd8075e45fb8f2a2771bcf7153
+Section: Tweaks
+Description: 允许从 App Store 下载全量包应用
+ * 配合 Dumpdecrypter 全权限砸壳使用
+ * Disable AppStore/TestFlight app thinning - by level3tjg
+Author: ned
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/icon.png
+Name: NoAppThinning 全量包下载
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoAppThinning/js.json
+
 Package: jp.akusio.backgrounderaction15s
 Version: 0.1.0
 Architecture: iphoneos-arm64e
