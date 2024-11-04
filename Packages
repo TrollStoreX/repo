@@ -3567,6 +3567,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Hammerit/icon.png
 Name: Hammer It 翻译
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Hammerit/js.json
 
+Package: com.lenglengyu.baidunetdiskoutput
+Version: 1.0.1K
+Architecture: iphoneos-arm64e
+Maintainer: 冷冷雨
+Installed-Size: 616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.lenglengyu.baidunetdiskoutput-rootless, byg.iosios.net.baidunetdiskoutput-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.baidunetdiskoutput_1.0.1K_iphoneos-arm64e.deb
+Size: 197632
+MD5sum: a65ecf11f3c8f3aecc2b09276df5ab08
+SHA1: 965fd2f6333c5a9c752c098ac98a6121e78b2714
+SHA256: a99171092d2a4853e19b9357e1a4d5b6db06ec10cf4ae255d75667a42591e1c4
+Section: 应用破解
+Description: 百度网盘下载管理添加导出按钮
+Author: 冷冷雨
+Icon: https://TrollStoreX.Github.io/sileodepiction/DP/icon.png
+Name: 百度网盘导出文件
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DP/js.json
+
+Package: com.lenglengyu.baidunetdiskoutput
+Version: 1.0.1K
+Architecture: iphoneos-arm64
+Maintainer: 冷冷雨
+Installed-Size: 616
+Depends: mobilesubstrate
+Conflicts: com.lenglengyu.baidunetdiskoutput-rootless, byg.iosios.net.baidunetdiskoutput-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.baidunetdiskoutput_1.0.1K_iphoneos-arm64.deb
+Size: 142240
+MD5sum: ee5b2567c99f6edf38f11072d2ca8d75
+SHA1: 7f346bd380cc4e32d3c55dc6c10ba0ab5d94e2a6
+SHA256: 71a9e79da5bdc95ce908be3c09cf2d968e317dc475248272342fff42912c5929
+Section: 应用破解
+Description: 百度网盘下载管理添加导出按钮
+Author: 冷冷雨
+Icon: https://TrollStoreX.Github.io/sileodepiction/DP/icon.png
+Name: 百度网盘导出文件
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DP/js.json
+
 Package: com.lenglengyu.passbyccs
 Version: 1.0.2
 Architecture: iphoneos-arm64e
