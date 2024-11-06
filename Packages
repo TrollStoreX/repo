@@ -3561,6 +3561,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
 Name: CCVPN Surge
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js.json
 
+Package: com.kuan.noads
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 佚名
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.kuan.noads_1.0_iphoneos-arm64e.deb
+Size: 5070
+MD5sum: 3e59dd5115a444c1377060d4d22408fd
+SHA1: fc06dcd9b5e77cf1a53c0f91958f16beb4f2d88b
+SHA256: 71b68392187edd4e3ec93f729e11a46b8621ce6bb3d13ccf7da69d71431cf3b2
+Section: 应用破解
+Description: 酷安去广告
+ * 无弹窗
+ * 去除开屏广告
+ * 去除帖子广告
+Author: Unknown 佚名
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
+Name: 酷安 NoAd
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kuan/js.json
+
+Package: com.kuan.noads
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 佚名
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.kuan.noads_1.0_iphoneos-arm64.deb
+Size: 3616
+MD5sum: c49122c98b4330792f650673ed9ff508
+SHA1: a6c6a8f261e0b217fb3d30231e9592888b5279fc
+SHA256: bb7c83afbf7082e17a1db72ec496d2ab20675dd5d2b3c4ca84de8b2321e2133d
+Section: 应用破解
+Description: 酷安去广告
+ * 无弹窗
+ * 去除开屏广告
+ * 去除帖子广告
+Author: Unknown 佚名
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
+Name: 酷安 NoAd
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kuan/js.json
+
 Package: com.lclrc.hammerits
 Version: 1.7.0
 Architecture: iphoneos-arm64e
@@ -4301,6 +4344,49 @@ SHA256: d7493bd73c8584d5b60a924d8cc640d54eae50cd0b42d827d864d37094517579
 Section: 抖音插件
 Description: 抖音禁用按钮菜单插件
  * 禁用“顶部/底部/右侧”选项/按钮
+ * 仅在 30.3.0 及更高版本上进行测试
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
+Name: 抖音禁用 AwemeDisableBar
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/js.json
+
+Package: com.netskao.awemedisablebars
+Version: 1.1-6
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemedisablebar, byg.iosios.net.awemedisablebars
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemedisablebars_1.1-6_iphoneos-arm64e.deb
+Size: 390314
+MD5sum: d80f243409863e62140fd99c660c2d49
+SHA1: 309fa76ccd07c5595f11a2966829ec4b269ace08
+SHA256: 902bcd6a6575d4cb24297bea161aaab6b47af08bf8de636f666c05b9d7bef195
+Section: 抖音插件
+Description: 抖音禁用按钮菜单
+ * 禁用「顶部｜底部｜右侧」选项按钮
+ * 仅在 30.3.0 及更高版本上进行测试
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
+Name: 抖音禁用 AwemeDisableBar
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/js.json
+
+Package: com.netskao.awemedisablebars
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 172
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemedisablebar, byg.iosios.net.awemedisablebars
+Filename: ./debs/iphoneos-arm64/com.netskao.awemedisablebars_1.1-6_iphoneos-arm64.deb
+Size: 304816
+MD5sum: 80f75e64e2f757b7673f8ddbd8ae6f9c
+SHA1: ae427e4f3e24add232401a50685836fb60d959c2
+SHA256: e7cf8f1dce6de38eb32137d23d03365cd643515fc71b6c26b92087dca118d126
+Section: 抖音插件
+Description: 抖音禁用按钮菜单
+ * 禁用「顶部｜底部｜右侧」选项按钮
  * 仅在 30.3.0 及更高版本上进行测试
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeDisableBar/icon.png
