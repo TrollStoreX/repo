@@ -3459,6 +3459,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/icon.png
 Name: SmallBoard 键盘下沉
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SmallBoard/js.json
 
+Package: com.immortalizer.zh-Hans
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-hans_1.0.0_iphoneos-arm64e.deb
+Size: 3906
+MD5sum: d839ad4e450f30382cae737e1f9810c9
+SHA1: d681f1b40c90779c4bdcbfedd163fa0c74e42ea6
+SHA256: ab15af069e5f39a76f779c2d0c6da16814f69d71c65485991959bb9dcc9a5fde
+Section: 汉化
+Description: zh-Hans for Immortalizer
+ * Immortalizer 简体中文包
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/Immortalizer.png
+Name: Immortalizer 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
+
+Package: com.immortalizer.zh-Hans
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 巨魔商店 Telegram
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
+Filename: ./debs/iphoneos-arm64/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64.deb
+Size: 2176
+MD5sum: 899361a8a3b77b1473f9faf726b1042e
+SHA1: 573599bcc555ca511a9813fa0b0eda60b2bce2f3
+SHA256: 204a8ed64b2ab7518c48459849dcce16e752748b9e9853ef144dc2b37cd51d48
+Section: 汉化
+Description: zh-Hans for Immortalizer
+ * Immortalizer 简体中文包
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/Immortalizer.png
+Name: Immortalizer 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
+
 Package: com.initnil.wcenableshowcontactaddcreatetimes
 Version: 1.1-1
 Architecture: iphoneos-arm64e
