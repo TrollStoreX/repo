@@ -5941,6 +5941,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 Name: Telegram 去除截图限制
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js1.json
 
+Package: com.sergy.immortalizers
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sergy
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer, byg.iosios.net.immortalizer, xyz.cypwn.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.sergy.immortalizers_1.0.0_iphoneos-arm64e.deb
+Size: 38308
+MD5sum: 03ea6db8af7683aea4b803d4efd3070b
+SHA1: e0d8ff26381ae7469d27dbba41811e258bf5e007
+SHA256: 104488f16311f6fbcac240e7d9b68526297ef66505f1876664131c30a7f18310
+Section: Tweaks
+Description: 让应用真后台运行，锁屏状态也能保持后台状态
+ * Foreground your tweaks even if they are in the background!
+Author: sergy
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
+Name: Immortalizer 真后台
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/js.json
+
+Package: com.sergy.immortalizers
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer, byg.iosios.net.immortalizer, xyz.cypwn.immortalizer
+Filename: ./debs/iphoneos-arm64/com.sergy.immortalizers_1.0.0_iphoneos-arm64.deb
+Size: 29244
+MD5sum: 19d45bb4e13ffc3e17a42744ea025dc2
+SHA1: bf417e6a604c1a7b5bf5789289c35d721914f4fb
+SHA256: 9028875d8e91fc0174f3d34e2582408c7e168f5ca20255af5de42b6a1e8cf67c
+Section: Tweaks
+Description: 让应用真后台运行，锁屏状态也能保持后台状态
+ * Foreground your tweaks even if they are in the background!
+Author: sergy
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
+Name: Immortalizer 真后台
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/js.json
+
 Package: com.settingswidgets.zh-Hans
 Version: 1.0
 Architecture: iphoneos-arm64e
