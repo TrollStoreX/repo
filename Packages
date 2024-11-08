@@ -3463,6 +3463,26 @@ Package: com.immortalizer.zh-Hans
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: 巨魔商店 Telegram
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
+Size: 3872
+MD5sum: 0180da62cbdcb474d5d581c97affe305
+SHA1: 5f766753106974fc5928d18212d6ee1467107a72
+SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
+Section: 汉化
+Description: zh-Hans for Immortalizer
+ * Immortalizer 简体中文包
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
+Name: Immortalizer 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
+
+Package: com.immortalizer.zh-Hans
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
 Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -3484,19 +3504,18 @@ Package: com.immortalizer.zh-Hans
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: 巨魔商店 Telegram
-Installed-Size: 412
 Depends: mobilesubstrate (>= 0.9.5000)
 Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
 Filename: ./debs/iphoneos-arm64/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64.deb
-Size: 2176
-MD5sum: 899361a8a3b77b1473f9faf726b1042e
-SHA1: 573599bcc555ca511a9813fa0b0eda60b2bce2f3
-SHA256: 204a8ed64b2ab7518c48459849dcce16e752748b9e9853ef144dc2b37cd51d48
+Size: 2160
+MD5sum: cf729e80dc5f21b2cc1c98f579079ac9
+SHA1: 3afb1c52ff8a994c038ab3b5803194f4d0596144
+SHA256: f193fdba8bfaf31494bddc5f5e19ab2d810307f6929ef826fcb017a0b82c523e
 Section: 汉化
 Description: zh-Hans for Immortalizer
  * Immortalizer 简体中文包
 Author: 巨魔商店 Telegram
-Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/Immortalizer.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
 Name: Immortalizer 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
 
@@ -5974,6 +5993,47 @@ Size: 29244
 MD5sum: 19d45bb4e13ffc3e17a42744ea025dc2
 SHA1: bf417e6a604c1a7b5bf5789289c35d721914f4fb
 SHA256: 9028875d8e91fc0174f3d34e2582408c7e168f5ca20255af5de42b6a1e8cf67c
+Section: Tweaks
+Description: 让应用真后台运行，锁屏状态也能保持后台状态
+ * Foreground your tweaks even if they are in the background!
+Author: sergy
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
+Name: Immortalizer 真后台
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/js.json
+
+Package: com.sergy.immortalizers
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: sergy
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer, byg.iosios.net.immortalizer, xyz.cypwn.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.sergy.immortalizers_1.0.1_iphoneos-arm64e.deb
+Size: 38454
+MD5sum: 8c40081ee14d6256bed0afdd001d2fa4
+SHA1: 341a8a9ffe5baad68dbfe0666e52dd8e855f4008
+SHA256: fcf6f613753f91c42d18485c72ee07fe0a1c756ebd9af2ec4c867af74d12dd44
+Section: Tweaks
+Description: 让应用真后台运行，锁屏状态也能保持后台状态
+ * Foreground your tweaks even if they are in the background!
+Author: sergy
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
+Name: Immortalizer 真后台
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/js.json
+
+Package: com.sergy.immortalizers
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer, byg.iosios.net.immortalizer, xyz.cypwn.immortalizer
+Filename: ./debs/iphoneos-arm64/com.sergy.immortalizers_1.0.1_iphoneos-arm64.deb
+Size: 29296
+MD5sum: e5273575666fedcc6b4c667a1407a764
+SHA1: 990248c4bb377344e4c15942103becc02db588b5
+SHA256: 3d4258d55b454e11daf4190737cb564f62d43ad83b35cb9307ee2343675e6362
 Section: Tweaks
 Description: 让应用真后台运行，锁屏状态也能保持后台状态
  * Foreground your tweaks even if they are in the background!
