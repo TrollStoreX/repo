@@ -1129,6 +1129,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 Name: Single VPN 上色
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
+Package: com.82flex.singlevpns
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpns_1.3_iphoneos-arm64e.deb
+Size: 28236
+MD5sum: 564431d913ee3d8181bdbed2df5d14bc
+SHA1: 6f62d96be2f40b74dff779a0ec766d0f19a41e79
+SHA256: 3e60176d8070554a553288c30656cac041aee8166775f4ede3684940e20ca5ad
+Section: 乌龙工作室
+Description: 将 VPN 状态和无线状态合并到一个图标中。
+ * Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+
+Package: com.82flex.singlevpns
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpns_1.3_iphoneos-arm64.deb
+Size: 28284
+MD5sum: 3c170cf7031e3f547c40edceb779fe1b
+SHA1: ce0382d06c9a3dc68a5bdb7901511e6493a310ca
+SHA256: af0ddd8ca4aee160641acbef8df663c44e1dfa176aad7e841da02c941336b267
+Section: 乌龙工作室
+Description: 将 VPN 状态和无线状态合并到一个图标中。
+ * Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+
 Package: com.82flex.wtvrbglaunchers
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -1558,43 +1597,6 @@ Name: PKC 助手
 
 Package: com.curtin.pkc.rootless
 Version: 0.5-9
-Architecture: iphoneos-arm64e
-Maintainer: curtinlv@126.com
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0)
-Filename: ./debs/iphoneos-arm64e/PKC_0.5-9_ iphoneos-arm64e.deb
-Size: 1537814
-MD5sum: 1c81b7545d9480131b6173a973088f0e
-SHA1: e122eee41f40290351be31be03e2caf1e9f966c5
-SHA256: aa06eb0d4de9bbe26ba3a06d5be37ed33e0bcc2a5f6542832d56231f8fb926d7
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC_无根
-
-Package: com.curtin.pkc.rootless
-Version: 0.5-9
-Architecture: iphoneos-arm64
-Maintainer: curtinlv@126.com
-Depends: firmware (>= 5.0)
-Filename: ./debs/iphoneos-arm64/PKC_0.5-9_iphoneos-arm64.deb
-Size: 572656
-MD5sum: 9aa4227ea72b1acb9c1758af24e7021d
-SHA1: f8f2933f8756a216b74fb1f68bb4f79ad346c0ec
-SHA256: 2be5276c2d29e810f27d6d13e5e7e86d98278a6f44518bb50d3bcc517484f29e
-Section: PKC-插件
-Priority: optional
-Homepage: https://github.com/curtinlv
-Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
-Author: Curtin
-Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
-Name: PKC_无根
-
-Package: com.curtin.pkc.rootless
-Version: 0.5-9
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
@@ -1660,6 +1662,47 @@ Description: 微信插件 PKC助手
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC 助手
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.6-3
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.6-3_iphoneos-arm64e.deb
+Size: 727084
+MD5sum: bc736505d7fca0eef57bf34094675b64
+SHA1: 35fd9ec89aa8caa09306afbda5eadc5e4510ad8b
+SHA256: fcd3063bfecf7af09b404d9cef6498dcf4df7395e040130e0cdee1cf1849b016
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.6-3
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.6-3_iphoneos-arm64.deb
+Size: 740552
+MD5sum: 88604743544db1a6ca0df723e27ba1b0
+SHA1: 15c0fa8cebb32b827e51960a3e0eb7c135f65b1f
+SHA256: 3125a98eb4974f2bcaf399a4b39a422e9be78bacfb483261a4895629a40347b8
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
@@ -2605,6 +2648,49 @@ Size: 592240
 MD5sum: 2b454d191e99c59dfd2178f49ec3732e
 SHA1: bd2497e70e801884bf48e86e7fefb741315baac2
 SHA256: a661027bacb8be2a51d227bbc553d680ad2db206493202272a48a613539d3143
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样。
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.8
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.8_iphoneos-arm64e.deb
+Size: 591392
+MD5sum: 1238a61bac497afae46c17f1633a415c
+SHA1: 1ae09e5b58ac936b6d08d94e131791985224714f
+SHA256: 8d8f9e8031fb1d0abe53dd90cdf5cb3b5310081598d1e13c1538a64a64474cc2
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样。
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.8
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.8_iphoneos-arm64.deb
+Size: 605140
+MD5sum: 6857de816b9ec8b1df68a319d0d2e9fa
+SHA1: aac4aefd0a5021f57fa837b292f5fefe607c667c
+SHA256: 926002a45853d7b6536bc582a7c1eedb7ffd9920ab481946cf14e0f99a9fa335
 Section: 应用破解
 Description: Spotify Premium
  * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样。
