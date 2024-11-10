@@ -7661,6 +7661,45 @@ Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
 Name: 一键锁屏
 
+Package: com.yan.fionas
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: yandevelop
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64e/com.yan.fionas_1.0.6_iphoneos-arm64e.deb
+Size: 150448
+MD5sum: b71f08330721279ba1354d57d68ebaac
+SHA1: c5e7d0a0e53c37925cdbd5b9a20f4379178d6140
+SHA256: aa210e5b2e59e40c3377f688aa0d5d5f73428a98fe0186b68e1ae76746894966
+Section: Bootstrap
+Description: 应用底栏浮动
+ * Floating Tab bar for iOS devices.
+ * 仅支持部分应用
+Author: yandevelop
+Icon: https://TrollStoreX.Github.io/sileodepiction/Fiona/icon.png
+Name: Fiona 底栏浮动
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Fiona/js.json
+
+Package: com.yan.fionas
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: yandevelop
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, firmware(>= 14.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/iphoneos-arm64/com.yan.fionas_1.0.6_iphoneos-arm64.deb
+Size: 122048
+MD5sum: ad62bd2bb84ba095ff369fa34f8fdcf6
+SHA1: 346d655fcf99227fb04a0fee5ef1d2b371a521cc
+SHA256: f9ad03d312437a5c9a861f23afbf4dc94430ae007dadd9ad5a47362288992fcb
+Section: Bootstrap
+Description: 应用底栏浮动
+ * Floating Tab bar for iOS devices.
+ * 仅支持部分应用
+Author: yandevelop
+Icon: https://TrollStoreX.Github.io/sileodepiction/Fiona/icon.png
+Name: Fiona 底栏浮动
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Fiona/js.json
+
 Package: com.yi.wcenablemomentslivephotos
 Version: 1.1-2
 Architecture: iphoneos-arm64e
@@ -8118,6 +8157,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
 Name: 微信净化
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: org.haxi0.derootifiers
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: haxi0
+Depends: mobilesubstrate, odcctools, fakeroot, ldid, oldabi, file, openssh-server, zstd
+Filename: ./debs/iphoneos-arm64/org.haxi0.derootifiers_1.3_iphoneos-arm64.deb
+Size: 529148
+MD5sum: 39912065f9bcb3ab742667592a5d9d48
+SHA1: 7cda8d0fafe00630a7df0cd958711e48853d6389
+SHA256: 2177ad3759eb4f07a89576be703e9345b15f427cf92450750f33abeba0a7d775
+Section: Tweak
+Description: 有根转无根工具
+ * arm to arm64
+ * 仅支持「应用注入类」转换
+ * 自动安装转换越狱依赖
+Author: haxi0
+Icon: https://TrollStoreX.Github.io/sileodepiction/Derootifier/icon.png
+Name: Derootifier 转无根
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Derootifier/js.json
 
 Package: org.swift.protobuf.swiftprotobufs
 Version: 1.28.1
