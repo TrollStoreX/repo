@@ -1415,6 +1415,61 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
 Name: 黄白助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
 
+Package: com.HBWechatHelper.ailuns
+Version: 1.7-8
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailuns_1.7-8_iphoneos-arm64e.deb
+Size: 11223156
+MD5sum: de654f8465ce8195051ed9d7e9d8e387
+SHA1: 6badeb7a358ffbbcf7c0e08a64fdcdb3f2b4aa9c
+SHA256: da2b25c40bcbdcdba8035b79d588a37cbd252be57849935905f0dadd2a3fdbfc
+Section: 微信插件
+Description: 微信插件多功能插件
+ * 文本转语音，文案语录
+ * 点歌朋友圈一键点赞
+ * 禁用控件，设置布局大小
+ * 私聊发抢自己的红包，群聊管理
+ * 朋友圈保存实况 Live 图
+ * 消息防撤回，艾特所有人
+ * 朋友圈自定义选取位置
+ * 消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，
+ * 微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.HBWechatHelper.ailuns
+Version: 1.7-8
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7-8_iphoneos-arm64.deb
+Size: 11214772
+MD5sum: 12671f8afa1e15790ee3b685e3b6006e
+SHA1: 88ccbcfaa91c2ae695d82a3236204f5e98fbee96
+SHA256: 32d6450a6e6f8272dac68181fda5da37eb17ea3ea1e184630a4ca8297ae092db
+Section: 微信插件
+Description: 微信插件多功能插件
+ * 文本转语音，文案语录
+ * 点歌朋友圈一键点赞
+ * 禁用控件，设置布局大小
+ * 私聊发抢自己的红包，群聊管理
+ * 朋友圈保存实况 Live 图
+ * 消息防撤回，艾特所有人
+ * 朋友圈自定义选取位置
+ * 消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，
+ * 微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
 Package: com.autoscroll.jb
 Version: 1.0.0
 Architecture: iphoneos-arm64e
