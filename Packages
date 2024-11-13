@@ -6720,6 +6720,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
 Name: ThemePro 微信主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
 
+Package: com.wechat.themepro
+Version: 3.1.4
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM <MustangYM@yeah.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.1.4_iphoneos-arm64e.deb
+Size: 6279140
+MD5sum: e54b5448d8f66ebc3c95a045031cde2c
+SHA1: ff3f3a930aa47868c566062253de2d05533d8445
+SHA256: 707a3fa0a5557b75e2d97a6ddfb48fa3d4d393fb6991c6d994b6e6963b7f4fd3
+Section: 微信插件
+Description: 微信插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效
+Author: MustangYM <mm13299079785@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.1.4
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.1.4_iphoneos-arm64.deb
+Size: 6276400
+MD5sum: afd264eef749a94f78ab24ca2ff25103
+SHA1: 64ea52b13592307a441e379e9449ca950b02cec2
+SHA256: 4f2c44407aeee4e25bfc1b4b461b4ec10b7fb3286a493f8619147ad7d9fc0d20
+Section: 微信插件
+Description: 微信插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效
+Author: MustangYM <mm13299079785@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
 Package: com.weifeng.noad
 Version: 1.1
 Architecture: iphoneos-arm64e
