@@ -1470,6 +1470,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
 Name: 黄白助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
 
+Package: com.anthopak.appaze3s
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1802
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2, com.anthopak.appaze3
+Filename: ./debs/iphoneos-arm64e/com.anthopak.appaze3s_1.0_iphoneos-arm64e.deb
+Size: 936318
+MD5sum: 7199c48ce59afc3c38e70a4e4795de4b
+SHA1: 48b410027265311fa4c7d715594ff6d6a27fc5f0
+SHA256: bbb32bd2286fbdd98987afda9b843532750ff619eb579f8398314f1a4504f7d6
+Section: Tweaks
+Description: 为应用单独自定义各种功能选项
+ * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appaze/icon.png
+Name: Appaze 3 体验版
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appaze/js.json
+
+Package: com.anthopak.appaze3s
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1802
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2, com.anthopak.appaze3
+Filename: ./debs/iphoneos-arm64/com.anthopak.appaze3s_1.0_iphoneos-arm64.deb
+Size: 864216
+MD5sum: 54f5e4f72ab49dbf5173517ff47664b2
+SHA1: 0cbbfe6fe2a6e7e2f299884ffd26fe1591d40a11
+SHA256: bebfbee49fbb493a9f108d5a59ad8718862ba512f2dad9790093d496e439d387
+Section: Tweaks
+Description: 为应用单独自定义各种功能选项
+ * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: AnthoPak <anthopakdev@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appaze/icon.png
+Name: Appaze 3 体验版
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appaze/js.json
+
 Package: com.autoscroll.jb
 Version: 1.0.0
 Architecture: iphoneos-arm64e
