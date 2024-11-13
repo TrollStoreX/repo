@@ -1479,14 +1479,13 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
 Conflicts: com.anthopak.appaze, com.anthopak.appaze2, com.anthopak.appaze3
 Filename: ./debs/iphoneos-arm64e/com.anthopak.appaze3s_1.0_iphoneos-arm64e.deb
-Size: 936318
-MD5sum: 7199c48ce59afc3c38e70a4e4795de4b
-SHA1: 48b410027265311fa4c7d715594ff6d6a27fc5f0
-SHA256: bbb32bd2286fbdd98987afda9b843532750ff619eb579f8398314f1a4504f7d6
+Size: 936232
+MD5sum: 0c78229ac4bd77cf074556cd2f2194ec
+SHA1: 3fc41612da75ca258c14be73e82f39cca7511502
+SHA256: bde046b97a18650c703c59c8a054ee93083a5639b041137e8677c265af353083
 Section: Tweaks
 Description: 为应用单独自定义各种功能选项
  * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
-Tag: cydia::commercial, compatible_min::ios15.0
 Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/Appaze/icon.png
 Name: Appaze 3 体验版
@@ -1500,14 +1499,13 @@ Installed-Size: 1802
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
 Conflicts: com.anthopak.appaze, com.anthopak.appaze2, com.anthopak.appaze3
 Filename: ./debs/iphoneos-arm64/com.anthopak.appaze3s_1.0_iphoneos-arm64.deb
-Size: 864216
-MD5sum: 54f5e4f72ab49dbf5173517ff47664b2
-SHA1: 0cbbfe6fe2a6e7e2f299884ffd26fe1591d40a11
-SHA256: bebfbee49fbb493a9f108d5a59ad8718862ba512f2dad9790093d496e439d387
+Size: 864180
+MD5sum: 0bf77fa853898a5d0cc262fcbe316729
+SHA1: 06a93f6711c3b113fbbd6d4a5a07dacb56a00795
+SHA256: 6e740bfe7e7847ea94b4f709a1dba4691cb217101e15d30d5d1b1f609bbbb4ce
 Section: Tweaks
 Description: 为应用单独自定义各种功能选项
  * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
-Tag: cydia::commercial, compatible_min::ios15.0
 Author: AnthoPak <anthopakdev@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/Appaze/icon.png
 Name: Appaze 3 体验版
