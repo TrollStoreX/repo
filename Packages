@@ -6232,6 +6232,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
 Name: Immortalizer 真后台
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/js.json
 
+Package: com.sergy.immortalizers
+Version: 2.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: sergy
+Installed-Size: 412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer, byg.iosios.net.immortalizer, xyz.cypwn.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.sergy.immortalizers_2.0.0-1_iphoneos-arm64e.deb
+Size: 57692
+MD5sum: 2fff981c1f158c8c2112b930a8a9541b
+SHA1: 923378724e6e4d57f609259861347ff805b97c92
+SHA256: d535be52f11c0a31ac4d87fe41cd282ff7f1a0f57b54119fd831aa86a6c0d032
+Section: Tweaks
+Description: 让应用真后台运行，锁屏状态也能保持后台状态
+ * Foreground your tweaks even if they are in the background
+Author: sergy
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
+Name: Immortalizer 真后台
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/js.json
+
+Package: com.sergy.immortalizers
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Conflicts: com.sergy.immortalizer, byg.iosios.net.immortalizer, xyz.cypwn.immortalizer
+Filename: ./debs/iphoneos-arm64/com.sergy.immortalizers_2.0.0-1_iphoneos-arm64.deb
+Size: 43076
+MD5sum: 09f8b4d72a66052161a74e93204391fe
+SHA1: 1978572d1dcb48ce2475a77c963ee1738eae2b07
+SHA256: a4b68492caf3aa507f9d08779385064124fe347f160bfe3fc311e2808742dd61
+Section: Tweaks
+Description: 让应用真后台运行，锁屏状态也能保持后台状态
+ * Foreground your tweaks even if they are in the background
+Author: sergy
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
+Name: Immortalizer 真后台
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/js.json
+
 Package: com.settingswidgets.zh-Hans
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -7639,6 +7680,51 @@ Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.kshooks
+Version: 1.0.6-3
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 2784
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.kshook, byg.iosios.net.kshook
+Filename: ./debs/iphoneos-arm64e/com.xx.kshooks_1.0.6-3_iphoneos-arm64e.deb
+Size: 2591292
+MD5sum: 805a3cff109f0ad3976a1eaec033c766
+SHA1: e338012db8d85f8e038ca7ca2a50748f4fc235f5
+SHA256: 76b702834f3981dbfdf96a7a0584b266466b66bf34e16a04b23df4a45543fb9f
+Section: Tweaks
+Description: 快手增强插件
+ * 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能或在设置右上角打开
+ * 移除一些广告、弹窗
+ * 无水印保存视频图片
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/KS/icon.png
+Name: 快手图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/KS/js.json
+
+Package: com.xx.kshooks
+Version: 1.0.6-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 2784
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.kshook, byg.iosios.net.kshook
+Filename: ./debs/iphoneos-arm64/com.xx.kshooks_1.0.6-3_iphoneos-arm64.deb
+Size: 948888
+MD5sum: e1ac8172770f5a31be7674d6cb6f459a
+SHA1: a6d82643f9dbaa20fea6073553528cc087c0e801
+SHA256: bc13b07544aed3bab59d9b01a4c78e1d13c5446d4041685fdbf954056fb6e678
+Section: Tweaks
+Description: 快手增强插件
+ * 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能或在设置右上角打开
+ * 移除一些广告、弹窗
+ * 无水印保存视频图片
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/KS/icon.png
+Name: 快手图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/KS/js.json
 
 Package: com.xx.xhshooks
 Version: 1.1.0-1
