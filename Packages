@@ -448,6 +448,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.
 Name: NotificationsGroupCount 通知分组计数
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
 
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: 0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.notificationsgroupcounts_1.0.5_iphoneos-arm64e.deb
+Size: 93700
+MD5sum: b445dd1246b406bc708356e94e7a9b20
+SHA1: 5a3a72931b471a12f8a414a3b361bb415f305ca5
+SHA256: 5d19021057caee45adc486d3640a3cd3a4065e7707a2f70eb541d06b86234721
+Section: Tweaks
+Description: 在通知界面显示分组消息数量
+ * Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+Name: NotificationsGroupCount 通知分组计数
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
+
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: 0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64/com.0xkuj.notificationsgroupcounts_1.0.5_iphoneos-arm64.deb
+Size: 79716
+MD5sum: 2735b9fd611c0cadca166ab03176992d
+SHA1: 3a1692ca6ee63926bc764ae57cfde635e0af0fd3
+SHA256: 5deae4d9f8e3e13faf378a1917b78438c75a747c4612f11e9efbc28c1df1f0b2
+Section: Tweaks
+Description: 在通知界面显示分组消息数量
+ * Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+Name: NotificationsGroupCount 通知分组计数
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
+
 Package: com.0xkuj.safarixs
 Version: 1.3.0
 Architecture: iphoneos-arm64e
@@ -4435,6 +4476,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/js.json
 
+Package: com.netskao.awemealwaysshowtimes
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 56
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.netskao.awemealwaysshowtime
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemealwaysshowtimes_1.1-1_iphoneos-arm64e.deb
+Size: 3424
+MD5sum: 759bd6d4ae2bbdd4fab70a7696712758
+SHA1: 4b5bb26079e3671041897d8603713ae3a086eccc
+SHA256: a95892d08247eabb8512b0fc2a29d8d816a40fc28ef382f0d202502ba6005de4
+Section: 抖音插件
+Description: 抖音视频始终显示视频发布时间
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeAlwaysShowTime/icon.png
+Name: 抖音发布时间 AwemeAlwaysShowTime
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeAlwaysShowTime/js.json
+
+Package: com.netskao.awemealwaysshowtimes
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 56
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.netskao.awemealwaysshowtime
+Filename: ./debs/iphoneos-arm64/com.netskao.awemealwaysshowtimes_1.1-1_iphoneos-arm64.deb
+Size: 2348
+MD5sum: 8cfd8a0152494e90db0361fa4114f1ac
+SHA1: 3f0749bb3efdf9ca5fc56414323863389acf3ee0
+SHA256: 9061569eeab5cc64b6c043acd66d3fefb3220e4d2bc6ca1c0eaa90663fe8c783
+Section: 抖音插件
+Description: 抖音视频始终显示视频发布时间
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeAlwaysShowTime/icon.png
+Name: 抖音发布时间 AwemeAlwaysShowTime
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeAlwaysShowTime/js.json
+
 Package: com.netskao.awemeclearlikess
 Version: 1.1-2
 Architecture: iphoneos-arm64e
@@ -5556,6 +5636,94 @@ Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 Name: Twitter NoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js1.json
+
+Package: com.netskao.twitternoadss
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.twitternoads
+Filename: ./debs/iphoneos-arm64e/com.netskao.twitternoadss_1.1-2_iphoneos-arm64e.deb
+Size: 3982
+MD5sum: 5282a52b001dc809aca2dd3646be857c
+SHA1: dfc7cc7f3d0939f734ff1ff1788e8e45e8d1148c
+SHA256: 6773ff8ea8e71867589494d3e83e29a2eb71be3cb579a92d5d5c9fd8e99358df
+Section: 应用破解
+Description: Twitter X 去广告
+ * 在 Twitter 中删除广告，仅在 10.64.1 版本上测试
+ * Twitter removes ads from data stream. Tested on version 10.64.1 only
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: Twitter NoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js1.json
+
+Package: com.netskao.twitternoadss
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.twitternoads
+Filename: ./debs/iphoneos-arm64/com.netskao.twitternoadss_1.1-2_iphoneos-arm64.deb
+Size: 2724
+MD5sum: ff85c6b9ad8d74b9a05d3978ddd04498
+SHA1: 0e6fde12b97715ac74dba05b3c6faa9a7e64e1a6
+SHA256: 05d5728711c6b75a736eac1de67e9dde95b7be1616151dcb0a2ba6380d10908e
+Section: 应用破解
+Description: Twitter X 去广告
+ * 在 Twitter 中删除广告，仅在 10.64.1 版本上测试
+ * Twitter removes ads from data stream. Tested on version 10.64.1 only
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: Twitter NoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js1.json
+
+Package: com.netskao.wcisoverseausers
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcisoverseauser
+Filename: ./debs/iphoneos-arm64e/com.netskao.wcisoverseausers_1.1-1_iphoneos-arm64e.deb
+Size: 3580
+MD5sum: c30c38f8800c8706b0c156f770eba4a2
+SHA1: 996db5cfabcd2c0328e2662f24fdc8794b8aef95
+SHA256: 145f534b495af39017f09c614ba60b701809510878a10d89d3e7dd1da878fa29
+Section: 微信插件
+Description: 微信插件
+ * 强制激活 86+ 号码使用「通行密钥」功能
+ * 设置-账号与安全-通行密钥
+ * 仅支持微信 8.0.54 及以上，仅支持 iOS 16 及以上
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCIsOverSeaUser/icon.png
+Name: 微信通行密钥 WCIsOverSeaUser
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCIsOverSeaUser/js.json
+
+Package: com.netskao.wcisoverseausers
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcisoverseauser
+Filename: ./debs/iphoneos-arm64/com.netskao.wcisoverseausers_1.1-1_iphoneos-arm64.deb
+Size: 2356
+MD5sum: aa325c422e167ab3d41ee336fdaf362c
+SHA1: 6ea5f150dca2a62642ab2471b5442046eb4bfac7
+SHA256: 55764e70d0d84bb1afd5b340e2816f17123bed88af21794bf354d1d58350e6f0
+Section: 微信插件
+Description: 微信插件
+ * 强制激活 86+ 号码使用「通行密钥」功能
+ * 设置-账号与安全-通行密钥
+ * 仅支持微信 8.0.54 及以上，仅支持 iOS 16 及以上
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCIsOverSeaUser/icon.png
+Name: 微信通行密钥 WCIsOverSeaUser
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCIsOverSeaUser/js.json
 
 Package: com.netskao.wechatnotiavatars
 Version: 1.2-5
@@ -6879,6 +7047,49 @@ Description: 微信插件
  * 由 ThemePro 团队开发
  * 用于加载微信美化主题
  * 安装完成重启微信生效
+Author: MustangYM <mm13299079785@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.1.6
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM <MustangYM@yeah.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.1.6_iphoneos-arm64e.deb
+Size: 6288208
+MD5sum: 9445435fd54aa0be6ef18d167d7bd6ba
+SHA1: fa559cae847be82f5ff55a6d3648cec312424a37
+SHA256: d368da551112bff5b3bb13a1c45126eddfbe75c1b420830ed9d1078aef4f3476
+Section: 微信插件
+Description: 微信插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.1.6
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.1.6_iphoneos-arm64.deb
+Size: 6295948
+MD5sum: c2a1d2e20a9c455103f859005dfdd7af
+SHA1: 0b2e231237d4126309c217a78859481a9f6db942
+SHA256: e60deae354d9480beb1bfa3c3692d7d2ea1fe9b93ae8ce36cf27b1114a8961fc
+Section: 微信插件
+Description: 微信插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
 Author: MustangYM <mm13299079785@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
 Name: ThemePro 微信主题
