@@ -1851,6 +1851,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootlesss
+Version: 0.6-5
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.6-5_iphoneos-arm64e.deb
+Size: 744792
+MD5sum: aebbedd3b447678e0a0991a835171e05
+SHA1: 14f6e08818b592e8a8056f079d6cbe92f1366527
+SHA256: 1ec3db172b220339035adb390364f5ddc84c253c4fac83a7f354191cbcc125af
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.6-5
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.6-5_iphoneos-arm64.deb
+Size: 758860
+MD5sum: ffec6e297eb11b8ea95c47580ff3848c
+SHA1: 13f6f8f0deebc398ca3cde213c657b03edad6357
+SHA256: 2a7b9e562edf6f004d05fa06f08f0901e563f3a612113aa274e0748e608797dc
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64e
