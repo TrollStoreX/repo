@@ -1552,6 +1552,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appaze/icon.png
 Name: Appaze 3 体验版
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appaze/js.json
 
+Package: com.anthopak.appaze3s
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: AnthoPak
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2, com.anthopak.appaze3, xyz.cypwn.appaze3, byg.iosios.net.appaze3
+Filename: ./debs/iphoneos-arm64e/com.anthopak.appaze3s_1.0.1_iphoneos-arm64e.deb
+Size: 936394
+MD5sum: 004e6aab698798b16ac56de20fb37ce2
+SHA1: 8d7b91e8a5e7a11251a356fef692c6a009d0c7ac
+SHA256: ba8259ea131a65669d84d61bcd45d15b084a9f4a34d43c5eb480583aaad365df
+Section: Tweaks
+Description: 为应用单独自定义各种功能设置
+ * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Author: AnthoPak
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appaze/icon.png
+Name: Appaze 3 体验版
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appaze/js.json
+
+Package: com.anthopak.appaze3s
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2, com.anthopak.appaze3, xyz.cypwn.appaze3, byg.iosios.net.appaze3
+Filename: ./debs/iphoneos-arm64/com.anthopak.appaze3s_1.0.1_iphoneos-arm64.deb
+Size: 865128
+MD5sum: 4ec4546c01d5e5002fa4ba2defb82053
+SHA1: b3121747399bfa8774f0d98c6e90c94b617915dd
+SHA256: 272e3c99b667886392cd573470e4dd26f9597c6550f8dc4395ba1d7f9c797148
+Section: Tweaks
+Description: 为应用单独自定义各种功能设置
+ * Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Author: AnthoPak
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appaze/icon.png
+Name: Appaze 3 体验版
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appaze/js.json
+
 Package: com.autoscroll.jb
 Version: 1.0.0
 Architecture: iphoneos-arm64e
