@@ -2847,6 +2847,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.eevee.spotifys
+Version: 5.8.1
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.8.1_iphoneos-arm64e.deb
+Size: 387804
+MD5sum: 794800eed11b6f57d14aaa954b81c000
+SHA1: 0a07eaea5afe540ae805a6ebe9acdca9e6386c4e
+SHA256: 43d4c30ffef9a2f3556f5cac221bfa36d04153ec275101e77d88d74fa1dd79a6
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样。
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.8.1
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.8.1_iphoneos-arm64.deb
+Size: 394044
+MD5sum: cc15ff2345fe6ac5e9b736d2fcee2b37
+SHA1: eb92cfaecb6bb6fd20230062d87e7a3006863801
+SHA256: 9d8e25e59a059c1641ece3b44102a5aaadbef92d78750696cb18ce9e593052a5
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样。
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
 Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -5510,6 +5553,51 @@ Section: Bootstrap
 Description: 砸壳 App Store 应用插件
  * 支持砸壳小组件和分享组件
  * 动态砸壳，支持全量包解密砸壳
+ * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+Name: DumpDecrypter 砸壳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
+Package: com.netskao.dumpdecrypters
+Version: 1.5-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 848
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter, byg.iosios.net.dumpbinaryfiles-rootless, com.dao.dumpdecrypter
+Filename: ./debs/iphoneos-arm64e/com.netskao.dumpdecrypters_1.5-1_iphoneos-arm64e.deb
+Size: 535854
+MD5sum: ab83ef2fd4467ab85bfaf34729053029
+SHA1: ad12d0141c878da4dd11ce46cd9e73cc173c1e8c
+SHA256: 6eaa1d4a4320a3014b669079d98da35de79f77eb987a52641e6c34b97dd5755e
+Section: Bootstrap
+Description: 砸壳 App Store 应用插件
+ * 支持砸壳小组件和分享组件
+ * 动态砸壳，可能会闪退，无法砸小组件
+ * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
+Name: DumpDecrypter 砸壳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
+Package: com.netskao.dumpdecrypters
+Version: 1.5-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 848
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter, byg.iosios.net.dumpbinaryfiles-rootless, com.dao.dumpdecrypter
+Filename: ./debs/iphoneos-arm64/com.netskao.dumpdecrypters_1.5-1_iphoneos-arm64.deb
+Size: 393784
+MD5sum: 1cd54e577f7e70526df9a86b36921781
+SHA1: b7c9f583d7da6465944b14a6720cc1a8208c0956
+SHA256: d624605dc81f0f82e4193c142187734ccffd48ae951cdec79db606ebe86934d4
+Section: Bootstrap
+Description: 砸壳 App Store 应用插件
+ * 支持砸壳小组件和分享组件
+ * 动态砸壳，可能会闪退，无法砸小组件
  * Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
