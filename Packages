@@ -2394,6 +2394,54 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
 Name: Infuse Plus
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
 
+Package: com.dvntm.infusepluss
+Version: 1.3.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./debs/iphoneos-arm64e/com.dvntm.infusepluss_1.3.2_iphoneos-arm64e.deb
+Size: 219968
+MD5sum: e9e506455a7893b8c473fa8772201c2e
+SHA1: 890c0b2f96dfe8044a5a52d454528b86d6ad3f55
+SHA256: f9e6b454c9bf75c1b4ec5a70468dffe1caa7693e6e03c346ad5ae831791f326d
+Section: 应用破解
+Description: InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
+Name: Infuse Plus
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
+
+Package: com.dvntm.infusepluss
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./debs/iphoneos-arm64/com.dvntm.infusepluss_1.3.2_iphoneos-arm64.deb
+Size: 221108
+MD5sum: 5f003a9f64390eea01ff14c5742147e9
+SHA1: a2fb4ad35be4876c756a3b1b48d7a4d301e0f536
+SHA256: 700f3d5b25c81d8a9eb34741ec75d9d975c68e217219a557bcbff037843652d4
+Section: 应用破解
+Description: InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
+Name: Infuse Plus
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
+
 Package: com.dvntm.oledkeyboards
 Version: 0.0.1
 Architecture: iphoneos-arm64e
