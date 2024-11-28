@@ -489,6 +489,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.
 Name: NotificationsGroupCount 通知分组计数
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
 
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: 0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.notificationsgroupcounts_1.0.6_iphoneos-arm64e.deb
+Size: 94852
+MD5sum: c9e0974e38b68146f5e4db7f675423c2
+SHA1: 5c43bdc84da19e1b960e9fe9577cc22bc7aaaa59
+SHA256: 597050f1f892b9ef34dc707dbde378495de28872dadaf75bff1c66f0fd700ccd
+Section: Tweaks
+Description: 在通知界面显示分组消息数量
+ * Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+Name: NotificationsGroupCount 通知分组计数
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
+
+Package: com.0xkuj.notificationsgroupcounts
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: 0xkuj.notificationsgroupcount
+Filename: ./debs/iphoneos-arm64/com.0xkuj.notificationsgroupcounts_1.0.6_iphoneos-arm64.deb
+Size: 80288
+MD5sum: e272b4ee93f97e53d45d4123ce583dea
+SHA1: c5d1c247aa48daa22f3ef6171ff3feff780768c9
+SHA256: 5808a01cba4c72688dac258fc7beb5e7e37c939bd923ed3e68f65d66d0f9b141
+Section: Tweaks
+Description: 在通知界面显示分组消息数量
+ * Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.png
+Name: NotificationsGroupCount 通知分组计数
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js.json
+
 Package: com.0xkuj.safarixs
 Version: 1.3.0
 Architecture: iphoneos-arm64e
