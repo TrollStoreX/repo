@@ -608,6 +608,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
 Name: Safari X
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
 
+Package: com.0xkuj.safarixs
+Version: 1.9.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.safarixs_1.9.1_iphoneos-arm64e.deb
+Size: 334836
+MD5sum: 4c95c833608a0bd102869e751320dcbf
+SHA1: cad851c18847f6381c8dec39ed1dce536942fa45
+SHA256: 013011a2309b21b3d8ed478707f7ecedbcc139282929a104ec7860e28b73b223
+Section: Bootstrap
+Description: Safari 浏览器增强插件
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
+
+Package: com.0xkuj.safarixs
+Version: 1.9.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
+Filename: ./debs/iphoneos-arm64/com.0xkuj.safarixs_1.9.1_iphoneos-arm64.deb
+Size: 295740
+MD5sum: b8537f6992c9e32dc0ae14f8922322a3
+SHA1: 82dd287297958792d3b51e601c376e4856173da4
+SHA256: de5366653e92f610da7fcd0056898dde5c8bdcbc70d21597c13ab1daddbaecec
+Section: Bootstrap
+Description: Safari 浏览器增强插件
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
+
 Package: com.25mao.KuaiDou
 Version: 0.1-1
 Architecture: iphoneos-arm64e
