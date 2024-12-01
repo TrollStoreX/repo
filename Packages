@@ -653,10 +653,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
 Filename: ./debs/iphoneos-arm64e/com.0xkuj.safarixs_1.9.2_iphoneos-arm64e.deb
-Size: 320794
-MD5sum: f2273773688c12fa2e4fd2cde992f124
-SHA1: 3819fe4247c616d9411839db82c6e56cc0533003
-SHA256: 122517458e8e96c79e94d8b7e846cb82e75be815a90466384e606e5d2927831d
+Size: 335294
+MD5sum: 98ea5ddb09e58186f403ed26fefa0106
+SHA1: 7e5b13b9083f1a1f8f8d577ac408c61e06ebcdb1
+SHA256: 2f49e9f753e0ae70fa97c186f5e00f0b1a071f126623416b0c6d3d089138a813
 Section: Bootstrap
 Description: Safari 浏览器增强插件
 Author: 0xkuj
@@ -671,10 +671,10 @@ Maintainer: 0xkuj
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
 Filename: ./debs/iphoneos-arm64/com.0xkuj.safarixs_1.9.2_iphoneos-arm64.deb
-Size: 287244
-MD5sum: 1e6a4f0aa15c3c126856e7591ab0cdba
-SHA1: e12ad900e8721413f0847ad00eec6a1df95dc1d0
-SHA256: 32dbb8dcbe743126fa52afd52e4395597aee83e29e63ec7a39918f71fa1db6fd
+Size: 296304
+MD5sum: 909e1c3c2f8c13b2a19dfa04967734e9
+SHA1: 3750280d266b304dab56d1c1c1c61628c065bcc7
+SHA256: b0a63cce27eb4243327d5d0845790c91258907b32521784f73dd20430ebe8969
 Section: Bootstrap
 Description: Safari 浏览器增强插件
 Author: 0xkuj
