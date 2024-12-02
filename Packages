@@ -3728,6 +3728,63 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.DYYYs
+Version: 1.7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64e/com.huami.DYYYs_1.7_iphoneos-arm64e.deb
+Size: 27046
+MD5sum: fc8b119ec6bf878cc711b54399f107d8
+SHA1: b3226b8ed10a1c5fadfde90594d055d47930b94d
+SHA256: 217cbf14393555ef985385eea6a72880ecd29fe79f6a633f2ea97a9734c638ba
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.DYYYs
+Version: 1.7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.7_iphoneos-arm64.deb
+Size: 19948
+MD5sum: ebe4b325809509e9edbdedbf88ad2571
+SHA1: 7819e138088e22db4398acb2a350198ccadcdaec
+SHA256: 4dece3d0483895e399ad4ada1e9c983e735e8541d2b7ed1e543256cf5344e427
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.bilinoads
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -7666,6 +7723,49 @@ Size: 7046412
 MD5sum: 47cf11d52356791603704528ec825b02
 SHA1: 9a2e05f82d82b4cfa9d5e54c397e7ccceede7ddd
 SHA256: a12196701f397d7fcbec960e5f7862223c70469f01527db6fcd70e0e8a5eb70e
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.3.5
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.3.5_iphoneos-arm64e.deb
+Size: 6812672
+MD5sum: 60ea28527fe98cda1a732b7a313df505
+SHA1: b47c2103ef74c529e8b53a38f093eec6655d0b18
+SHA256: af105f0726ee7379c4bd3a381bc425b68a74c935c9e2561dd3b71a0cdef118f8
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.3.5
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.3.5_iphoneos-arm64.deb
+Size: 6816416
+MD5sum: 32c09e6cc9fade13662f2501cf6d111d
+SHA1: 54ab97af6b2bda175b2afe1f01a63f7c2b42e9cd
+SHA256: c0becfe7d666b2093c5182c235a6e5742205fc1dd8238a5d1e997887367cbf6f
 Section: 微信插件
 Description: 微信主题插件
  * 由ThemePro团队开发
