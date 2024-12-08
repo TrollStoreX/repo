@@ -3176,6 +3176,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.eevee.spotifys
+Version: 5.8.2
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.8.2_iphoneos-arm64e.deb
+Size: 543204
+MD5sum: 362138105c5bdbb181ce7dd5ffdba60d
+SHA1: 83c008c8fc7bfcdd691ac9ce63ac4cbdc87b85ba
+SHA256: ebfa3653229729bc1f140e8a50a1dee4e3d60338140d641129196860d47cf9e2
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.8.2
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.8.2_iphoneos-arm64.deb
+Size: 394140
+MD5sum: 39a0eb71f1d60f79aaff911001e1d79a
+SHA1: 7bfd5f8040fb090ec93ceb1648ef6ffb79d5e58c
+SHA256: c07bdbef392877dd7ad3924f4ddee24a0c5ef44943d23ed1a005c65150564bdf
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
 Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -4082,26 +4125,6 @@ Package: com.immortalizer.zh-Hans
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: 巨魔商店 Telegram
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
-Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
-Size: 3872
-MD5sum: 0180da62cbdcb474d5d581c97affe305
-SHA1: 5f766753106974fc5928d18212d6ee1467107a72
-SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
-Section: 汉化
-Description: zh-Hans for Immortalizer
- * Immortalizer 简体中文包
-Author: 巨魔商店 Telegram
-Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
-Name: Immortalizer 简体中文
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
-
-Package: com.immortalizer.zh-Hans
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: 巨魔商店 Telegram
 Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -4116,6 +4139,26 @@ Description: zh-Hans for Immortalizer
  * Immortalizer 简体中文包
 Author: 巨魔商店 Telegram
 Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/Immortalizer.png
+Name: Immortalizer 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
+
+Package: com.immortalizer.zh-Hans
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
+Size: 3872
+MD5sum: 0180da62cbdcb474d5d581c97affe305
+SHA1: 5f766753106974fc5928d18212d6ee1467107a72
+SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
+Section: 汉化
+Description: zh-Hans for Immortalizer
+ * Immortalizer 简体中文包
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
 Name: Immortalizer 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
 
@@ -4741,15 +4784,14 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Nathan Senter
 Installed-Size: 136
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
-Size: 5692
-MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
-SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
-SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
+Size: 4072
+MD5sum: eea4504514f5ad60d8386a1f7651a8b4
+SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
+SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -4759,14 +4801,15 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
-Size: 4072
-MD5sum: eea4504514f5ad60d8386a1f7651a8b4
-SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
-SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
+Size: 5692
+MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
+SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
+SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -9457,6 +9500,47 @@ Section: 应用破解
 Priority: optional
 Description: Instagram 增强插件
  * 破解版
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
+Package: me.alfhaily.rockets
+Version: 3.8.30
+Architecture: iphoneos-arm64e
+Maintainer: Rocket App
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64e/me.alfhaily.rockets_3.8.30_iphoneos-arm64e.deb
+Size: 1427412
+MD5sum: ea54ea4e1cab87af4fd47c7c6c30a615
+SHA1: ae80b8ef4cdc8808656b404d4a37afc49e430b3d
+SHA256: 64559cc24177d4a4620fb0d59db32336034923e807e461a7d82435ff4599f130
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
+Package: me.alfhaily.rockets
+Version: 3.8.30
+Architecture: iphoneos-arm64
+Maintainer: Rocket App
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64/me.alfhaily.rockets_3.8.30_iphoneos-arm64.deb
+Size: 1455232
+MD5sum: 89eb33e673c718dd4f2fe02be96f70ff
+SHA1: e916e5bf0688db7bdf0174218ad38447c5f0c427
+SHA256: dc418772d8724b6468240abe01855fff56e4f05cdb569a7d84e9e5f1fa6b2156
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
  * Save posts and view stories anonymously and do much more
 Author: Rocket App
 Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
