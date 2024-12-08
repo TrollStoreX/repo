@@ -5683,6 +5683,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音全屏 AwemeFullScreen
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
 
+Package: com.netskao.awemesaveemojis
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate
+Conflicts: com.netskao.awemesaveemoji
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemesaveemojis_1.1-2_iphoneos-arm64e.deb
+Size: 97774
+MD5sum: 9ecf2f5c4edb58fd497f6f226d0dd5f7
+SHA1: f6b4c65f66dbe97b79b8726f68b6a2345b223a7e
+SHA256: f97af906c35ca5a051a881451a510f499658d4bdcbd31f166e5fc09b388d9eed
+Section: 抖音插件
+Description: 抖音评论区表情保存
+ * 插件位于抖音设置内，默认关闭
+ * 保存评论表情功能仅在 32.3.0 版本上测试
+ * 开启功能后只有评论区中长按表情才可保存至相册（不要点开放大表情）
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSaveEmoji/icon.png
+Name: 抖音保存表情 AwemeSaveEmoji
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSaveEmoji/js.json
+
+Package: com.netskao.awemesaveemojis
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 12.0), mobilesubstrate
+Conflicts: com.netskao.awemesaveemoji
+Filename: ./debs/iphoneos-arm64/com.netskao.awemesaveemojis_1.1-2_iphoneos-arm64.deb
+Size: 74992
+MD5sum: 794cbe4c0559b3423e5b6eb06cdd90e0
+SHA1: 8a6cce9f398219e80d55b803c3789843f620680b
+SHA256: af2fcce80ffe805b4885e860bb32ab40f5da045e60cd0965c35bd383a2ea184e
+Section: 抖音插件
+Description: 抖音评论区表情保存
+ * 插件位于抖音设置内，默认关闭
+ * 保存评论表情功能仅在 32.3.0 版本上测试
+ * 开启功能后只有评论区中长按表情才可保存至相册（不要点开放大表情）
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSaveEmoji/icon.png
+Name: 抖音保存表情 AwemeSaveEmoji
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSaveEmoji/js.json
+
 Package: com.netskao.awemevideotimes
 Version: 1.1-1
 Architecture: iphoneos-arm64e
