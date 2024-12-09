@@ -8876,6 +8876,28 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
+Package: com.xx.dyhooks
+Version: 2.0.8+1+debug
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.8+1+debug_iphoneos-arm64.deb
+Size: 5143536
+MD5sum: 03a75e703e580d44e29b2e97484387f3
+SHA1: 5b5fbae1f1f967f4dfaeee348226ecc8745fd7c6
+SHA256: 4f2e1bc5504838a02908ae6bc09ffb7586e13200fa514449a5dbb384a20a16e3
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
 Package: com.xx.kshooks
 Version: 1.0.6-3
 Architecture: iphoneos-arm64e
