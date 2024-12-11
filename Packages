@@ -6363,6 +6363,59 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.
 Name: NotificationsGroupCount 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js1.json
 
+Package: com.opa334.choicys
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 888
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: ./debs/iphoneos-arm64e/com.opa334.choicys_1.5_iphoneos-arm64e.deb
+Size: 112532
+MD5sum: 1f3bd815e11b68bb05ac7cae9f975f74
+SHA1: 88e3b960f9b41f2cc4b9378e1aad70107e4128d2
+SHA256: 56b81930bdde0e0a653a949696c40c3135cf9fb1fb4654392f51e24d2bd12487
+Section: Tweaks
+Description: 一个高级的插件配置工具
+ * 不是越狱检测绕过工具
+ * 为每个进程单独禁用插件注入
+ * 为每个进程单独配置每个插件的动态库（dylib）
+ * 全局禁用插件（可为单独的进程设置例外）
+ * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
+ * 请从“设置”中进行配置
+Author: opa334
+Icon: https://TrollStoreX.Github.io/sileodepiction/Choicy/icon.png
+Name: Choicy 禁止注入
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Choicy/js.json
+
+Package: com.opa334.choicys
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 1114
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
+Conflicts: com.opa334.choicy
+Filename: ./debs/iphoneos-arm64/com.opa334.choicys_1.5_iphoneos-arm64.deb
+Size: 159380
+MD5sum: 3566a14cc5f4fcc667d043dc385b810b
+SHA1: 513e28e7c5120dead8ad45a827fb6eb77488cc8a
+SHA256: e8e89b34926f0d21d36885060ee501c983e2f6b19e24f4cf23ad5baec84124e1
+Section: opa334
+Description: 一个高级的插件配置工具
+ * 不是越狱检测绕过工具
+ * 为每个进程单独禁用插件注入
+ * 为每个进程单独配置每个插件的动态库（dylib）
+ * 全局禁用插件（可为单独的进程设置例外）
+ * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
+ * 请从“设置”中进行配置
+Tag: purpose::extension
+Author: opa334
+Dev: opa334
+Icon: https://TrollStoreX.Github.io/sileodepiction/Choicy/icon.png
+Name: Choicy 禁止注入
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Choicy/js.json
+Sponsor: thebigboss.org
+
 Package: com.opa334.dopamine.trollstore
 Version: 1.0
 Architecture: iphoneos-arm64e
