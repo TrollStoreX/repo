@@ -86,6 +86,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/icon.png
 Name: ThemeManager 猪咪微信主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.json
 
+Package: cax.zhumi.ThemeManager.rootlesss
+Version: 1.6.5
+Architecture: iphoneos-arm64e
+Essential: no
+Maintainer: zhumi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: cax.zhumi.ThemeManager.rootless
+Filename: ./debs/iphoneos-arm64e/cax.zhumi.ThemeManager.rootlesss_1.6.5_iphoneos-arm64e.deb
+Size: 1924124
+MD5sum: b848e46fb6f45431a6850bda57403130
+SHA1: 8c9218a24e398e131d1a8ec8f15688f44219f27b
+SHA256: da9d1ade8fca1d73429b20b8c3a463b686f99c86cd162a2bd23a555420a2e3f5
+Section: 微信插件
+Priority: optional
+Description: 微信主题插件
+Author: zhumi
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/icon.png
+Name: ThemeManager 猪咪微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.json
+
+Package: cax.zhumi.ThemeManager.rootlesss
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: zhumi
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: cax.zhumi.ThemeManager.rootless
+Filename: ./debs/iphoneos-arm64/cax.zhumi.ThemeManager.rootlesss_1.6.5_iphoneos-arm64.deb
+Size: 1924156
+MD5sum: 5dbe537c63f1d3978d8411c192d4eb17
+SHA1: 38b3d24a22d524dc2b5b8a4932c475f4d08ad41f
+SHA256: 906b6a589956d9ad0c2f453ff135385cf7f2ba5b5679f5b5ee43d5741e0acca0
+Section: 微信插件
+Priority: optional
+Description: 微信主题插件
+Author: zhumi
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/icon.png
+Name: ThemeManager 猪咪微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.json
+
 Package: cn.Bswbw.fixsets
 Version: 1.1
 Architecture: iphoneos-arm64e
