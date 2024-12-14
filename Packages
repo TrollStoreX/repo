@@ -3375,6 +3375,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/icon.png
 Name: YTMusicUltimate
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/js.json
 
+Package: com.github.wxsmalltabs
+Version: 0.0.1-5
+Architecture: iphoneos-arm64e
+Maintainer: halo-michael
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.github.wxsmalltab
+Filename: ./debs/iphoneos-arm64e/com.github.wxsmalltabs_0.0.1-5_iphoneos-arm64e.deb
+Size: 15954
+MD5sum: d6d11e3ee9e284db7702d01130748b08
+SHA1: 667c065abe2a7b57f43daf549a3dc8415763f084
+SHA256: 9a7e53de1b55a5ae7463b6efb9469c4f6c3bc9e649f8d59164719d70d50d459a
+Section: 微信插件
+Description: 微信底栏悬浮显示
+Author: Michael
+Icon: https://TrollStoreX.Github.io/sileodepiction/WXsmalltabs/icon.png
+Name: 微信小底栏
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WXsmalltabs/js.json
+
+Package: com.github.wxsmalltabs
+Version: 0.0.1-5
+Architecture: iphoneos-arm64
+Maintainer: halo-michael
+Installed-Size: 140
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.github.wxsmalltab
+Filename: ./debs/iphoneos-arm64/com.github.wxsmalltabs_0.0.1-5_iphoneos-arm64.deb
+Size: 12036
+MD5sum: 70b5aef6dbb7edf7c6fcff6192424707
+SHA1: 3afdf7efd6d4f0b46cb0944a01f95d7f89d5ff69
+SHA256: cc70f86d10d881fe58f70328495d2973b3e5bec1ffdcb3c1e6884684646316b4
+Section: 微信插件
+Description: 微信底栏悬浮显示
+Author: Michael
+Icon: https://TrollStoreX.Github.io/sileodepiction/WXsmalltabs/icon.png
+Name: 微信小底栏
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WXsmalltabs/js.json
+
 Package: com.guozi.kuannoads
 Version: 5.2.0
 Architecture: iphoneos-arm64e
