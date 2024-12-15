@@ -7698,6 +7698,45 @@ Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
 Name: Teleport 虚拟定位
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
 
+Package: com.tencent.themeboxs
+Version: 1.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_1.0.1-1_iphoneos-arm64e.deb
+Size: 1669792
+MD5sum: 7b522bcb4f8cbafb78b2a9845c8c4d97
+SHA1: 1cce846e24ea5222121ef2561ea2947abe0e6408
+SHA256: a68a07d5ca9c42307bd41fbf043de86bb0f7e8838863946722d1bea4dda5f1b9
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_1.0.1-1_iphoneos-arm64.deb
+Size: 1687704
+MD5sum: 9208d121915bcc0ad9cdb34ff9ba6e3d
+SHA1: d427ee05472873d2e8adeee6fd680929b244bc6f
+SHA256: caa14ac3bee2f774880646ecaf05a2b10b1c181fbdd08357ffcb65d22073a706
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
 Package: com.tiaotiao.betteruiswitchs
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -7987,6 +8026,49 @@ Size: 6816416
 MD5sum: 32c09e6cc9fade13662f2501cf6d111d
 SHA1: 54ab97af6b2bda175b2afe1f01a63f7c2b42e9cd
 SHA256: c0becfe7d666b2093c5182c235a6e5742205fc1dd8238a5d1e997887367cbf6f
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.4.4
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.4.4_iphoneos-arm64e.deb
+Size: 7132520
+MD5sum: a76429c4169bb1b582f5812c2cc44054
+SHA1: d521ebd49a4cc24cc4989f7e4be485cdb9df273f
+SHA256: 456528158cba818a44c4312ac765becbc4a63c68f6ed2501c1ce7b38163aabe7
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.4.4
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.4.4_iphoneos-arm64.deb
+Size: 7132356
+MD5sum: a95ec65ecda5d62a9527e6d139700110
+SHA1: f2c2b09d03f6f2ffe5fcf40ca3934c0f5b044816
+SHA256: 4091a326581d5fc0b7829e61b82b3421d3d7b80354c090342bcba22a36cc1280
 Section: 微信插件
 Description: 微信主题插件
  * 由ThemePro团队开发
