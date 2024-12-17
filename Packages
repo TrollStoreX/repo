@@ -6408,6 +6408,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/icon.png
 Name: 微信资料居中 WCMyPageInfoCenter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/js.json
 
+Package: com.netskao.wcmypageinfocenters
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: ./debs/iphoneos-arm64e/com.netskao.wcmypageinfocenters_1.1-4_iphoneos-arm64e.deb
+Size: 55062
+MD5sum: 875c2265bdee8fe3dae677e259a2f8a3
+SHA1: e6c6aabe34c847c2d499b47e68c9c195bd2190a4
+SHA256: 8f8ac12ad712fa29d31b57bfbc837e2f818d2011ee7361194211f310e3f2a493
+Section: Tweaks
+Description: 微信个人资料居中
+ * 仅支持微信 8.0.51 及更高版本
+ * 可收纳在老猫收纳插件内
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/icon.png
+Name: 微信资料居中 WCMyPageInfoCenter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/js.json
+
+Package: com.netskao.wcmypageinfocenters
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenters_1.1-4_iphoneos-arm64.deb
+Size: 41716
+MD5sum: 61b0a38a2f373d678322da33f9d5c810
+SHA1: 6e5f816a5741cbbd4f92d1d71c807560ac73d474
+SHA256: fa6f7957b257e4430cd484e365a0e1b8efb3e4ff23e42a9d674ee8288dad7347
+Section: Tweaks
+Description: 微信个人资料居中
+ * 仅支持微信 8.0.51 及更高版本
+ * 可收纳在老猫收纳插件内
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/icon.png
+Name: 微信资料居中 WCMyPageInfoCenter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/js.json
+
 Package: com.netskao.wechatnotiavatars
 Version: 1.2-5
 Architecture: iphoneos-arm64e
@@ -7814,6 +7857,45 @@ Size: 1687704
 MD5sum: 9208d121915bcc0ad9cdb34ff9ba6e3d
 SHA1: d427ee05472873d2e8adeee6fd680929b244bc6f
 SHA256: caa14ac3bee2f774880646ecaf05a2b10b1c181fbdd08357ffcb65d22073a706
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 1.0.2-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_1.0.2-1_iphoneos-arm64e.deb
+Size: 1816176
+MD5sum: 02bd75a6f1d52bcc340a20f4b5b4f97a
+SHA1: 8ac33df4b0f411dcff4a660e3aa03595704429be
+SHA256: f1b7b516f4d45516f8c3e727fd9e51705c7a66f966ffcccbb5b7137d25a753e2
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 1.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_1.0.2-1_iphoneos-arm64.deb
+Size: 1834948
+MD5sum: 0d870dddede47ac2e2928bc0277ebabe
+SHA1: d869eefa9d46c1188204c10585ea8791c3aa2f26
+SHA256: 6d98cbb0b755db17ad542ebbe7712b77b57c0fe630bc2f4f55483672cfa05aed
 Section: 微信插件
 Description: 微信主题插件
 Author: WeChat
