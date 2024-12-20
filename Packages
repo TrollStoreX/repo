@@ -6580,6 +6580,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/icon.png
 Name: 我的页面资料居中 WCMyPageInfoCenter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/js.json
 
+Package: com.netskao.wcmypageinfocenters
+Version: 1.1-8
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: ./debs/iphoneos-arm64e/com.netskao.wcmypageinfocenters_1.1-8_iphoneos-arm64e.deb
+Size: 87308
+MD5sum: 70578e640ecf6074b514b6cc7f989527
+SHA1: d1652b187168cde629b4e96d59ea4e8126a8b07c
+SHA256: 2cd3a1e7c7f36ecf9dc76d9105d554dc5cc9ddc995b1d554db021b30af71ca80
+Section: 微信插件
+Description: 我的页面资料居中
+ * 仅支持微信 8.0.31 及更高版本
+ * 可收纳在老猫收纳插件内
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/icon.png
+Name: 我的页面资料居中 WCMyPageInfoCenter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/js.json
+
+Package: com.netskao.wcmypageinfocenters
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcmypageinfocenter
+Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenters_1.1-8_iphoneos-arm64.deb
+Size: 65392
+MD5sum: ab553a363739a5dcef1b48a4bdcc1fdd
+SHA1: 64a9f0a814c60c39ac6b8606d732b5d5f472e0c0
+SHA256: 48768a65d1f5ebbf6ed918136fa2749f4895bc82762f99968a7cb5ccca8de41f
+Section: 微信插件
+Description: 我的页面资料居中
+ * 仅支持微信 8.0.31 及更高版本
+ * 可收纳在老猫收纳插件内
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/icon.png
+Name: 我的页面资料居中 WCMyPageInfoCenter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/js.json
+
 Package: com.netskao.wechatnotiavatars
 Version: 1.2-5
 Architecture: iphoneos-arm64e
