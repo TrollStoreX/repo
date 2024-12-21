@@ -6701,6 +6701,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/icon.png
 Name: 微信按钮 WeChatUISwitchLoader
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/js.json
 
+Package: com.netskao.wechatuiswitchloaders
+Version: 1.1-4
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wechatuiswitchloader
+Filename: ./debs/iphoneos-arm64e/com.netskao.wechatuiswitchloaders_1.1-4_iphoneos-arm64e.deb
+Size: 153752
+MD5sum: 4a73fe9aae7da3880eaac31b0131c993
+SHA1: 9f9b6ec6853a75c179e2f264716d05c8d4b33e26
+SHA256: f8f566435d85b349587676f57224f662a819fd931a8587160add64759b6b17fd
+Section: 微信插件
+Description: 微信开关图标修改，可自定义
+ * 从曾经的净化功能中独立出来附加新的设置
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/icon.png
+Name: 微信按钮 WeChatUISwitchLoader
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/js.json
+
+Package: com.netskao.wechatuiswitchloaders
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wechatuiswitchloader
+Filename: ./debs/iphoneos-arm64/com.netskao.wechatuiswitchloaders_1.1-4_iphoneos-arm64.deb
+Size: 120920
+MD5sum: 8b008d42bfe15680af5ca55c72f935db
+SHA1: b3b32feacffa3c34d0f3c4c7d3c9244e94154d2b
+SHA256: 1f07c8e5eeae57c9c1205ae47d9a5a22614b16888ff9b9c9ba00d4b97122b153
+Section: 微信插件
+Description: 微信开关图标修改，可自定义
+ * 从曾经的净化功能中独立出来附加新的设置
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/icon.png
+Name: 微信按钮 WeChatUISwitchLoader
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/js.json
+
 Package: com.notificationsgroupcounts.zh-Hans
 Version: 1.0
 Architecture: iphoneos-arm64e
