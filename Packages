@@ -8155,6 +8155,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
 Name: 主题盒子 微信主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
 
+Package: com.tencent.themeboxs
+Version: 1.0.5-2
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_1.0.5-2_iphoneos-arm64e.deb
+Size: 2158508
+MD5sum: 48c79b112f027b79f85f16b50df9a52e
+SHA1: 2bfa3362388150c959f684d3f92763b9d8c058d0
+SHA256: abee73be7f4c1f2eb9f95fc03530478bab408e36d7c6cb9b9571536b9ff9110f
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 1.0.5-2
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_1.0.5-2_iphoneos-arm64.deb
+Size: 2186892
+MD5sum: 1171f5b8cc965dd7fd8d300379284d42
+SHA1: 524a87e86c9da2f345ea61d4e1ba4459ccf52fac
+SHA256: 744aeed51a4752510c32d5c636d23b0e9179eb955d022971fc7d44940cce2f77
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
 Package: com.tiaotiao.betteruiswitchs
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -9634,6 +9673,51 @@ Size: 2792132
 MD5sum: 982afcfbf5eaf0d5fbc771f2c31182c0
 SHA1: 1e1d02d43fbcfbc1300029ceaa630b0fad7d6987
 SHA256: cb581c00782525cf367c39aaedc04636712637551c4e69435b3e1ea5e4bd6b7e
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.0.8+5+debug
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.0.8+5+debug_iphoneos-arm64e.deb
+Size: 2720748
+MD5sum: a3243091f97acd28af1c8f17174b7584
+SHA1: 67ab590b8a622d0c5145041febf23ca892ef22e3
+SHA256: b16f3196371be0484dd014abd26b6590207a9c04b532dfa4a54a265dc6c7cda0
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.0.8+5+debug
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.8+5+debug_iphoneos-arm64.deb
+Size: 2766240
+MD5sum: f8301dd1e9a77c5a3ebf9314c7a48c5b
+SHA1: 7e193cc57afcd6cd9e4922318b2e8b7bdcf0f3d3
+SHA256: 407734a7f77b83324b407816cab3a6a9d6cb1b83882e4652466667f9fa4cecd4
 Section: 抖音插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
