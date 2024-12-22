@@ -2169,6 +2169,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootlesss
+Version: 0.6-7
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.6-7_iphoneos-arm64e.deb
+Size: 2089318
+MD5sum: 55cbd9a987d5f6ae11d2c2356f9fa827
+SHA1: 7e8cf323d37acee01553d3272048f5ca9f48bdf1
+SHA256: 5b459e6321d40996885cf3f64983eb69f82de4d4dec2651b5ffa91cad99f2ed8
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.6-7
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.6-7_iphoneos-arm64.deb
+Size: 775136
+MD5sum: c9c20c3b2ba8bddcdbc5a01d3b550354
+SHA1: 2910171837660c6de16a32d1fe6113d2b4a1b700
+SHA256: d5676d8a17294e980e235366212835cf58ac616e4e85d683008d9006f3fd0be3
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64e
@@ -4855,6 +4896,47 @@ Size: 19932
 MD5sum: cbfd0ba5f76c3f2e4ac2d680bfef7078
 SHA1: 0cfb7b0b076794c050bc7ab6ddf6c868db3895b7
 SHA256: 2b4c2cde2400a0e31785bad6ab3a33316bd393e723c3140da264dd19f4f123ff
+Section: Tweaks
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy 图标随意摆
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
+
+Package: com.mikifp.griddys
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: mikifp
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/iphoneos-arm64e/com.mikifp.griddys_1.0.5_iphoneos-arm64e.deb
+Size: 26268
+MD5sum: 6fb1fc704c26bd5862c89bbf5a9e3ca9
+SHA1: f70ad066d22581d487c500789c306085eec94593
+SHA256: 987a1543f3fd2d57472908fcb829ae7f2476b3e9b7d7fc4722bd4809552022f5
+Section: Tweaks
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy 图标随意摆
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
+
+Package: com.mikifp.griddys
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/iphoneos-arm64/com.mikifp.griddys_1.0.5_iphoneos-arm64.deb
+Size: 19944
+MD5sum: 7e478839b66ccf9ff61b7e6061de248c
+SHA1: aeb40a529de03302c344fece6b808f9223103457
+SHA256: a7fd4b83b3f99baa85c332a6d419bea42b7cf76af6f3e383ed90490e6fdfc753
 Section: Tweaks
 Description: 桌面图标可以随意摆放
  * Layout your icons anywhere you want!
