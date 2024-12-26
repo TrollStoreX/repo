@@ -7997,6 +7997,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果 微信主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.3-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.3-1_iphoneos-arm64e.deb
+Size: 646780
+MD5sum: 24e01683683b7509b432a117e96f0eef
+SHA1: 2ba9fb4ef37af954d80a482a28077ad6d294b350
+SHA256: 88796a8dd270f3d59977d57741d4375f33d411f8f4432b8743af800584cb20ef
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.3-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.3-1_iphoneos-arm64.deb
+Size: 503028
+MD5sum: d39252ca80bf61cd5f81f0d25ae85dbc
+SHA1: 5720b3c5c36d8a512d785223dd7bbd1a4e70cf15
+SHA256: cf7901b21358b54ea3b752d09922404080e524123af174605e73433186472dde
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -9894,6 +9933,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/KS/icon.png
 Name: 快手图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/KS/js.json
 
+Package: com.xx.qmxshooks
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.qmxshook
+Filename: ./debs/iphoneos-arm64e/com.xx.qmxshooks_1.0.3_iphoneos-arm64e.deb
+Size: 147974
+MD5sum: d646a226efa9fbddc2a3c719722a3136
+SHA1: 508d50d3740543603d3287eeffa43bb70a3d2031
+SHA256: 72181e7edbacfe836b8646b208da13fe59063776dd10902d74f6bfeca755325d
+Section: 应用破解
+Description: 开通免广告权益
+ * 仅支持越狱和 Bootstrap 环境
+ * 不支持 TrollFools 注入
+ * 仅支持「七猫 7.63.10」
+ * 2024.12.23 上传
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo/QiMao.png
+Name: 七猫小说 Hook
+
+Package: com.xx.qmxshooks
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.qmxshook
+Filename: ./debs/iphoneos-arm64/com.xx.qmxshooks_1.0.3_iphoneos-arm64.deb
+Size: 115072
+MD5sum: 5e18c3c0f3a5cd02a51046af6254fbe6
+SHA1: 5911e9284f2b70aaf9d59483f6afa75e240d5c82
+SHA256: 1d8d353188153929f7b6af520160bd69a82029e017c4dc194caa06d14a1252fc
+Section: 应用破解
+Description: 开通免广告权益
+ * 仅支持越狱和 Bootstrap 环境
+ * 不支持 TrollFools 注入
+ * 仅支持「七猫 7.63.10」
+ * 2024.12.23 上传
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo/QiMao.png
+Name: 七猫小说 Hook
+
 Package: com.xx.xhshooks
 Version: 1.1.0-1
 Architecture: iphoneos-arm64e
@@ -10114,6 +10198,51 @@ Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.ysbrowserhooks
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.ysbrowserhook, byg.iosios.net.ysbrowserhook
+Filename: ./debs/iphoneos-arm64e/com.xx.ysbrowserhooks_1.0.1_iphoneos-arm64e.deb
+Size: 15212
+MD5sum: 9c3b031b0790f6e59d3caac68734f754
+SHA1: e4395bea9034f9c59239c8ad030a900d8f7bb1af
+SHA256: cd706fbbe8d22014776b60567a0b9f4569a88863d58b2122970f23e4d137975e
+Section: 应用破解
+Description: 解锁 Pro 功能，屏蔽越狱检测
+ * 仅支持越狱和 Bootstrap 环境
+ * 不支持 TrollFools 注入
+ * 最后测试版本为「亚瑟浏览器 16.3」
+ * 2024.12.25 上传
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo/YaSe.png
+Name: 亚瑟浏览器 Pro
+
+Package: com.xx.ysbrowserhooks
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.ysbrowserhook, byg.iosios.net.ysbrowserhook
+Filename: ./debs/iphoneos-arm64/com.xx.ysbrowserhooks_1.0.1_iphoneos-arm64.deb
+Size: 10760
+MD5sum: f40c5d1a4d8f5ed136dcd53c6136bb33
+SHA1: bd14d78a4b25c16472d7a87dc0f94b6ff73e4dd8
+SHA256: a8863c45208ccb212bc7a429473e45b2016e4b21c935f3bc96a5fd1bb89acf42
+Section: 应用破解
+Description: 解锁 Pro 功能，屏蔽越狱检测
+ * 仅支持越狱和 Bootstrap 环境
+ * 不支持 TrollFools 注入
+ * 最后测试版本为「亚瑟浏览器 16.3」
+ * 2024.12.25 上传
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo/YaSe.png
+Name: 亚瑟浏览器 Pro
 
 Package: com.xybp888.lockbuttons
 Version: 0.1-2
