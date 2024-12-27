@@ -8395,6 +8395,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/icon.png
 Name: JB 按钮 BetterUISwitch
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/js.json
 
+Package: com.wechat.ColorfulCubes
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: Seasons && huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.wechat.ColorfulCube
+Filename: ./debs/iphoneos-arm64e/com.wechat.ColorfulCubes_1.0.3_iphoneos-arm64e.deb
+Size: 1631312
+MD5sum: 83dc4fb7243778f5990e75b9a4f32cb6
+SHA1: f4c1727f64bf20b1f6283cc5fc3a7283acab15b9
+SHA256: b972d883db966a30b4f984fd1b8bc3893c971f8fbe6cab6d0443175c372ff01f
+Section: 微信插件
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Author: Seasons && huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/icon.png
+Name: 灵动方盒
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/js.json
+
+Package: com.wechat.ColorfulCubes
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Seasons && huami
+Depends: mobilesubstrate
+Conflicts: com.wechat.ColorfulCube
+Filename: ./debs/iphoneos-arm64/com.wechat.ColorfulCubes_1.0.3_iphoneos-arm64.deb
+Size: 1632596
+MD5sum: 67c2f411119144f8673d92c2f0ac239b
+SHA1: ffde094a61badf6de3c639bd53e545f77e1f9a09
+SHA256: e6bd9717883d7708c92e19bb0184c145a6e8a3e365cb76e91670059d94afe9b0
+Section: 微信插件
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Author: Seasons && huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/icon.png
+Name: 灵动方盒
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/js.json
+
 Package: com.wechat.themepro
 Version: 3.1.2
 Architecture: iphoneos-arm64e
@@ -8686,6 +8723,49 @@ Size: 7132356
 MD5sum: a95ec65ecda5d62a9527e6d139700110
 SHA1: f2c2b09d03f6f2ffe5fcf40ca3934c0f5b044816
 SHA256: 4091a326581d5fc0b7829e61b82b3421d3d7b80354c090342bcba22a36cc1280
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.5.7
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.5.7_iphoneos-arm64e.deb
+Size: 5674292
+MD5sum: 6c2af99b563045d14e3a093718edee48
+SHA1: 1c7a23f126044d0973e9388287b9420f856be0de
+SHA256: d804823567d3f0090a31d6eaedad18fbaa6cb662f9f6d2be789cfeea9aeef94b
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.5.7
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.5.7_iphoneos-arm64.deb
+Size: 5679116
+MD5sum: 0bb45072e0841776f74664595c351115
+SHA1: e22fe4359db768687a6517b99c54fc75e5c2ef35
+SHA256: eee64d2c0375ea24017aa0f36b4771d40bef5ff301a7d7385c3b24e3105eaf51
 Section: 微信插件
 Description: 微信主题插件
  * 由ThemePro团队开发
