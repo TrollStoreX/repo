@@ -7357,6 +7357,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: BHTikTok++
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
 
+Package: com.raulsaeed.bhtiktok++s
+Version: 1.8-119
+Architecture: iphoneos-arm64e
+Maintainer: raul saeed
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.raulsaeed.bhtiktok++, com.dao.bhtiktok++
+Filename: ./debs/iphoneos-arm64e/com.raulsaeed.bhtiktok++s_1.8-119_iphoneos-arm64e.deb
+Size: 195512
+MD5sum: a831a2c96a13c7ba406c2a63e995749b
+SHA1: 3149f672d29201aecac39540664f2736d55c069f
+SHA256: 8a8132411bc4dbca49307fde8e5043c16a387a1d279aa3ec944ca7a13547db2b
+Section: 应用破解
+Description: TikTok 增强插件
+ * An awesome tweak for TikTok
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+
+Package: com.raulsaeed.bhtiktok++s
+Version: 1.8-119
+Architecture: iphoneos-arm64
+Maintainer: raul saeed
+Depends: mobilesubstrate
+Conflicts: com.raulsaeed.bhtiktok++, com.dao.bhtiktok++
+Filename: ./debs/iphoneos-arm64/com.raulsaeed.bhtiktok++s_1.8-119_iphoneos-arm64.deb
+Size: 137204
+MD5sum: cf467d9c312d1219205da458345ef536
+SHA1: f368803d4feeb237a6aa8460a267a97dd34cde89
+SHA256: fb67b49c4c1e08a6d3fb327060c561cd8f662fcc5cd14f8541460a16a817aa4b
+Section: 应用破解
+Description: TikTok 增强插件
+ * An awesome tweak for TikTok
+Author: raul saeed
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: BHTikTok++
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
+
 Package: com.rocket.zh-Hans
 Version: 1.0
 Architecture: iphoneos-arm64e
