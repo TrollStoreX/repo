@@ -6447,6 +6447,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCIsOverSeaUser/icon.png
 Name: 微信通行密钥 WCIsOverSeaUser
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCIsOverSeaUser/js.json
 
+Package: com.netskao.wckeyboardhidelogos
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.netskao.wckeyboardhidelogo
+Filename: ./debs/iphoneos-arm64e/com.netskao.wckeyboardhidelogos_1.1-1_iphoneos-arm64e.deb
+Size: 3502
+MD5sum: 7ccd5881fd69ffa598cfa1d93ed6d022
+SHA1: 9d55dbc8b01233b46ad4f70086811d5477feacd5
+SHA256: 71c7355e51b317c0398a53d9d325ebf46a530b6775e1d68817da69509e023d38
+Section: 应用破解
+Description: 隐藏微信键盘左上角标志 Logo
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCKeyboardHideLogo/icon.png
+Name: 隐藏微信键盘 Logo
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCKeyboardHideLogo/js.json
+
+Package: com.netskao.wckeyboardhidelogos
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: com.netskao.wckeyboardhidelogo
+Filename: ./debs/iphoneos-arm64/com.netskao.wckeyboardhidelogos_1.1-1_iphoneos-arm64.deb
+Size: 2368
+MD5sum: b2357ce35b7316a7e3d25553d5a9023d
+SHA1: 7b23a3793261343a028571670fa46aa3875e15fb
+SHA256: 96d9b66d5a1a488694dd836de3225dd463f9a7bd11097fe04318c1dd48224df3
+Section: 应用破解
+Description: 隐藏微信键盘左上角标志 Logo
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCKeyboardHideLogo/icon.png
+Name: 隐藏微信键盘 Logo
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCKeyboardHideLogo/js.json
+
 Package: com.netskao.wcmypageinfocenters
 Version: 1.1-2
 Architecture: iphoneos-arm64e
