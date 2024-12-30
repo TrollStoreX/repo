@@ -723,6 +723,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
 Name: Safari X
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
 
+Package: com.0xkuj.staypros
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.staypros_0.0.1_iphoneos-arm64e.deb
+Size: 5030
+MD5sum: 59c10f95f18eff3fe98f80e06c6d9dc1
+SHA1: fc3563fba2048de66d9b2541418455f826b50661
+SHA256: 03b50c23d1cd25a4c09fa573c1289778f739ff7466e464d82c8151ce6d8ed931
+Section: 应用破解
+Description: 解锁 Pro 版本
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/Stay/icon.png
+Name: Stay Pro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Stay/js.json
+
+Package: com.0xkuj.staypros
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.0xkuj.staypros_0.0.1_iphoneos-arm64.deb
+Size: 3560
+MD5sum: 340432631f635a2d18327e53c9a8e9e0
+SHA1: 73ba67e4cdcb0db1573b1b515a65f505dfacbbb0
+SHA256: 60e85b0573bb5b1377cdde9b2c2f4f867359c84da84c3ce2763887b7d4f4437b
+Section: 应用破解
+Description: 解锁 Pro 版本
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/Stay/icon.png
+Name: Stay Pro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Stay/js.json
+
 Package: com.25mao.KuaiDou
 Version: 0.1-1
 Architecture: iphoneos-arm64e
@@ -8114,6 +8151,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.3-5
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.3-5_iphoneos-arm64e.deb
+Size: 650904
+MD5sum: 83883c34a021d043b7814608e36c2cf2
+SHA1: f7e8b8a190908031595e0312bd46553d6710d1ea
+SHA256: ef322026c64d43d7c22c3a70446fe1a39b765f0521ce90ed1876cca6b6659942
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.3-5
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.3-5_iphoneos-arm64.deb
+Size: 505192
+MD5sum: 27a9e2ce71690cece43897d5b8e5381d
+SHA1: 96dab7f26d574cc9a190e8623133255ae83f21db
+SHA256: 817ebeb56fc6914b4fd9d9144753cc6dcd2523049bcb8c65d64fdb770c955342
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -8503,6 +8579,43 @@ Size: 1632596
 MD5sum: 67c2f411119144f8673d92c2f0ac239b
 SHA1: ffde094a61badf6de3c639bd53e545f77e1f9a09
 SHA256: e6bd9717883d7708c92e19bb0184c145a6e8a3e365cb76e91670059d94afe9b0
+Section: 微信插件
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Author: Seasons && huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/icon.png
+Name: 灵动方盒
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/js.json
+
+Package: com.wechat.ColorfulCubes
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Seasons && huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.wechat.ColorfulCube
+Filename: ./debs/iphoneos-arm64e/com.wechat.ColorfulCubes_1.0.4_iphoneos-arm64e.deb
+Size: 5497670
+MD5sum: 3b96d69fe05a4f33ce6136e73c3514df
+SHA1: a8b193880232a60f285fb772f5b375bfd428a8d5
+SHA256: 075f699ae27eda37881111b12e6b61b952e82663cad6fc580d2d7e88a453e725
+Section: 微信插件
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Author: Seasons && huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/icon.png
+Name: 灵动方盒
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/js.json
+
+Package: com.wechat.ColorfulCubes
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Seasons && huami
+Depends: mobilesubstrate
+Conflicts: com.wechat.ColorfulCube
+Filename: ./debs/iphoneos-arm64/com.wechat.ColorfulCubes_1.0.4_iphoneos-arm64.deb
+Size: 1872492
+MD5sum: e2591ba64936b48697fbe35a5854bc3e
+SHA1: 2b4bbbcf4914a8e76c61a52534c5119012109027
+SHA256: 2a5b8715cc4dcf60c28e53b768e64acc71515845d87dc786db11e7d15528e0d0
 Section: 微信插件
 Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
 Author: Seasons && huami
