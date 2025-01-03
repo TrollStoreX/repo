@@ -8233,6 +8233,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.5-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.5-1_iphoneos-arm64e.deb
+Size: 650540
+MD5sum: 813b9226a5372de9928c305631e0b8d4
+SHA1: 2830007c40d785143db24c148f60173b5f8e5dbd
+SHA256: c9c959fe7c8da5cd3eb2f5926922e259d289954d37c9cb797804fe131bab6780
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.5-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.5-1_iphoneos-arm64.deb
+Size: 505568
+MD5sum: 7ad481a848028ee8949bf7cfab8f2ae1
+SHA1: de7cd73cb667af33ee12d8bd050ee5cb24d5bcec
+SHA256: 77a3a547a2de316ca64ecd2b3ddf779a3f999fe286a1161dcc85a95c6cc53e35
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -9039,6 +9078,49 @@ Size: 5679116
 MD5sum: 0bb45072e0841776f74664595c351115
 SHA1: e22fe4359db768687a6517b99c54fc75e5c2ef35
 SHA256: eee64d2c0375ea24017aa0f36b4771d40bef5ff301a7d7385c3b24e3105eaf51
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.7.1
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.7.1_iphoneos-arm64e.deb
+Size: 5762012
+MD5sum: 6585b158c672cdf2177c64bd0806ca8c
+SHA1: 0aa7c7c2e8c1b82d238f2838dfb3b6d1b63d4b2f
+SHA256: abf735c7ff6c03189082b13e05b562f656fc8f8f70cafa6c61b49590d83ba700
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.7.1
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.7.1_iphoneos-arm64.deb
+Size: 5761360
+MD5sum: 28c6e2b0300ecccf269451b3c7989319
+SHA1: 38264f90e435ba348e7e2d5914f206a87e55e07b
+SHA256: 60e58028f0659a9bcc1b8ea8ff02fe35ffc06c591e3927f1d7e1c5c97fe26e11
 Section: 微信插件
 Description: 微信主题插件
  * 由ThemePro团队开发
@@ -10241,6 +10323,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
+Package: com.xx.dyhooks
+Version: 2.0.8+6
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.0.8+6_iphoneos-arm64e.deb
+Size: 2680496
+MD5sum: b74e3fa796db2f555c34624e44f8ef74
+SHA1: 04fd056067c920e83da0fa16fba8f9b4b5d91239
+SHA256: ede57d1db1e575a31436958c5573fc5b550a3118903beffb9edde667abcc7222
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.0.8+6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.0.8+6_iphoneos-arm64.deb
+Size: 2727044
+MD5sum: 316182bb77073c1da9cfa6feb1c21bd3
+SHA1: bcbabc423746b90335daf8cc7cfc58c1e7c60b0d
+SHA256: b0ce2a3f872e5d02a0e2f7377f638e197cbfdaf6ea1251ab2a1e8b11ae2495da
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
 Package: com.xx.kshooks
 Version: 1.0.6-3
 Architecture: iphoneos-arm64e
@@ -10398,6 +10525,51 @@ Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
 Name: QQ 图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/js.json
+
+Package: com.xx.surgepros
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 284
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.surgepro
+Filename: ./debs/iphoneos-arm64e/com.xx.surgepros_1.0.0_iphoneos-arm64e.deb
+Size: 100008
+MD5sum: 63d5fb74d996a59404c5dc0b64fe751f
+SHA1: b99c3121eb0723bb53661a6d76d39662a488fa35
+SHA256: 4801ff48e8726f0e7408bbe95f8b360089ba643e5355d55a7096c4217b083aa2
+Section: 应用破解
+Description: Surge Pro
+ * 仅支持 Surge 5.14.2 版本
+ * 仅支持越狱环境
+ * 最后更新 2025 年 1 月 3 日
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
+Name: Surge Pro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js1.json
+
+Package: com.xx.surgepros
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 284
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.surgepro
+Filename: ./debs/iphoneos-arm64/com.xx.surgepros_1.0.0_iphoneos-arm64.deb
+Size: 77792
+MD5sum: 7f5ea8e9bea8081c3dcab8563648096c
+SHA1: 2e3629bac903b5ed7e223c707ffe08c42b444bd4
+SHA256: c09442ac9fabaf8ed2dc03b4c238b734a4ac2b10a59c41c64e55f06b44a7cd69
+Section: 应用破解
+Description: Surge Pro
+ * 仅支持 Surge 5.14.2 版本
+ * 仅支持越狱环境
+ * 最后更新 2025 年 1 月 3 日
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
+Name: Surge Pro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js1.json
 
 Package: com.xx.xhshooks
 Version: 1.1.0-1
