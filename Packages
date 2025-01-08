@@ -8629,6 +8629,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
 Name: 主题盒子
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
 
+Package: com.tencent.themeboxs
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_1.1.0-1_iphoneos-arm64e.deb
+Size: 2701116
+MD5sum: 5dbcb4b19f83bee27877276c46adbc06
+SHA1: b9691ef5493cdc50f9ac4a6e411c0603e06db3ac
+SHA256: a52e938fd420ecf949ed375468ada51ba7b882c79688594ed3b0556aee93b847
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_1.1.0-1_iphoneos-arm64.deb
+Size: 2733288
+MD5sum: 5a74e794ea03b98e6ffa1e9cf909ae0e
+SHA1: 331b1954563d6b0f079d5705371f899f4ef7d9ca
+SHA256: 667cd847a71f1b15ac6f41236a7079ed5f6451f0f56abc005d571195591cc6be
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
 Package: com.tiaotiao.betteruiswitchs
 Version: 1.1
 Architecture: iphoneos-arm64e
