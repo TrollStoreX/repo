@@ -3542,6 +3542,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/icon.png
 Name: YTMusicUltimate
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/js.json
 
+Package: com.ginsu.ytmusicultimates
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 19212
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ginsu.ytmusicultimate, com.dao.ytmusicultimate
+Filename: ./debs/iphoneos-arm64e/com.ginsu.ytmusicultimates_2.3.1_iphoneos-arm64e.deb
+Size: 6792116
+MD5sum: ab3e1a2529b7d72d131a820c23029593
+SHA1: 6651fa8c496770c53b3c37da43243bf22d97d6af
+SHA256: 1e412483cd323ffe5257711475892d436d8a61b65d749b514265251d8a129100
+Section: 应用破解
+Description: YouTube Music Premium
+Author: Ginsu
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/icon.png
+Name: YTMusicUltimate
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/js.json
+
+Package: com.ginsu.ytmusicultimates
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 19212
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ginsu.ytmusicultimate, com.dao.ytmusicultimate
+Filename: ./debs/iphoneos-arm64/com.ginsu.ytmusicultimates_2.3.1_iphoneos-arm64.deb
+Size: 6790632
+MD5sum: 3823735593344b1ca3fa1432db99702a
+SHA1: 7b2c65513f4ae7194d30bc37b7935d733b8df7cb
+SHA256: 8ba28961b424e248ea43b72b4ae1844d46aa46ef932e070592bef71801fdc07e
+Section: 应用破解
+Description: YouTube Music Premium
+Author: Ginsu
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/icon.png
+Name: YTMusicUltimate
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/js.json
+
 Package: com.github.wxsmalltabs
 Version: 0.0.1-5
 Architecture: iphoneos-arm64e
