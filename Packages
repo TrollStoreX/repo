@@ -723,6 +723,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
 Name: Safari X
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
 
+Package: com.0xkuj.safarixs
+Version: 1.9.3
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.safarixs_1.9.3_iphoneos-arm64e.deb
+Size: 337600
+MD5sum: f6d62e743f844d07705f54e4dece2934
+SHA1: 15da04726ab880be67a5e0470ed4ba7266068a66
+SHA256: f340e9936a395cf01ecbf88d7a3128dd959107bedaae988633cb91b5f77ad664
+Section: Bootstrap
+Description: Safari 浏览器增强插件
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
+
+Package: com.0xkuj.safarixs
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
+Filename: ./debs/iphoneos-arm64/com.0xkuj.safarixs_1.9.3_iphoneos-arm64.deb
+Size: 298260
+MD5sum: 82c21cbd71b846c649102cbeac1bfc0f
+SHA1: 7006b56546a3ea39e9064b1c7894a09cdef32405
+SHA256: 7a2ac39a496feda8f8cc25cb7a3ef34f0d6db1fb7ec1f47341d73eff588897cc
+Section: Bootstrap
+Description: Safari 浏览器增强插件
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
+
 Package: com.0xkuj.staypros
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -3418,6 +3455,49 @@ Size: 394140
 MD5sum: 39a0eb71f1d60f79aaff911001e1d79a
 SHA1: 7bfd5f8040fb090ec93ceb1648ef6ffb79d5e58c
 SHA256: c07bdbef392877dd7ad3924f4ddee24a0c5ef44943d23ed1a005c65150564bdf
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.8.4
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 2732
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.8.4_iphoneos-arm64e.deb
+Size: 546156
+MD5sum: 3a620cdbc10e567b8cb1a00cf99572e1
+SHA1: 246cb3ca7c13bd5fabdf3c2c51579e2c285a418d
+SHA256: 5db8705d5b8040fda2e67705d0cc391045114d8842ada3d0c0e4051dbd5ca49a
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.8.4
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 2732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.8.4_iphoneos-arm64.deb
+Size: 395988
+MD5sum: de38da11ae81629f2cda1e1763581692
+SHA1: b0c24e68dae62dcc417219c182026f0ecd8bb492
+SHA256: 49be19e3a36981e09f762bb18d5b271246c3e4548bdb4604aa50ae8d855a0544
 Section: 应用破解
 Description: Spotify Premium
  * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
@@ -8793,6 +8873,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
 Name: 主题盒子
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
 
+Package: com.tencent.themeboxs
+Version: 1.1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_1.1.2-1_iphoneos-arm64e.deb
+Size: 2709776
+MD5sum: 90c6444b756359a9837dc9319a45fc08
+SHA1: 68e947c28d6aa47ac7add40eee29bf9800923c8a
+SHA256: f7023a6c9055ae42b20055f4e6ef11bb48f893f76719d7c65de4735a30854385
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 1.1.2-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_1.1.2-1_iphoneos-arm64.deb
+Size: 2739352
+MD5sum: d21425a76daeda926a3d0dcf8ddf31cb
+SHA1: ecc52d8c700c2530bebc902472830897eaa84581
+SHA256: 8f4afe726ca4d0db91f544006568875c33dcc4873b0e13dae8671ce215ed8d15
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
 Package: com.tiaotiao.betteruiswitchs
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -11001,6 +11120,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
+Package: com.xx.xhshooks
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 3196
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, byg.iosios.net.xhshook
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.3_iphoneos-arm64e.deb
+Size: 2123688
+MD5sum: 4595ef780209868cd196989e059aedb8
+SHA1: 5b46dfa03398551d74f4ea1e8603fd7f92a953b2
+SHA256: 342834aa7e193c49e9f9e1c18a1048b6a47199ba8067db0ac02c2877cbc2ff51
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP 设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, byg.iosios.net.xhshook
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.3_iphoneos-arm64.deb
+Size: 776192
+MD5sum: 89d14b55623927d0b796c527424b69ff
+SHA1: b282ab7f36eb5c88d40c00052779a4ef9e966e40
+SHA256: a99247281e1d45cdd1fb46c48785c0a287bd0341aa717f5e05ae4f25a406cdc2
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP 设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
 Package: com.xx.ysbrowserhooks
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -11722,6 +11888,49 @@ Size: 1430188
 MD5sum: 726cc361337577dca8d0c8bc05b5cd19
 SHA1: 2e30d323bd881a58e7556fc45b67711e212243d9
 SHA256: 483c3e4a66accce17096c0b2a96257d76e7a56d8ffc63285ef1d72c3e6592e0b
+Section: 依赖
+Description: Spotify Eevee 依赖
+ * Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Author: eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.png
+Name: SwiftProtobuf
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.json
+
+Package: org.swift.protobuf.swiftprotobufs
+Version: 1.28.2
+Architecture: iphoneos-arm64e
+Maintainer: eevee
+Installed-Size: 10028
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Provides: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Filename: ./debs/iphoneos-arm64e/org.swift.protobuf.swiftprotobufs_1.28.2_iphoneos-arm64e.deb
+Size: 5509572
+MD5sum: db2836f65067c2752788f5efe7dfd626
+SHA1: 68ab0d12259030cf321e527c58d43763b3449728
+SHA256: 8198cd11bf2d18048ddd893e2070617ca4d70ae2c5dc0a84334bec0dbbba4e65
+Section: 依赖
+Description: Spotify Eevee 依赖
+ * Plugin and runtime library for using protobuf with Swift
+Tag: role::developer
+Author: eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.png
+Name: SwiftProtobuf
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/SwiftProtobuf.json
+
+Package: org.swift.protobuf.swiftprotobufs
+Version: 1.28.2
+Architecture: iphoneos-arm64
+Maintainer: eevee
+Installed-Size: 10028
+Conflicts: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Provides: org.swift.protobuf.swiftprotobuf, xyz.cypwn.swiftprotobuf
+Filename: ./debs/iphoneos-arm64/org.swift.protobuf.swiftprotobufs_1.28.2_iphoneos-arm64.deb
+Size: 1429244
+MD5sum: fd5f9f41dc395cc8ab3dab77e52618e4
+SHA1: 3f4b0ddf3e35a705ae4ad51eb3b37bb11151acd5
+SHA256: cb9ec5b15b53a2fd7a80de0c3b33ed1ec6bab5f37dabb2ca70eb6e2582529e97
 Section: 依赖
 Description: Spotify Eevee 依赖
  * Plugin and runtime library for using protobuf with Swift
