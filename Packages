@@ -8438,6 +8438,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.6-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.6-1_iphoneos-arm64e.deb
+Size: 645202
+MD5sum: 6f0c5e7c4f424422aa606d9873675606
+SHA1: 2cb16fbb4d59e4668cf1c66526739b297302d97d
+SHA256: a19ab16fb15db6a2faa1d82a55b5d4c8833b76395b7fe0495289248fbaca5a67
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.6-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.6-1_iphoneos-arm64.deb
+Size: 498556
+MD5sum: 72efa0cbfa93212489e29d2545a72746
+SHA1: 8c0be7780aecb15d8072e17d33b4ac0e994a09df
+SHA256: 8206f3d250b23a5c14b4ae3b0aa65bc34effa02c88a71198063108822cf49e21
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -11212,6 +11251,53 @@ Description: 小红书增强插件
 Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.1.5-1
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 3196
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.5-1_iphoneos-arm64e.deb
+Size: 2490084
+MD5sum: b7bb5bf1bb05a4581cbe0b96af8f034f
+SHA1: 1a7b6690511c3c621cdcc612aaa73623170a6faf
+SHA256: 6e6a25a6d681a5f6da31b1c7cc44232463f44c22d4282896403ae9726e45447e
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.1.5-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.5-1_iphoneos-arm64.deb
+Size: 906672
+MD5sum: ea04f6bc6d6f7314f8179bbca1920fd9
+SHA1: 877cc905942a335865a35961101a8a414a2019cd
+SHA256: afd792bef2c7fc07811b5c7864d6577d14fdc35f0a8011622853af5166db8ec2
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
 Package: com.xx.ysbrowserhooks
