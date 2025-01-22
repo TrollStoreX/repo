@@ -11104,6 +11104,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CCVPN/icon.png
 Name: Surge Pro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCVPN/js1.json
 
+Package: com.xx.wctabbar
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 552
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.xx.wctabbar_1.0.0_iphoneos-arm64e.deb
+Size: 224512
+MD5sum: d87dee61add52872172001747cc43bdb
+SHA1: c3f20c3ebfd44e01103d368238d7395f1ecaab7e
+SHA256: 1671c833160a13938c77a667f6ae16ac3b4b73dc5e93f2d4605cc37d95b4e031
+Section: 微信插件
+Description: 开启微信 CallKit 功能
+ * 仅支持微信最新版
+ * 需要微信在后台
+ * 暂时只支持越狱环境
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCTabBar/icon.png
+Name: 微信 CallKit WCTabBar
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCTabBar/js.json
+
+Package: com.xx.wctabbar
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 552
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.wctabbar_1.0.0_iphoneos-arm64.deb
+Size: 165204
+MD5sum: 2bf2b4980138778dd03fdfb1aa3d7da6
+SHA1: cf673b97a0622b59859b1b532e261c9f6cf23271
+SHA256: 6dbbe305012e536b23e3224bc68592f8140d913a4fab7be6fc557b1209c9d3f9
+Section: 微信插件
+Description: 开启微信 CallKit 功能
+ * 仅支持微信最新版
+ * 需要微信在后台
+ * 暂时只支持越狱环境
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCTabBar/icon.png
+Name: 微信 CallKit WCTabBar
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCTabBar/js.json
+
 Package: com.xx.xhshooks
 Version: 1.1.0-1
 Architecture: iphoneos-arm64e
