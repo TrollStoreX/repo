@@ -2516,26 +2516,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
 Package: com.dvntm.cc18s
 Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Conflicts: com.dvntm.cc18
-Filename: ./debs/iphoneos-arm64/com.dvntm.cc18s_0.0.1_iphoneos-arm.deb
-Size: 4472
-MD5sum: bf37fc85c447535dbc9d51c209ee04f1
-SHA1: 9c2d57063efad4e6f613f3bc07ba337fa6762b09
-SHA256: 5a4e82d62aefa2e8fdf97d518a1e0d24299502138f46bb3d7f6bc16dec176cf7
-Section: Tweaks
-Description: iOS 18 圆角控制中心
- * Round CC modules replication, like in iOS 18
-Author: dvntm
-Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
-Name: CC18 iOS18 圆角控制中心
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
-
-Package: com.dvntm.cc18s
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 152
@@ -2555,17 +2535,17 @@ Name: CC18 iOS18 圆角控制中心
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
 Package: com.dvntm.cc18s
-Version: 0.0.2
-Architecture: iphoneos-arm64e
+Version: 0.0.1
+Architecture: iphoneos-arm
 Maintainer: dvntm
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
 Conflicts: com.dvntm.cc18
-Filename: ./debs/iphoneos-arm64e/com.dvntm.cc18s_0.0.2_iphoneos-arm64e.deb
-Size: 4508
-MD5sum: 95fb83c9202ff87225eb33846c09a55a
-SHA1: 5e240be943317c172a1a063be04f335c1eeec738
-SHA256: 40e5d2c273438b0eaf20acbe31f23e2ce4861294cc0625b2d9b6242c8bab35bb
+Filename: ./debs/iphoneos-arm64/com.dvntm.cc18s_0.0.1_iphoneos-arm.deb
+Size: 4472
+MD5sum: bf37fc85c447535dbc9d51c209ee04f1
+SHA1: 9c2d57063efad4e6f613f3bc07ba337fa6762b09
+SHA256: 5a4e82d62aefa2e8fdf97d518a1e0d24299502138f46bb3d7f6bc16dec176cf7
 Section: Tweaks
 Description: iOS 18 圆角控制中心
  * Round CC modules replication, like in iOS 18
@@ -2586,6 +2566,26 @@ Size: 4500
 MD5sum: 62dde2bac33729303fb4bf3b59103d3c
 SHA1: 4c20228f7f3d8a5514a2e96c8c82d1719da4e85e
 SHA256: ca1593b99434235dc999fe7c089467ef0941949f47af4dbdaae426437d553d5f
+Section: Tweaks
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Name: CC18 iOS18 圆角控制中心
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
+Package: com.dvntm.cc18s
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/iphoneos-arm64e/com.dvntm.cc18s_0.0.2_iphoneos-arm64e.deb
+Size: 4508
+MD5sum: 95fb83c9202ff87225eb33846c09a55a
+SHA1: 5e240be943317c172a1a063be04f335c1eeec738
+SHA256: 40e5d2c273438b0eaf20acbe31f23e2ce4861294cc0625b2d9b6242c8bab35bb
 Section: Tweaks
 Description: iOS 18 圆角控制中心
  * Round CC modules replication, like in iOS 18
@@ -4490,6 +4490,26 @@ Package: com.immortalizer.zh-Hans
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: 巨魔商店 Telegram
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
+Size: 3872
+MD5sum: 0180da62cbdcb474d5d581c97affe305
+SHA1: 5f766753106974fc5928d18212d6ee1467107a72
+SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
+Section: 汉化
+Description: zh-Hans for Immortalizer
+ * Immortalizer 简体中文包
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
+Name: Immortalizer 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
+
+Package: com.immortalizer.zh-Hans
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
 Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -4504,26 +4524,6 @@ Description: zh-Hans for Immortalizer
  * Immortalizer 简体中文包
 Author: 巨魔商店 Telegram
 Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/Immortalizer.png
-Name: Immortalizer 简体中文
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
-
-Package: com.immortalizer.zh-Hans
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: 巨魔商店 Telegram
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
-Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
-Size: 3872
-MD5sum: 0180da62cbdcb474d5d581c97affe305
-SHA1: 5f766753106974fc5928d18212d6ee1467107a72
-SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
-Section: 汉化
-Description: zh-Hans for Immortalizer
- * Immortalizer 简体中文包
-Author: 巨魔商店 Telegram
-Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
 Name: Immortalizer 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
 
@@ -5190,23 +5190,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Nathan Senter
-Installed-Size: 136
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
-Size: 4072
-MD5sum: eea4504514f5ad60d8386a1f7651a8b4
-SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
-SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
-Section: Tweaks
-Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
-Author: Nathan Senter
-Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
-Name: 显示存储系统数据详情InternalStorageSettings
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
-
-Package: com.nathan.internalstoragesettingss
-Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
@@ -5216,6 +5199,23 @@ Size: 5692
 MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
 SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
 SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Section: Tweaks
+Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
+Name: 显示存储系统数据详情InternalStorageSettings
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
+
+Package: com.nathan.internalstoragesettingss
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
+Size: 4072
+MD5sum: eea4504514f5ad60d8386a1f7651a8b4
+SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
+SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -8561,6 +8561,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.7-3
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.7-3_iphoneos-arm64e.deb
+Size: 646606
+MD5sum: 3c06eb9bf468ba44d1845caab45eb043
+SHA1: a87da011129aca05f8c0d7d3368b4741f88dc0f2
+SHA256: 43483df39d482e643ca1e4787d1605d9ac50002b324b9a89485611a155d18c81
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.7-3
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.7-3_iphoneos-arm64.deb
+Size: 499964
+MD5sum: 62b4ac6f9bd30044d7874f0ade53cadb
+SHA1: 012a93ebd7df8ba21fa054291b7fb8a8c5f6b92c
+SHA256: c8ec502966bd4dda7b3db14eb38e391c05522e616dfbb2b88f47cc17947dcef7
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -9617,6 +9656,49 @@ Description: 微信主题插件
 Author: MustangYM
 Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
 Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.7.3
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.7.3_iphoneos-arm64e.deb
+Size: 5749644
+MD5sum: ceef0240bfc45746fafeafe290b9ed66
+SHA1: 8308c596ca46cdb3d0062cd4de56633409fa3959
+SHA256: 833f06abbbe5c1eb7378646f3f6cd73a909b7d49a840d37c1e3b69ec813f9b52
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 菠萝主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.7.3
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.7.3_iphoneos-arm64.deb
+Size: 5750180
+MD5sum: d58489e9a09326d443f1089f4c16ed6a
+SHA1: 5ade418653261213215f78c87322537756908b79
+SHA256: 44e5a2d13c84a483df6ba273966f4505228d6c4482d5368a12c06565c3686bc2
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 菠萝主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
 
 Package: com.weifeng.noad
@@ -11016,6 +11098,28 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ1/js.json
 
 Package: com.xx.qqhooks
 Version: 1.1.3-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1960
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.qqhook
+Filename: ./debs/iphoneos-arm64/com.xx.qqhooks_1.1.3-1_iphoneos-arm64.deb
+Size: 594656
+MD5sum: 2068dfd3d2819cbfaa8e61f0e7429ebf
+SHA1: 6cb5e8fb8aef660c2cb0fffe1d18d6010d27f5b5
+SHA256: d7a79e0f323cc572a32c62d577781a9e09a874a9897e0118c9fb45978875641e
+Section: 应用破解
+Description: QQ·TIM 新版防撤回
+ * QQ 设置-辅助功能-右上角开启(或新设置界面)
+ * 支持 QQ  9.0.20+
+ * 支持 TIM 4.0.95+
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
+Name: QQ 图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/js.json
+
+Package: com.xx.qqhooks
+Version: 1.1.3-1
 Architecture: iphoneos-arm64e
 Maintainer: x✨
 Installed-Size: 1960
@@ -11038,26 +11142,51 @@ Name: QQ 图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ1/js.json
 
 Package: com.xx.qqhooks
-Version: 1.1.3-1
-Architecture: iphoneos-arm64
+Version: 1.1.5
+Architecture: iphoneos-arm64e
 Maintainer: x✨
 Installed-Size: 1960
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.qqhook
-Filename: ./debs/iphoneos-arm64/com.xx.qqhooks_1.1.3-1_iphoneos-arm64.deb
-Size: 594656
-MD5sum: 2068dfd3d2819cbfaa8e61f0e7429ebf
-SHA1: 6cb5e8fb8aef660c2cb0fffe1d18d6010d27f5b5
-SHA256: d7a79e0f323cc572a32c62d577781a9e09a874a9897e0118c9fb45978875641e
+Filename: ./debs/iphoneos-arm64e/com.xx.qqhooks_1.1.5_iphoneos-arm64e.deb
+Size: 842556
+MD5sum: 4e627000deb1334edad4551d4dce644b
+SHA1: a5601d0b913a4a3e9372636566fc9136bf73bc2b
+SHA256: 8dcc260d2feb13ec4c9a144d91744389ea9c966b9c15098eb5c591279af182dd
 Section: 应用破解
 Description: QQ·TIM 新版防撤回
  * QQ 设置-辅助功能-右上角开启(或新设置界面)
  * 支持 QQ  9.0.20+
  * 支持 TIM 4.0.95+
+ * 支持免越狱
 Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
-Name: QQ 图层
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/js.json
+Name: QQ 图层｜防撤回
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/tuceng.json
+
+Package: com.xx.qqhooks
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1960
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.qqhook
+Filename: ./debs/iphoneos-arm64/com.xx.qqhooks_1.1.5_iphoneos-arm64.deb
+Size: 615984
+MD5sum: a9dd8689cfcadfcd3c57dcff4b9bd41d
+SHA1: 736e11f01ec646c760dae0d4e7350f95c359f1ea
+SHA256: 87054397ec13226507f53c0cd61fccaff39a759d70521f9c6a5ea808f44a43ae
+Section: 应用破解
+Description: QQ·TIM 新版防撤回
+ * QQ 设置-辅助功能-右上角开启(或新设置界面)
+ * 支持 QQ  9.0.20+
+ * 支持 TIM 4.0.95+
+ * 支持免越狱
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
+Name: QQ 图层｜防撤回
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/tuceng.json
 
 Package: com.xx.surgepros
 Version: 1.0.0
