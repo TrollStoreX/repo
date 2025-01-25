@@ -6605,6 +6605,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 Name: Twitter NoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js1.json
 
+Package: com.netskao.wcdisablehotupdatess
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcdisablehotupdates
+Filename: ./debs/iphoneos-arm64e/com.netskao.wcdisablehotupdatess_1.1-1_iphoneos-arm64e.deb
+Size: 3512
+MD5sum: 20051452016e6f88aca934fdd6154e67
+SHA1: 1d0c59c6890cabf4cacd37e79cf49a7f30a44c52
+SHA256: fd0bfe2a49aad837057e3ba7d9b6c6f6944642357c70fbc32e9e4411f7acd6a8
+Section: 微信插件
+Description: 微信 8.0.56 及以上高版本会云控微信，导致第三方插件设置入口和功能失效，该插件解决此问题
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCDisableHotUpdates/icon.png
+Name: 禁止微信热更新 WCDisableHotUpdates
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCDisableHotUpdates/js.json
+
+Package: com.netskao.wcdisablehotupdatess
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: com.netskao.wcdisablehotupdates
+Filename: ./debs/iphoneos-arm64/com.netskao.wcdisablehotupdatess_1.1-1_iphoneos-arm64.deb
+Size: 2360
+MD5sum: 12b4453e365cc27e9c9468d2023a7ee2
+SHA1: cf07438d8b511f2545060b3f3541bd9f3b797466
+SHA256: 366ef0c04a8bb6a7b3a6ad3bf26af46794cfcc39992d4e2827cf84f475f6a139
+Section: 微信插件
+Description: 微信 8.0.56 及以上高版本会云控微信，导致第三方插件设置入口和功能失效，该插件解决此问题
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCDisableHotUpdates/icon.png
+Name: 禁止微信热更新 WCDisableHotUpdates
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCDisableHotUpdates/js.json
+
 Package: com.netskao.wcisoverseausers
 Version: 1.1-1
 Architecture: iphoneos-arm64e
