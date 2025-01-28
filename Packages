@@ -2284,6 +2284,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootlesss
+Version: 0.6-8
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.6-8_iphoneos-arm64e.deb
+Size: 768788
+MD5sum: 33b5e6ec2b10ef29379e7c5ca29d443f
+SHA1: 60a7d4602f0df649cd6d340ccccba56cf15ce279
+SHA256: c4d4f69fdd266dc32ba40c67d3a8a6e7bba931065f7b26577fe5b0f813dffc7f
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.6-8
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.6-8_iphoneos-arm64.deb
+Size: 783028
+MD5sum: 1f91cbfe9fbcb6f942f6ccc830621510
+SHA1: e9b43fef94ad14cbfe51a8c5f4a4484f7a637955
+SHA256: d5716e4a57708072f1cfa60c5488d27c55ca1c6c6b56baaa640ce94af76ef874
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64e
@@ -2831,6 +2872,54 @@ Size: 278788
 MD5sum: 378f2d31b3f5b411f05978364f44716c
 SHA1: 0572db3a54b867b57429e0965b854530a2e9c4a1
 SHA256: d79ae189ff6be40e363892696c8faf78e33d0dc889276daa6edace08e57c289d
+Section: 应用破解
+Description: InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
+Name: Infuse Plus
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
+
+Package: com.dvntm.infusepluss
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./debs/iphoneos-arm64e/com.dvntm.infusepluss_2.0.1_iphoneos-arm64e.deb
+Size: 279592
+MD5sum: b4966bfd2f3a3ca8b5dea16cb3101f26
+SHA1: 530c7ed143744a11fbd446e5ad2bcc6297659956
+SHA256: e1ce9e2eb0a032ee63fda80aaa4bdc41a99fa4a575e556772449fe3b9890ff2a
+Section: 应用破解
+Description: InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
+Name: Infuse Plus
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
+
+Package: com.dvntm.infusepluss
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./debs/iphoneos-arm64/com.dvntm.infusepluss_2.0.1_iphoneos-arm64.deb
+Size: 280356
+MD5sum: 755649fcfb01e30db6da6fd99637eef5
+SHA1: 42e546d04c2e3e64e92cf2ed745680d8d140e420
+SHA256: c9f90195d9dd52012bc371c951d7997864f885e3ff2409a5f910255f20a7a071
 Section: 应用破解
 Description: InfusePlus 高级版
  * Enhancer for Infuse app
@@ -12228,6 +12317,47 @@ Size: 1455232
 MD5sum: 89eb33e673c718dd4f2fe02be96f70ff
 SHA1: e916e5bf0688db7bdf0174218ad38447c5f0c427
 SHA256: dc418772d8724b6468240abe01855fff56e4f05cdb569a7d84e9e5f1fa6b2156
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
+Package: me.alfhaily.rockets
+Version: 3.8.31
+Architecture: iphoneos-arm64e
+Maintainer: Rocket App
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64e/me.alfhaily.rockets_3.8.31_iphoneos-arm64e.deb
+Size: 4453872
+MD5sum: 15af62be72e0f4a8f437576d3992d6bf
+SHA1: 4b00795d528d067b4a922019cca740a36bcfe25d
+SHA256: 65a623f560b75b934dfd88d258ddeaf926e0a9e3d9b4e34343468178c4bbcb3b
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
+Package: me.alfhaily.rockets
+Version: 3.8.31
+Architecture: iphoneos-arm64
+Maintainer: Rocket App
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64/me.alfhaily.rockets_3.8.31_iphoneos-arm64.deb
+Size: 1456876
+MD5sum: c1e24da60caab412c977bcc29efcc2fa
+SHA1: ed4a25b5f6150d96676ee731014dde19e96015cf
+SHA256: d0259d35c310d20f7a669234606b2a4e508efa914c47acd998d7fcb7614b6fc4
 Section: 应用破解
 Priority: optional
 Description: Instagram 增强插件
