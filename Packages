@@ -760,6 +760,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
 Name: Safari X
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
 
+Package: com.0xkuj.safarixs
+Version: 1.9.7
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
+Filename: ./debs/iphoneos-arm64e/com.0xkuj.safarixs_1.9.7_iphoneos-arm64e.deb
+Size: 353344
+MD5sum: f0d3502b7d2516b2679b8dee03442217
+SHA1: e19bc9c2daddcc703f1e4d1bbf296443b22a336a
+SHA256: a76d47208553b6dc4c08097cb8d07e5cb6c76a9ef498ce23c5186f9b0cac22ea
+Section: Bootstrap
+Description: Safari 浏览器增强插件
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
+
+Package: com.0xkuj.safarixs
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix, com.dao.safarix
+Filename: ./debs/iphoneos-arm64/com.0xkuj.safarixs_1.9.7_iphoneos-arm64.deb
+Size: 309652
+MD5sum: adba050bb6e4e4916fb878025c217ae9
+SHA1: c48ab95923a57099cc1a1218acbe108077a92aba
+SHA256: 74a0dcd658a10916e22d6b5c1dd0c29407d47df9f0b0a6c6de76e5afc466b853
+Section: Bootstrap
+Description: Safari 浏览器增强插件
+Author: 0xkuj
+Icon: https://TrollStoreX.Github.io/sileodepiction/SafariX/icon.png
+Name: Safari X
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SafariX/js.json
+
 Package: com.0xkuj.staypros
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -7160,6 +7197,45 @@ Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/icon.png
 Name: 我的页面资料居中 WCMyPageInfoCenter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/js.json
+
+Package: com.netskao.wctimelinemessagetails
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.netskao.wctimelinemessagetails_1.1-1_iphoneos-arm64e.deb
+Size: 7466
+MD5sum: e1493bf05ec5136ab928574dc7b7d21d
+SHA1: 92493c292684d18b7c3d99e6eb07908e948b1e4b
+SHA256: dbc03b3a5db7910326dc946278281b5e196876f2117cbb3f458c1c520ef8d685
+Section: 微信插件
+Description: 微信朋友圈消息小尾巴自定义文本
+ * 仅在 iOS 客户端可显示
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCTimeLineMessageTail/icon.png
+Name: 微信小尾巴 WCTimeLineMessageTail
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCTimeLineMessageTail/js.json
+
+Package: com.netskao.wctimelinemessagetails
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wctimelinemessagetails_1.1-1_iphoneos-arm64.deb
+Size: 5496
+MD5sum: 6ae6b913efc532b7e8151e419eb22125
+SHA1: 82fe34e93cc5d511b4cb7b6e50d3c1277fb20d24
+SHA256: ede497bdfbab5c7b1e0520fb07a6e7aba4d6972ed7bd8b755b1f78fd8aa164bc
+Section: 微信插件
+Description: 微信朋友圈消息小尾巴自定义文本
+ * 仅在 iOS 客户端可显示
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCTimeLineMessageTail/icon.png
+Name: 微信小尾巴 WCTimeLineMessageTail
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCTimeLineMessageTail/js.json
 
 Package: com.netskao.wechatnotiavatars
 Version: 1.2-5
