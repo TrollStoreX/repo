@@ -4362,6 +4362,63 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.DYYYs
+Version: 1.8.2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64e/com.huami.DYYYs_1.8.2_iphoneos-arm64e.deb
+Size: 35290
+MD5sum: f6fe521a010143e08ee9aace5080ebfd
+SHA1: 8bd8fc078a1a613885f14471241b8ec2756c373f
+SHA256: 9f729cdb511f4133a569f38194837652545f4fd39a9a3aa99e925e6983bb73ca
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.DYYYs
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.8.2_iphoneos-arm64.deb
+Size: 25880
+MD5sum: 5326cba266eb19daf0652be4d6cb515f
+SHA1: 136238c9138dad78214881de1834d30d53b8ba1a
+SHA256: b7775d9d9cc165a8a0699e42223dce0bb96aa717904ad6b6d256db2b671f1f6a
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.bilinoads
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -8865,6 +8922,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.7-8-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.7-8-1_iphoneos-arm64e.deb
+Size: 646940
+MD5sum: 57a86ab31a6d7291e6884fbbb426e798
+SHA1: ad57d8bed68d8696ddf4c8e294fa92247a6feb66
+SHA256: 5a3671dc24d2a75639bdea3f304a108620e86de9b2e62dd4d8a617860f3cd345
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.7-8-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.7-8-1_iphoneos-arm64.deb
+Size: 499432
+MD5sum: a70548a113dfba584649a1c3cb0c0901
+SHA1: 70ec74eaecbf6b2d3b63afe0c1590ee1b1063b00
+SHA256: 810afec62cf55ee36513073ab258788be6c992bd3af70179379f9d9dcf2bb63d
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -10000,6 +10096,49 @@ Description: 威锋7.3去广告,使用gior007部分代码。如果不弹通知�
 Author: z
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
 Name: 威锋去广告
+
+Package: com.weifeng.noad
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.weifeng.noad_1.2_iphoneos-arm64e.deb
+Size: 5704
+MD5sum: 687753a7062473f52b9774484e4ce521
+SHA1: bdeef2bb95e51c72335e4f78a80b84a54b5c052a
+SHA256: 212632d0adb0b94ca8aaab15d7869b70e97a55fe45cd9173a65444160feb48d4
+Section: 应用破解
+Description: 威锋 7.0.5 去广告
+ * 使用 gior007 部分代码
+ * 如果不弹通知的，不装插件进威锋一次后，再装插件就正常了。
+ * 去除推荐新内容 xx 条模块
+Author: z
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
+Name: 威锋去广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WF/js.json
+
+Package: com.weifeng.noad
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: z
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.weifeng.noad_1.2_iphoneos-arm64.deb
+Size: 4100
+MD5sum: dd2fe271ef06e2e731e13d88b60f516c
+SHA1: be484e153eecb6222186e8331ce57a92dc7223c6
+SHA256: 3807c588b3db7d3c67871f667af06d0579feb0749fa015ad5424baecaed171a2
+Section: 应用破解
+Description: 威锋 7.0.5 去广告
+ * 使用 gior007 部分代码
+ * 如果不弹通知的，不装插件进威锋一次后，再装插件就正常了。
+ * 去除推荐新内容 xx 条模块
+Author: z
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
+Name: 威锋去广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WF/js.json
 
 Package: com.wrp1002.cornbars
 Version: 1.1.0
