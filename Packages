@@ -8610,6 +8610,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
 Name: StoreSwitcher 账号切换
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
 
+Package: com.susu.suawemehooks
+Version: 1.0
+Architecture: iphoneos-arm64e
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64e/com.susu.suawemehooks_1.0_iphoneos-arm64e.deb
+Size: 23410
+MD5sum: d9b643f87c71429b668fb7b1f4057023
+SHA1: 5e2167d3767dda54997b84b42eef887b46422541
+SHA256: 8822f562ef799bb809fa04034484a6ee0382727b32cab59f2dae4e0188f02188
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.0
+Architecture: iphoneos-arm64
+Installed-Size: 204
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64/com.susu.suawemehooks_1.0_iphoneos-arm64.deb
+Size: 17472
+MD5sum: 79e1a841e25df19167d978b31eab402d
+SHA1: 9c7ea912c04f0856c2cc28c77381bcd563e01da2
+SHA256: 8cf19a4b21e5ecb0889de0a8aabea2b0dab537163e5e0ce0c2b0b3e438e3bb14
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
 Package: com.sutuplus.releasefugu15s
 Version: 5.9.0-2
 Architecture: iphoneos-arm64e
