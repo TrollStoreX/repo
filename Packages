@@ -6113,11 +6113,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.netskao.awemedownloadmedia
 Filename: ./debs/iphoneos-arm64e/com.netskao.awemedownloadmedias_1.1-8_iphoneos-arm64e.deb
-Size: 188284
-MD5sum: a3a510b34e928c33f414419a14e856c2
-SHA1: 6f05310d0c74b4e83cb685722e487807cdbaa43d
-SHA256: a5c5a360917be5730ee9084c9b5783243be08369855600c849c372a4b02aa05f
-Section: 应用破解
+Size: 188234
+MD5sum: 395cb8ab28faaa9cb56d69a830e07b81
+SHA1: 8f52a6de63a4b69b178ce71310d02061c022d34e
+SHA256: c8b3836cd7c0145eacea288e4146841df95b6a791177b059bcca9e0643160ddc
+Section: 抖音插件
 Description: 抖音下载增强插件
  * 右下角显示下载按钮
  * 无水印保存图片、视频、LivePhoto
@@ -6135,11 +6135,11 @@ Installed-Size: 208
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.netskao.awemedownloadmedia
 Filename: ./debs/iphoneos-arm64/com.netskao.awemedownloadmedias_1.1-8_iphoneos-arm64.deb
-Size: 147024
-MD5sum: ebf29cc2304cba25cfbcc91ad0cff2b8
-SHA1: 664f4eae0ccf32b596a1cf4c5764df6b57c81f8a
-SHA256: c97cbcf287bc7f5cfd54633ea8ef7c842c69c0ffd3ffee83efad7431bcbe8843
-Section: 应用破解
+Size: 147520
+MD5sum: 3cd46b6911f59ec078cb87ea1c210c4b
+SHA1: c687562b2f515c926a2ba5efc9bbfc25ee86eef0
+SHA256: 13cf588ec07100e91102d776e731a9e7e856524c480cca2ac25c9ae5da7fbfbc
+Section: 抖音插件
 Description: 抖音下载增强插件
  * 右下角显示下载按钮
  * 无水印保存图片、视频、LivePhoto
