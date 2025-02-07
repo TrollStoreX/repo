@@ -11654,6 +11654,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
+Package: com.xx.dyhooks.old
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks.old_1.0.3_iphoneos-arm64e.deb
+Size: 55388
+MD5sum: 1bca282f9c02e527b90c75a2f5115a61
+SHA1: d2c6e2823b7b5a4bd86214b586f3ba6c3a78417e
+SHA256: f16a051301e664127d63850f7c0e711919c19c5bbb9b6944fa5bb951ace32611
+Section: 抖音插件
+Description: 旧版本，功能较少
+ * 无限制使用
+ * 隐藏部分图层元素
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层旧版
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
+
+Package: com.xx.dyhooks.old
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 224
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks.old_1.0.3_iphoneos-arm64.deb
+Size: 41732
+MD5sum: 849d2d26d00b50de0259320984e73f9f
+SHA1: ba5b3d9fed737e834f22fe047059c4b8e159c53d
+SHA256: 9e9b27775cb2f5501da58eec79b9682a4e36428be2b20971a99bc669228d9cb9
+Section: 抖音插件
+Description: 旧版本，功能较少
+ * 无限制使用
+ * 隐藏部分图层元素
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层旧版
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js1.json
+
 Package: com.xx.kshooks
 Version: 1.0.6-3
 Architecture: iphoneos-arm64e
