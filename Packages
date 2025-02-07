@@ -8709,6 +8709,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
 Name: StoreSwitcher 账号切换
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
 
+Package: com.susu.fuckwechatadss
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: susu
+Installed-Size: 104
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.susu.fuckwechatads
+Filename: ./debs/iphoneos-arm64e/com.susu.fuckwechatadss_1.0.2_iphoneos-arm64e.deb
+Size: 22760
+MD5sum: 2d964f79e13258d8725bfc1b6bc857b8
+SHA1: 3b2244bc38e4f8421646d6bb41667b892860b67e
+SHA256: e2f7efb69b76d3ab6f2890b48a8ee8bf9f1bf5ffe453e5cc64a1814f2bac5d43
+Section: 微信插件
+Description: 移除微信广告
+ * 在微信 8.0.56 进行测试有效
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/FuckWeChatAds/icon.png
+Name: 微信去广告 FuckWeChatAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FuckWeChatAds/js.json
+
+Package: com.susu.fuckwechatadss
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 104
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.susu.fuckwechatads
+Filename: ./debs/iphoneos-arm64/com.susu.fuckwechatadss_1.0.2_iphoneos-arm64.deb
+Size: 16932
+MD5sum: cdbcf7e42c19c2b2169c6b4b4387fcaf
+SHA1: 453b40ff34c47c0cc5f556ce950ebf3508fb1982
+SHA256: 21ea2824f23ecaa6c14acff0e204e19c209d7de06cad1baf29ac06e19513e9eb
+Section: 微信插件
+Description: 移除微信广告
+ * 在微信 8.0.56 进行测试有效
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/FuckWeChatAds/icon.png
+Name: 微信去广告 FuckWeChatAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FuckWeChatAds/js.json
+
 Package: com.susu.suawemehooks
 Version: 1.0
 Architecture: iphoneos-arm64e
