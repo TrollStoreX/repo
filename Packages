@@ -6685,6 +6685,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音全屏 AwemeFullScreen
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
 
+Package: com.netskao.awemenoads
+Version: 1.0
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemenoads_1.0_iphoneos-arm64e.deb
+Size: 12820
+MD5sum: 76f5ec56dde709bc819ee14a7fb882ce
+SHA1: 78ae9c1d570c653f68c478fe91b971aa289eb66d
+SHA256: 2544635325bd60a213b615a2759bc1263416d214f237f611d99e1f97ba667232
+Section: 抖音插件
+Priority: optional
+Description: 抖音去广告插件
+ * 默认生效
+ * 去启动广告
+ * 去视频流广告
+ * 去青少年提醒
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音去广告 AwemeNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/js.json
+
+Package: com.netskao.awemenoads
+Version: 1.0
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.awemenoads_1.0_iphoneos-arm64.deb
+Size: 9876
+MD5sum: 0d66d2d6cbad16920ded54c58634023c
+SHA1: ed412b8b2f0eeb27909f188ca02c03f178f0c86e
+SHA256: 889934d055376bcf8a1417bb91933d90f76f5b99a485f5d06cc39067ae297dbe
+Section: 抖音插件
+Priority: optional
+Description: 抖音去广告插件
+ * 默认生效
+ * 去启动广告
+ * 去视频流广告
+ * 去青少年提醒
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音去广告 AwemeNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/js.json
+
 Package: com.netskao.awemesaveemojis
 Version: 1.1-2
 Architecture: iphoneos-arm64e
