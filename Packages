@@ -4836,6 +4836,64 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.DYYYs
+Version: 1.9-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64e/com.huami.DYYYs_1.9-8_iphoneos-arm64e.deb
+Size: 34688
+MD5sum: 4a46e50577333cad882df1b07f2e6871
+SHA1: d4d57f6133fd4ae229acc368c398a25995c78fb5
+SHA256: f19b87e324190fb8811bec348099b5fba98fc2efae070ff37c950ec4e7e091d7
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 自动连播
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.DYYYs
+Version: 1.9-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64/com.huami.DYYYs_1.9-8_iphoneos-arm64.deb
+Size: 34796
+MD5sum: 71e85ff30565ada1fb8fbe12bce47017
+SHA1: dec0889bfbb0ecb56ad51b4ca73a208ffb7796fd
+SHA256: 87b1a9fa98cf85ff57468b9480b890817feb99bcf7f7046eea3cdcb93879a472
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 自动连播
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.bilinoads
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -9240,6 +9298,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
 Name: 抖音 SuAwemeHook
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
 
+Package: com.susu.suawemehooks
+Version: 1.2-3
+Architecture: iphoneos-arm64e
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64e/com.susu.suawemehooks_1.2-3_iphoneos-arm64e.deb
+Size: 28228
+MD5sum: c6e8e97248ef7cc29d547a9bc4f553d8
+SHA1: c6fb361c9a757cc948cf5db6711bc293df9c23f8
+SHA256: 1cd3d9f3a2a48389fefd3da22c3362db80b01df93f1aafa9638b60e972a9631a
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Installed-Size: 204
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64/com.susu.suawemehooks_1.2-3_iphoneos-arm64.deb
+Size: 21144
+MD5sum: 8bbd6548e0da81d75f14bfd219396f2d
+SHA1: a9261b44772ed7984868266f18687c4fb2a0234c
+SHA256: d719b90ef88847c042f7d2190d557430744a9125d73f4d848bf9ca1934c7fa6a
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
 Package: com.sutuplus.releasefugu15s
 Version: 5.9.0-2
 Architecture: iphoneos-arm64e
@@ -10136,6 +10237,45 @@ Size: 2976792
 MD5sum: 8565b6d80e1b465dfee1ebd6ccb05c8c
 SHA1: ec9b0d41e4de0981dea73dc8aef1f50a31807936
 SHA256: a4d3ad2bb8416d01e089d070fb2c3e503a0dc878c4a86e6e778817d314b6ed94
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 1.1.6-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_1.1.6-1_iphoneos-arm64e.deb
+Size: 2950712
+MD5sum: bb67e670de488be8b3af1923d3a51430
+SHA1: 4b90ed9212aedb1f2f58a302a39fe3dc98986686
+SHA256: 48db5f9e830cc9e33919d6b355168b234b54cee9218c49c25dc1496762cab48d
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 1.1.6-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_1.1.6-1_iphoneos-arm64.deb
+Size: 2982724
+MD5sum: e8c3921fc14aaf37fea7de0868cace6e
+SHA1: 4588d0249ccee5a018e9fce6c824abf0538d0aac
+SHA256: 8824a5ef19b4eed2c2e8b1cef266c0613991e76c86db209453eadf85ea7098d0
 Section: 微信插件
 Description: 微信主题插件
 Author: WeChat
