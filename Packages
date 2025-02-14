@@ -9468,6 +9468,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
 Name: 抖音 SuAwemeHook
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
 
+Package: com.susu.suxhshooks
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: susu
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.susu.suxhshook, byg.iosios.net.suxhshook
+Filename: ./debs/iphoneos-arm64e/com.susu.suxhshooks_1.0_iphoneos-arm64e.deb
+Size: 16368
+MD5sum: cf43b4e7856cddb009d95a93b4959bc5
+SHA1: 57f83469d7eaf9ece7c584e744a573abea86a122
+SHA256: 4584c64dd48f03d666f45cbd9d0807fe0cf53a5f54298e2b5ee2a294b2c5bc58
+Section: 插件
+Description: 小红书增强插件
+ * 隐藏底栏：热点/+号/消息
+ * 无水印保存图片/视频（不支持 LivePhoto）
+ * 关于页面双击版本号启用（原 xhsplus）
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuXHSHook/icon.png
+Name: 小红书 SuXHSHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuXHSHook/js.json
+
+Package: com.susu.suxhshooks
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.susu.suxhshook, byg.iosios.net.suxhshook
+Filename: ./debs/iphoneos-arm64/com.susu.suxhshooks_1.0_iphoneos-arm64.deb
+Size: 12372
+MD5sum: 53d7e7907efdb99ec2b7eb1559f42303
+SHA1: 7b57fd71ceac14d10ae42563c76b54b081aab03d
+SHA256: a1afac337ccb54ab607abaedc40ac332b93eda6a49f8752c734925a020583010
+Section: 插件
+Description: 小红书增强插件
+ * 隐藏底栏：热点/+号/消息
+ * 无水印保存图片/视频（不支持 LivePhoto）
+ * 关于页面双击版本号启用（原 xhsplus）
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuXHSHook/icon.png
+Name: 小红书 SuXHSHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuXHSHook/js.json
+
 Package: com.sutuplus.releasefugu15s
 Version: 5.9.0-2
 Architecture: iphoneos-arm64e
