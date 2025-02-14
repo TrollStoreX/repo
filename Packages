@@ -2490,6 +2490,90 @@ Icon: https://i.imgur.com/uFWkBXD.png
 Name: HideSerialNumber 简体中文包
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
 
+Package: com.den.locktouchxs
+Version: 1.0-2+debug
+Architecture: iphoneos-arm64e
+Maintainer: MrDeNsor
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.locktouchx
+Filename: ./debs/iphoneos-arm64e/com.den.locktouchxs_1.0-2+debug_iphoneos-arm64e.deb
+Size: 14628
+MD5sum: 71c6c8e5b215a37b8e73b0ffd20c65a7
+SHA1: 2317505df20b7d78cb08047250a92dcac07c9194
+SHA256: b8f356128df1da1315305fa901e31a710416aab8e9417323d805343cfd262365
+Section: Tweaks
+Description: 为应用程序添加 Touch ID 锁定验证，就像 iOS 18 中的安全功能一样
+ * Adds Touch ID authentication to apps, just like the security features in iOS 18
+Author: MrDeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/icon.png
+Name: LockTouchX 应用锁
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/js.json
+
+Package: com.den.locktouchxs
+Version: 1.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: MrDeNsor
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.locktouchx
+Filename: ./debs/iphoneos-arm64/com.den.locktouchxs_1.0-2+debug_iphoneos-arm64.deb
+Size: 11024
+MD5sum: 9163ac26e3922c7b9c6c196eb99f6aec
+SHA1: c62ca0ceb05696de0349e8c93afcee4bcff64ec4
+SHA256: 538fb38eaf749a02949d6a2eeb1c8a36b2fd5461fa19a5120d656b94f0a6fbc0
+Section: Tweaks
+Description: 为应用程序添加 Touch ID 锁定验证，就像 iOS 18 中的安全功能一样
+ * Adds Touch ID authentication to apps, just like the security features in iOS 18
+Author: MrDeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/icon.png
+Name: LockTouchX 应用锁
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/js.json
+
+Package: com.den.twigalaxys
+Version: 1.1-13
+Architecture: iphoneos-arm64e
+Maintainer: DeNsor
+Installed-Size: 464
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.twigalaxy
+Filename: ./debs/iphoneos-arm64e/com.den.twigalaxys_1.1-13_iphoneos-arm64e.deb
+Size: 87368
+MD5sum: 87763b55c3f90b6df5706311dd6e326e
+SHA1: 766acf0e294de5ee1a92ba04c3bba6774c411746
+SHA256: 2bc8d315a73fa1224577be5507a81efdfaea0ea9461e216cbe283b3d4c1f8c65
+Section: 应用破解
+Description: X/Twitter 增强插件
+ * 插件位于底栏菜单右侧
+ * Make Twitter Better
+Author: DeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
+Name: TWIGalaxy
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
+
+Package: com.den.twigalaxys
+Version: 1.1-13
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.twigalaxy
+Filename: ./debs/iphoneos-arm64/com.den.twigalaxys_1.1-13_iphoneos-arm64.deb
+Size: 56868
+MD5sum: 93aa1477bb30dfb634d7902171c33955
+SHA1: cfc94885ecd7f18e1888f397739a41e2cc10b381
+SHA256: 5991642653c4f06c1511c29fa7f79a6b0b0fd0e856fb929b01b84d5d034f7b01
+Section: 应用破解
+Description: X/Twitter 增强插件
+ * 插件位于底栏菜单右侧
+ * Make Twitter Better
+Author: DeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
+Name: TWIGalaxy
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
+
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.1
 Architecture: iphoneos-arm64e
@@ -2724,26 +2808,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
 Package: com.dvntm.cc18s
 Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Conflicts: com.dvntm.cc18
-Filename: ./debs/iphoneos-arm64e/com.dvntm.cc18s_0.0.2_iphoneos-arm.deb
-Size: 4500
-MD5sum: 62dde2bac33729303fb4bf3b59103d3c
-SHA1: 4c20228f7f3d8a5514a2e96c8c82d1719da4e85e
-SHA256: ca1593b99434235dc999fe7c089467ef0941949f47af4dbdaae426437d553d5f
-Section: Tweaks
-Description: iOS 18 圆角控制中心
- * Round CC modules replication, like in iOS 18
-Author: dvntm
-Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
-Name: CC18 iOS18 圆角控制中心
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
-
-Package: com.dvntm.cc18s
-Version: 0.0.2
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
 Installed-Size: 152
@@ -2754,6 +2818,26 @@ Size: 4508
 MD5sum: 95fb83c9202ff87225eb33846c09a55a
 SHA1: 5e240be943317c172a1a063be04f335c1eeec738
 SHA256: 40e5d2c273438b0eaf20acbe31f23e2ce4861294cc0625b2d9b6242c8bab35bb
+Section: Tweaks
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Name: CC18 iOS18 圆角控制中心
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
+Package: com.dvntm.cc18s
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/iphoneos-arm64e/com.dvntm.cc18s_0.0.2_iphoneos-arm.deb
+Size: 4500
+MD5sum: 62dde2bac33729303fb4bf3b59103d3c
+SHA1: 4c20228f7f3d8a5514a2e96c8c82d1719da4e85e
+SHA256: ca1593b99434235dc999fe7c089467ef0941949f47af4dbdaae426437d553d5f
 Section: Tweaks
 Description: iOS 18 圆角控制中心
  * Round CC modules replication, like in iOS 18
@@ -5191,26 +5275,6 @@ Package: com.immortalizer.zh-Hans
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: 巨魔商店 Telegram
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
-Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
-Size: 3872
-MD5sum: 0180da62cbdcb474d5d581c97affe305
-SHA1: 5f766753106974fc5928d18212d6ee1467107a72
-SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
-Section: 汉化
-Description: zh-Hans for Immortalizer
- * Immortalizer 简体中文包
-Author: 巨魔商店 Telegram
-Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
-Name: Immortalizer 简体中文
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
-
-Package: com.immortalizer.zh-Hans
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: 巨魔商店 Telegram
 Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -5225,6 +5289,26 @@ Description: zh-Hans for Immortalizer
  * Immortalizer 简体中文包
 Author: 巨魔商店 Telegram
 Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/Immortalizer.png
+Name: Immortalizer 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
+
+Package: com.immortalizer.zh-Hans
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
+Size: 3872
+MD5sum: 0180da62cbdcb474d5d581c97affe305
+SHA1: 5f766753106974fc5928d18212d6ee1467107a72
+SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
+Section: 汉化
+Description: zh-Hans for Immortalizer
+ * Immortalizer 简体中文包
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
 Name: Immortalizer 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
 
@@ -5891,15 +5975,14 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Nathan Senter
 Installed-Size: 136
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
-Size: 5692
-MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
-SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
-SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
+Size: 4072
+MD5sum: eea4504514f5ad60d8386a1f7651a8b4
+SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
+SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -5909,14 +5992,15 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
-Size: 4072
-MD5sum: eea4504514f5ad60d8386a1f7651a8b4
-SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
-SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
+Size: 5692
+MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
+SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
+SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -7646,17 +7730,16 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/
 
 Package: com.netskao.wcmypageinfocenters
 Version: 1.1-7
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 140
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0)
 Conflicts: com.netskao.wcmypageinfocenter
-Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenters_1.1-7_iphoneos-arm64e.deb
-Size: 69782
-MD5sum: 5007b1561e042538bc286182af4d2ba3
-SHA1: 9bafa987206964d20041148e4ad79122cf6f3984
-SHA256: d4a5a1add75083749ce9dc58ef41ad51af64a6a569145e87ef19f3dcf6206f4f
+Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenters_1.1-7_iphoneos-arm64.deb
+Size: 52644
+MD5sum: 86324f9e2d44c1c6130104d0e7f16a51
+SHA1: dbe206828f38991ee72ccc16ca6529d08f84c27b
+SHA256: b4e136bdd289e70f68da93f120fe89b34cbb3c0425571f1743694dce19f3face
 Section: 微信插件
 Description: 微信个人资料居中
  * 仅支持微信 8.0.51 及更高版本
@@ -7668,16 +7751,17 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCMyPageInfoCenter/
 
 Package: com.netskao.wcmypageinfocenters
 Version: 1.1-7
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Nets
 Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0)
 Conflicts: com.netskao.wcmypageinfocenter
-Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenters_1.1-7_iphoneos-arm64.deb
-Size: 52644
-MD5sum: 86324f9e2d44c1c6130104d0e7f16a51
-SHA1: dbe206828f38991ee72ccc16ca6529d08f84c27b
-SHA256: b4e136bdd289e70f68da93f120fe89b34cbb3c0425571f1743694dce19f3face
+Filename: ./debs/iphoneos-arm64/com.netskao.wcmypageinfocenters_1.1-7_iphoneos-arm64e.deb
+Size: 69782
+MD5sum: 5007b1561e042538bc286182af4d2ba3
+SHA1: 9bafa987206964d20041148e4ad79122cf6f3984
+SHA256: d4a5a1add75083749ce9dc58ef41ad51af64a6a569145e87ef19f3dcf6206f4f
 Section: 微信插件
 Description: 微信个人资料居中
  * 仅支持微信 8.0.51 及更高版本
@@ -9331,6 +9415,49 @@ Size: 21144
 MD5sum: 8bbd6548e0da81d75f14bfd219396f2d
 SHA1: a9261b44772ed7984868266f18687c4fb2a0234c
 SHA256: d719b90ef88847c042f7d2190d557430744a9125d73f4d848bf9ca1934c7fa6a
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.2-4
+Architecture: iphoneos-arm64e
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64e/com.susu.suawemehooks_1.2-4_iphoneos-arm64e.deb
+Size: 29426
+MD5sum: 643ca5c4266700d6527362d94b78288b
+SHA1: 063c5fc1627ef434126e2bc472f2d2d13c2b0949
+SHA256: 0deb1341ce1d6ff55ef626571d88537d080fc0b4374ba706d7087d0f4a43f678
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Installed-Size: 204
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64/com.susu.suawemehooks_1.2-4_iphoneos-arm64.deb
+Size: 21936
+MD5sum: 42dffb85ad87244c6e1b85f46e80f6fb
+SHA1: 7a6008ad28d165aacd710df68623f085d79c311d
+SHA256: c251f441f536391fe187ca5e561112a4fb73aada4f54e776252c7c88fdb02582
 Section: 抖音插件
 Priority: optional
 Description: 抖音增强插件
