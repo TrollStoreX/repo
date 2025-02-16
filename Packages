@@ -920,6 +920,49 @@ Name: 微信助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-1
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootlesss_3.8-1_iphoneos-arm64e.deb
+Size: 8906300
+MD5sum: 750931b14446c84792a1132fa72201ba
+SHA1: 64dc645b609aefb64c9304a7c2dc214070e2dadd
+SHA256: 0eba3ac4a4b3956306dca15e38e0c3c76edf3f8263690d6bd8fcb8c4a5961781
+Section: 微信插件
+Priority: optional
+Description: 微信助手、老猫助手、微信密友
+  * 微信多功能插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootlesss_3.8-1_iphoneos-arm64.deb
+Size: 9025980
+MD5sum: 965ad84a19caa5c222d64ed34aacb93d
+SHA1: 93836f35edbd58adb16dbb4394fdca108bf40f89
+SHA256: 0a45496b479406fc7f88baf935c77a14ff0c7ce986d0e3c4a38ce2f089b34442
+Section: 微信插件
+Priority: optional
+Description: 微信助手、老猫助手、微信密友
+  * 微信多功能插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
+Sponsor: admin@25mao.com
+
 Package: com.25mao.wcplugins.rootlesss
 Version: 0.1-3
 Architecture: iphoneos-arm64e
@@ -1705,6 +1748,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
 Name: 抖音 豆包助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
 
+Package: com.BeanbunsHelpers.DBs
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: Beanbuns
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.BeanbunsHelpers.DB
+Filename: ./debs/iphoneos-arm64e/com.BeanbunsHelpers.DBs_1.0-3_iphoneos-arm64e.deb
+Size: 643426
+MD5sum: ac2280e024d3d95d8048f6100a416884
+SHA1: 3f942664011d5e76b028b0b52c2c4aa2e1575c47
+SHA256: 646fe81493f2e62e23fa353084ca35953a1bb2bd2d344e7c46650b5158015864
+Section: 抖音插件
+Description: 抖音增强插件
+ * 无水印保存视频、图片、音频
+ * 双击打开评论区
+ * 隐藏菜单按钮
+ * 插件位于抖音设置内
+Author: Beanbuns
+Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
+Name: 抖音 豆包助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
+
+Package: com.BeanbunsHelpers.DBs
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Conflicts: com.BeanbunsHelpers.DB
+Filename: ./debs/iphoneos-arm64/com.BeanbunsHelpers.DBs_1.0-3_iphoneos-arm64.deb
+Size: 456796
+MD5sum: afd39565c5b0718908bfe8b3b359aeee
+SHA1: 1fc3a8c53809a5a67757dedb199f62e18e3a66bc
+SHA256: 3125c16dfaa0cdc55de88c5b24910c6674e47dd5c1d4c181b1c871b747127a4d
+Section: 抖音插件
+Description: 抖音增强插件
+ * 无水印保存视频、图片、音频
+ * 双击打开评论区
+ * 隐藏菜单按钮
+ * 插件位于抖音设置内
+Author: Beanbuns
+Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
+Name: 抖音 豆包助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
+
 Package: com.HBWechatHelper.ailuns
 Version: 1.7-6
 Architecture: iphoneos-arm64e
@@ -1857,6 +1945,57 @@ Description: 微信插件多功能插件
  * 朋友圈自定义选取位置
  * 消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，
  * 微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.HBWechatHelper.ailuns
+Version: 1.7-9
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailuns_1.7-9_iphoneos-arm64e.deb
+Size: 11099780
+MD5sum: 2da446ecae19ce9138e58941d368aee2
+SHA1: 848068c9e944ce609e19550373bdc6e654e6368a
+SHA256: 47574e83c295d411a0e6dc4bbec52f7ae399bf9572690edbd391059073a82c84
+Section: 微信插件
+Description: 微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.HBWechatHelper.ailuns
+Version: 1.7-9
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.7-9_iphoneos-arm64.deb
+Size: 11100048
+MD5sum: 839e1295e7d45bdd10e2e0ab5580de41
+SHA1: c0343065b6ff99cdc7e7e3f62456b80c552acf78
+SHA256: 11b0cdaef0f49c8a289a0cb32acb1623e84e80cd722fe7240cdecaeab8877f5d
+Section: 微信插件
+Description: 微信插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
 Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
 Name: 黄白助手
