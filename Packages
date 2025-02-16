@@ -8140,6 +8140,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/icon.
 Name: NotificationsGroupCount 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NotificationsGroupCount/js1.json
 
+Package: com.nwzj.hooktcs
+Version: 0.2
+Architecture: iphoneos-arm64e
+Maintainer: nwzj
+Installed-Size: 123
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.nwzj.hooktcs_0.2_iphoneos-arm64e.deb
+Size: 247796
+MD5sum: dc1d16fe54bc2bfa779e6257f4c3909d
+SHA1: a3e8cc290646e33c7e97667ab9bb97ff86fe8bee
+SHA256: dcc2c08389036f46083c7399bb2f7b3183ce67174c20bc93561d47e81383e7b2
+Section: 应用破解
+Description: 删除图层时间限制
+Author: nwzj
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aa2
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
+Package: com.nwzj.hooktcs
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: nwzj
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nwzj.hooktcs_0.2_iphoneos-arm64.deb
+Size: 163508
+MD5sum: 542d467b9e8c8b496b91880101d7bc2b
+SHA1: 8afd837d0de507044572a4eb9fc987e30f5c9c42
+SHA256: 527a5c23bbb47c75c237a67756fd3fd0fc304c6ad5fd82e0b98e12f519172426
+Section: 应用破解
+Description: 删除图层时间限制
+Author: nwzj
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aa2
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
 Package: com.opa334.choicys
 Version: 1.5
 Architecture: iphoneos-arm64e
