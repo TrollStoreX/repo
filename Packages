@@ -9831,6 +9831,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
 Name: 抖音 SuAwemeHook
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
 
+Package: com.susu.suawemehooks
+Version: 1.2-8
+Architecture: iphoneos-arm64e
+Maintainer: susu
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64e/com.susu.suawemehooks_1.2-8_iphoneos-arm64e.deb
+Size: 31066
+MD5sum: 9e4c60bb516138ea258fbccca43e768b
+SHA1: e5e32e6d97c3a8b49efc64780ea36d7dadd28c16
+SHA256: 61c73c5f35060e113d263eb2e58238d4ed7dc3803e7760b36e7e87f6bc59b0b0
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64/com.susu.suawemehooks_1.2-8_iphoneos-arm64.deb
+Size: 22972
+MD5sum: 1ea070d2015b55bf7568b99e059a6886
+SHA1: 7538976ce7dc792cc91ce7a0d90d2c0b479ad3aa
+SHA256: 5cc601d2c54e8107dd85da96964060436cd1797c9876f42cbd4744eaf0671a88
+Section: 抖音插件
+Priority: optional
+Description: 抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
 Package: com.susu.suxhshooks
 Version: 1.0
 Architecture: iphoneos-arm64e
