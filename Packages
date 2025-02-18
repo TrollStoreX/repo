@@ -8528,6 +8528,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
 Name: 逆无止境图层 1aa2
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
 
+Package: com.nwzj.hooktcs
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: 逆无止境
+Installed-Size: 123
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.nwzj.hooktcs_0.3_iphoneos-arm64e.deb
+Size: 138566
+MD5sum: f08c9b94d396513858bc00a4fb1dfcd1
+SHA1: 3e84ad5888e387a0c4a8f8ee610eaee26c24c530
+SHA256: e38a769184fa92856f4e130d816a0cbb64fa50af8e66c4fe85cc325e5b2a3620
+Section: 应用破解
+Description: 删除图层时间限制，屏蔽服务器闪退
+Author: 逆无止境
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aaa3
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
+Package: com.nwzj.hooktcs
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 逆无止境
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.nwzj.hooktcs_0.3_iphoneos-arm64.deb
+Size: 95768
+MD5sum: 9d57c74396486ad043bb89910edca058
+SHA1: 6a58aa11eeaf7f01f70ef6883e5d077825f3c47c
+SHA256: aa8fb2efcac520cbed2d03fb2b9a9ed102fa43055e799db31f19c23c20495ed1
+Section: 应用破解
+Description: 删除图层时间限制，屏蔽服务器闪退
+Author: 逆无止境
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aaa3
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
 Package: com.opa334.choicys
 Version: 1.5
 Architecture: iphoneos-arm64e
