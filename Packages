@@ -5963,6 +5963,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/icon.png
 Name: 临时绕过面容 PassbyCC
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PassbyCC/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.8.1
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 4972
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_1.8.1_iphoneos-arm64e.deb
+Size: 1126096
+MD5sum: 08cdc2baea86084b760c92acce2d000c
+SHA1: b9cba2d7d7c18de14a279c0601c57f5f6e6d1380
+SHA256: 0a6181601220cc2651876f7783386c31f5ac4dfbfe1c45469673c2f3056d3151
+Section: Tweaks
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 4972
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_1.8.1_iphoneos-arm64.deb
+Size: 1110688
+MD5sum: 151171d2a2e6039658d7d565d84c6099
+SHA1: 8e0875ac4ced04dd6ed8062031ccaf8707b22ed6
+SHA256: 962126833e1cdef9ac621dc6d26c3529541cb00a489a93a1d9560659179c695a
+Section: Tweaks
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.telegramnoseparatorss
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -13885,6 +13923,44 @@ Author: i0s_tweak3r
 Icon: https://TrollStoreX.Github.io/sileodepiction/abc/icon.png
 Name: 取消农业银行越狱检测弹窗
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/abc/js.json
+
+Package: com.yourepo.lly.adsspee-rootlesss
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/iphoneos-arm64e/com.yourepo.lly.adsspee-rootlesss_1.1.2_iphoneos-arm64e.deb
+Size: 109016
+MD5sum: 9434bceb7eeed7b0c81d532bd74fca88
+SHA1: 506d001f85f1fdffa3dce1e3325db0df6b7fa7c5
+SHA256: 8baf551207b828e46b93691cfb18ce3d8cf61617157e7408c8be6a355d7b27bf
+Section: Tweaks
+Description: 快速跳过激励视频广告，奖励正常领取
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/icon.png
+Name: 快速跳过广告 VideoAdsSpeed
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/js.json
+
+Package: com.yourepo.lly.adsspee-rootlesss
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/iphoneos-arm64/com.yourepo.lly.adsspee-rootlesss_1.1.2_iphoneos-arm64.deb
+Size: 108816
+MD5sum: 1b7c4b8cd2fca3e41901ede4b19040c3
+SHA1: 3cac80bfd2be74d97f8cf976e7dc9d6ef1a6493e
+SHA256: adef3748ee3afc5cbf352018363dce7f6df5c239bf3204aa23ff48142ba1b225
+Section: Tweaks
+Description: 快速跳过激励视频广告，奖励正常领取
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/icon.png
+Name: 快速跳过广告 VideoAdsSpeed
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/js.json
 
 Package: it.ned.noappthinnings
 Version: 1.2
