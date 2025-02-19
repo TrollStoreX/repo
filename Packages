@@ -8618,6 +8618,57 @@ Name: Choicy 禁止注入
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Choicy/js.json
 Sponsor: thebigboss.org
 
+Package: com.opa334.choicys
+Version: 1.5.2-2
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 888
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: ./debs/iphoneos-arm64e/com.opa334.choicys_1.5.2-2_iphoneos-arm64e.deb
+Size: 213592
+MD5sum: 398ebbf658c43b255f30680e32201006
+SHA1: 6c3d4b96acad7ba30931b807a09ecd22e8f351e3
+SHA256: b9970a3a07472e1b86b64d4bd3fafcf5cb53cf01ac7e3e62e5b16ccbcc4fcf38
+Section: opa334
+Description: 一个高级的插件配置工具
+ * 不是越狱检测绕过工具
+ * 为每个进程单独禁用插件注入
+ * 为每个进程单独配置每个插件的动态库（dylib）
+ * 全局禁用插件（可为单独的进程设置例外）
+ * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
+ * 请从“设置”中进行配置
+Author: opa334
+Icon: https://TrollStoreX.Github.io/sileodepiction/Choicy/icon.png
+Name: Choicy 禁止注入
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Choicy/js.json
+
+Package: com.opa334.choicys
+Version: 1.5.2-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 888
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: ./debs/iphoneos-arm64/com.opa334.choicys_1.5.2-2_iphoneos-arm64.deb
+Size: 160424
+MD5sum: a09be32190288f286edb737ba0206e16
+SHA1: 7cc5cf555483f9d7414745ddbf6381729695f2fb
+SHA256: 6f6b88bafdd350232636be59d25e612592d9517610261898fe1a03cd34c289b4
+Section: opa334
+Description: 一个高级的插件配置工具
+ * 不是越狱检测绕过工具
+ * 为每个进程单独禁用插件注入
+ * 为每个进程单独配置每个插件的动态库（dylib）
+ * 全局禁用插件（可为单独的进程设置例外）
+ * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
+ * 请从“设置”中进行配置
+Author: opa334
+Icon: https://TrollStoreX.Github.io/sileodepiction/Choicy/icon.png
+Name: Choicy 禁止注入
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Choicy/js.json
+
 Package: com.opa334.dopamine.trollstore
 Version: 1.0
 Architecture: iphoneos-arm64e
