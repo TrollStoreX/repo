@@ -8853,6 +8853,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 Name: TwitterNoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
 
+Package: com.p2kdev.twitternoadss
+Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.p2kdev.twitternoads
+Filename: ./debs/iphoneos-arm64e/com.p2kdev.twitternoadss_1.2.5_iphoneos-arm64e.deb
+Size: 9938
+MD5sum: 3870f20a288b94fca2fd20cff43ffeaf
+SHA1: 04864ac8e2e93fe709b631608edf10b3b0eca285
+SHA256: 74b5fe4978bcad01bdc4bb2bcb99842a11de78b88543d1ad5cab4661b7888a3e
+Section: 应用破解
+Description: 去除 X Twitter 广告
+ * No Ads in the Twitter App
+Author: P2KDev
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
+
+Package: com.p2kdev.twitternoadss
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Installed-Size: 172
+Depends: mobilesubstrate
+Conflicts: com.p2kdev.twitternoads
+Filename: ./debs/iphoneos-arm64/com.p2kdev.twitternoadss_1.2.5_iphoneos-arm64.deb
+Size: 7544
+MD5sum: 4a1ef8014c8e18e32a210e2558655cf7
+SHA1: 963452a927bf26b08023df80cb494fca00234000
+SHA256: 8fe4be8f6ff60510531be22beac68a85a228ec9a78fb2bff862ad9b8e219993c
+Section: 应用破解
+Description: 去除 X Twitter 广告
+ * No Ads in the Twitter App
+Author: P2KDev
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
+Name: TwitterNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js.json
+
 Package: com.ps.cahighfpss
 Version: 1.3.1
 Architecture: iphoneos-arm64e
