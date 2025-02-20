@@ -8642,6 +8642,64 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
 Name: 逆无止境图层 1aaa3
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
 
+Package: com.nwzj.hooktcs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 逆无止境
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
+Filename: ./debs/iphoneos-arm/com.nwzj.hooktcs_1.0_iphoneos-arm.deb
+Size: 92424
+MD5sum: dc6ed546106c90c9eef3a94bfdabfb73
+SHA1: 3c27a85a5626f04b8842d48c18444be0129ab6d9
+SHA256: 41766e252ed29c93a1876de1887b351c9d7199b19aa99aea974978e551549477
+Section: 抖音插件
+Description: 删除图层时间限制，屏蔽服务器远程闪退
+Author: 逆无止境
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aaa3
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
+Package: com.nwzj.hooktcs
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 逆无止境
+Installed-Size: 123
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
+Filename: ./debs/iphoneos-arm64e/com.nwzj.hooktcs_1.0_iphoneos-arm64e.deb
+Size: 132490
+MD5sum: 6c8f22190e2467277fc75c4ae06ff82d
+SHA1: e2bae873d52cbc0598aefd7b7122390b09991cba
+SHA256: 5bd3e68f8cbc7e97ae29e279b9c33655f30ef454f4fa1c98c86c8a66752de0c5
+Section: 抖音插件
+Description: 删除图层时间限制，屏蔽服务器远程闪退
+Author: 逆无止境
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aaa3
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
+Package: com.nwzj.hooktcs
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 逆无止境
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
+Filename: ./debs/iphoneos-arm64/com.nwzj.hooktcs_1.0_iphoneos-arm64.deb
+Size: 90432
+MD5sum: 02c2d7fdc71551a3b2833002afaaa203
+SHA1: eb8f391a0ff210343a590f259ebcdeb109bdaf36
+SHA256: 1c11daf86ec31498fd3f7d6df2b10b1696510aa48bba88a0cce4909c6b79adfb
+Section: 抖音插件
+Description: 删除图层时间限制，屏蔽服务器远程闪退
+Author: 逆无止境
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aaa3
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
 Package: com.opa334.choicys
 Version: 1.5
 Architecture: iphoneos-arm64e
