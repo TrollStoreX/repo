@@ -2081,6 +2081,57 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
 Name: 黄白助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
 
+Package: com.HBWechatHelper.ailuns
+Version: 1.8
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64e/com.HBWechatHelper.ailuns_1.8_iphoneos-arm64e.deb
+Size: 11212964
+MD5sum: f1059a6da660615c81720d4627d6d45e
+SHA1: c3a5ecf1aac4e439ddced94e8b7ba76d0107e6a6
+SHA256: e02cbc6cab7dc3d301272526b703b19fd732f829106ef4d314cc5555f08e3472
+Section: 微信插件
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.HBWechatHelper.ailuns
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64/com.HBWechatHelper.ailuns_1.8_iphoneos-arm64.deb
+Size: 11201844
+MD5sum: 3661b98e92fe70ba27250fdeb9ac5be6
+SHA1: 06a1d5c9a23568088647360eb0d704cd1f135039
+SHA256: 04d1681c816d732e7733ebc8c2dbae8c17e97079867fbfddcd9ee9209d223eb0
+Section: 微信插件
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
 Package: com.anthopak.appaze3s
 Version: 1.0
 Architecture: iphoneos-arm64e
