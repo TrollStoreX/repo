@@ -5753,9 +5753,9 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.huami.wcnicknameavatarstyle
 Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyles_1.0-5_iphoneos-arm64e.deb
 Size: 36388
-MD5sum: 19028cb243d327daddc0cbd37a653d28
-SHA1: 3d879fa6c8ae4b5fbfacc0c9707952ea59b774c9
-SHA256: 746276cb044e76665e4dafe16683e338b4c862d15a6418055c119fb8ecaad1d8
+MD5sum: 57be63b45cd021da3a06736712f8b7f6
+SHA1: 32f8e43bad6b31bb0c44d34d0208ebbfbd2093f5
+SHA256: 1295477d1f75bc9b446ed68716782767d20200381dd873edce85b0a3e7a76d3a
 Section: 微信插件
 Description: 微信聊天界面昵称添加好友头像
  * 依赖老猫的「插件收纳」
@@ -5772,10 +5772,10 @@ Installed-Size: 272
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.huami.wcnicknameavatarstyle
 Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyles_1.0-5_iphoneos-arm64.deb
-Size: 36484
-MD5sum: c11896fea87968735aaa87274523409a
-SHA1: 20caebfd569df2aa49263221e965aa7556af4ccd
-SHA256: 2a9425a401cad339b27b22dc908466f3430604bcd80b2d79a800b6db4aa267ab
+Size: 36384
+MD5sum: a6b49939cf6d013bf5a163d9ecc80523
+SHA1: 1eed805f0a33437d61f71919c9099d9d7c1a0e81
+SHA256: 88e6d75446abaeab02b3388985311eedc6e32b746b6fd645df66e0f714e9da35
 Section: 微信插件
 Description: 微信聊天界面昵称添加好友头像
  * 依赖老猫的「插件收纳」
