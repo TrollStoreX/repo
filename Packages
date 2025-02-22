@@ -5635,44 +5635,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Weibo/icon.png
 Name: 微博 WBNoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Weibo/js.json
 
-Package: com.huami.wcavatarbuttons
-Version: 1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.huami.wcavatarbutton
-Filename: ./debs/iphoneos-arm64e/com.huami.wcavatarbuttons_1.0-1_iphoneos-arm64e.deb
-Size: 5056
-MD5sum: 1e142cbb58a55bfedced659c4d8b8739
-SHA1: 91a6359cc244983f92c0612ebb878d9ea8013abd
-SHA256: a2f999fa462fba1f739796641ccbbfbef163f2bbf3a43b85901c917f9cbc6bba
-Section: 微信插件
-Description: 微信聊天右侧显示头像
-Author: huami
-Icon: https://TrollStoreX.Github.io/sileodepiction/WCAvatarButton/icon.png
-Name: 微信聊天右侧显示头像 WCAvatarButton
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCAvatarButton/js.json
-
-Package: com.huami.wcavatarbuttons
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.huami.wcavatarbutton
-Filename: ./debs/iphoneos-arm64/com.huami.wcavatarbuttons_1.0-1_iphoneos-arm64.deb
-Size: 5112
-MD5sum: 19e6eccf9241c7d3f9a532132a6bffb5
-SHA1: a498998e8730c3662b61e91bf2e7863931e4ad2d
-SHA256: ebb27d9e55e370aecd1f872d295402fc5cfc7887e82468c4b97e73809d260b2a
-Section: 微信插件
-Description: 微信聊天右侧显示头像
-Author: huami
-Icon: https://TrollStoreX.Github.io/sileodepiction/WCAvatarButton/icon.png
-Name: 微信聊天右侧显示头像 WCAvatarButton
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCAvatarButton/js.json
-
 Package: com.huami.wcnicknameavatarstyles
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -5693,22 +5655,49 @@ Name: 微信聊天中间显示头像 WCNicknameAvatarStyle
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
 
 Package: com.huami.wcnicknameavatarstyles
-Version: 1.0-1
-Architecture: iphoneos-arm64
+Version: 1.0-2
+Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 168
+Installed-Size: 256
 Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.huami.wcnicknameavatarstyle
-Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyles_1.0-1_iphoneos-arm64.deb
-Size: 5896
-MD5sum: d976d6e6fa4bad7a8ec23bc8fecc6e39
-SHA1: fb8e9fa3afe842ec2f60d1efd036547736b24102
-SHA256: efd563caf12b1b403252cc1cf11d8f621bd66bfc3fba43204f0398d9b37c5827
+Conflicts: com.huami.wcavatarbutton
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyles_1.0-2_iphoneos-arm64e.deb
+Size: 31124
+MD5sum: e79447fb2c5f3f14f351a5c19c245f67
+SHA1: 2eede7c3531a00e67f72a512f0039c41c5eff5e1
+SHA256: 508416e6221bac2aed78c4b913cb54e74322289d306b3ae9df71c3ce8f43c803
 Section: 微信插件
-Description: 微信聊天中间显示头像
+Description: 微信聊天界面昵称添加好友头像
+ * 依赖老猫的「插件收纳」
+ * 可设置为左、中、右位置
+ * 圆角 0.5 为圆形
+ * 修改圆角闪退请安装「黄白助手」
 Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.png
-Name: 微信聊天中间显示头像 WCNicknameAvatarStyle
+Name: 微信顶栏元素 WCNicknameAvatarStyle
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
+
+Package: com.huami.wcnicknameavatarstyles
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 256
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcavatarbutton
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyles_1.0-2_iphoneos-arm64.deb
+Size: 31116
+MD5sum: 7b63f74590af828ce50c19deefbf3d56
+SHA1: cf1370430d2de5cfe722ab16ba3e9d0ef83fbc94
+SHA256: 3558e8a0a820ed49ca37a37e265138d5ce6aab62ba6bf97d5a085034ce7cf5d2
+Section: 微信插件
+Description: 微信聊天界面昵称添加好友头像
+ * 依赖老猫的「插件收纳」
+ * 可设置为左、中、右位置
+ * 圆角 0.5 为圆形
+ * 修改圆角闪退请安装「黄白助手」
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.png
+Name: 微信顶栏元素 WCNicknameAvatarStyle
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
 
 Package: com.hw.imepremium
