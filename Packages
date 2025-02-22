@@ -6557,6 +6557,47 @@ Author: Ruphane
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
 Name: PodsGrant
 
+Package: com.lns.whereplays
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.whereplay
+Filename: ./debs/iphoneos-arm64e/com.lns.whereplays_0.0.2_iphoneos-arm64e.deb
+Size: 8440
+MD5sum: d54839a5e12380f17346299c99d5edd3
+SHA1: 0fb19f5bd8e553d0779152e267260b107c50c0cf
+SHA256: a4c65954bdf3d70a34dff0bca908f1b80f0313dd89fde7e63fc5dbf4df5373c8
+Section: Tweaks
+Description: 将“隔空播放”图标替换为已连接设备的 iOS 插件
+ * An iOS tweak that replaces the AirPlay icon to the device connected
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
+Name: WherePlay
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WherePlay/js.json
+
+Package: com.lns.whereplays
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.whereplay
+Filename: ./debs/iphoneos-arm64/com.lns.whereplays_0.0.2_iphoneos-arm64.deb
+Size: 6228
+MD5sum: 27e32f56a8433f8d6b7a55ccaecc4214
+SHA1: f95e3bcdc9a949e58c49f62719558bad5c58e4d1
+SHA256: 92691ee62915fb3afd384e02dc1b67db2751c4e525d479d756fed5d0a33693f8
+Section: Tweaks
+Description: 将“隔空播放”图标替换为已连接设备的 iOS 插件
+ * An iOS tweak that replaces the AirPlay icon to the device connected
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
+Name: WherePlay
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WherePlay/js.json
+
 Package: com.mikifp.griddys
 Version: 1.0.4
 Architecture: iphoneos-arm64e
