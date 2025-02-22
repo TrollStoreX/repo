@@ -14540,6 +14540,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Fiona/icon.png
 Name: Fiona 底栏浮动
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Fiona/js.json
 
+Package: com.ydw.BypassWechatMSG
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: BypassWechatMSG
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.ydw.BypassWechatMSG_0.0.2_iphoneos-arm64e.deb
+Size: 460634
+MD5sum: a5de2f8bbd62e298c7fae49f8bc68d9c
+SHA1: 776e1fbb789ef8bea8d084b66935f15bc5f9e829
+SHA256: 04e230f314d8786805af564a1010eed24a53945eda6f2625bf530bdeb88d1655
+Section: 微信插件
+Description: 修改「合并转发」聊天记录预览内容文本
+ * 依赖老猫「插件收纳」
+Author: BypassWechatMSG
+Icon: https://TrollStoreX.Github.io/sileodepiction/BypassWechatMSG/icon.png
+Name: 微信内容娱乐 BypassWechatMSG
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BypassWechatMSG/js.json
+
+Package: com.ydw.BypassWechatMSG
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: BypassWechatMSG
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.ydw.BypassWechatMSG_0.0.2_iphoneos-arm64.deb
+Size: 323160
+MD5sum: 088eeb3556cc2e55255ded1c1908a368
+SHA1: 67b1fabfa7fe13757324c83bfee485019e3de829
+SHA256: 3a4246172292b6a0eb66fe6a72fced513ca7e54dd99152805c522015939ae709
+Section: 微信插件
+Description: 修改「合并转发」聊天记录预览内容文本
+ * 依赖老猫「插件收纳」
+Author: BypassWechatMSG
+Icon: https://TrollStoreX.Github.io/sileodepiction/BypassWechatMSG/icon.png
+Name: 微信内容娱乐 BypassWechatMSG
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BypassWechatMSG/js.json
+
 Package: com.yi.wcenablemomentslivephotos
 Version: 1.1-2
 Architecture: iphoneos-arm64e
