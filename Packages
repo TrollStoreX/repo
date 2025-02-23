@@ -2898,6 +2898,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/icon.png
 Name: LockTouchX 应用锁
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/js.json
 
+Package: com.den.locktouchxs
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: MrDeNsor
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.den.locktouchxs_1.3_iphoneos-arm64e.deb
+Size: 30062
+MD5sum: 99c472d914ded1becc81d9c3103a6015
+SHA1: a886fbb65acfdb81c87907433059babe0174735c
+SHA256: 0fe2b07447076db315228b381b5cc0180febbe5a97ec182a1a32079792b206aa
+Section: Tweaks
+Description: 为应用程序添加 Touch ID 锁定验证，就像 iOS 18 中的安全功能一样
+ * Adds Touch ID authentication to apps, just like the security features in iOS 18
+Author: MrDeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/icon.png
+Name: LockTouchX 应用锁
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/js.json
+
+Package: com.den.locktouchxs
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: MrDeNsor
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64/com.den.locktouchxs_1.3_iphoneos-arm64.deb
+Size: 22084
+MD5sum: b3d774df9a8d07c42630ad12c36bbe92
+SHA1: fb52808c721f139302c02e89a8fe8fafcc09014f
+SHA256: 5c26279295c80ed92c4e90352662d6f09b195bb6ad93138c7a09eef43874b602
+Section: Tweaks
+Description: 为应用程序添加 Touch ID 锁定验证，就像 iOS 18 中的安全功能一样
+ * Adds Touch ID authentication to apps, just like the security features in iOS 18
+Author: MrDeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/icon.png
+Name: LockTouchX 应用锁
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/LockTouchX/js.json
+
 Package: com.den.twigalaxys
 Version: 1.1-13
 Architecture: iphoneos-arm64e
