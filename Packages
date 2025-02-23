@@ -14349,6 +14349,29 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
 Package: com.xx.xhshooks
 Version: 1.1.5-1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Filename: ./debs/iphoneos-arm/com.xx.xhshooks_1.1.5-1_iphoneos-arm.deb
+Size: 915460
+MD5sum: 26c36607fdf85d40222223ba144d3636
+SHA1: 21739a3c9f4f9faefd9c9cbf714051bee004557f
+SHA256: c1b2880b5d3b8da361fae82f8bcaca8da1e9f3fdd746c4ffc80f834cd635b2f8
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.1.5-1
 Architecture: iphoneos-arm64e
 Maintainer: x✨
 Installed-Size: 3196
