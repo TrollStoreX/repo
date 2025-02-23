@@ -6562,40 +6562,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/keyboard/icon.png
 Name: 修改系统键盘圆角
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/keyboard/js.json
 
-Package: com.lns.pogr
-Version: 0.4.0~prerelease1
+Package: com.lns.pogrs
+Version: 0.4.0~prerelease3
 Architecture: iphoneos-arm64e
 Maintainer: Ruphane
-Installed-Size: 648
+Installed-Size: 480
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.lns.pogr_0.4.0~prerelease1_iphoneos-arm64e.deb
-Size: 94340
-MD5sum: 4d480bcf703a620a7664ac9c1aba6839
-SHA1: fe51b9b91e8a2908b87f534fc544d1552811ae15
-SHA256: 0a4e541e40a3d7385af91ea7090fdf37fde35054cf33d10f3d84f9c2b1c83a58
-Section: Tweaks
-Description: 将AirPods Pro 2视为AirPods Pro，使其在旧操作系统上更好地工作（仅适用于少数iOS版本），支持iOS 16和USB-C版本的AirPods Pro 2
+Conflicts: com.lns.pogr
+Filename: ./debs/iphoneos-arm64e/com.lns.pogrs_0.4.0~prerelease3_iphoneos-arm64e.deb
+Size: 85720
+MD5sum: d65aa9a7a7c6ac61cc75f1ad74d71986
+SHA1: c6343da4d93be90c0131f68f6154dba388dca180
+SHA256: da393b8c208b3d80257659c1cea72b2ccacd142f12b8221f41fd5081094418cf
+Section: AirPods
+Description: 提高低系统与新 AirPods 兼容性
+ * Tweak for better AirPods compatibility on old devices
 Author: Ruphane
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
-Name: PodsGrant
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/js.json
 
-Package: com.lns.pogr
-Version: 0.4.0~prerelease1
+Package: com.lns.pogrs
+Version: 0.4.0~prerelease3
 Architecture: iphoneos-arm64
 Maintainer: Ruphane
-Installed-Size: 648
+Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64/com.lns.pogr_0.4.0~prerelease1_iphoneos-arm64.deb
-Size: 80104
-MD5sum: 53e08e1abb651207ba6781609fc21d70
-SHA1: fe9e2281a2f06edc185aa5385c8d798485f77ab3
-SHA256: d180b589c0a2710deede5f8d7ebd56a0f73b20e8336472c615085cb4e19b799e
-Section: Tweaks
-Description: 将AirPods Pro 2视为AirPods Pro，使其在旧操作系统上更好地工作（仅适用于少数iOS版本），支持iOS 16和USB-C版本的AirPods Pro 2
+Conflicts: com.lns.pogr
+Filename: ./debs/iphoneos-arm64/com.lns.pogrs_0.4.0~prerelease3_iphoneos-arm64.deb
+Size: 74288
+MD5sum: d95b87298fa5e32bfdfa416536fcb896
+SHA1: 6b6615c09f4c1da1c4cd2320530036761d4522fe
+SHA256: 8e10a6803d0287217b75e91b5022fdbac504a945d82dc149b45066f77c51cfdd
+Section: AirPods
+Description: 提高低系统与新 AirPods 兼容性
+ * Tweak for better AirPods compatibility on old devices
 Author: Ruphane
-Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/AirPods2Pro.png
-Name: PodsGrant
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/js.json
 
 Package: com.lns.whereplays
 Version: 0.0.2
