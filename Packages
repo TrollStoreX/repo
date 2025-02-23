@@ -6644,6 +6644,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WherePlay/icon.png
 Name: WherePlay
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WherePlay/js.json
 
+Package: com.lxcloud.WCEhances
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.WCEhances_1.0-2_iphoneos-arm64e.deb
+Size: 59508
+MD5sum: ae8ae9a3f447e95c4d774de5660c2f56
+SHA1: f34a77ccbd6542668dae03da891c5ea8eb4e4131
+SHA256: b9ab155e74ee867c3d4692dc0dce6865e6fe73ac5e06f3c577800bcdbc411c15
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.WCEhances
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance
+Filename: ./debs/iphoneos-arm64/com.lxcloud.WCEhances_1.0-2_iphoneos-arm64.deb
+Size: 42504
+MD5sum: 27af0131dc057a66196b40ab79ed8046
+SHA1: 61a28b21adc8023b92043009ce2427a0cd9577e7
+SHA256: d79dd5e54197a231516c3ef7a266546eb3b9c1216a69ddb1e54c472a0d38d7cb
+Section: 微信插件
+Priority: optional
+Description: 微信增强，用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
 Package: com.mikifp.griddys
 Version: 1.0.4
 Architecture: iphoneos-arm64e
