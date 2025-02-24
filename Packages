@@ -12038,6 +12038,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/icon.png
 Name: 灵动方盒
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/js.json
 
+Package: com.wechat.mikotohelper
+Version: 1.3.6
+Architecture: iphoneos-arm64e
+Essential: no
+Maintainer: Mikoto
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64e/com.wechat.mikotohelper_1.3.6_iphoneos-arm64e.deb
+Size: 20540808
+MD5sum: 3f09244185441b8a794f59f8238dbd08
+SHA1: 2c98cef9dbeb1014e034dca02f48b047ad05cdc7
+SHA256: ebfd3f7c18efc2b2ae5df61701ec0e467f67932279d077d6ef8c387631815e9e
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
+Name: Mikoto 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
+
+Package: com.wechat.mikotohelper
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64/com.wechat.mikotohelper_1.3.6_iphoneos-arm64.deb
+Size: 20544740
+MD5sum: 2e99c87d3c0d9b8a28c07b4845f33695
+SHA1: 3435a4cff63fd8369ce204e9270da70fb4930eb5
+SHA256: 29ef158a6fe76b2dc78e968644159577c89b0a281377be79df4c9ff2941ace09
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
+Name: Mikoto 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
+
 Package: com.wechat.themepro
 Version: 3.1.2
 Architecture: iphoneos-arm64e
