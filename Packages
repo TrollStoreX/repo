@@ -15197,6 +15197,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
 Name: Rocket for Instagram
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
 
+Package: misakahelpers
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Essential: no
+Maintainer: Misaka
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: misakahelper, byg.iosios.net.misakahelper.rootless
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/iphoneos-arm64e/misakahelpers_2.1.1_iphoneos-arm64e.deb
+Size: 13173820
+MD5sum: 08e16b2d683e34b2bddf1085c308e601
+SHA1: 492b12ac095ca8f495681c58f46fdcc97e991f6b
+SHA256: 9cc80bb0f0efa3acfb21192f1b285974e180ee5a6f6cb8f30a1ee96e637075af
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Misaka
+Icon: https://TrollStoreX.Github.io/sileodepiction/MisakaHelper/icon.png
+Name: Misaka 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MisakaHelper/js.json
+
+Package: misakahelpers
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: misakahelper, byg.iosios.net.misakahelper.rootless
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/iphoneos-arm64/misakahelpers_2.1.1_iphoneos-arm64.deb
+Size: 13164440
+MD5sum: ae5a3cf1f73239e1adaba0b3ce8a4b63
+SHA1: 96975dde1cf40b7e20f72c1cbe053933f6641997
+SHA256: cb56cd40f168c1d8e38defeeadfe2cab8971bb3ec594704f65561610b02e1a35
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Misaka
+Icon: https://TrollStoreX.Github.io/sileodepiction/MisakaHelper/icon.png
+Name: Misaka 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MisakaHelper/js.json
+
 Package: netskao.BlockAppsCreateAlbum
 Version: 1.1.2
 Architecture: iphoneos-arm64e
