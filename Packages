@@ -5823,6 +5823,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.pn
 Name: 微信顶栏元素 WCNicknameAvatarStyle
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
 
+Package: com.huami.wcnicknameavatarstyles
+Version: 1.0-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcnicknameavatarstyle
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyles_1.0-6_iphoneos-arm64e.deb
+Size: 38368
+MD5sum: 409b9362daabff82dbdcaacb1c73538e
+SHA1: 909d34f49ad2351cb69dcba3ffeb14b14510d3b6
+SHA256: d5cd83c9c40f60cbeba36031ab4e375825e87fc67ecf54fb8f5ccb27b0d8d8fe
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+ * 依赖「插件收纳」
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.png
+Name: 微信顶栏元素 WCNicknameAvatarStyle
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
+
+Package: com.huami.wcnicknameavatarstyles
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcnicknameavatarstyle
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyles_1.0-6_iphoneos-arm64.deb
+Size: 38556
+MD5sum: 5980bcd80386fdd9c869ba521749349e
+SHA1: 50abf6515422031d406c42f0ca3671a9cea30cb8
+SHA256: beda744bf5cfc68bccc6afbd15c2ec98461c4bdf8f24909f4cc85e6a7ac5e100
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+ * 依赖「插件收纳」
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.png
+Name: 微信顶栏元素 WCNicknameAvatarStyle
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
+
 Package: com.hw.imepremium
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -12075,6 +12115,43 @@ SHA256: 2a5b8715cc4dcf60c28e53b768e64acc71515845d87dc786db11e7d15528e0d0
 Section: 微信插件
 Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
 Author: Seasons && huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/icon.png
+Name: 灵动方盒
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/js.json
+
+Package: com.wechat.ColorfulCubes
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: Seasons & huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.wechat.ColorfulCube
+Filename: ./debs/iphoneos-arm64e/com.wechat.ColorfulCubes_1.0.5_iphoneos-arm64e.deb
+Size: 5884060
+MD5sum: 0d12cc582ff871a7102868ce7e9e6733
+SHA1: e0123bb4ded2aca71260908545e90e4ea5b92282
+SHA256: 9fdef14d6ebe08d3f81f0b4748376fc30edc59e39fd38f586c3e1f9bcb2faabc
+Section: 微信插件
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Author: Seasons & huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/icon.png
+Name: 灵动方盒
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/js.json
+
+Package: com.wechat.ColorfulCubes
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Seasons & huami
+Depends: mobilesubstrate
+Conflicts: com.wechat.ColorfulCube
+Filename: ./debs/iphoneos-arm64/com.wechat.ColorfulCubes_1.0.5_iphoneos-arm64.deb
+Size: 2012936
+MD5sum: 18ba49b81d874428d4d502c57b0b3f47
+SHA1: 959b1e4b948a10c358a68fd662c7e56f5d810df1
+SHA256: bd11721a12ded30678844e429ce4b8e3e55d152b65db95e177a7a1edd0ecf57f
+Section: 微信插件
+Description: 让微信焕发全新光彩，灵动方盒让你的微信有丰富多彩的体验！
+Author: Seasons & huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/icon.png
 Name: 灵动方盒
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ColorfulCube/js.json
