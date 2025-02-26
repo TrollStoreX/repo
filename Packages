@@ -15158,6 +15158,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/icon.png
 Name: 快速跳过广告 VideoAdsSpeed
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/js.json
 
+Package: com.yourepo.lly.adsspee-rootlesss
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/iphoneos-arm64e/com.yourepo.lly.adsspee-rootlesss_1.1.3_iphoneos-arm64e.deb
+Size: 110424
+MD5sum: d1db422c82171f5436b363ac344b9158
+SHA1: cdc3ac521ba07319db0ee9f87c23bd1115d05a74
+SHA256: 5adbaa5e2c76f10ea07219b33d0fe8282c0638f98f4380805f2aba7e6f15f43d
+Section: Tweaks
+Description: 快速跳过激励视频广告，奖励正常领取
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/icon.png
+Name: 快速跳过广告 VideoAdsSpeed
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/js.json
+
+Package: com.yourepo.lly.adsspee-rootlesss
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/iphoneos-arm64/com.yourepo.lly.adsspee-rootlesss_1.1.3_iphoneos-arm64.deb
+Size: 110320
+MD5sum: 7a3d52fba5825684885ecd0d9554d647
+SHA1: bdeef53fae88ab834530825441fbc4b64cb10f26
+SHA256: 27cbb65bdcf236c5d6b97d9257bc9c4f3711cd243a83d9be0cbe8083709f6304
+Section: Tweaks
+Description: 快速跳过激励视频广告，奖励正常领取
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/icon.png
+Name: 快速跳过广告 VideoAdsSpeed
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/js.json
+
 Package: it.ned.noappthinnings
 Version: 1.2
 Architecture: iphoneos-arm64e
