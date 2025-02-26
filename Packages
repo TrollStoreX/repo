@@ -6876,6 +6876,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
 Name: 微信增强 WCEhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
 
+Package: com.lxcloud.WCEhances
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.WCEhances_1.0-3_iphoneos-arm64e.deb
+Size: 65344
+MD5sum: 8a0a429f68bbe61e21685f6a59946caa
+SHA1: 604af9fcfa6b55f282349d67f8a0415e038cdf6a
+SHA256: 96d7037f3d40db4e24278683da4340b3032125edf163f338f31098077b5e545f
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.WCEhances
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance
+Filename: ./debs/iphoneos-arm64/com.lxcloud.WCEhances_1.0-3_iphoneos-arm64.deb
+Size: 46948
+MD5sum: d05788a1e2fabb5e8f4a63e4037423c7
+SHA1: 51efd4426bdab3e7b39a58b8c61cff6b69cb454b
+SHA256: baab844576942341762c85be63feecb9bd8595ca4ab0332d22f8f0352bede711
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
 Package: com.mikifp.griddys
 Version: 1.0.4
 Architecture: iphoneos-arm64e
@@ -14861,6 +14900,59 @@ Author: xybp888
 Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
 Name: 一键锁屏
+
+Package: com.xybp888.noapplemobilerepairs
+Version: 0.0.1-21
+Architecture: iphoneos-arm64e
+Maintainer: xybp888
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xybp888.noapplemobilerepair
+Filename: ./debs/iphoneos-arm64e/com.xybp888.noapplemobilerepairs_0.0.1-21_iphoneos-arm64e.deb
+Size: 15254
+MD5sum: 8b4ca8e8f49ff0cf23e0312b02778fc6
+SHA1: ec936bc0f32e21a0ff16399ed40e14b87d2ec38e
+SHA256: 95f75efeb00a045c9f926c3f6a191b5ceb87967bed8442a963f6ec9dead8c061
+Section: Tweaks
+Description: No Apple MobileRepair
+ * 禁止在设置页面显示维修记录，例如更换电池的提醒、屏幕等
+ * 更换第三方电池后，开启显示正常电池健康值。
+ * 屏蔽关于本机显示未知部件记录。
+ * 屏蔽设置显示“红1”以及电池更新提醒信息。
+ * 屏蔽设置系统 OTA 升级显示“红1”提醒信息
+ * 本插件免费使用，安装即可生效，无设置
+ * 本插件在 16.5 多巴胺越狱环境下测试通过，其他系统自行测试
+Author: xybp888
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoAppleMobileRepair/icon.png
+Name: 禁止显示维修记录 No Apple MobileRepair
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoAppleMobileRepair/js.json
+
+Package: com.xybp888.noapplemobilerepairs
+Version: 0.0.1-21
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xybp888.noapplemobilerepair
+Filename: ./debs/iphoneos-arm64/com.xybp888.noapplemobilerepairs_0.0.1-21_iphoneos-arm64.deb
+Size: 10912
+MD5sum: ce87ffb485c91d10e9469dfd4e4c73ad
+SHA1: 6f5dc3212f325aab547e76f177a19f2b9d542c3c
+SHA256: 30940af28f36ba7f97cc45b9b65411292daf794a5ee5da9b1bed5993035b9ef1
+Section: Tweaks
+Description: No Apple MobileRepair
+ * 禁止在设置页面显示维修记录，例如更换电池的提醒、屏幕等
+ * 更换第三方电池后，开启显示正常电池健康值。
+ * 屏蔽关于本机显示未知部件记录。
+ * 屏蔽设置显示“红1”以及电池更新提醒信息。
+ * 屏蔽设置系统 OTA 升级显示“红1”提醒信息
+ * 本插件免费使用，安装即可生效，无设置
+ * 本插件在 16.5 多巴胺越狱环境下测试通过，其他系统自行测试
+Author: xybp888
+Icon: https://TrollStoreX.Github.io/sileodepiction/NoAppleMobileRepair/icon.png
+Name: 禁止显示维修记录 No Apple MobileRepair
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoAppleMobileRepair/js.json
 
 Package: com.yan.fionas
 Version: 1.0.6
