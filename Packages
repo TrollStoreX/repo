@@ -15650,6 +15650,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
 Name: Rocket for Instagram
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
 
+Package: me.alfhaily.rockets
+Version: 3.8.32
+Architecture: iphoneos-arm64
+Maintainer: Rocket App
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64/me.alfhaily.rockets_3.8.32_iphoneos-arm64.deb
+Size: 1458148
+MD5sum: 73c8b90681442653268228b517d823cb
+SHA1: 075e710819ec246f651c6c9da07e8cd474663f16
+SHA256: 368d5d2a66ce6501e5b2d82e48532a527f108c7eb9037d474d5759a2a5688555
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
+Package: me.alfhaily.rockets
+Version: 3.8.32
+Architecture: iphoneos-arm64e
+Maintainer: Rocket App
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64e/me.alfhaily.rockets_3.8.32_iphoneos-arm64e.deb
+Size: 1426532
+MD5sum: 034894dda880477e78313befa81e2395
+SHA1: 4d209570efbf99d88bf021279ee973e8081cfcbe
+SHA256: 35404fec729a8525882c7cfc84d6fbd66675b272c692b9da12b2832dfe12fdc2
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
 Package: misakahelpers
 Version: 2.1.1
 Architecture: iphoneos-arm64
