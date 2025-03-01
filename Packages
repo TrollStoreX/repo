@@ -6665,6 +6665,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.level3tjg.redditfilters
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: level3tjg
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.level3tjg.redditfilter
+Filename: ./debs/iphoneos-arm64/com.level3tjg.redditfilters_1.1.7_iphoneos-arm64.deb
+Size: 41460
+MD5sum: 43bd7ce16500db8d5804d22beae53e02
+SHA1: 1b241c87d462e697c1632a3adc18e3fca2dab860
+SHA256: a9c2ee2c96669447154c594d5a2c6f86ee5c8702015c71c9dcbefb7453873d61
+Section: 应用破解
+Description: 从 Reddit 过滤掉不需要的内容
+ * Filter out unwanted content from your Reddit feed
+Author: level3tjg
+Icon: https://TrollStoreX.Github.io/sileodepiction/Reddit/icon.png
+Name: RedditFilter 去广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Reddit/js.json
+
+Package: com.level3tjg.redditfilters
+Version: 1.1.7
+Architecture: iphoneos-arm64e
+Maintainer: level3tjg
+Installed-Size: 124
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.level3tjg.redditfilter
+Filename: ./debs/iphoneos-arm64e/com.level3tjg.redditfilters_1.1.7_iphoneos-arm64e.deb
+Size: 49186
+MD5sum: a820fdc4beacdb803ce42f57dd1eba5d
+SHA1: c175c3f8ce0a933b858bd1ecfc7d09d66e0cbd78
+SHA256: c69058750f4d32fdf2bedf6154199f8873701f8ef76ffaca168332a9b6fe5b15
+Section: 应用破解
+Description: 从 Reddit 过滤掉不需要的内容
+ * Filter out unwanted content from your Reddit feed
+Author: level3tjg
+Icon: https://TrollStoreX.Github.io/sileodepiction/Reddit/icon.png
+Name: RedditFilter 去广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Reddit/js.json
+
 Package: com.level3tjg.telegramnoseparatorss
 Version: 0.0.1
 Architecture: iphoneos-arm64
