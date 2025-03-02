@@ -5863,6 +5863,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.pn
 Name: 微信顶栏元素 WCNicknameAvatarStyle
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
 
+Package: com.huami.wcnicknameavatarstyles
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcnicknameavatarstyle
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyles_1.0-8_iphoneos-arm64.deb
+Size: 45072
+MD5sum: 224c816a0c191293a691bcf8985e1b33
+SHA1: 27b68729ab269f446bdaaed87078e01db5fb25e1
+SHA256: 2a73a56bea0bd85ab83573a0550aed016bc93b33cf74044f6385b7e45e050d3f
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+ * 依赖「插件收纳」
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.png
+Name: 微信顶栏元素 WCNicknameAvatarStyle
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
+
+Package: com.huami.wcnicknameavatarstyles
+Version: 1.0-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcnicknameavatarstyle
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyles_1.0-8_iphoneos-arm64e.deb
+Size: 44932
+MD5sum: ad1caebc24c842e30e1ae23eb1ee9cfa
+SHA1: 40cbb6f27c0027a761a58a11d286b9cee6d8edaa
+SHA256: 2bdf5ba1aa76b6e68094133743b9bf8e7c6464d435411fae54f6696019384a68
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+ * 依赖「插件收纳」
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.png
+Name: 微信顶栏元素 WCNicknameAvatarStyle
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
+
 Package: com.hw.imepremium
 Version: 0.0.1
 Architecture: iphoneos-arm64
