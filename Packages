@@ -7296,6 +7296,47 @@ Author: MrGcGamer
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/LibGcUniversal.png
 Name: LibGcUniversal
 
+Package: com.nathan.dynamicnotlands
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotlands_1.0_iphoneos-arm64.deb
+Size: 4092
+MD5sum: d04a7c396db0255b92d529de6723d876
+SHA1: ef5c48c63d19f0f88e92f9286f31fe69c25a1f1a
+SHA256: 88aa50b34638bdd8cb63e1672cecb3271be5ba93c7f28e3eb494b839a28e3ba3
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.dynamicnotlands
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64e/com.nathan.dynamicnotlands_1.0_iphoneos-arm64e.deb
+Size: 5586
+MD5sum: 5159975befe9b83d0a25e735766af377
+SHA1: 432d2639a3873753a27fbe0bb7db346c88701bfd
+SHA256: 902a7c3b52f3f6040d71083e9534a30cf65cf00a2d66eb8c0e51aec5ddbe6e6c
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
 Architecture: iphoneos-arm64
