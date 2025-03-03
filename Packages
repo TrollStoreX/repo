@@ -6456,6 +6456,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DP/icon.png
 Name: 百度网盘导出文件
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DP/js.json
 
+Package: com.lenglengyu.danhuaxsnoads-rootlesss
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 516
+Depends: mobilesubstrate
+Conflicts: com.lenglengyu.danhuaxsnoads-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.danhuaxsnoads-rootlesss_0.0.1_iphoneos-arm64.deb
+Size: 131164
+MD5sum: 806788d0920af19340703ce9d7b89b56
+SHA1: a833d3aa8412a052501580abdef64047a2f7bdad
+SHA256: 55dd5700e8068ee02e7fcf7867d9b4c2fec1fb229327cfe5abafde8e0624e439
+Section: 应用破解
+Description: 番茄小说平替，资源一样，去除所有广告
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/Danhua/icon.png
+Name: 蛋花小说去广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Danhua/js.json
+
+Package: com.lenglengyu.danhuaxsnoads-rootlesss
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 516
+Depends: mobilesubstrate
+Conflicts: com.lenglengyu.danhuaxsnoads-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.danhuaxsnoads-rootlesss_0.0.1_iphoneos-arm64e.deb
+Size: 132316
+MD5sum: aa9a9dbb065f8269a36fa7057ecbc56b
+SHA1: 3a1b7ffa438ba9e2875e8a81ee06d918f59d2869
+SHA256: 1d6af3b8e62d3a2004e9a6e3fff68996accc4945d9924b07171bf026f594976e
+Section: 应用破解
+Description: 番茄小说平替，资源一样，去除所有广告
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/Danhua/icon.png
+Name: 蛋花小说去广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Danhua/js.json
+
 Package: com.lenglengyu.passbyccs
 Version: 1.0.2
 Architecture: iphoneos-arm64
