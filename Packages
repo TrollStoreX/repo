@@ -8395,6 +8395,55 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音去广告 AwemeNoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/js.json
 
+Package: com.netskao.awemenoads
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 140
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.awemenoads_1.1-3_iphoneos-arm64.deb
+Size: 32796
+MD5sum: f745ddf8556369e4eb08660d12159ae0
+SHA1: f2f062371d2b4eb99e4dfb7575045d1f4982222f
+SHA256: 57340502044a8d0d7fb4a95646b18766b6e0813635503090c780fc1fdddcb6b8
+Section: 抖音插件
+Description: 抖音去广告插件
+ * 默认生效
+ * 去启动广告
+ * 去视频流广告
+ * 去青少年提醒
+ * 小程序跳广告，单独开关控制
+ * 内存清理功能，单独开关控制
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/icon.png
+Name: 抖音去广告 AwemeNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/js.json
+
+Package: com.netskao.awemenoads
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 140
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemenoads_1.1-3_iphoneos-arm64e.deb
+Size: 42730
+MD5sum: 5dd726aa43f920c929a6d66abcbc5e37
+SHA1: 1bb85cf88ad0c64b73afcd377f05f182c664960e
+SHA256: 7c0c5524bff212922449716fc149cc301a1b3cf9df44533cc7812a91315c4467
+Section: 抖音插件
+Description: 抖音去广告插件
+ * 默认生效
+ * 去启动广告
+ * 去视频流广告
+ * 去青少年提醒
+ * 小程序跳广告，单独开关控制
+ * 内存清理功能，单独开关控制
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/icon.png
+Name: 抖音去广告 AwemeNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeNoAds/js.json
+
 Package: com.netskao.awemesaveemojis
 Version: 1.1-2
 Architecture: iphoneos-arm64
