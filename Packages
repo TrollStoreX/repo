@@ -8393,6 +8393,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音全屏 AwemeFullScreen
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
 
+Package: com.netskao.awemefullscreens
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemefullscreen, byg.iosios.net.awemefullscreen
+Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreens_1.2-5_iphoneos-arm64.deb
+Size: 165012
+MD5sum: ae97d14d95ca06521d4c8cf3bc089eb9
+SHA1: 12b4cab22371f885d58de0b2031adb78afea74dd
+SHA256: dacdbcd6c2baf2718eb3f90366c45ea0f29a4cab1e877317c437d55919575f37
+Section: 抖音插件
+Description: 抖音全屏显示
+ * 仅在 31.9.0 版本上进行测试
+ * 插件开关位于抖音设置内
+ * 放大视频达到全屏显示，视频区域会部分丢失
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音全屏 AwemeFullScreen
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+
+Package: com.netskao.awemefullscreens
+Version: 1.2-5
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Installed-Size: 108
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemefullscreen, byg.iosios.net.awemefullscreen
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemefullscreens_1.2-5_iphoneos-arm64e.deb
+Size: 209858
+MD5sum: fed3bb32bc29b5d9c8336ac442576246
+SHA1: 77817078b45eeccf21dde79a2409887da4ac294e
+SHA256: e69405039f10b86a9c506bc280135761444c4853a92234a22d690599461b6890
+Section: 抖音插件
+Description: 抖音全屏显示
+ * 仅在 31.9.0 版本上进行测试
+ * 插件开关位于抖音设置内
+ * 放大视频达到全屏显示，视频区域会部分丢失
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音全屏 AwemeFullScreen
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+
 Package: com.netskao.awemenoads
 Version: 1.0
 Architecture: iphoneos-arm64
