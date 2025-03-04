@@ -5601,6 +5601,66 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Bilibili/icon.png
 Name: 哔哩哔哩 BiliNoAd
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Bilibili/js.json
 
+Package: com.huami.dyyys
+Version: 2.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.0-2_iphoneos-arm64.deb
+Size: 37256
+MD5sum: 7b2daa43998afb1a0fe9c5bcc813966b
+SHA1: 888afc8357b455fc870b35a26bc38f095c90cca8
+SHA256: 607f9c971c0c27af58c41063857ffb523f4fac321f4ebf419fc3896d0e77b8ba
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.0-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.DYYY
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.0-2_iphoneos-arm64e.deb
+Size: 37184
+MD5sum: 1628a8bf65062c3358fcf307d5879459
+SHA1: 64c3725f5366eb7b6e401c0b75bbc05e2bc7a546
+SHA256: 96010f4da013c65afe576e1642bf8d00d08e92c1009efb4a10e45bf5966312ad
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64
