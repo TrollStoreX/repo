@@ -2725,13 +2725,14 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 Package: com.curtin.pkc.rootlesss
 Version: 0.6-9
 Architecture: iphoneos-arm64
+Maintainer: Curtin
 Depends: firmware (>= 5.0)
 Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
 Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.6-9_iphoneos-arm64.deb
-Size: 794820
-MD5sum: 6edeeec65d4ff81bc34b662e28cf14e0
-SHA1: 70bb686d3be3eeb12f91509f43cc0f8a6b88686d
-SHA256: d352fd68d66a372defc52a74a241e5cedd0f30ce6c43007fbfba4c0d693674ce
+Size: 794828
+MD5sum: 43ba565458be718649dcb8732d7a7140
+SHA1: 9ecb8809863b5f34a9d3825eb5984958386efd6f
+SHA256: 4b3a21d30b609cd19de2e8e7299f29fe7fd85db9245ff039f29ff4b92bf525c1
 Section: 微信插件
 Priority: optional
 Description: 微信多功能插件
@@ -2745,14 +2746,15 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 Package: com.curtin.pkc.rootlesss
 Version: 0.6-9
 Architecture: iphoneos-arm64e
+Maintainer: Curtin
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
 Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
 Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.6-9_iphoneos-arm64e.deb
-Size: 2148978
-MD5sum: b293576cd7b71e06a121ceba617f537c
-SHA1: 28b929e0ab49d69bebfe743a80ac5c9a88dcb204
-SHA256: 30a0580deea969f83d0acd9f9a11a819434e9dc4641c8f33f1eadb7841869e27
+Size: 780588
+MD5sum: 244023527a9da7c262cb55db799ee0c8
+SHA1: c7ea8f1d7daf764e84b0fd02d3faa54273c4ef48
+SHA256: 7eb9936e16678c562a4b72d0c544c09390193092a5f987957e541261ddeffb83
 Section: 微信插件
 Priority: optional
 Description: 微信多功能插件
@@ -5649,10 +5651,10 @@ Maintainer: huami
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.huami.DYYY
 Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.0-2_iphoneos-arm64.deb
-Size: 37256
-MD5sum: 7b2daa43998afb1a0fe9c5bcc813966b
-SHA1: 888afc8357b455fc870b35a26bc38f095c90cca8
-SHA256: 607f9c971c0c27af58c41063857ffb523f4fac321f4ebf419fc3896d0e77b8ba
+Size: 37180
+MD5sum: cd54463163d068feb59e6e32da977b0d
+SHA1: 40a9d0bf13978d7cc7a032238f7e059953f6b692
+SHA256: 73946c711aafa747ff1ed6e0abfa9726d84a7df757f8cd4d6ad58d685541b9d0
 Section: 抖音插件
 Priority: optional
 Description: huami 抖音增强插件
@@ -5679,10 +5681,10 @@ Maintainer: huami
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.huami.DYYY
 Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.0-2_iphoneos-arm64e.deb
-Size: 37184
-MD5sum: 1628a8bf65062c3358fcf307d5879459
-SHA1: 64c3725f5366eb7b6e401c0b75bbc05e2bc7a546
-SHA256: 96010f4da013c65afe576e1642bf8d00d08e92c1009efb4a10e45bf5966312ad
+Size: 37232
+MD5sum: a39296bd30cad009a79d699d864a93fc
+SHA1: a161067fd2e6f73fc2be20fb11d862871ed38629
+SHA256: 113544d7d3eed83de1725e282d029b6bafad9d74f723900066fd7c19bd580472
 Section: 抖音插件
 Priority: optional
 Description: huami 抖音增强插件
@@ -11653,6 +11655,51 @@ Size: 31094
 MD5sum: 9618b183f699d8bf14286f095440a724
 SHA1: 6ae1ca72e2c159ecc17a2ecf2d23fd55a9490352
 SHA256: 4023276a79324c04b0d56ab3db16246d1652c87df2b2362744e8b22c80a41069
+Section: 抖音插件
+Priority: optional
+Description: 苏苏抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64/com.susu.suawemehooks_1.3.5_iphoneos-arm64.deb
+Size: 31976
+MD5sum: 5f4bca1a4fa0e133672ace5a8820960d
+SHA1: 06b503d0bdb2ce68c5924839ad8f22d9f9cab57b
+SHA256: 5bc70daefde75e98a09c661921c66722a12d196da29f0178cad029d22a81c25e
+Section: 抖音插件
+Priority: optional
+Description: 苏苏抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.3.5
+Architecture: iphoneos-arm64e
+Maintainer: susu
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64e/com.susu.suawemehooks_1.3.5_iphoneos-arm64e.deb
+Size: 43372
+MD5sum: da917247f57bc684c0df45d59facdbf4
+SHA1: 4b70bf91d71d0085756f9ceb08fc164714026213
+SHA256: c9ad86ad5b75af2c723279ddddfc52e3e18e24034372170195e7e045c5a89205
 Section: 抖音插件
 Priority: optional
 Description: 苏苏抖音增强插件
