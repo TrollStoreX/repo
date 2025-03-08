@@ -5964,6 +5964,66 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.dyyys
+Version: 2.0-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.0-5_iphoneos-arm64.deb
+Size: 48712
+MD5sum: fa210a0bd0f713f28c9dd162f090de96
+SHA1: 5fccaa6fc10a6a9b5bcb9b1863e54510e17d4e95
+SHA256: bf4a7ad3defcacd454fad2cdda6467cb239694c62763ebeb206eaab32025ac44
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.0-5
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.0-5_iphoneos-arm64e.deb
+Size: 48344
+MD5sum: ffa1983d70346c19bfcfee934517e518
+SHA1: 3bd37b6e900141d615f83ac57442d8ffc4a4bc72
+SHA256: 57d05f21955a9caf8aa85ca82dfe3908f61c298233a477b9cbe0e423a8e70459
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -7684,6 +7744,45 @@ SHA256: 5528090b39cd1483a0542a13af7f2d47096c4f54ace69ec4b52aab7e8aa4b5fc
 Section: 微信插件
 Priority: optional
 Description: 微信增强，用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.0-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64/com.lxcloud.wcehances_1.0-5_iphoneos-arm64.deb
+Size: 56376
+MD5sum: b0586a38a49432dd778bf0d8119409e3
+SHA1: ae570446233dec7d5e790f30595fd4187368f9f0
+SHA256: 395660f1424f2001175030c60ffa0ed45e85d0c953f76ad41e5522b7844be525
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.0-5
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.wcehances_1.0-5_iphoneos-arm64e.deb
+Size: 78238
+MD5sum: a5c75c8cc1657ffbe21b82c08fb45d81
+SHA1: 270a96d7a466643a301a9b182cfc9f9fada60358
+SHA256: bad29b9453d65a3adfd574f6e7f3b7cfb7e87f6f5788555690d5128fcdbdb88a
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
 Author: huami & Lxcloud
 Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
 Name: 微信增强 WCEhance
