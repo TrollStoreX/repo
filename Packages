@@ -1910,6 +1910,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
 Name: 抖音 豆包助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
 
+Package: com.BeanbunsHelpers.DBs
+Version: 1.0-4
+Architecture: iphoneos-arm64
+Maintainer: Beanbuns
+Depends: mobilesubstrate
+Conflicts: com.BeanbunsHelpers.DB
+Filename: ./debs/iphoneos-arm64/com.BeanbunsHelpers.DBs_1.0-4_iphoneos-arm64.deb
+Size: 639684
+MD5sum: f153018812d5934d761199488b4f0457
+SHA1: bfb8d0508ad199b24a6baa17773166adc7487c30
+SHA256: 0626de9ad1b3e33a2d9df6d8b7b7b0473b753b48c6ba7136eaa4027f706c83d2
+Section: 抖音插件
+Description: 抖音增强插件
+ * 无水印保存视频、图片、音频
+ * 双击打开评论区
+ * 隐藏菜单按钮
+ * 插件位于抖音设置内
+Author: Beanbuns
+Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
+Name: 抖音 豆包助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
+
+Package: com.BeanbunsHelpers.DBs
+Version: 1.0-4
+Architecture: iphoneos-arm64e
+Maintainer: Beanbuns
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.BeanbunsHelpers.DB
+Filename: ./debs/iphoneos-arm64e/com.BeanbunsHelpers.DBs_1.0-4_iphoneos-arm64e.deb
+Size: 1839318
+MD5sum: 673fa7ad34c948b10dd9b851775cac14
+SHA1: aa4b3d9ebb1a3b7be1ce7c17125bd912500eab4e
+SHA256: 602d5a24930f445141a498fd215f6bae74882d958621ad189edf4e3d299839a7
+Section: 抖音插件
+Description: 抖音增强插件
+ * 无水印保存视频、图片、音频
+ * 双击打开评论区
+ * 隐藏菜单按钮
+ * 插件位于抖音设置内
+Author: Beanbuns
+Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
+Name: 抖音 豆包助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
+
 Package: com.HBWechatHelper.ailuns
 Version: 1.7-6
 Architecture: iphoneos-arm64
