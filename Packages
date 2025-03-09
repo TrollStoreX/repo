@@ -6131,6 +6131,68 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.dyyys
+Version: 2.0-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.0-8_iphoneos-arm64.deb
+Size: 54060
+MD5sum: fd187a1e854387319b7aaa969c74ea3b
+SHA1: 4101b9afe39ebed8864d7120641e15cb83a7d966
+SHA256: 77a648997a51b1567e1be5cb47eeb6e7390ca0428057aef268098b9fb5e38ac3
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 全屏显示
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.0-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.0-8_iphoneos-arm64e.deb
+Size: 54260
+MD5sum: b85ddddb4820a82d0744514c558a2819
+SHA1: 127aae1f4c58a144ad22fd70b8c3fcda0aa66dfa
+SHA256: 52b43d37edc95ad9ed78f50faf1f7927f990cd21817c49e15acccb19219cb185
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 全屏显示
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -7402,6 +7464,44 @@ Size: 1143356
 MD5sum: 3159686d1e22cdd60f46182338dfd79c
 SHA1: 6985008ab9bb077e9add12f2f30f36be729f0782
 SHA256: ad9e0979c65a25d861025efaf23673fc2f3455d5fbc97ad510a99aea454055a2
+Section: Tweaks
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 5048
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_1.9.0_iphoneos-arm64.deb
+Size: 903080
+MD5sum: f0fd10c97334a6774868ba3051c4d9da
+SHA1: abbc5e7715735973cb89967215403e7edc0d4928
+SHA256: 51e466921a99b4f2e9bda76ab44a88c896c96dede0d0b1415f6f684525ae7c76
+Section: Tweaks
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.0
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 5048
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_1.9.0_iphoneos-arm64e.deb
+Size: 917400
+MD5sum: 06fad53e55faa1da6a177f2cf7c9acb3
+SHA1: f48f0845af3b37886b46cfafd4524ee1b2c0bd51
+SHA256: 4411bb05c2af81c34b7e4a60728e6f0fe16867e4c51324e124ceece0723ba296
 Section: Tweaks
 Description: 支持抖音、快手、微视等无水印下载
 Author: lenglengyu
