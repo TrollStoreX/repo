@@ -12358,6 +12358,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
 Name: 抖音 SuAwemeHook
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
 
+Package: com.susu.suawemehooks
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64/com.susu.suawemehooks_1.3.6_iphoneos-arm64.deb
+Size: 38056
+MD5sum: acc61c77a2f2a9fdcaf0ce443decebc3
+SHA1: 6480e5eb6bb0541a8b74aa9ad8e97f29742a8652
+SHA256: 3ce148299622f5c4d33e8a3e9a752c8100e63a30fccd66074604c98e92c93278
+Section: 抖音插件
+Priority: optional
+Description: 苏苏抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.3.6
+Architecture: iphoneos-arm64e
+Maintainer: susu
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64e/com.susu.suawemehooks_1.3.6_iphoneos-arm64e.deb
+Size: 53714
+MD5sum: c9d73fba848aec448661ccce8378a992
+SHA1: 4440db331ce1d6b29f78e4e59a3080981e87c775
+SHA256: c2f2401ce4201692c374d74da9c187b3026a41790ced674f07b7e756020a2455
+Section: 抖音插件
+Priority: optional
+Description: 苏苏抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
 Package: com.susu.suxhshooks
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -12402,6 +12447,45 @@ Author: susu
 Icon: https://TrollStoreX.Github.io/sileodepiction/SuXHSHook/icon.png
 Name: 小红书 SuXHSHook
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuXHSHook/js.json
+
+Package: com.susu.wcfrostedglasss
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.susu.wcfrostedglass
+Filename: ./debs/iphoneos-arm64/com.susu.wcfrostedglasss_1.0.5_iphoneos-arm64.deb
+Size: 4880
+MD5sum: 087b5a19f8a5b9d87d6b1c569a3889df
+SHA1: bf351066dc54d7e5858d4ef4c24fb013882a90bc
+SHA256: b2137666cb8f4c9facb7563e4b3b0b2ee6788fd1eb9a409ee0fd9c2fc0106e4f
+Section: 微信插件
+Description: 微信顶部和底部显示磨砂玻璃效果
+Author: 苏苏
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuWCFrostedGlass/icon.png
+Name: 微信磨砂玻璃 SuWCFrostedGlass
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuWCFrostedGlass/js.json
+
+Package: com.susu.wcfrostedglasss
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.susu.wcfrostedglass
+Filename: ./debs/iphoneos-arm64e/com.susu.wcfrostedglasss_1.0.5_iphoneos-arm64e.deb
+Size: 6532
+MD5sum: 33c3f94bbea5bbfe3bcb0197531cfc5c
+SHA1: 79cb7c2df8394eb4f462979c352c77709c6dd4c7
+SHA256: 3b93f598c90e1549bbbfccfda9891840c8f5f0856ab84c2c26e896ac02de6b7c
+Section: 微信插件
+Description: 微信顶部和底部显示磨砂玻璃效果
+Author: 苏苏
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuWCFrostedGlass/icon.png
+Name: 微信磨砂玻璃 SuWCFrostedGlass
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuWCFrostedGlass/js.json
 
 Package: com.sutuplus.releasefugu15s
 Version: 5.9.0-2
