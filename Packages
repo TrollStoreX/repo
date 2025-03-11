@@ -6255,6 +6255,68 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.dyyys
+Version: 2.0-9End
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.0-9End_iphoneos-arm64.deb
+Size: 55796
+MD5sum: a3e30e060231f1a4cd36907ab62d2539
+SHA1: c955ead124cbe5561aeea59e507e29374bc5dca0
+SHA256: b7fd88bd0f61394077a618b05b10cf7a8a5f8fa5be44fd14eddfca5061b6dd92
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 全屏显示
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.0-9End
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.0-9End_iphoneos-arm64e.deb
+Size: 55616
+MD5sum: 6354d903eec23e41542b1899e59b67b8
+SHA1: 8ffa4cae2a7fc80b351044b7294c2e6762ecee8c
+SHA256: 2f7016bbf183a148aea0120f97df0f15a7bfa1655a508af839eab329726a67cb
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 全屏显示
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -12493,6 +12555,51 @@ Size: 53714
 MD5sum: c9d73fba848aec448661ccce8378a992
 SHA1: 4440db331ce1d6b29f78e4e59a3080981e87c775
 SHA256: c2f2401ce4201692c374d74da9c187b3026a41790ced674f07b7e756020a2455
+Section: 抖音插件
+Priority: optional
+Description: 苏苏抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: susu
+Installed-Size: 236
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64/com.susu.suawemehooks_1.3.7_iphoneos-arm64.deb
+Size: 42368
+MD5sum: b5f35da4070e348301c9b3b078a7e058
+SHA1: d1c30aad635b81270de29fbbe3a6dd1f3d519687
+SHA256: d76abab5da4cbf2808c401ab80cf91c93517532dad4c59bfad9f1f8c733787da
+Section: 抖音插件
+Priority: optional
+Description: 苏苏抖音增强插件
+ * 双指双击打开插件设置
+ * 仅供学习交流
+Author: susu
+Icon: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/icon.png
+Name: 抖音 SuAwemeHook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SuAwemeHook/js.json
+
+Package: com.susu.suawemehooks
+Version: 1.3.7
+Architecture: iphoneos-arm64e
+Maintainer: susu
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.susu.suawemehook
+Filename: ./debs/iphoneos-arm64e/com.susu.suawemehooks_1.3.7_iphoneos-arm64e.deb
+Size: 59134
+MD5sum: 58fed74b51743d7594e718303cdeaccc
+SHA1: fa1d24db7f73700d7d67495e665c3dac023a6a98
+SHA256: 11f328aa7cbfccdd2237b3286d9b706056a824f1576fd5b2e9776a67cf3bef5d
 Section: 抖音插件
 Priority: optional
 Description: 苏苏抖音增强插件
