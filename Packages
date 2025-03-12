@@ -7709,6 +7709,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.2K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 342
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_1.9.2K_iphoneos-arm64.deb
+Size: 916260
+MD5sum: a638df2d54d14c36a158b09220ea28e2
+SHA1: 76c8a79d1cc2843bb800d2ab7a1b4930754e890d
+SHA256: 1e92ef696c9b7643f759b00ffbfa92e8fb5aeea543629697214660e80051bc1e
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.2K
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3420
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_1.9.2K_iphoneos-arm64e.deb
+Size: 929148
+MD5sum: a00ca079d2252d1c0fd4c9fe1c6f0927
+SHA1: 58b7e72cd6a6d5d95455c523d6b3f6c6010b3f32
+SHA256: e8c7ebcf791606d2b0209e6c54b20cc20ad5174a8be34ae511ca82e9029c354b
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.redditfilters
 Version: 1.1.7
 Architecture: iphoneos-arm64
