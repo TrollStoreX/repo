@@ -13333,6 +13333,49 @@ Author: IP Man
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/Telegram.png
 Name: Telegram Return 回车键
 
+Package: com.telegram.return
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: IP Man
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.telegram.return_1.1_iphoneos-arm64.deb
+Size: 117140
+MD5sum: 20c64e0387a6b7c19658d2197046cdc3
+SHA1: 48ffcde3a084dfdf32ca7af9a34fb583908b5ef8
+SHA256: cec666f8ec9fd256428106ceb000e37a24ee9dad278287b823ea63556fb7d104
+Section: 应用破解
+Description: Telegram 增强
+ * 回车键发送消息
+ * 禁止右滑出现 My Story
+ * 单聊对话框显示对方UserID
+ * （显示 User ID 需要英文语言）
+Author: IP Man
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js2.json
+
+Package: com.telegram.return
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: IP Man
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.telegram.return_1.1_iphoneos-arm64e.deb
+Size: 164640
+MD5sum: 169199b4e5a45a1f9bb6723c8823153a
+SHA1: 7cc5f6cf7aeee8562274f11223d224734cd9981f
+SHA256: 62fa86a2441a92fea0753f35a1fa615b062ddeb1c621e59eb2f282f934933068
+Section: 应用破解
+Description: Telegram 增强
+ * 回车键发送消息
+ * 禁止右滑出现 My Story
+ * 单聊对话框显示对方UserID
+ * （显示 User ID 需要英文语言）
+Author: IP Man
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/js2.json
+
 Package: com.teleports.location
 Version: 1.1
 Architecture: iphoneos-arm64
