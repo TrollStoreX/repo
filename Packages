@@ -7747,6 +7747,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3456
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_1.9.3_iphoneos-arm64.deb
+Size: 921944
+MD5sum: bc78dcad59cf5b1b1e15033f7abb52e3
+SHA1: 7e3dd8e02a034974aee1d44fc0ebfc0513554312
+SHA256: 87db1a711e711cbbcf85258b98e937ebcd364136d043b5c91c23593a6618d8da
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.3
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3500
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_1.9.3_iphoneos-arm64e.deb
+Size: 937256
+MD5sum: b9b7184fcaec7a80bdb922ed63f1c889
+SHA1: b892f5250d55150454f83167ef284873ebc9eb3a
+SHA256: c2f95bac4225b589051f16b8470b6994d07ebb8beb6cbf91e741b2318362d430
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.redditfilters
 Version: 1.1.7
 Architecture: iphoneos-arm64
@@ -14663,6 +14701,55 @@ Size: 145760
 MD5sum: 285503e97c9193a75be81f7b03678fd7
 SHA1: 96842d5ed6efd087e6167a83ec9d1500f73cd34d
 SHA256: 1772ddc1981f603b39e95b08949c48db4c61b8173ca67bb54f1171ca1e825bdc
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+ * 新增 UI 页面
+ * 新增双击下载
+ * 新增双击评论区功能
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.0-8_iphoneos-arm64.deb
+Size: 109648
+MD5sum: cc7eba15ad43203db83a7b395b5c4ae9
+SHA1: 3af18a4f1784bc88d8e3570943932055901dc8ca
+SHA256: ecdf4eed7e2aa0282efad58432aa4e6d5c7e3f08b554c3690049fb9da6650a80
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+ * 新增 UI 页面
+ * 新增双击下载
+ * 新增双击评论区功能
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.0-8
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.0-8_iphoneos-arm64e.deb
+Size: 147200
+MD5sum: e8a19e12cd1e757b5f80ac21480a9bd0
+SHA1: 695578c9a7c8772db66714f1cb83800366709a29
+SHA256: af9be699856c28e22c093c89cb421345d45e6e3faaae281ea13b796c6aeb831e
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音助手插件
