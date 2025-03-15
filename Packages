@@ -407,6 +407,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
 Name: Kayoko 剪切板
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
 
+Package: codes.aurora.kayokos
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_2.8_iphoneos-arm64.deb
+Size: 128084
+MD5sum: 66cb71a150fcf0d45be56d1a8736e580
+SHA1: dd8ef55f9d55b6a47360e04fbdc02b99b36bfc8b
+SHA256: 1d3917db5089be8480dfc20c7d8174ab6b4fdfe25e26def4d5691a7c6566a486
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 由「乌龙工作室」修复支持 iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
+Package: codes.aurora.kayokos
+Version: 2.8
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_2.8_iphoneos-arm64e.deb
+Size: 127484
+MD5sum: b92d3a89c4d2ef1d7114c1d8d869beb5
+SHA1: 2b984e28ee113ea226f7991af63858ca2c9b309b
+SHA256: 0fc247d4c8c6624e9ad9f143253dde9d575793d28687f9d4f090d4b5e60418f9
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 由「乌龙工作室」修复支持 iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -6362,6 +6404,74 @@ Size: 62652
 MD5sum: bf94bd5d8b37ff0ec8eb12b353774ff8
 SHA1: e550281f8605ea92a406966a4ae74f5f445bcb80
 SHA256: 0f49644ea86640c592cc3a96165d489cc183fa049fb2f6654c24a99aad07d52c
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 全屏显示
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 复制文案功能
+ * 右侧栏缩放率设置，支持 0.1-5，推荐 0.85。
+ * 自定义右侧栏图标映射关系
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.1-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.1-2_iphoneos-arm64.deb
+Size: 71104
+MD5sum: 126bf8e64bd579dea3f383b05a410633
+SHA1: 74222cf3d220797173122ab854c42d173572a0d6
+SHA256: 6a1047ae42b41ff571385363aa560422909969a1bd6ca066b00e690676bece71
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 自动连播
+ * 全屏显示
+ * 上传 IP 属地显示
+ * 双指长按打开插件
+ * 设置全局透明度
+ * 隐藏全屏观看
+ * 隐藏底栏加号
+ * 开启弹幕改色
+ * 默认倍速播放功能
+ * 复制文案功能
+ * 右侧栏缩放率设置，支持 0.1-5，推荐 0.85。
+ * 自定义右侧栏图标映射关系
+ * 隐藏底栏、侧栏红点
+ * 强制抖音深色模式黑色键盘
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.1-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.1-2_iphoneos-arm64e.deb
+Size: 69380
+MD5sum: 09f04a5bf003549a5c1419b0118f2ea2
+SHA1: f1cd7ab97876b25a37ecbeaaa875f5171460e95d
+SHA256: a400528b8d309ecc72c2ab4822b50f339cf4f6994124a3c1b5d7380e147f951b
 Section: 抖音插件
 Priority: optional
 Description: huami 抖音增强插件
