@@ -193,6 +193,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ZFB/icon.png
 Name: 支付宝步数 XD
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ZFB/js.json
 
+Package: cn.zqbb.phonekey.resets
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 真皮
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.zqbb.phonekey.reset
+Filename: ./debs/iphoneos-arm64/cn.zqbb.phonekey.resets_1.0.3_iphoneos-arm64.deb
+Size: 28676
+MD5sum: 227f77d196c509873605d171dfb5243e
+SHA1: d388b45e9f3291006ea232d6af34902e136de7ee
+SHA256: b12b07b37549ee7332611397c44fe2958999f2e0669083af2b316de3eae03361
+Section: Tweaks
+Description: 修复 Pro 改 Pro Max 分辨率造成的电话拨号键盘错位
+ * 仅测试 14pro 改 14pm 分辦率，其他自行测试
+Author: 真皮
+Icon: https://TrollStoreX.Github.io/sileodepiction/PhoneKeyReset/icon.png
+Name: PhoneKeyReset 拨号键复位
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PhoneKeyReset/js.json
+
+Package: cn.zqbb.phonekey.resets
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 真皮
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.zqbb.phonekey.reset
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.phonekey.resets_1.0.3_iphoneos-arm64e.deb
+Size: 28704
+MD5sum: 08a2161d17c80cb4e905294568c37ac8
+SHA1: be076f9b664eb69b2f73f7712b3c6a12bd2478b1
+SHA256: cea6b3768f638a32f8810560748f26970542d9b203b1b797700750f82aef78fb
+Section: Tweaks
+Description: 修复 Pro 改 Pro Max 分辨率造成的电话拨号键盘错位
+ * 仅测试 14pro 改 14pm 分辦率，其他自行测试
+Author: 真皮
+Icon: https://TrollStoreX.Github.io/sileodepiction/PhoneKeyReset/icon.png
+Name: PhoneKeyReset 拨号键复位
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PhoneKeyReset/js.json
+
 Package: codes.aurora.kayokos
 Version: 2.2
 Architecture: iphoneos-arm64
