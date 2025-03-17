@@ -6619,6 +6619,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
 
+Package: com.huami.dyyys
+Version: 2.1-5Release
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.1-5Release_iphoneos-arm64.deb
+Size: 79332
+MD5sum: 96bbc6171f92edad046b83c15ac27d69
+SHA1: f944de35c08ab41b2c36eed711a8e8baa36f266b
+SHA256: 22a812ec791ee3072200376368e51b24ae92606dabeee0ebd9572a7fba02fbc1
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 双指长按打开插件
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.1-5Release
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.1-5Release_iphoneos-arm64e.deb
+Size: 79256
+MD5sum: 84c876bf3c34fb85d81ea7f87991346d
+SHA1: fe1ffb73106a89ce9692464656e28e5395b54f09
+SHA256: a57b357f98e7b593fcacc1ceb7ec75451902cbd671edecc71d9411641ad4bccc
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 双指长按打开插件
+ * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -14644,6 +14686,45 @@ Size: 329158
 MD5sum: 18aa4b3fee318fb944301af184a6e69e
 SHA1: 0c5365dc562489ed3190e22827814543146d821e
 SHA256: c7efcf7d8693e92654bb156f2cfa9978b6ade75f45fdb7ef913ae10b6567348b
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.0.7Release
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 1420
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.0.7Release_iphoneos-arm64.deb
+Size: 221320
+MD5sum: ae6a529f0cb08181fb5af905210bf690
+SHA1: dd279099a5a1f544cbfe65f4e3d558004b8189fb
+SHA256: b8752638c4c604a427f0bab97bbbdb5cb999fe7b21eb3ba6e746c60d224cc2e9
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.0.7Release
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 1420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.0.7Release_iphoneos-arm64e.deb
+Size: 329188
+MD5sum: b4f504940b1e015d0830377fe3d79bd0
+SHA1: 1ebb35a44d129d46037c5814fb2239ac3a3ad911
+SHA256: 6a599c5080dd315674dac070ec7a3868622d088a8ca3d6e39c258def57c279fa
 Section: 微信插件
 Description: 微信增强插件，支持聊天按钮布局自定义等功能
 Author: 愫茶
