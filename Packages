@@ -3187,6 +3187,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
 Name: TWIGalaxy
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
 
+Package: com.den.twigalaxys
+Version: 1.2-36+debug
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.twigalaxy
+Filename: ./debs/iphoneos-arm64/com.den.twigalaxys_1.2-36+debug_iphoneos-arm64.deb
+Size: 75352
+MD5sum: efd34ff862c65a44d0c45c1c43b06f9c
+SHA1: 79998fa712e8b434373a921acb8269fc60b9e190
+SHA256: 627396b6aa56bb49131c9eb7acf69dacec1124cd210e28a5e5f9b02037e234e3
+Section: 应用破解
+Description: X/Twitter 增强插件
+ * 插件位于底栏菜单右侧
+ * Make Twitter Better
+Author: DeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
+Name: TWIGalaxy
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
+
+Package: com.den.twigalaxys
+Version: 1.2-36+debug
+Architecture: iphoneos-arm64e
+Maintainer: DeNsor
+Installed-Size: 464
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.twigalaxy
+Filename: ./debs/iphoneos-arm64e/com.den.twigalaxys_1.2-36+debug_iphoneos-arm64e.deb
+Size: 116956
+MD5sum: 85b1259a241c36d0bc79434d3057845e
+SHA1: 60d6fd870572e94f139cb380a2927d08f7377b7f
+SHA256: e7de68e074e8d9aaab50d5ff10ae4f008009036aa69173598e474838dd6e789b
+Section: 应用破解
+Description: X/Twitter 增强插件
+ * 插件位于底栏菜单右侧
+ * Make Twitter Better
+Author: DeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
+Name: TWIGalaxy
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
+
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -8198,6 +8241,44 @@ Size: 983116
 MD5sum: 56e4e15bd6641d59681733ad41a41d12
 SHA1: 3161aff2de1661207437d3e603fc55d5cdaa674c
 SHA256: 98690f45cef593504c4048627f3f1bf71b7e753cb6e800045ec5fe7d677fa393
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.6
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3456
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_1.9.6_iphoneos-arm64.deb
+Size: 906844
+MD5sum: 15a241c53c7adf3168c683899e6bd616
+SHA1: 36ea255d090384327ec8eab5d9a5532f32057b7f
+SHA256: 68f91d3e4d69f3d84776633b62dabaf1cf7420d8483230b33e28cfe795a3700f
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.6
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3456
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_1.9.6_iphoneos-arm64e.deb
+Size: 987516
+MD5sum: e51b56165a3d05242bf65f2346115b33
+SHA1: ba08536411cc19946b9b2fbe8a1f8c8e631edd41
+SHA256: 889357517ea7e1fd5921adf1ceae6e6f8eea3a2e2aa51c448ebdfabf8e5ece59
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载
 Author: lenglengyu
