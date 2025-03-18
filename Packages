@@ -6754,10 +6754,10 @@ Maintainer: huami
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
 Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.1-6_iphoneos-arm64.deb
-Size: 91208
-MD5sum: d0d4d7af5fce422adf16179d3ba301f1
-SHA1: 0f11cf854321f06905bcd6bb73632aa71596c4c4
-SHA256: d61ac52fef1ab0668105120e835149bd6bc128cdb77409f343bcd36f6a83fa17
+Size: 92224
+MD5sum: 3ebdf5efe3d7df1186ba14bab763c285
+SHA1: 7286d08f98ba9cfdfda292fa5708fc4ecb658b9c
+SHA256: 083f666e9fa83df354b6bf478ff79a140a661fa04ed605f6fd00428ffd0c75a2
 Section: 抖音插件
 Priority: optional
 Description: huami 抖音增强插件
@@ -6774,10 +6774,10 @@ Maintainer: huami
 Depends: firmware (>= 5.0), mobilesubstrate
 Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
 Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.1-6_iphoneos-arm64e.deb
-Size: 91504
-MD5sum: 9a27112ed43e1fc7d7070e53f32e64de
-SHA1: 795cc2c9dae82d0a5ca2c0b1e9062c3ad77782e9
-SHA256: efb163c195837ee460c2b823f888f6fb07688dd03355f74cf79967aff807027a
+Size: 91572
+MD5sum: d399a6da01e113dbd7d4fc634633624c
+SHA1: 386612231db1140292dc41cb236622b23e775451
+SHA256: 54c762cfc0e4831ff687e5d0f4da18e0c46c6d6968c201a4614fee31cf372692
 Section: 抖音插件
 Priority: optional
 Description: huami 抖音增强插件
