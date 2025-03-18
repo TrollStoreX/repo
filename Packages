@@ -2929,6 +2929,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootlesss
+Version: 0.7-0
+Architecture: iphoneos-arm64
+Maintainer: Curtin
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.7-0_iphoneos-arm64.deb
+Size: 816100
+MD5sum: 39998a711f2fa087ac02516ba8ad78f3
+SHA1: ec8680e23571aaedbe9d4473594eee0445a5ce7b
+SHA256: 09983d7271a3b6a9b9dc45588ec1473e414a43b7bc8ac657b93b2b728be38c78
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.7-0
+Architecture: iphoneos-arm64e
+Maintainer: Curtin
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.7-0_iphoneos-arm64e.deb
+Size: 801492
+MD5sum: e3f5b5567b2701fdd653cd8587b9cf07
+SHA1: a44652d51062dcfcff3267fd8a827c2e84d8a7e0
+SHA256: fad8369c2cd527dd273ec78bd63792ada89e3ba3a034ef9894abe8c575b68e32
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64
@@ -6699,6 +6742,46 @@ Priority: optional
 Description: huami 抖音增强插件
  * 双指长按打开插件
  * 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.1-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64/com.huami.dyyys_2.1-6_iphoneos-arm64.deb
+Size: 91208
+MD5sum: d0d4d7af5fce422adf16179d3ba301f1
+SHA1: 0f11cf854321f06905bcd6bb73632aa71596c4c4
+SHA256: d61ac52fef1ab0668105120e835149bd6bc128cdb77409f343bcd36f6a83fa17
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 双指长按打开插件
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYY/js.json
+
+Package: com.huami.dyyys
+Version: 2.1-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, byg.iosios.net.dyyy
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyys_2.1-6_iphoneos-arm64e.deb
+Size: 91504
+MD5sum: 9a27112ed43e1fc7d7070e53f32e64de
+SHA1: 795cc2c9dae82d0a5ca2c0b1e9062c3ad77782e9
+SHA256: efb163c195837ee460c2b823f888f6fb07688dd03355f74cf79967aff807027a
+Section: 抖音插件
+Priority: optional
+Description: huami 抖音增强插件
+ * 双指长按打开插件
 Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/DYYY/icon.png
 Name: 抖音 DYYY
