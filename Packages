@@ -14732,6 +14732,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
 Name: 微信增强 WeChatEnhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
 
+Package: com.wechat.enhances
+Version: 1.0.8-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 1420
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.0.8-1+debug_iphoneos-arm64.deb
+Size: 228304
+MD5sum: d7771d1d6011b8c146ca77ae9522417b
+SHA1: b7c119ee97cb7a4b8636158cfad43185bc717afb
+SHA256: bfec3bac724f0adabe85e6f44acd8c16e5304f88ff8db33075ce9b4fefc2f302
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.0.8-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 1420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.0.8-1+debug_iphoneos-arm64e.deb
+Size: 335220
+MD5sum: a19e7063661ee0b7ffd658a27d6d3b36
+SHA1: 26d3051355b5ae147b41dd86b00bfa424f3b071c
+SHA256: 4de485b54d37861e0de5bbec447632c36be597e80269dbed942acfe30c379d45
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
 Package: com.wechat.themepro
 Version: 3.1.2
 Architecture: iphoneos-arm64
