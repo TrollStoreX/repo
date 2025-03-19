@@ -1082,6 +1082,47 @@ Name: 微信助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
 Sponsor: admin@25mao.com
 
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-2
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootlesss_3.8-2_iphoneos-arm64.deb
+Size: 8968792
+MD5sum: 6736f1442b3dcaa7b076bae49c35e752
+SHA1: 938e4b62eddfeddfda64866774a702e0420e09d5
+SHA256: 3c8e29b45b17032ca48fe275252a6486e37f64450ab1ec1cf63c1e8d609d761a
+Section: 微信插件
+Priority: optional
+Description: 老猫微信多功能插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
+Sponsor: admin@25mao.com
+
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-2
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootlesss_3.8-2_iphoneos-arm64e.deb
+Size: 8848724
+MD5sum: 09f66d63ca5dd48251ba171ad53c7c67
+SHA1: 62ed9930c7e9c5bf015876d44a72f3dda51a1703
+SHA256: b9208b8c181f8547b7a8eddf69f363149648a01b150fa297e60d3d35ecf9c1fa
+Section: 微信插件
+Priority: optional
+Description: 老猫微信多功能插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
+Sponsor: admin@25mao.com
+
 Package: com.25mao.wcplugins.rootlesss
 Version: 0.1-3
 Architecture: iphoneos-arm64
@@ -8369,6 +8410,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.7K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3456
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_1.9.7K_iphoneos-arm64.deb
+Size: 910792
+MD5sum: a8781d0cf3d08b03cc5fe41dc73e7883
+SHA1: 6e908e4adbb1590cc0062dd18691478242028bb9
+SHA256: ca00a2aa394bcda8d77b754fb3e47c7480f56f0054365ba3f306e674b16bdb35
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 1.9.7K
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3456
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_1.9.7K_iphoneos-arm64e.deb
+Size: 995268
+MD5sum: 327e5618458f513a45c81ef9b1468109
+SHA1: 666725cd962c79929911b64fcdb1c86abfa09f61
+SHA256: 67930cdbea4eaf74bf4054e07663dc034b26af4d1aa7a86b99bbb9b81e4caf1c
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.redditfilters
 Version: 1.1.7
 Architecture: iphoneos-arm64
@@ -14620,6 +14699,45 @@ Size: 2990980
 MD5sum: 2ddd37d42ea647dddd43c201ae91de8c
 SHA1: d278592a669eadc7dc5aa12f15d8b3b13e8db25a
 SHA256: e5025e1f65d890ff3c545cd17cf9a5a1ce7ed1c28cda49257f8da472268737af
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.0.0-1_iphoneos-arm64.deb
+Size: 3638888
+MD5sum: 828207b0d2397a301a84850629a365b2
+SHA1: 8fb25e95b7ca9cd1eab313665ab9b32c92275fce
+SHA256: c9f8ab7de374f172099c21ff6de77bee055137196da2422d8bc96cfc0f8d2a14
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.0.0-1_iphoneos-arm64e.deb
+Size: 3597472
+MD5sum: 56f9b853f29ff6944021e7b7390021ad
+SHA1: 321b3be24827d375bdf329f0ee5447aedabb870d
+SHA256: 834fa32e44b3e1289e886198fa9f44e06437fed15e0d06e42156b2a18b44ab17
 Section: 微信插件
 Description: 微信主题插件
 Author: WeChat
