@@ -1089,10 +1089,10 @@ Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Conflicts: com.25mao.miyou.rootless
 Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootlesss_3.8-2_iphoneos-arm64.deb
-Size: 8968792
-MD5sum: 6736f1442b3dcaa7b076bae49c35e752
-SHA1: 938e4b62eddfeddfda64866774a702e0420e09d5
-SHA256: 3c8e29b45b17032ca48fe275252a6486e37f64450ab1ec1cf63c1e8d609d761a
+Size: 8969188
+MD5sum: c52a49de229ae70191f85bc92a8b9d8e
+SHA1: 6d15c1da85b9d0d6dcac1a22618aabbce5782519
+SHA256: d328f0dc2a3f013c39c7dec5df0ce1c5d88fb512b6514e64006765307271e01c
 Section: 微信插件
 Priority: optional
 Description: 老猫微信多功能插件
@@ -1100,7 +1100,6 @@ Author: Mao
 Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
 Name: 微信助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
-Sponsor: admin@25mao.com
 
 Package: com.25mao.miyou.rootlesss
 Version: 3.8-2
@@ -1111,9 +1110,9 @@ Depends: firmware (>= 5.0)
 Conflicts: com.25mao.miyou.rootless
 Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootlesss_3.8-2_iphoneos-arm64e.deb
 Size: 8848724
-MD5sum: 09f66d63ca5dd48251ba171ad53c7c67
-SHA1: 62ed9930c7e9c5bf015876d44a72f3dda51a1703
-SHA256: b9208b8c181f8547b7a8eddf69f363149648a01b150fa297e60d3d35ecf9c1fa
+MD5sum: fb5769cb98600db2dfca7fc2cf52b016
+SHA1: 421ee51cf1d1366b0bd584012b3f90d157ad75e0
+SHA256: c79e95f3a29fdf1c0f4f724115f1fc727a377880fad90eb8fab93eadf2ff1775
 Section: 微信插件
 Priority: optional
 Description: 老猫微信多功能插件
@@ -1121,7 +1120,6 @@ Author: Mao
 Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
 Name: 微信助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
-Sponsor: admin@25mao.com
 
 Package: com.25mao.wcplugins.rootlesss
 Version: 0.1-3
@@ -14714,10 +14712,10 @@ Installed-Size: 3660
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.tencent.themebox
 Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.0.0-1_iphoneos-arm64.deb
-Size: 3638888
-MD5sum: 828207b0d2397a301a84850629a365b2
-SHA1: 8fb25e95b7ca9cd1eab313665ab9b32c92275fce
-SHA256: c9f8ab7de374f172099c21ff6de77bee055137196da2422d8bc96cfc0f8d2a14
+Size: 3584964
+MD5sum: 3262fa69d00fbd91b30d9e132effda3a
+SHA1: a55bd87ab0ecedba7b7c5464c2d10ce7f5cad3d7
+SHA256: fe7bd06a1626af3fc5e838d07d4a2474c7d3cf6e2506410460f0ee469baf7c3a
 Section: 微信插件
 Description: 微信主题插件
 Author: WeChat
@@ -14734,10 +14732,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.tencent.themebox
 Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.0.0-1_iphoneos-arm64e.deb
-Size: 3597472
-MD5sum: 56f9b853f29ff6944021e7b7390021ad
-SHA1: 321b3be24827d375bdf329f0ee5447aedabb870d
-SHA256: 834fa32e44b3e1289e886198fa9f44e06437fed15e0d06e42156b2a18b44ab17
+Size: 3543304
+MD5sum: 4b5578c2376bf39f3fc32fe4e2fa40f4
+SHA1: 2b0ce81cb3f7e2fc51420318a2711460e39e3e5e
+SHA256: 296e46bc7c2737b1f26937479f8dcf55742713bf0dfb0e367426bdb17257f20c
 Section: 微信插件
 Description: 微信主题插件
 Author: WeChat
