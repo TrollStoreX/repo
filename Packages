@@ -2495,43 +2495,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/icon.png
 Name: AutoScroll 自动滑动
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/js.json
 
-Package: com.awemespeedx.vita
-Version: 1.0-3
-Architecture: iphoneos-arm64
-Maintainer: 维他入我心
-Installed-Size: 624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.awemespeedx.vita_1.0-3_iphoneos-arm64.deb
-Size: 30860
-MD5sum: 4c1f0ef04158739f47c1327239e45ac0
-SHA1: f875db3c1b5866202f916e4b477884a8fdac3fd9
-SHA256: 9b704b271e0daa6363eada2c64d0dafee975afafab6ae609d2f82a5900145a42
-Section: 抖音插件
-Description: 为抖音添加一个倍数播放按钮，长按可自定义倍数
-Author: 维他入我心
-Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/icon.png
-Name: 抖音倍数播放 AwemeSpeedX
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/js.json
-
-Package: com.awemespeedx.vita
-Version: 1.0-3
-Architecture: iphoneos-arm64e
-Maintainer: 维他入我心
-Installed-Size: 624
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.awemespeedx.vita_1.0-3_iphoneos-arm64e.deb
-Size: 41870
-MD5sum: 1d43256c025823fcb063aef2a36df9cb
-SHA1: aa801a54e378aecf9cd439224ba97dd8e63ee43e
-SHA256: b01d4d115e67c7c652bdc7a8d3db8d38bcce3b53e65c8ee0fd15528372c650a4
-Section: 抖音插件
-Description: 为抖音添加一个倍数播放按钮，长按可自定义倍数
-Author: 维他入我心
-Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/icon.png
-Name: 抖音倍数播放 AwemeSpeedX
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/js.json
-
 Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64
