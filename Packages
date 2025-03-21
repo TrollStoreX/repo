@@ -9052,6 +9052,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
 Name: 微信增强 WCEhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
 
+Package: com.lxcloud.wcehances
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64/com.lxcloud.wcehances_1.0-7_iphoneos-arm64.deb
+Size: 57384
+MD5sum: 38af4b7493deb697113eebcdc60e850c
+SHA1: 16611d546df21ec718b35e2b1b9e0db73fbf6a15
+SHA256: 03c826e24817c197f88e6495794f9bbe2424cbe4db8c15f21bcc282fce278900
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.0-7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.wcehances_1.0-7_iphoneos-arm64e.deb
+Size: 79578
+MD5sum: 478443b7911341c86dfad8dc0e5de984
+SHA1: db4dc023450aa8eff0602e830aa5c819d168c63d
+SHA256: 279cc5c1a5a5d8f29004bd4aa2b8e040cf2dcaaa72f7c1abd22af6cd1a481091
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
 Package: com.mikifp.griddys
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -15222,6 +15261,45 @@ Size: 245878
 MD5sum: f27b9cbe3ffc9f72309ca63490e846a0
 SHA1: 6e24ce15cbff266623d9508aafd622ec7c1ae351
 SHA256: f5b2b664e4fffa7583adf9081f080572352d49bf4cb53149e4872cb48fea6bb6
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 1420
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.1.1_iphoneos-arm64.deb
+Size: 188252
+MD5sum: 82c2b4da371c47b82c9e6dcaf8681261
+SHA1: c9a5d016281240d5ad5d951b0e19661c22a20f68
+SHA256: f27682264a74d9727f3c5ed0624e9893bedec011458ca9416dda1d64824a4abe
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 1420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.1.1_iphoneos-arm64e.deb
+Size: 272308
+MD5sum: 1783bb57d675a560ef38284de08f11e8
+SHA1: 44ee486167c5fbe1fd17a3203642ebaa533c4567
+SHA256: 9813cebd81796cb6180ae95ac8f06c232aaedabaef0a31034d4c3975e133bf2a
 Section: 微信插件
 Description: 微信增强插件，支持聊天按钮布局自定义等功能
 Author: 愫茶
