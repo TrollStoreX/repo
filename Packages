@@ -3566,6 +3566,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
 Name: 锤子助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
 
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootlesss_2.0.6_iphoneos-arm64.deb
+Size: 10515488
+MD5sum: 72cefb1e69d0ee786c518d4ef86d1761
+SHA1: f9e16c4cc03b8ec3644d15884bb1ca1fccdb3d09
+SHA256: 6e06f053f9e95ab3533a616ffd0c750de1bf7b0b7b678f5ed006366b90bd6853
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.6
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64e/com.dumpapp.wechat-rootlesss_2.0.6_iphoneos-arm64e.deb
+Size: 10518252
+MD5sum: 21da087a5958f8e76306d194c59ebf63
+SHA1: 48865f1f2a4f8bd08af8986f4639fdaa6d8261e6
+SHA256: 2c20a16ca3ee99112f173366ce7a16bf2c8029b1bc3ed8f369d6f7ea89085561
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
 Package: com.dvntm.cc18s
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -8718,6 +8759,44 @@ Size: 1049416
 MD5sum: 11b0afd1eb1503ed32dbe9d1cecc358d
 SHA1: e0f2f40cfc0ca9da13e731a7b8909474146d37bc
 SHA256: 684ea2e370fca4ea531d5ef60ae9b2e0c00d885ff20db09b176232b7b55e4194
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3548
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_2.0.2_iphoneos-arm64.deb
+Size: 971856
+MD5sum: 48cbbd388f90bb1687048f3850aa9a5d
+SHA1: db3b1c1a45e29356697041544846b2efed5e4b6e
+SHA256: 88b24168f1f17c153c08225681146eaf3d8ad459edb19020e09cb4767f728fb6
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3548
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_2.0.2_iphoneos-arm64e.deb
+Size: 1052080
+MD5sum: 29e0ae76d227c151ca5bc7684048f371
+SHA1: 51bc7d5475080fe5fa755f355b8cfc681b108722
+SHA256: afb5d0532dbf248e25f6df648a76164205e5c3f464e98986ccb68e006037402f
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载
 Author: lenglengyu
