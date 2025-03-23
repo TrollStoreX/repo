@@ -8646,6 +8646,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3548
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_2.0.1_iphoneos-arm64.deb
+Size: 970504
+MD5sum: 5c00a1cb42d0a15a962f7e442fdae9ea
+SHA1: 727315729995cd15f3a1b087d481d56ee1f59648
+SHA256: e45f65507ce44e05f94072a0bc086803ea13f3aa402b45a8ce39eba5753aa8de
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3548
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_2.0.1_iphoneos-arm64e.deb
+Size: 1049416
+MD5sum: 11b0afd1eb1503ed32dbe9d1cecc358d
+SHA1: e0f2f40cfc0ca9da13e731a7b8909474146d37bc
+SHA256: 684ea2e370fca4ea531d5ef60ae9b2e0c00d885ff20db09b176232b7b55e4194
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.redditfilters
 Version: 1.1.7
 Architecture: iphoneos-arm64
@@ -15499,6 +15537,45 @@ Size: 277848
 MD5sum: 28bbe16612b093fd5aab0957b7c482d6
 SHA1: 919cc5ff95468b2480364bb603388f6b9b39f15f
 SHA256: 2a40f23b383ba11f6334fa7a85757da1ab4f454e988138a6ea09cac9f8a2ed9d
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 992
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.1.5_iphoneos-arm64.deb
+Size: 212016
+MD5sum: 26e49cda154d61dcdb65c79740ba2985
+SHA1: 829dc7e9ea4f98d836176b121e377443eddbd4f6
+SHA256: 948b6a88493146379d38b0458d953b8baa3224160f7edebd22fbdc4c550506a0
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 992
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.1.5_iphoneos-arm64e.deb
+Size: 306416
+MD5sum: a23d2e812682a57550d4a1a16ffad6dc
+SHA1: 2c6f45b37007c3ead95238bae2dbb7647014afe0
+SHA256: 7810d52c35e417f94d52bf2c459c9b4d18153135417823aeb676dda63720b321
 Section: 微信插件
 Description: 微信增强插件，支持聊天按钮布局自定义等功能
 Author: 愫茶
