@@ -15121,6 +15121,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/icon.png
 Name: JB 按钮 BetterUISwitch
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/js.json
 
+Package: com.vita.awemespeedxs
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.awemespeedx
+Filename: ./debs/iphoneos-arm64/com.vita.awemespeedxs_0.1-1_iphoneos-arm64.deb
+Size: 32496
+MD5sum: 534d8e7cf5df82b726dba5b711bfcf31
+SHA1: b7ec1c449307f1dba15826cd0a41f572286b5e96
+SHA256: 2722effe24d45f9e1c279cda9d652794135c6aa200905ba51b8b0db608ec02a6
+Section: 抖音插件
+Description: 为抖音添加一个倍数播放按钮，长按可自定义倍数
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/icon.png
+Name: 抖音倍数播放 AwemeSpeedX
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/js.json
+
+Package: com.vita.awemespeedxs
+Version: 0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 272
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.awemespeedx
+Filename: ./debs/iphoneos-arm64e/com.vita.awemespeedxs_0.1-1_iphoneos-arm64e.deb
+Size: 32500
+MD5sum: fbb19068aeb05ccf8c70e2747157603f
+SHA1: 7a76ff78a926b35ffde94ab57e97a573b679ac67
+SHA256: e75b88d3eb168b73fbcbae742b80bdc56267d37bb74b6f9955ccbbdcf0d6856e
+Section: 抖音插件
+Description: 为抖音添加一个倍数播放按钮，长按可自定义倍数
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/icon.png
+Name: 抖音倍数播放 AwemeSpeedX
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/js.json
+
 Package: com.wechat.ColorfulCubes
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -16448,6 +16486,49 @@ Size: 214926
 MD5sum: 006816b9ccdfed5fe8a6f6e8d837484e
 SHA1: 733523a77f3d09ef854d3999bc709d40272c61d8
 SHA256: 00681388b0eed86f50533afb57469ad3b47325b66d7d8a77feeb178a7a312e84
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.1-5_iphoneos-arm64.deb
+Size: 162212
+MD5sum: 90c13ff552471d4e9615d4fb7efbd680
+SHA1: 8b2e9907a6db88dc5b20e3d33c00bd510819475d
+SHA256: 349e50b21a53e2b0f2c37ad2f202dc1126b688a03940585a96ea6c09fa53ee75
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.1-5_iphoneos-arm64e.deb
+Size: 224826
+MD5sum: 584ec36a6e29ffb5df001c5a1cdade52
+SHA1: 506a127952e8d9a1e9a7d14801e9ca9c8022454b
+SHA256: 2bf1e071ba3c1d7be399a7f0b2ad6049de60da0fa567ff92e2494839dd374509
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音助手插件
