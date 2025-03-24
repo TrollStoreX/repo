@@ -19044,6 +19044,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/icon.png
 Name: 快速跳过广告 VideoAdsSpeed
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/js.json
 
+Package: dev.mineek.appstoretrollers
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretrollers_0.0.2_iphoneos-arm64.deb
+Size: 7204
+MD5sum: 549c6bdca7cf9c22bde3a76a0442cb0c
+SHA1: 9c4faeae5c6ef1e50c86a4ee624120eb956d7c88
+SHA256: 875bafffce4ddfc46df55e81b891557cd61aa086d58b89c771b19ebc5015bf6c
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
+ * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/icon.png
+Name: AppStoreTroller
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/js.json
+
+Package: dev.mineek.appstoretrollers
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Mineek
+Installed-Size: 344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretrollers_0.0.2_iphoneos-arm64e.deb
+Size: 10566
+MD5sum: 596e4e34552b9d6d6a6ca5406442ba15
+SHA1: 3b41a5041a6177c21fa6b6e6cf7ff0b4feebe866
+SHA256: 1cecc8d93b970e70ad2cefba8cfd667aea4fe87e5b704c522b0ddee51bd1d492
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
+ * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/icon.png
+Name: AppStoreTroller
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/js.json
+
 Package: it.ned.noappthinnings
 Version: 1.2
 Architecture: iphoneos-arm64
