@@ -6142,6 +6142,54 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Bilibili/icon.png
 Name: 哔哩哔哩 BiliNoAd
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Bilibili/js.json
 
+Package: com.huami.dyyy.vita
+Version: 2.2-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 848
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-1_iphoneos-arm64.deb
+Size: 148000
+MD5sum: a90f2411a642b6cf539edc5c3b52982d
+SHA1: 221ab4ffaf6019642b2b7691468f98798ee8e7ee
+SHA256: b3c1a9e06dacf7626be5d42caefede9765a8b7a6acc2520c3941af83a5aaef8d
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增抖音原生系统插件 UI
+ * 新增一些功能
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 848
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-1_iphoneos-arm64e.deb
+Size: 147464
+MD5sum: 5d013d9be70ef97c19b672b292c1c836
+SHA1: 8410efa667f4009949e4e73427749af54b06ea7f
+SHA256: b27dc5f380680d960eaec6556e572bc382092df0a3e99cc18d61225ffb79e49c
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增抖音原生系统插件 UI
+ * 新增一些功能
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
 Package: com.huami.dyyys
 Version: 2.0-2
 Architecture: iphoneos-arm64
