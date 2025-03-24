@@ -15741,6 +15741,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
 Name: 微信增强 WeChatEnhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
 
+Package: com.wechat.enhances
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 992
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.1.6_iphoneos-arm64.deb
+Size: 228424
+MD5sum: 7fd7f9fd0fb20238e344eb9caf5bcadf
+SHA1: 9e77bf6b80d3bf5fc890d18b69c84cb633ea557e
+SHA256: 8a37c018fd1a866be01896b548f97db309c9aef5bb75d995a71f571d0bcd0f4c
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.1.6
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 992
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.1.6_iphoneos-arm64e.deb
+Size: 332914
+MD5sum: 9b18ca006170bc5bd9f2f16aea2f4b7e
+SHA1: cef00e80dd34762f54b345a1f73f4a47332104aa
+SHA256: d71494b716d2f9fc8d0761a96909e059451140bde3354c5f1ffae41e70cc64ff
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: 微信增强 WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
 Package: com.wechat.themepro
 Version: 3.1.2
 Architecture: iphoneos-arm64
@@ -19077,6 +19116,47 @@ Size: 10566
 MD5sum: 596e4e34552b9d6d6a6ca5406442ba15
 SHA1: 3b41a5041a6177c21fa6b6e6cf7ff0b4feebe866
 SHA256: 1cecc8d93b970e70ad2cefba8cfd667aea4fe87e5b704c522b0ddee51bd1d492
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
+ * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/icon.png
+Name: AppStoreTroller
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/js.json
+
+Package: dev.mineek.appstoretrollers
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretrollers_0.0.5_iphoneos-arm64.deb
+Size: 7244
+MD5sum: c47bebad4dbc35f477ef8076d3612e34
+SHA1: 53310b812fcdc4d73aaa4c9b57af478de00f4149
+SHA256: 4a12d0cdc170e05788b66c16307703d1a07c6a4f1809d3d8bcf998c5fc7fd2d4
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
+ * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/icon.png
+Name: AppStoreTroller
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/js.json
+
+Package: dev.mineek.appstoretrollers
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: Mineek
+Installed-Size: 344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretrollers_0.0.5_iphoneos-arm64e.deb
+Size: 10624
+MD5sum: 9ff1bea4b0d84ade5803f0552351658f
+SHA1: d8618f4eb1e445265ec2f3acdf9906ae7beddcbd
+SHA256: c2ebcffd741693bde578ae4b80d8b85f6241b18e98e297294fc07cc7fc49f7aa
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
