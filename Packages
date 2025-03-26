@@ -9764,6 +9764,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
 Name: DynamicNotLand 隐藏灵动岛
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
 
+Package: com.nathan.dynamicnotlands
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotlands_1.0.9_iphoneos-arm64.deb
+Size: 10544
+MD5sum: 0541c6aebca57cf12630bd94dfb3f27f
+SHA1: 3a574ea5b033844c1310e16713450c4df969e26b
+SHA256: e396c304ba2a6f8a53372df5a75079e15c9b4e1f4f3e438cc559d1a8943256a6
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.dynamicnotlands
+Version: 1.0.9
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64e/com.nathan.dynamicnotlands_1.0.9_iphoneos-arm64e.deb
+Size: 14264
+MD5sum: f110239f30f63a3b72ad2838cbdc09b6
+SHA1: fee447ee54a99ef3efcb0adf2fa8f01482ab14f6
+SHA256: 38b388150bf626f3133939a89d5e0f8e0369e878893db3c6a8675d6fd3f13c7b
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
 Architecture: iphoneos-arm64
