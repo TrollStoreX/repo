@@ -4840,6 +4840,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.eevee.spotifys
+Version: 5.9.1
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 1620
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.9.1_iphoneos-arm64.deb
+Size: 404036
+MD5sum: fd60e4e43254338177eefa23f682119f
+SHA1: ad2aa6dcf370e01f62c93e25264417c5fd8e0e63
+SHA256: c66ecebb83e72cddaca06b34a3850a21697cfba7bafb24a5575c3580a768f370
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.9.1
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 1620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.28.1)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.9.1_iphoneos-arm64e.deb
+Size: 556370
+MD5sum: 0cb7e61b55f6b4e8ae38462869e04395
+SHA1: f8269f79aede36a1998c81e85f951bb3236a95e5
+SHA256: 3af2b8471e7486663f33a7b6cc41bbd31cbd99c1469a82f321e13567c10300d8
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
 Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -19649,6 +19692,47 @@ Size: 22172
 MD5sum: 65ae08960e7f9e43d228e99498184607
 SHA1: 2b6195c2ad110d23bdbba3dd1d59a7af70964ec2
 SHA256: 5892f6e3df1eaedafd09b8199026a40cec266b87eb63567a045524e139cf93bf
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
+ * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/icon.png
+Name: AppStoreTroller
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/js.json
+
+Package: dev.mineek.appstoretrollers
+Version: 0.0.9
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: ./debs/iphoneos-arm64/dev.mineek.appstoretrollers_0.0.9_iphoneos-arm64.deb
+Size: 15824
+MD5sum: 365a3e73eee1e3131ef1a19969645a39
+SHA1: 28784d3e416be1f424706adf4e9dc0332e56ab28
+SHA256: 4bf2b489a15709ebe95a63ef636fd199c41fbaa7c5d4193afbb02842f0fe7a7e
+Section: Tweaks
+Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
+ * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Author: Mineek
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/icon.png
+Name: AppStoreTroller
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AppStoreTroller/js.json
+
+Package: dev.mineek.appstoretrollers
+Version: 0.0.9
+Architecture: iphoneos-arm64e
+Maintainer: Mineek
+Installed-Size: 344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: dev.mineek.appstoretroller
+Filename: ./debs/iphoneos-arm64e/dev.mineek.appstoretrollers_0.0.9_iphoneos-arm64e.deb
+Size: 22250
+MD5sum: 65d395a719199d743bfce3855bdb4ce3
+SHA1: 593ad19cb9f8985ad656be1e463fb86017c1ca74
+SHA256: 080b540a81056b670f181f38f158e9bc804ca32e191dab5fd35a91e747064aba
 Section: Tweaks
 Description: 强制低系统版本越狱设备使用 ID 购买高版本应用并安装，软件不兼容会导致闪退
  * Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
