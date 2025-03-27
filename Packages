@@ -9493,6 +9493,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
 Name: 微信增强 WCEhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
 
+Package: com.lxcloud.wcehances
+Version: 1.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64/com.lxcloud.wcehances_1.0-9_iphoneos-arm64.deb
+Size: 58288
+MD5sum: cf5f266d808782e0ea49e2c58f5dff3e
+SHA1: c1b4209e69990d881bf4cd4e6f6290f099c746eb
+SHA256: d3976d62dbccf5927aa31fe9a25b2ac40e58ddead9b955148d3d05039fca83c5
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.0-9
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.wcehances_1.0-9_iphoneos-arm64e.deb
+Size: 80892
+MD5sum: 87f56314957313289b1f0ac91c841209
+SHA1: bfeaeaf1d26b9f637b808f45425a280ec1b7d08d
+SHA256: 486b03c405ca604b2449e85484b116fb5478869077384e25ae96288522dffdeb
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
 Package: com.mikifp.griddys
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -16893,6 +16932,49 @@ Size: 224826
 MD5sum: 584ec36a6e29ffb5df001c5a1cdade52
 SHA1: 506a127952e8d9a1e9a7d14801e9ca9c8022454b
 SHA256: 2bf1e071ba3c1d7be399a7f0b2ad6049de60da0fa567ff92e2494839dd374509
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.1-6
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.1-6_iphoneos-arm64.deb
+Size: 224472
+MD5sum: 337f0b2ccd2393f3a05b74ac258dcc84
+SHA1: 165474bc11d9d630fddbe0f8b53c713447735933
+SHA256: bb44febdf0a56b48dce1c1021e6a9264068fcfcb27cbe0925ba8155701e813f1
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.1-6
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.1-6_iphoneos-arm64e.deb
+Size: 312396
+MD5sum: ee691e797712cf3719b2f1e658ea2c7a
+SHA1: 7b75834e9ebe168c8dd2b143ec6236ffad3428e8
+SHA256: 83f4bc9f3170bb40047dbfd1b56f3c59055a90d16b8614f89a7893b5acd2a920
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音助手插件
