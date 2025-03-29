@@ -9019,6 +9019,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.7
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3988
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_2.0.7_iphoneos-arm64.deb
+Size: 1047552
+MD5sum: 7388304cbea099d3455310e9d0cef6e5
+SHA1: e6bfa8cf74d73b4d4d89c09dfcb4c9fcd58f6f6e
+SHA256: 5f6e64a5cd30d12c611db18f1c5ceb0bb88856ba8a9189bac36b1abf8db14e90
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.7
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 4044
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_2.0.7_iphoneos-arm64e.deb
+Size: 1067364
+MD5sum: ac5150db31145eae31286c059f16c995
+SHA1: 435cc29aada2811085d5b59a73a6ced668ccbf3f
+SHA256: a04423ac995cebf8fe2e827ef69228bd5fa9a3bee01fa3832927603f9a08a98d
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.redditfilters
 Version: 1.1.7
 Architecture: iphoneos-arm64
@@ -10003,6 +10041,47 @@ Size: 14264
 MD5sum: f110239f30f63a3b72ad2838cbdc09b6
 SHA1: fee447ee54a99ef3efcb0adf2fa8f01482ab14f6
 SHA256: 38b388150bf626f3133939a89d5e0f8e0369e878893db3c6a8675d6fd3f13c7b
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.dynamicnotlands
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotlands_1.1.1_iphoneos-arm64.deb
+Size: 10636
+MD5sum: 50f11b49e78eff3faa4a66eb546cef63
+SHA1: c6acf752750df7918b50fc69b2be1f6e94a5169d
+SHA256: ba8ef75d5ab43ef0896a39daa83aad914dc72647f6c58b56aa06b0ed6a5bbe72
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.dynamicnotlands
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64e/com.nathan.dynamicnotlands_1.1.1_iphoneos-arm64e.deb
+Size: 14410
+MD5sum: e4e3e4fab1d9fb9d38571c3add66dbd9
+SHA1: eb758093b02ad47c440bc481fdb0d956ad0fcad3
+SHA256: 9e687ce5e5c62b920d71a4ddcc3b096872452c80e88efb71c0b46e1fd4363cae
 Section: Tweaks
 Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
  * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
