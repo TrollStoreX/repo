@@ -4250,6 +4250,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
 Name: YTLite
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
 
+Package: com.dvntm.ytlites
+Version: 5.2b1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16124
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite, com.dao.ytlite, byg.iosios.net.ytlite
+Filename: ./debs/iphoneos-arm64/com.dvntm.ytlites_5.2b1_iphoneos-arm64.deb
+Size: 6046124
+MD5sum: 7ea4ce36d28e67bdcec2d5d8931f58f5
+SHA1: 4c7acf3dd0e3908430840740f2704de733bc05cc
+SHA256: f88fb9fb927b1435dd6779d057ab3b64e34555a99c774aa232bd0694593678ea
+Section: 应用破解
+Description: YouTube Plus 增强插件
+ * Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
+Name: YTLite
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
+Package: com.dvntm.ytlites
+Version: 5.2b1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16124
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite, com.dao.ytlite, byg.iosios.net.ytlite
+Filename: ./debs/iphoneos-arm64e/com.dvntm.ytlites_5.2b1_iphoneos-arm64e.deb
+Size: 6040308
+MD5sum: 85cddc55627689d36333c365a3b43d97
+SHA1: 20b17cb72d165f8986af8413842f589faf2827c3
+SHA256: 276993d695f220e79ef65fd15c1f47aff49681871981f2ef64169f5a5634d65c
+Section: 应用破解
+Description: YouTube Plus 增强插件
+ * Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
+Name: YTLite
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
 Package: com.eevee.spotifys
 Version: 5.2
 Architecture: iphoneos-arm64
