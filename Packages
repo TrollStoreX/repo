@@ -3052,6 +3052,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootlesss
+Version: 0.7-1
+Architecture: iphoneos-arm64
+Maintainer: Curtin
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.7-1_iphoneos-arm64.deb
+Size: 818964
+MD5sum: 4b085d9cd7a299c246df171985f34083
+SHA1: edddcdcb7a2a2c3e11b3d59445d0e7c076e08f58
+SHA256: 834cac1858f6b9e44df16a6c4241ce6c6cb61fecd1b79e5838cd91c32ca60ef8
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.7-1
+Architecture: iphoneos-arm64e
+Maintainer: Curtin
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.7-1_iphoneos-arm64e.deb
+Size: 803844
+MD5sum: 1a491cde5c72bc7b0a9b362b32979b93
+SHA1: fbc00d63793925df27b8a69cda394e99b2fd5d8e
+SHA256: 529701fac65c92f7fbcde83d7ef5450c1749471d2915e76fa4d9c2628b22f700
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64
@@ -12413,6 +12456,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/icon.png
 Name: 微信按钮 WeChatUISwitchLoader
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatUISwitchLoader/js.json
 
+Package: com.nightwind.matchingiconlabelss
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nightwind.matchingiconlabels
+Filename: ./debs/iphoneos-arm64/com.nightwind.matchingiconlabelss_0.0.1_iphoneos-arm64.deb
+Size: 3764
+MD5sum: c9a58e6b0818494104c69a03e1d25ef4
+SHA1: 27bbf1a4f49181c218247c9a9bc4de539c71361c
+SHA256: b9b5e7046ab02130dccd6385717efa673669df6ba615f685eb36a3f311f25f8c
+Section: Tweaks
+Description: 将图标标签的颜色与其图标相匹配
+ * Match icon labels colors to their icons
+Author: Nightwind
+Icon: https://TrollStoreX.Github.io/sileodepiction/MatchingIconLabels/icon.png
+Name: MatchingIconLabels 匹配图标标签
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MatchingIconLabels/js.json
+
+Package: com.nightwind.matchingiconlabelss
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nightwind.matchingiconlabels
+Filename: ./debs/iphoneos-arm64e/com.nightwind.matchingiconlabelss_0.0.1_iphoneos-arm64e.deb
+Size: 5220
+MD5sum: 37dca0ed2bcd0ebe6961bb774cdbd0fc
+SHA1: 6e34304760e7ad104d1df4d9aeb0337928c56dd2
+SHA256: 9d9f5c7bb7a49e4349e33f50f7e0b6f4ecad47f471e3872fb4e8c4c2e9f0355f
+Section: Tweaks
+Description: 将图标标签的颜色与其图标相匹配
+ * Match icon labels colors to their icons
+Author: Nightwind
+Icon: https://TrollStoreX.Github.io/sileodepiction/MatchingIconLabels/icon.png
+Name: MatchingIconLabels 匹配图标标签
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MatchingIconLabels/js.json
+
 Package: com.notificationsgroupcounts.zh-Hans
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -17301,6 +17385,49 @@ Size: 312396
 MD5sum: ee691e797712cf3719b2f1e658ea2c7a
 SHA1: 7b75834e9ebe168c8dd2b143ec6236ffad3428e8
 SHA256: 83f4bc9f3170bb40047dbfd1b56f3c59055a90d16b8614f89a7893b5acd2a920
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.1-7
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.1-7_iphoneos-arm64.deb
+Size: 226156
+MD5sum: 7ff667ff2ceb35efd4212edff82de72c
+SHA1: fcbaa8116604680a35214a7419ed24e36e1100b4
+SHA256: d59b9d00e211f689f9230b363bb2c57d5f9f89a9ba4ed1638a0a1eabf883a885
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.1-7
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.1-7_iphoneos-arm64e.deb
+Size: 316392
+MD5sum: ba1317d450b1c45a2f70c36668a72400
+SHA1: cbbbd663729ee6221a1dff14f10b568d6d9a743d
+SHA256: 91266931dbbe5f8e430d27a37949f1f25249a2bf1d2ee0b34ee26bcd88245844
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音助手插件
