@@ -9140,6 +9140,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3988
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_2.0.8_iphoneos-arm64.deb
+Size: 1050464
+MD5sum: a6ccafeda5896bd15ee23edeb5013167
+SHA1: b17858cce94f005a764b849f5a8eb353c6b8706c
+SHA256: 90c90b3e1cd0a2cf31226ef8934b14cc0d8e27f9f8af975038fa7d658b1e9605
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.8
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3988
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_2.0.8_iphoneos-arm64e.deb
+Size: 1070020
+MD5sum: fa49eb21f7d4f4cfadef114f1fc0623c
+SHA1: ef0cd4ca4f855bfa04a7dc644dda1a1e859db905
+SHA256: 82f4c2eeb909257ba0d071579ad5a67453d7d9dd6c1ea98be892cb7a39cfa744
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.redditfilters
 Version: 1.1.7
 Architecture: iphoneos-arm64
@@ -10165,6 +10203,47 @@ Size: 14410
 MD5sum: e4e3e4fab1d9fb9d38571c3add66dbd9
 SHA1: eb758093b02ad47c440bc481fdb0d956ad0fcad3
 SHA256: 9e687ce5e5c62b920d71a4ddcc3b096872452c80e88efb71c0b46e1fd4363cae
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.dynamicnotlands
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotlands_1.2.1_iphoneos-arm64.deb
+Size: 11452
+MD5sum: 7d064b8a4688f7091b60cb1711f2867e
+SHA1: 9054cf599cbda8c31d9e9f5d0cc8a957c435f2be
+SHA256: d967f3b31cf1bbaa2a991ab596c879ae9e0840a7e9500a63485fee242fa143c9
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.dynamicnotlands
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64e/com.nathan.dynamicnotlands_1.2.1_iphoneos-arm64e.deb
+Size: 15596
+MD5sum: 635443d2729b38b0050f447deafabc48
+SHA1: 2cf0a4539dbf967fdcd9d506c6a470b26cf74afa
+SHA256: fae37b6319765f8d3a77ab9aa7a8770150a257c8d551ac0fadcbdac1d4f05ab3
 Section: Tweaks
 Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
  * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
@@ -15769,6 +15848,64 @@ Size: 3543304
 MD5sum: 4b5578c2376bf39f3fc32fe4e2fa40f4
 SHA1: 2b0ce81cb3f7e2fc51420318a2711460e39e3e5e
 SHA256: 296e46bc7c2737b1f26937479f8dcf55742713bf0dfb0e367426bdb17257f20c
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.1-1
+Architecture: iphoneos-arm
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm/com.tencent.themeboxs_2.0.1-1_iphoneos-arm.deb
+Size: 3636808
+MD5sum: 914e408f4233a30fb490487baaae0853
+SHA1: 7061df97dea88ccb397745beed2878c8777356e2
+SHA256: 9c3d351ed712ff9786dc886164fb218ab65d3d48c623850a77f0d6962401c767
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 3660
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.0.1-1_iphoneos-arm64.deb
+Size: 3621816
+MD5sum: aa840c2ecb885e84bca3a7d2e4968868
+SHA1: 7ccc3a3e3ec9a321e7123c06b23c50294ba4a7cb
+SHA256: d1ac2b865d5e0cb7c718cfb7ce57678e3e85eaaeaad7a0aa2a9573aaa47dcda4
+Section: 微信插件
+Description: 微信主题插件
+Author: WeChat
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Installed-Size: 3660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.0.1-1_iphoneos-arm64e.deb
+Size: 3578980
+MD5sum: b589e0246e03326f4a3abbf9339d2d76
+SHA1: cff3099a68dc1aa8fbfa9954588297adff09be17
+SHA256: 516437e7e168b40836c39f2e2b849b20845383ad52d378db2f43171154757773
 Section: 微信插件
 Description: 微信主题插件
 Author: WeChat
