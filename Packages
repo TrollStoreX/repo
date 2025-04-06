@@ -6268,6 +6268,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Bilibili/icon.png
 Name: 哔哩哔哩 BiliNoAd
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Bilibili/js.json
 
+Package: com.huami.dyenablepanelmodernstyles
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.dyenablepanelmodernstyle
+Filename: ./debs/iphoneos-arm64/com.huami.dyenablepanelmodernstyles_1.0.0_iphoneos-arm64.deb
+Size: 3020
+MD5sum: 0fa64447fd443fc010c26feeafab8ab9
+SHA1: 8d9fa9d7a5e29094ebce3a0b760fe99a63725dd1
+SHA256: 4c5353b84a7c50c74487466f25259473363add134103c396cfc7bcdfffd6551e
+Section: Tweaks
+Description: 强制启用新版抖音长按 UI（现代风）
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYEnablePanelModernStyle/icon.png
+Name: 强制启用新版抖音长按 UI（现代风）
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYEnablePanelModernStyle/js.json
+
+Package: com.huami.dyenablepanelmodernstyles
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.dyenablepanelmodernstyle
+Filename: ./debs/iphoneos-arm64e/com.huami.dyenablepanelmodernstyles_1.0.0_iphoneos-arm64e.deb
+Size: 2956
+MD5sum: 3eb849ea4667da7b935b1db8a121ddca
+SHA1: 4463790278b83046b27af55991c0a5d1e455bebb
+SHA256: 717e01b658d3b3ce7acdf987dbfdb40c49c222360677f1ee1c75b29c0d528bf5
+Section: Tweaks
+Description: 强制启用新版抖音长按 UI（现代风）
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYEnablePanelModernStyle/icon.png
+Name: 强制启用新版抖音长按 UI（现代风）
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYEnablePanelModernStyle/js.json
+
 Package: com.huami.dyyy.vita
 Version: 2.2-1
 Architecture: iphoneos-arm64
@@ -10244,6 +10282,47 @@ Size: 15596
 MD5sum: 635443d2729b38b0050f447deafabc48
 SHA1: 2cf0a4539dbf967fdcd9d506c6a470b26cf74afa
 SHA256: fae37b6319765f8d3a77ab9aa7a8770150a257c8d551ac0fadcbdac1d4f05ab3
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.dynamicnotlands
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64/com.nathan.dynamicnotlands_1.2.3_iphoneos-arm64.deb
+Size: 12232
+MD5sum: b0b599ffd7fc0f3d658c9bcd9febdb5e
+SHA1: 5b4190a887428af22e939826cfaf58503ad76ad0
+SHA256: fdc47d8fcff3bb008089a2b645ce195dd434c5cfb2715743b7a1329acba19dfd
+Section: Tweaks
+Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
+ * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
+Author: Nathan
+Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
+Name: DynamicNotLand 隐藏灵动岛
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.dynamicnotlands
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: Nathan
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.dynamicnotland
+Filename: ./debs/iphoneos-arm64e/com.nathan.dynamicnotlands_1.2.3_iphoneos-arm64e.deb
+Size: 16542
+MD5sum: 37ac47e12977c66812e3ede28ce1fe7d
+SHA1: e05986889341e53042716386fc21b612c8b6f9b8
+SHA256: 7f9276dc4b56a9ad1aac20a956e361b87f9f0058796cd2a96efdfc99280dc29f
 Section: Tweaks
 Description: 在 14 Pro 系列上，隐藏未使用时的灵动岛
  * A tweak to hide the Dynamic Island on the 14 Pro series when it's not in use
