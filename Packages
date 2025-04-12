@@ -7735,6 +7735,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.pn
 Name: 微信顶栏元素 WCNicknameAvatarStyle
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
 
+Package: com.huami.wcnicknameavatarstyles
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcnicknameavatarstyle
+Filename: ./debs/iphoneos-arm64/com.huami.wcnicknameavatarstyles_2.1_iphoneos-arm64.deb
+Size: 47732
+MD5sum: 15e729867d4f3d498c2686d318d307fd
+SHA1: 121edddc8cb6943a9de3f89d6b205a895904484a
+SHA256: b0d2ace5f9f3c1e4d45ec9fc033abe6a694be488d2b1ae78e9b0248e0e5ff614
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.png
+Name: 微信顶栏元素 WCNicknameAvatarStyle
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
+
+Package: com.huami.wcnicknameavatarstyles
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 288
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcnicknameavatarstyle
+Filename: ./debs/iphoneos-arm64e/com.huami.wcnicknameavatarstyles_2.1_iphoneos-arm64e.deb
+Size: 47692
+MD5sum: 7b62a599f43d09c5fcf8509de5a3accb
+SHA1: a4991a1390d86ea44bb2d4972578d301e8df701c
+SHA256: 8a3aa12e70077ef9b9ff778e79d007ca9b90f693e23a7ed3947099388a85b075
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/icon.png
+Name: 微信顶栏元素 WCNicknameAvatarStyle
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCNicknameAvatarStyle/js.json
+
 Package: com.hw.imepremium
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -9259,6 +9297,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.9K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3988
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_2.0.9K_iphoneos-arm64.deb
+Size: 1067956
+MD5sum: 317a2542d1aebc7220b33c88769e6d35
+SHA1: 644b2bfb48ef22217b3de6bc56b080069ce062a7
+SHA256: f94ffc9ea8f52deb3f8b597ddd9df186ea98406d7abe6bf4cd46fbbbbbbd2053
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.0.9K
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3988
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_2.0.9K_iphoneos-arm64e.deb
+Size: 1083220
+MD5sum: 4b19209f5f68c743108864e0a8df609b
+SHA1: 183dc9a65d770459e3baf910e0bae113d6c92545
+SHA256: d21ace7891b94a4780204bfc571eb8b27c649eed8320c8224f41e7d029645bb3
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.redditfilters
 Version: 1.1.7
 Architecture: iphoneos-arm64
@@ -9893,6 +9969,45 @@ Size: 80892
 MD5sum: 87f56314957313289b1f0ac91c841209
 SHA1: bfeaeaf1d26b9f637b808f45425a280ec1b7d08d
 SHA256: 486b03c405ca604b2449e85484b116fb5478869077384e25ae96288522dffdeb
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.1-0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64/com.lxcloud.wcehances_1.1-0_iphoneos-arm64.deb
+Size: 60500
+MD5sum: 8803b41876eca831fa36035a143d30b1
+SHA1: f6126aa3521a7b3857cea20dc853d91f0f5f1109
+SHA256: 65f706119f880e5ecae588753b0b90492585eb4f1bf97ebf4ae152a9c1e841eb
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.1-0
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.wcehances_1.1-0_iphoneos-arm64e.deb
+Size: 84222
+MD5sum: 6e2e3a7a514a6034cd1f82eb82f517ee
+SHA1: e66948fa3c4f2e7a489f5f0cea49fafb89ef1faf
+SHA256: 1251c95bdb54cabba60eb5c01d984f29267d3293659180fc2324f7d2bb055ecf
 Section: 微信插件
 Priority: optional
 Description: 用于优化一些反人类设计并增强功能
