@@ -2456,6 +2456,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appaze/icon.png
 Name: Appaze 3 体验版
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appaze/js.json
 
+Package: com.apibugtexttovoice
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: www.apibug.com
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.apibugtexttovoice_1.0.5_iphoneos-arm64.deb
+Size: 169464
+MD5sum: 0958f7f636c3a670b6a57ac851ad63a8
+SHA1: a4869490111b88b94c40675718f2480a04f2e6e3
+SHA256: 2914e8e2d7144f53fba30225de685ae977cc6de50220c08a25909504329430c3
+Section: 微信插件
+Priority: optional
+Description: Apibug 微信文字转语音插件
+ * 开关位于微信设置内，聊天窗口发送 ys 打开菜单
+ * 官网 www.apibug.com
+Author: www.apibug.com
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/ApibugTextToVoice.png
+Name: 微信文字转语音 ApibugTextToVoice
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ApibugTextToVoice/js.json
+
+Package: com.apibugtexttovoice
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: www.apibug.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.apibugtexttovoice_1.0.5_iphoneos-arm64e.deb
+Size: 240572
+MD5sum: 600a4f212cbecf39d63927f6e82fa9e4
+SHA1: b454c2083ed0f9cb2229c7a37d55105f564a3c0e
+SHA256: 0dd05a8cc43669b174c4dedb6ea1a83ddbcd996f33c96d2846cb43b04cb108f0
+Section: 微信插件
+Priority: optional
+Description: Apibug 微信文字转语音插件
+ * 开关位于微信设置内，聊天窗口发送 ys 打开菜单
+ * 官网 www.apibug.com
+Author: www.apibug.com
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/ApibugTextToVoice.png
+Name: 微信文字转语音 ApibugTextToVoice
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ApibugTextToVoice/js.json
+
 Package: com.autoscroll.jb
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -6433,6 +6474,54 @@ Size: 169092
 MD5sum: 75cc5ed6b2c47de450803fb5287f5b47
 SHA1: 73dd7d52297dd1a6cb6bf947a21df7762f8e4f96
 SHA256: 83f5b6f0e6e21227df9172ccbf531e0062a42461dc4b03aede5a6f918dd4833e
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 848
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-3_iphoneos-arm64.deb
+Size: 325752
+MD5sum: 56cea82a69584d0db182a86178f9e3a8
+SHA1: 33d0ae5b01da07438b11892944e70b2bc64076b3
+SHA256: 08e7ce17e66df70330004d8ddfa5b593291ebe961b47b7b4cafcf03ffb9bb39f
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-3
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 848
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-3_iphoneos-arm64e.deb
+Size: 325560
+MD5sum: 27e79d0d580a7d9bc885790fc96a301c
+SHA1: c67f7f8d84f379d1d07e2ecf57fdd757413bca75
+SHA256: ccaf20f1630c8f567dd89ea1c1bb82e0268fab922ed24d24a9e97d021dac7538
 Section: 抖音插件
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
