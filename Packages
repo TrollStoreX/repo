@@ -2761,6 +2761,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
+Package: com.be-huge.wechat-push-msg-pages
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: com.be-huge.wechat-push-msg-page
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-pages_0.0.3_iphoneos-arm64.deb
+Size: 23296
+MD5sum: a8fe527ff9f1f3d424c9d24f789c4687
+SHA1: dbc9d3a4a8f908280ee50f0b45cb2065aa8c1925
+SHA256: 18a97493a7050cca97ea83d180a789c3c36319ea5aa6a3488e01320aca0816e0
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口
+Author: be-huge
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
+Name: 微信推送直达聊天窗口 WechatPushMsgPage
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
+
+Package: com.be-huge.wechat-push-msg-pages
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: com.be-huge.wechat-push-msg-page
+Filename: ./debs/iphoneos-arm64e/com.be-huge.wechat-push-msg-pages_0.0.3_iphoneos-arm64e.deb
+Size: 30768
+MD5sum: 9f4e99475ddbcf53367ed213ff73337b
+SHA1: 10ade8256100f5be73eb2e12a342e1d9982a068f
+SHA256: d52476048fdead3c6336bb55e1ad44bbbf3b225010218b7154479f05e8d8db4e
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口
+Author: be-huge
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
+Name: 微信推送直达聊天窗口 WechatPushMsgPage
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
+
 Package: com.curtin.pkc.rootlesss
 Version: 0.6-3
 Architecture: iphoneos-arm64
