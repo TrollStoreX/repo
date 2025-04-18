@@ -5359,6 +5359,57 @@ Author: 小果子
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
 Name: 酷安FuckAds
 
+Package: com.hbwechathelper.ailuns
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailuns_1.8.2_iphoneos-arm64.deb
+Size: 11096512
+MD5sum: c3555a7ebb4166f9a170ca13d6405ae4
+SHA1: d82eefe3ad129067535c2021f08910d9144ab1e6
+SHA256: 8a8f882eb585700c856eecd29f47687239215c8eb5bfd0fa5fa97c065f05714e
+Section: 微信插件
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.hbwechathelper.ailuns
+Version: 1.8.2
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64e/com.hbwechathelper.ailuns_1.8.2_iphoneos-arm64e.deb
+Size: 11097192
+MD5sum: f3c6081aabf9dd5a782c9d2eee4b6942
+SHA1: df1f55cc840a06c5ec194dbe025f14da46a01105
+SHA256: 280d00333f23ac132874176e95a107ef13d89490313e870d7ef9f552fc04996b
+Section: 微信插件
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
 Package: com.huami.DYYYs
 Version: 1.2
 Architecture: iphoneos-arm64
