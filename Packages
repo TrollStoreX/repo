@@ -2800,6 +2800,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
 Name: 微信推送直达聊天窗口 WechatPushMsgPage
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
 
+Package: com.choco.tgextras
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 14980
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64/com.choco.tgextras_0.0.1-1_iphoneos-arm64.deb
+Size: 2291484
+MD5sum: 519f308c039eba275aac5e0c590199e8
+SHA1: d657ef1897f1b7d31dc0264452a6c1b6e21c3ce7
+SHA256: 77af6db3c6f57faf94aedc375e50114e26a969e9703dfd76970465f1ed1e31c0
+Section: 应用破解
+Description: Telegram 增强插件
+ * 去除广告
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 点击左上角编辑，然后三指长按打开插件
+ * 支持 Telegram、Turrit 等第三方客户端
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
+Package: com.choco.tgextras
+Version: 0.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 14980
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64e/com.choco.tgextras_0.0.1-1_iphoneos-arm64e.deb
+Size: 7967262
+MD5sum: e1277633fb7dc4ef80833c0925fef84b
+SHA1: c8c78bee0fa9b0f4b1ccddae6e78f5e1e2b0fc55
+SHA256: f8e952f9b9f43b78ce683eb832357d42c320c65fa8c98472b4e6f0771538e2b8
+Section: 应用破解
+Description: Telegram 增强插件
+ * 去除广告
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 点击左上角编辑，然后三指长按打开插件
+ * 支持 Telegram、Turrit 等第三方客户端
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
 Package: com.curtin.pkc.rootlesss
 Version: 0.6-3
 Architecture: iphoneos-arm64
