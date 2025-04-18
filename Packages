@@ -2761,6 +2761,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
+Package: com.be-huge.wechat-pop-vcs
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: com.be-huge.wechat-pop-vc
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-pop-vcs_0.0.3_iphoneos-arm64.deb
+Size: 21664
+MD5sum: f5da6838dedb989fa9926fe702390147
+SHA1: 485af3e72da431f79ecfb278c2d110350fff0637
+SHA256: 0f2f772f35089208e3aef2dc3291cff3968de3883bad14fcb7250b4fc935e571
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验
+Author: be-huge
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatPopVC/icon.png
+Name: 微信全局右滑手势 WeChatPopVC
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatPopVC/js.json
+
+Package: com.be-huge.wechat-pop-vcs
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: com.be-huge.wechat-pop-vc
+Filename: ./debs/iphoneos-arm64e/com.be-huge.wechat-pop-vcs_0.0.3_iphoneos-arm64e.deb
+Size: 28746
+MD5sum: 72362f75b808f661be3bb38c1737a367
+SHA1: 9fe6c645b953763a46d3c1fd33998f0a920da21f
+SHA256: 5d788136620ffd61b586a08001dc8dd5e37d9810310001cee66a77eed1241df5
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验
+Author: be-huge
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatPopVC/icon.png
+Name: 微信全局右滑手势 WeChatPopVC
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatPopVC/js.json
+
 Package: com.be-huge.wechat-push-msg-pages
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -10325,6 +10364,45 @@ Size: 84222
 MD5sum: 6e2e3a7a514a6034cd1f82eb82f517ee
 SHA1: e66948fa3c4f2e7a489f5f0cea49fafb89ef1faf
 SHA256: 1251c95bdb54cabba60eb5c01d984f29267d3293659180fc2324f7d2bb055ecf
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64/com.lxcloud.wcehances_1.1-1_iphoneos-arm64.deb
+Size: 63864
+MD5sum: 3c4e39a69f7550aba7f774bb2fe3cdeb
+SHA1: d1f932a5dbf05254d7542a65ca20a2fbfc812241
+SHA256: 8f7ac49fa6bf5e2605eb3d14ee9f54f3a4d744d4ef7e6e587181697007009197
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.wcehances_1.1-1_iphoneos-arm64e.deb
+Size: 89164
+MD5sum: 7e5b58f1354c587e124d8a5d613d806a
+SHA1: e31e0bec6d8ffa600cfb57eeab25445be5caa5cf
+SHA256: ab8bfb29885069439b19a2f060d92ff47c61f9d090e46c5361cb5a8d0f28e290
 Section: 微信插件
 Priority: optional
 Description: 用于优化一些反人类设计并增强功能
@@ -21342,6 +21420,49 @@ Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/icon.png
 Name: ActionBar Reborn
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ActionBarReborn/js.json
+
+Package: netskao.wechatpurification.last
+Version: 4.2-6
+Architecture: iphoneos-arm64
+Installed-Size: 17133
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wechatpurification, netskao.wechatpurifications, com.dumpapp.wechat-rootless, com.dumpapp.wechat-rootlesss
+Filename: ./debs/iphoneos-arm64/netskao.wechatpurification.last_4.2-6_iphoneos-arm64.deb
+Size: 7328268
+MD5sum: b939da57c261426702bc3fa3b35768cf
+SHA1: 7da044a59a1900486e2d3b2544398bf70103c7a4
+SHA256: 25eb1f544e23cbaf5be67ea04bd5800998ee92fa407bf5e36de1eb596e7dc26a
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你
+ * 插件位于微信-设置内
+ * 仅支持 8.0.29 及以上版本
+ * 相比 END 版本，多了语音及红包功能
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+Name: 微信净化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/jss.json
+
+Package: netskao.wechatpurification.last
+Version: 4.2-6
+Architecture: iphoneos-arm64e
+Installed-Size: 17133
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wechatpurification, netskao.wechatpurifications, com.dumpapp.wechat-rootless, com.dumpapp.wechat-rootlesss
+Filename: ./debs/iphoneos-arm64e/netskao.wechatpurification.last_4.2-6_iphoneos-arm64e.deb
+Size: 7328660
+MD5sum: 76827016d0fb53e1ef8b26a64a15523a
+SHA1: 26aa29be7479cfde46a51f82f9f2e160f762c634
+SHA256: 5c1318c384890559f0a2e628e6070702d7a5a9c9ded68b97cfdfd35f23eb0304
+Section: 微信插件
+Description: 微信净化，还原聊天本质，干净的微信给你
+ * 插件位于微信-设置内
+ * 仅支持 8.0.29 及以上版本
+ * 相比 END 版本，多了语音及红包功能
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+Name: 微信净化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/jss.json
 
 Package: netskao.wechatpurifications
 Version: 4.2-7
