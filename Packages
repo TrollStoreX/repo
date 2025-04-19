@@ -2886,6 +2886,55 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 Name: Telegram TGExtra
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
 
+Package: com.choco.tgextras
+Version: 1.2-9+debug
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 14980
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64/com.choco.tgextras_1.2-9+debug_iphoneos-arm64.deb
+Size: 2321608
+MD5sum: a2b6b19082955a38f7687cbcd285f72d
+SHA1: 10da6b69a0d347815da87c6650be99d9d4ca2517
+SHA256: 88c5a85d6a67181695567da65c1e0226a6cbc697f6127ec9603d64fb19f65f11
+Section: 应用破解
+Description: Telegram 增强插件
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”打开插件
+ * 支持 Telegram、Turrit 等第三方客户端
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
+Package: com.choco.tgextras
+Version: 1.2-9+debug
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 14980
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64e/com.choco.tgextras_1.2-9+debug_iphoneos-arm64e.deb
+Size: 7852280
+MD5sum: 6b5a8a72021e59482e19c274429d087d
+SHA1: c5ac440df2a35f395ef1338ddafac3ceb2a7af19
+SHA256: 9b3ec755294eb8e47692d93bd06d75a4a3d4d11765651aa897b982cb54ddc702
+Section: 应用破解
+Description: Telegram 增强插件
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”打开插件
+ * 支持 Telegram、Turrit 等第三方客户端
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
 Package: com.curtin.pkc.rootlesss
 Version: 0.6-3
 Architecture: iphoneos-arm64
@@ -17891,6 +17940,49 @@ Description: 微信主题插件
 Author: MustangYM
 Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
 Name: ThemePro 菠萝主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.8.3
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.8.3_iphoneos-arm64.deb
+Size: 5753240
+MD5sum: 7fdec232462007dcc1364a1a5c4faafb
+SHA1: 5db59f197f8fdab92850be1132c59f20499f0343
+SHA256: 574da7fe77e3251b6cb9d592d4ef54b1380269f49cd07f67a68a64e2a87306b4
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.8.3
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.8.3_iphoneos-arm64e.deb
+Size: 17343502
+MD5sum: 208359f4348cbd6ab021013cb2c3a1ca
+SHA1: 85c1427cfc212fb2158da16ab48fb5559aaf34a6
+SHA256: c1de825e62a1447dca1f25382e2cedb52fd50602cb3e08e3e2fe03152be70abd
+Section: 微信插件
+Description: 微信主题插件
+ * 由ThemePro团队开发
+ * 用于加载微信美化主题
+ * 安装完成重启微信生效!
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
 
 Package: com.weifeng.noad
