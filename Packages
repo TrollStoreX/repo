@@ -3697,6 +3697,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
 Name: TWIGalaxy
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
 
+Package: com.den.twigalaxys
+Version: 1.4-5+debug
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.twigalaxy
+Filename: ./debs/iphoneos-arm64/com.den.twigalaxys_1.4-5+debug_iphoneos-arm64.deb
+Size: 80072
+MD5sum: 396a0b76c5ff1364b3c5b50af7f1830c
+SHA1: 2c95a1c0c04c9676e54c6531c463a301de7aec52
+SHA256: d1f1645e157cd01d485b892e7cd5b9bf6bb5cca561e3c87feed7e27a40ea9373
+Section: 应用破解
+Description: X Twitter 增强插件
+ * 插件位于底栏菜单右侧
+ * Make Twitter Better
+Author: DeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
+Name: TWIGalaxy
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
+
+Package: com.den.twigalaxys
+Version: 1.4-5+debug
+Architecture: iphoneos-arm64e
+Maintainer: DeNsor
+Installed-Size: 596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.twigalaxy
+Filename: ./debs/iphoneos-arm64e/com.den.twigalaxys_1.4-5+debug_iphoneos-arm64e.deb
+Size: 125442
+MD5sum: 12bcb4fd2f7c482e27cd164a29611ac4
+SHA1: deb13d79ac90d417769bf96a19b10ef66cfd551b
+SHA256: 0498470772e64830b7eb8d1fcfcc473180a6be376ce717a02bf188d7448d4426
+Section: 应用破解
+Description: X Twitter 增强插件
+ * 插件位于底栏菜单右侧
+ * Make Twitter Better
+Author: DeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
+Name: TWIGalaxy
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
+
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -6878,6 +6921,79 @@ Size: 336068
 MD5sum: 149bdbf972c33cfc8a3d34b2ea3375b3
 SHA1: 56b99ba9d46e2dc85c8c54ffcc9a752baa73a4b9
 SHA256: bdba15f9b3305eb5f829209ed692db04e1aad39ab2d2d4b2629d2850b11d1099
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-4-184
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 848
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm/com.huami.dyyy.vita_2.2-4-184_iphoneos-arm.deb
+Size: 425180
+MD5sum: 50ca28f6b91e4c8f3cc555e8e4cb1f06
+SHA1: 4a8d861f25205e937eb2fe6b9a65c296ce8cf202
+SHA256: 25533d9d77fa42bf2cf77b7dab1ef6d30c9d7122bf8beb08c1801339fe238929
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-4-184
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2116
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-4-184_iphoneos-arm64.deb
+Size: 424884
+MD5sum: 689654dd324c7e2400294bf32a476726
+SHA1: a6ab878b1482520f36d555a9507372d8574cd105
+SHA256: be6ec9e88461b54c4499251356478c1ac18977cd7eff08e3131cb7f24ba2f744
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-4-184
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2116
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-4-184_iphoneos-arm64e.deb
+Size: 1228304
+MD5sum: 8fe390badcbe2d32330449176c319444
+SHA1: 9213708093b80da81fa62e70b6a90f796a412b11
+SHA256: 9ea37473865defb28a0db315bcadc05226346ff66b038acc4caf57eb9fb1bae7
 Section: 抖音插件
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -14550,6 +14666,25 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/icon.png
 Name: SettingsWidgets 设置小部件
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SettingsWidgets/js.json
 
+Package: com.shiftcmdk.bookmarkicons
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: shiftcmdk
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.shiftcmdk.bookmarkicons_1.0-1+debug_iphoneos-arm64.deb
+Size: 16956
+MD5sum: 0f1364ed691f65953a8c4029b8d9283e
+SHA1: b2e8660a453dd3287398cb341bd1241db89fa205
+SHA256: 43cc4ab9e947499857ca9bddafebe08773453c5ceb01ec7f01fbf4e3fba45447
+Section: 应用破解
+Description: 为 Safari 浏览器书签设置自定义图标
+ * Set custom icons for Safari bookmarks
+Author: shiftcmdk
+Icon: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/icon.png
+Name: Safari 自定义书签图标 BookmarkIcons
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/js.json
+
 Package: com.sileo.zh-hans
 Version: 2.6
 Architecture: iphoneos-arm64
@@ -16811,6 +16946,64 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
 Name: 主题盒子
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
 
+Package: com.tencent.themeboxs
+Version: 2.0.3-1
+Architecture: iphoneos-arm
+Maintainer: lanmao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm/com.tencent.themeboxs_2.0.3-1_iphoneos-arm.deb
+Size: 3751808
+MD5sum: f9822847198d8b189de5db92865909fa
+SHA1: d946d0f23253cda45052bb744a7e91b928319394
+SHA256: 396aad15da88ec7da78da7118f62c9d13608816ba881b782f272fc45cfb0de6c
+Section: 微信插件
+Description: 微信主题插件
+Author: lanmao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: lanmao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.0.3-1_iphoneos-arm64.deb
+Size: 3765072
+MD5sum: 56dff216c37748187366ebfe0ddb3b41
+SHA1: e59e42ff62409b52520bcc55b58c6ef5973c6af7
+SHA256: 29893df69cd351d7eaf76e7a0d65477cb6db15fd5c35d326e514eb07de23921a
+Section: 微信插件
+Description: 微信主题插件
+Author: lanmao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.3-1
+Architecture: iphoneos-arm64e
+Maintainer: lanmao
+Installed-Size: 8588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.0.3-1_iphoneos-arm64e.deb
+Size: 3723928
+MD5sum: 288ddc0fa727dc1b7e1abdf4b5470b90
+SHA1: a21d7b746ea7e4654275e01ea77c28697d8bf3f5
+SHA256: 1f3993874a458fc735bc769eb9ca7c4675376fa7b0c87b93927d84a06ea66d67
+Section: 微信插件
+Description: 微信主题插件
+Author: lanmao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
 Package: com.tiaotiao.betteruiswitchs
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -18549,6 +18742,49 @@ Size: 317296
 MD5sum: 732ed7788e7ec85d152a62593d928456
 SHA1: e97ca680b18fb00ea54ef7d651a7cf0fd7319e0e
 SHA256: e66679476bdd89c0f5e2db65628eb3f186ce7170aa51f47d49e1de083850707f
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.1-9_iphoneos-arm64.deb
+Size: 235232
+MD5sum: 10a2205032959ff73459d9ec7afffcf7
+SHA1: 733511d08bb136610452ca5e11fc89f622bbe7ae
+SHA256: ec7ec5d2b018a49d79bdc43513a5cb0b68d59a7d9f68e528c29054e187728ced
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.1-9_iphoneos-arm64e.deb
+Size: 328928
+MD5sum: 11b2447a63fc8a6e2df4abfbbedc2a82
+SHA1: 5b21fc8d8ebec1a81eae1e7ecbbf172482516141
+SHA256: 507258f6765bc0dcd35771d586048773ba815369006be1cec5ba69decf846743
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音助手插件
