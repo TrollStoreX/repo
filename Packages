@@ -1000,16 +1000,16 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 5.0)
 Conflicts: com.25mao.doutu.rootless
 Filename: ./debs/iphoneos-arm64e/com.25mao.doutu.rootlesss_3.1-6_iphoneos-arm64e.deb
-Size: 2874990
-MD5sum: b53221e4124a0a65bb5a08ea55ffaf41
-SHA1: ed311cf2af40875a364945c6c9353b838cb438a3
-SHA256: fd1e49af67e4fe350b37fcb465c2f208bde80ce1e667b52ced7dee39cdf18968
+Size: 2874992
+MD5sum: a37b081e52990256a9574c4d9ae3e583
+SHA1: 929f358af9b02ce2725628567dda6c19df2ea59a
+SHA256: 24846151faab026d97d1598d392435b628abb3f85a05c2667b90088af7e67d93
 Section: 微信插件
 Description: 微信斗图助手插件
 Author: Mao
 Icon: https://TrollStoreX.Github.io/sileodepiction/Doutu/icon.png
 Name: 斗图助手
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dutu/js.json
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doutu/js.json
 
 Package: com.25mao.doutu.rootlesss
 Version: 3.1-6
@@ -1019,15 +1019,15 @@ Depends: firmware (>= 5.0)
 Conflicts: com.25mao.doutu.rootless
 Filename: ./debs/iphoneos-arm64/com.25mao.doutu.rootlesss_3.1-6_iphoneos-arm64.deb
 Size: 1051620
-MD5sum: d23c4fc300e50f48753348cc6420dc79
-SHA1: ae54ca60c6b6297508073abbcf20aa6581e9b7bd
-SHA256: 685c1c58c4741ff34ce1318af3b5efe57915d87765bbe6a269dfb40d2f892420
+MD5sum: d75de67e678fe62a9d963b55a63ef956
+SHA1: 13418ae5ec2f5c5cce0fee23bb589664c5b913f1
+SHA256: 9566291bbc4e277f205fa683d9c993ea2131d2916c46b1fc3ae11521a71eda83
 Section: 微信插件
 Description: 微信斗图助手插件
 Author: Mao
 Icon: https://TrollStoreX.Github.io/sileodepiction/Doutu/icon.png
 Name: 斗图助手
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dutu/js.json
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doutu/js.json
 
 Package: com.25mao.miyou.rootlesss
 Version: 3.8-0
