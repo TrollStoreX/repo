@@ -17610,6 +17610,64 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
 Name: 主题盒子
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
 
+Package: com.tencent.themeboxs
+Version: 2.0.5-1
+Architecture: iphoneos-arm
+Maintainer: lanmao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm/com.tencent.themeboxs_2.0.5-1_iphoneos-arm.deb
+Size: 3891456
+MD5sum: f9c99f77302e8247cfe8aea024ff6a2e
+SHA1: 0e28ccc36c59727925caf336bbca0fbd18a7299f
+SHA256: 3b1ca81463fefb9abb97818c9729df24318e42df2f8e5d81e0d32df219cfcb0c
+Section: 微信插件
+Description: 微信主题插件
+Author: lanmao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.5-1
+Architecture: iphoneos-arm64e
+Maintainer: lanmao
+Installed-Size: 8588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.0.5-1_iphoneos-arm64e.deb
+Size: 3822084
+MD5sum: a7704d3d67e4df7a28ec46937ef038c7
+SHA1: 2cb7cd45ee4a71221109516a6da5ae75ed91e6cc
+SHA256: fbb30584f57a28ab7c50d5b705fe0adad200e72a154341bcd350f81704694c39
+Section: 微信插件
+Description: 微信主题插件
+Author: lanmao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.5-1
+Architecture: iphoneos-arm64
+Maintainer: lanmao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.0.5-1_iphoneos-arm64.deb
+Size: 3865420
+MD5sum: 57361c9c7ccc241fe885f5eaed3871bc
+SHA1: 233854ae4984afe789b36d43816365ae949d020d
+SHA256: 4f14a13b267354a50a57b1b3e60db11900dba7cc6e37e8427d64fb03e8149e29
+Section: 微信插件
+Description: 微信主题插件
+Author: lanmao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
 Package: com.tiaotiao.betteruiswitchs
 Version: 1.1
 Architecture: iphoneos-arm64e
