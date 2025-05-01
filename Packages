@@ -2926,10 +2926,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
 Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_4.4-1_iphoneos-arm64e.deb
-Size: 7494480
-MD5sum: feb5f7cb4fdb3e48a4203007f61508f0
-SHA1: 2180102ca77a8b05bbde16ff658d521741dd7d46
-SHA256: 22930a2aa90c798897f84dd062e9c2b2a122848e5e74c911a055e37e2b8399ba
+Size: 7509204
+MD5sum: d7f621e384a266d615586ee1cd7a6b14
+SHA1: 72f5e2b70201fa3c46413b0b35501bbdeb3c7bd6
+SHA256: 9c37254502f30ecc9fbd6c0e5f2eae1704a76be5c0428dc9b03bbe2c1573c4b4
 Section: 应用破解
 Description: Twitter X 增强插件
  * 视频下载
@@ -2948,10 +2948,10 @@ Installed-Size: 23840
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
 Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_4.4-1_iphoneos-arm64.deb
-Size: 7607560
-MD5sum: 74e3be3c3b02c48291b7c303bc59ce0f
-SHA1: 4ae5d4d2f4d862fc21284eaa8c85176f48f7f9a6
-SHA256: edecfd5bd940c83b9371611da23c6c53d2a5f96e3bd153ba16a745dcbbe4e8f9
+Size: 7613392
+MD5sum: 212e3bffcdcfa868e94e3663a80ac5e0
+SHA1: 54ede80c617b5151020f34bf47e6c11348265ce5
+SHA256: 80a241093ef6d7721a1ad2a816f591cfc031a252e25aa1c28d053f82fcdf23e4
 Section: 应用破解
 Description: Twitter X 增强插件
  * 视频下载
@@ -7289,6 +7289,54 @@ Size: 424884
 MD5sum: 689654dd324c7e2400294bf32a476726
 SHA1: a6ab878b1482520f36d555a9507372d8574cd105
 SHA256: be6ec9e88461b54c4499251356478c1ac18977cd7eff08e3131cb7f24ba2f744
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-4-194
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-4-194_iphoneos-arm64e.deb
+Size: 362364
+MD5sum: e88712743256a708f56a32317f49a9dc
+SHA1: 8294cf20c34a3cc86d0afbeee56b827513903274
+SHA256: 35f568267b358e3c501fa24f29e404ef90a6b4234ace9b3a52fdbedae8f7725d
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-4-194
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-4-194_iphoneos-arm64.deb
+Size: 362892
+MD5sum: d29526e563589dac2f847967dd5cc72c
+SHA1: 82be39d50c60bf491d9bfac227bf61d52298e501
+SHA256: 15043a66a79d2afb65769001b9addad27b3d9cc23e1fbd82f4e975da6a0c061b
 Section: 抖音插件
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
