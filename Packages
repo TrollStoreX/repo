@@ -21587,10 +21587,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.xhshook
 Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.6-3_iphoneos-arm64e.deb
-Size: 4204142
-MD5sum: 0d67438bae636bad67ee2d5af6c9709a
-SHA1: 0fcb4f9324b7007fc066121f9c43cd11e4368511
-SHA256: 11fbcc021a54fb4b4f58a45b93af69654ba96bc791a38e5c2be19964e683fda0
+Size: 1497276
+MD5sum: 086dec9065d3d3487af80df784fc2fd9
+SHA1: bd0f3922aeb2959a03a462611b529a327767e078
+SHA256: 4ecb8751333effca090e3eef6875a40edcfd60516ff3d154345bc28bfaf04d26
 Section: 应用破解
 Description: 小红书增强插件
  * 默认移除一些广告
@@ -21600,7 +21600,7 @@ Description: 小红书增强插件
 Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层 小红薯
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/XHS.json
 
 Package: com.xx.xhshooks
 Version: 1.1.6-3
@@ -21611,9 +21611,9 @@ Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.xhshook
 Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.6-3_iphoneos-arm64.deb
 Size: 1518800
-MD5sum: e27623b8e0fd8485f0f47be85f638bce
-SHA1: 3a5d404fdb32ba22a099dd9c2336b49b34e0b57d
-SHA256: 3204f513e45adc0b7263f457a12863837057acc7f3edc1d7ae0e41618b602dfb
+MD5sum: 326622c444f2145c3f37272930a32fd1
+SHA1: c3ff690648df5f87376764a575e0b4af452182b2
+SHA256: f8d832c52629f7024a94db940007e5cdfe6d4b29616c3e06b14f79b311c1a96f
 Section: 应用破解
 Description: 小红书增强插件
  * 默认移除一些广告
@@ -21623,7 +21623,7 @@ Description: 小红书增强插件
 Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层 小红薯
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/XHS.json
 
 Package: com.xx.ysbrowserhooks
 Version: 1.0.1
