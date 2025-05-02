@@ -7349,6 +7349,55 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
 Name: 抖音 DYYY 维他
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
 
+Package: com.huami.dyyy.vita
+Version: 2.2-4-204
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1932
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-4-204_iphoneos-arm64e.deb
+Size: 549650
+MD5sum: 6c92ec03915be0c3180ae8f9f50b9b4e
+SHA1: 7d47d0b5e8d55273f1b4e05d9169a8d72d2050e0
+SHA256: a413ed77a287a2fd7e5642a3f0a10cba0fd291d11f0881f51e721a71b754bb3d
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-4-204
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-4-204_iphoneos-arm64.deb
+Size: 369376
+MD5sum: cd50d1958f6df864cfdbc7a63330fd1d
+SHA1: 1d05877021d3e53646fc0eb004f79a24876f0809
+SHA256: 9e9b27c3d6e7974e118db47122e92af573f92fa89365acbb52f084de12d1cd55
+Section: 抖音插件
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 基于 DYYY 修改版插件
+ * 双指长按或设置页面调出
+ * 新增一些功能
+ * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
 Package: com.huami.dyyys
 Version: 2.0-2
 Architecture: iphoneos-arm64e
@@ -10403,6 +10452,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
 Name: 短视频助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
 
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.1.5K
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu
+Installed-Size: 3988
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64e/com.lenglengyu.shortvideodl-rootlesss_2.1.5K_iphoneos-arm64e.deb
+Size: 1010896
+MD5sum: 27894b8d837f6b325a728ac622335041
+SHA1: 24bb8f7aeefa48d7dd73851949f8207bcd72fc5f
+SHA256: 822452f6d5ad891f10025e2352dc5aacfbc756592159b098de66fd7c84e9eb47
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
+Package: com.lenglengyu.shortvideodl-rootlesss
+Version: 2.1.5K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu
+Installed-Size: 3988
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.lenglengyu.shortvideodl-rootless, byg.iosios.net.shortvideodl-rootless
+Filename: ./debs/iphoneos-arm64/com.lenglengyu.shortvideodl-rootlesss_2.1.5K_iphoneos-arm64.deb
+Size: 990988
+MD5sum: b1191518a4aaae3b692e8fc30277eaff
+SHA1: ba5f691b1775ff04b40fa95ea4a1ccb2b7d9684e
+SHA256: 78ff7ae8817ab490b8da83f44c4becae72a2912acf771e6c736ef3335b6611bc
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载
+Author: lenglengyu
+Icon: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/icon.png
+Name: 短视频助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ShortVideo/js.json
+
 Package: com.level3tjg.redditfilters
 Version: 1.1.7
 Architecture: iphoneos-arm64e
@@ -11193,6 +11280,45 @@ Size: 65300
 MD5sum: ff7ba650a69c02598103367d84ac6985
 SHA1: fcbcadf0c79bd5d6a09dee76c24816975f4463e9
 SHA256: 194fd893e0da47c6518ae625bee031d81969d9bb47dce5f27033730f3b98f767
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.wcehances_1.1-5_iphoneos-arm64e.deb
+Size: 2781556
+MD5sum: 6f2908a3b241e8c6cf9ed491a568d9ff
+SHA1: c033eea7113e7d93027fcde1836581390917f3d6
+SHA256: 1e5c3c8820dfb57bf904a89c836871ab95c62ff0b0159f0e737eaac75078ff99
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64/com.lxcloud.wcehances_1.1-5_iphoneos-arm64.deb
+Size: 997628
+MD5sum: 27b494debc1ee43ff8fd2f4791b18cbb
+SHA1: 74c0263a76c956a894d1bf0072b2c8634d9f482e
+SHA256: 66fede256a5f9307e2d7c7362c4f4008a0344b1a2348596f5bf6d8dc52818835
 Section: 微信插件
 Priority: optional
 Description: 用于优化一些反人类设计并增强功能
@@ -21447,6 +21573,53 @@ Description: 小红书增强插件
  * 无水印保存图片、视频、live图、评论区图片，长按复制文案
  * 放大图片双指长按可保存高分辨率图片
  * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.1.6-3
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 4488
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.6-3_iphoneos-arm64e.deb
+Size: 4204142
+MD5sum: 0d67438bae636bad67ee2d5af6c9709a
+SHA1: 0fcb4f9324b7007fc066121f9c43cd11e4368511
+SHA256: 11fbcc021a54fb4b4f58a45b93af69654ba96bc791a38e5c2be19964e683fda0
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * 小红书设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.1.6-3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 4488
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.1.6-3_iphoneos-arm64.deb
+Size: 1518800
+MD5sum: e27623b8e0fd8485f0f47be85f638bce
+SHA1: 3a5d404fdb32ba22a099dd9c2336b49b34e0b57d
+SHA256: 3204f513e45adc0b7263f457a12863837057acc7f3edc1d7ae0e41618b602dfb
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * 小红书设置界面右上角打开插件界面或双指长按设置界面
 Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层 小红薯
