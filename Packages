@@ -4592,6 +4592,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
 Name: Infuse Plus
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
 
+Package: com.dvntm.lsnoswipes
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Conflicts: com.dvntm.lsnoswipe
+Filename: ./debs/iphoneos-arm64e/com.dvntm.lsnoswipes_0.0.1_iphoneos-arm64e.deb
+Size: 5670
+MD5sum: 300f78e82435a607f9633601595c4c3e
+SHA1: ba8f15eef8a1928fe84ee26a0b447dfeaddd580a
+SHA256: 7b047cae954b6eb951fe1946f591f7252376f4e14d26090f8fea35a6e3310043
+Section: Tweaks
+Description: 禁止在锁屏界面右滑打开相机
+ * Disables swipe to open cam on the lock screen
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/LSNoSwipe/icon.png
+Name: 禁止锁屏右滑相机 LSNoSwipe
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/LSNoSwipe/js.json
+
+Package: com.dvntm.lsnoswipes
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Conflicts: com.dvntm.lsnoswipe
+Filename: ./debs/iphoneos-arm64/com.dvntm.lsnoswipes_0.0.1_iphoneos-arm64.deb
+Size: 4168
+MD5sum: 3bd70d348de8a85d8cbc49d3119cb063
+SHA1: 282e463697abe2480e2c8cc26b5f8cf474945539
+SHA256: f07c3715cbcd167ed667a3347cddd1d1b866a007c6860da9a9a467ddb4148791
+Section: Tweaks
+Description: 禁止在锁屏界面右滑打开相机
+ * Disables swipe to open cam on the lock screen
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/LSNoSwipe/icon.png
+Name: 禁止锁屏右滑相机 LSNoSwipe
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/LSNoSwipe/js.json
+
 Package: com.dvntm.oledkeyboards
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -5545,6 +5586,49 @@ Size: 404440
 MD5sum: e1c4be709b551da577cceffc591ec112
 SHA1: 4b41d1222e08948ebfbef51e74f833eb84930ec8
 SHA256: 85df3b2d7a3a8e2efd804c7f87fc3719cef82399431869a9bd3f966d01784269
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.9.6
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 1620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.29.0)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.9.6_iphoneos-arm64e.deb
+Size: 555580
+MD5sum: 840bfe16edddc94dc505de46b6492641
+SHA1: ac0b5f7d5a6529ff5bb81fecb9d099eb8fe2bbf2
+SHA256: c3d1867a52e995c2e7a452ad4909ff7657b73341a583b90d8765da47c6d1966d
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.9.6
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 1620
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.29.0)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.9.6_iphoneos-arm64.deb
+Size: 404252
+MD5sum: 60794528b4284def43b514c3ce1ca843
+SHA1: 4abe89f3b70e8e6fbb1244507a5a5112793819e9
+SHA256: ed6b351d6c5906b2a17dd5ee534e7eedcdf513877e85aa5b6de253a1588e0a26
 Section: 应用破解
 Description: Spotify Premium
  * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
@@ -18402,6 +18486,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
 Name: 微信增强 WeChatEnhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
 
+Package: com.wechat.enhances
+Version: 1.3-9
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.3-9_iphoneos-arm64e.deb
+Size: 1084682
+MD5sum: 3de52b803af075c6a2312079cbbce6b2
+SHA1: e3bfdc0bd7b889ce3236f00d56836f84b24ffe43
+SHA256: b44a42e20df54d5580bc034d0a40f5840b575eb573da3b3755c513fd0bae8b1c
+Section: 微信插件
+Description: 微信增强插件
+ * 支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.3-9
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.3-9_iphoneos-arm64.deb
+Size: 452676
+MD5sum: ff6b7a9e1be5a187319caf4fa00a0730
+SHA1: 2d126c5ab9bd8162bab7944a39a646ddd36cca73
+SHA256: 6848e67112bd6eaf951173714f74001c7b4ff3d5a185d942b7c70971ca039f5a
+Section: 微信插件
+Description: 微信增强插件
+ * 支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
 Package: com.wechat.themepro
 Version: 3.1.2
 Architecture: iphoneos-arm64e
@@ -19620,6 +19745,53 @@ SHA256: ef60934985869c6a4895c6c738509832e5951ba739689b250c017c74202d6fbe
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音助手插件
+ * 双指长按或设置页面调出
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.2-3
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.2-3_iphoneos-arm64e.deb
+Size: 342988
+MD5sum: 98dfec14b4114782fc2d0647e35af805
+SHA1: 0deadf8a37bc485fff2c7ae58816592448e6c3fe
+SHA256: 6e4397708db0b64fd21f008b7535983c782d2f19c2d59116515ce2818ce3ec8b
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 双指长按或设置页面调出
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.2-3_iphoneos-arm64.deb
+Size: 243404
+MD5sum: d7bf8a72a4d8b8b4d6bd747e7ee28ab5
+SHA1: fea8ca061f84f34a86906f078f8cc04a6696c7bd
+SHA256: f73dc38a3ac5f477237540bac8497d2f268ec0d506b22cd7b7491c8df88dbf32
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
  * 双指长按或设置页面调出
  * 支持信息防撤回
  * 支持猜拳骰子作弊
@@ -22060,6 +22232,46 @@ Author: lenglengyu
 Icon: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/icon.png
 Name: 快速跳过广告 VideoAdsSpeed
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/js.json
+
+Package: de.finngaida.daynightswitchs
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: de.finngaida.daynightswitch
+Filename: ./debs/iphoneos-arm64e/de.finngaida.daynightswitchs_1.1_iphoneos-arm64e.deb
+Size: 66900
+MD5sum: 8420984e15ccef12304e9a3d175ecf58
+SHA1: a6384803565a84c836dba7a0b1f353beab476401
+SHA256: b69b501640e8e0abc5597b341360e1207481ee6e2a887a84160a5bac29da81ac
+Section: 乌龙工作室
+Description: 为您的设置开关添加一些日月风格
+ * Add some style to your switches
+Author: Finn Gaida
+Icon: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/icon.png
+Name: DayNightSwitch 日月开关
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/js.json
+
+Package: de.finngaida.daynightswitchs
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: de.finngaida.daynightswitch
+Filename: ./debs/iphoneos-arm64/de.finngaida.daynightswitchs_1.1_iphoneos-arm64.deb
+Size: 68548
+MD5sum: f2177144aca59a96c0cef0029da8f4d2
+SHA1: c19cee7e6f80c88d9ced032d50df6cc048036d86
+SHA256: cc03cbc3c2dbe6321aaae6c3e1c96463eb9c7d9c833f9c5bfa9ae7dc4931ce87
+Section: 乌龙工作室
+Description: 为您的设置开关添加一些日月风格
+ * Add some style to your switches
+Author: Finn Gaida
+Icon: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/icon.png
+Name: DayNightSwitch 日月开关
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DayNightSwitch/js.json
 
 Package: dev.mineek.appstoretrollers
 Version: 0.0.2
