@@ -3082,6 +3082,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
 Name: 微信推送直达聊天窗口 WechatPushMsgPage
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
 
+Package: com.be-huge.wechat-push-msg-pages
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: com.be-huge.wechat-push-msg-page
+Filename: ./debs/iphoneos-arm64e/com.be-huge.wechat-push-msg-pages_0.0.4_iphoneos-arm64e.deb
+Size: 31020
+MD5sum: ecddd88fcba28e00da922278bb1a1db1
+SHA1: 151e545557a1c8a486655378e1a1c25a6fdd6ca4
+SHA256: 10cd3fb6461608499fef400955e72b8c55d9f01e174447a2add4bbc36c37428e
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口
+Author: be-huge
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
+Name: 微信推送直达聊天窗口
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
+
+Package: com.be-huge.wechat-push-msg-pages
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: com.be-huge.wechat-push-msg-page
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-pages_0.0.4_iphoneos-arm64.deb
+Size: 23476
+MD5sum: 5aeaaf6e3b5088f3c99673b0990bc49c
+SHA1: d02ea95638415405a5f90a5a9c96426f9d5a7b7b
+SHA256: 7b914bc74dcfc12592ea91eef687e6206fc929b087518ce3c94af871cb36e701
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口
+Author: be-huge
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
+Name: 微信推送直达聊天窗口
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
+
 Package: com.choco.tgextras
 Version: 0.0.1-1
 Architecture: iphoneos-arm64e
