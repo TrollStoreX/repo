@@ -489,6 +489,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
 Name: Kayoko 剪切板
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
 
+Package: codes.aurora.kayokos
+Version: 2.9
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_2.9_iphoneos-arm64e.deb
+Size: 129204
+MD5sum: 8281ff184666d0815890a016cd2f2280
+SHA1: afa54495df490563b165b18895befa82a82bb931
+SHA256: b6a6744a20a222919a13a8b2418a634054d4f578d6ff2ba6c0a98003e895cd9d
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 由「乌龙工作室」修复支持 iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
+Package: codes.aurora.kayokos
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_2.9_iphoneos-arm64.deb
+Size: 128592
+MD5sum: 2977835a934ddccfb7540d451113c287
+SHA1: 30681aec6455ad1e663ee20797d38fb2ea93e5d3
+SHA256: 236f597711ae421338920b1e8d734234fd15ad004988771eb567c1ca982965d3
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 由「乌龙工作室」修复支持 iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -3597,6 +3639,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootlesss
+Version: 0.7-4
+Architecture: iphoneos-arm64e
+Maintainer: Curtin
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.7-4_iphoneos-arm64e.deb
+Size: 818036
+MD5sum: 4285c130c7176a105dc0976390afde49
+SHA1: b172b6074c34b9086810d261b1bd6db83681e9ba
+SHA256: 367aca4f84f7c8005dc375532b2d413de10222b36f10e8146819c7aca78f9c2b
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.7-4
+Architecture: iphoneos-arm64
+Maintainer: Curtin
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.7-4_iphoneos-arm64.deb
+Size: 834172
+MD5sum: 15bb38e4033b5d86341a63f4887f87fd
+SHA1: b0611b178ec2fa7299aadedd656c1bbde0d747a9
+SHA256: 1fbf490abdbd5631986b3aa9ab2f405615ff67a4c591b866416b4a32ee7ce92d
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64e
@@ -4580,6 +4665,54 @@ Size: 280356
 MD5sum: 755649fcfb01e30db6da6fd99637eef5
 SHA1: 42e546d04c2e3e64e92cf2ed745680d8d140e420
 SHA256: c9f90195d9dd52012bc371c951d7997864f885e3ff2409a5f910255f20a7a071
+Section: 应用破解
+Description: InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
+Name: Infuse Plus
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
+
+Package: com.dvntm.infusepluss
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./debs/iphoneos-arm64e/com.dvntm.infusepluss_2.1_iphoneos-arm64e.deb
+Size: 399376
+MD5sum: b86e7cc9748e827af081c175fffdfc07
+SHA1: 5b6053dd96fd7c94f453590ad26ff5fbbcc4ba42
+SHA256: 7bbf39d91503556a560b41ff5824edfd5142096983f72d688d462c90e26213c7
+Section: 应用破解
+Description: InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
+Name: Infuse Plus
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
+
+Package: com.dvntm.infusepluss
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./debs/iphoneos-arm64/com.dvntm.infusepluss_2.1_iphoneos-arm64.deb
+Size: 400592
+MD5sum: c029727f45efa5d0a7457051f2a2b4ab
+SHA1: cb908af95e5d772a4e7f7985ea02691ec6bbeadb
+SHA256: 4043c34733b21f2316e4c0d80dda1f7e40821ea4aeb930069f39a4b380e6488c
 Section: 应用破解
 Description: InfusePlus 高级版
  * Enhancer for Infuse app
@@ -5864,108 +5997,6 @@ Description: 酷安去广告插件
 Author: 小果子
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
 Name: 酷安FuckAds
-
-Package: com.hbwechathelper.ailuns
-Version: 1.8.2
-Architecture: iphoneos-arm64e
-Maintainer: HuangBai
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
-Filename: ./debs/iphoneos-arm64e/com.hbwechathelper.ailuns_1.8.2_iphoneos-arm64e.deb
-Size: 11097192
-MD5sum: f3c6081aabf9dd5a782c9d2eee4b6942
-SHA1: df1f55cc840a06c5ec194dbe025f14da46a01105
-SHA256: 280d00333f23ac132874176e95a107ef13d89490313e870d7ef9f552fc04996b
-Section: 微信插件
-Description: 微信多功能插件
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai
-Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
-Name: 黄白助手
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
-
-Package: com.hbwechathelper.ailuns
-Version: 1.8.2
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
-Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailuns_1.8.2_iphoneos-arm64.deb
-Size: 11096512
-MD5sum: c3555a7ebb4166f9a170ca13d6405ae4
-SHA1: d82eefe3ad129067535c2021f08910d9144ab1e6
-SHA256: 8a8f882eb585700c856eecd29f47687239215c8eb5bfd0fa5fa97c065f05714e
-Section: 微信插件
-Description: 微信多功能插件
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai
-Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
-Name: 黄白助手
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
-
-Package: com.hbwechathelper.ailuns
-Version: 1.8.4
-Architecture: iphoneos-arm64e
-Maintainer: HuangBai
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
-Filename: ./debs/iphoneos-arm64e/com.hbwechathelper.ailuns_1.8.4_iphoneos-arm64e.deb
-Size: 11151416
-MD5sum: 460a7f309093f2ed69dbaa12809bf005
-SHA1: 4845786f48110e3e9ec6e4625582bd066313d4c5
-SHA256: 855d55f26d16029e5968a51da0472a59ca6b2ddf33996c6d19c52f1f0f48966d
-Section: 微信插件
-Description: 微信多功能插件
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai
-Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
-Name: 黄白助手
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
-
-Package: com.hbwechathelper.ailuns
-Version: 1.8.4
-Architecture: iphoneos-arm64
-Maintainer: HuangBai
-Depends: mobilesubstrate
-Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
-Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailuns_1.8.4_iphoneos-arm64.deb
-Size: 11159200
-MD5sum: 9fd3ec220d631a62a2d885666997f003
-SHA1: e1944ca6150fac7fb3a3b3360f562a2074716c1f
-SHA256: 79e822546e19cab37c37d65e4ea8a6ac7362df857d9b534e3fd35fac8cc3f6bf
-Section: 微信插件
-Description: 微信多功能插件
- * 一个微信插件文本转语音
- * 点歌朋友圈一键点赞等诸多功能
- * 发送网络语录舔狗日记骂人等文案
- * 4K原图手绘壁纸等
- * 抢私聊红包
- * 自定义信息尾巴
- * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
-Author: HuangBai
-Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
-Name: 黄白助手
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
 
 Package: com.huami.DYYYs
 Version: 1.2
