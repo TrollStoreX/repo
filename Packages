@@ -9015,6 +9015,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCPluginsOrder/icon.png
 Name: 微信插件管理排序 WCPluginsOrder
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPluginsOrder/js.json
 
+Package: com.huami.wcpulses
+Version: 1.0-3
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.0-3_iphoneos-arm64e.deb
+Size: 39764
+MD5sum: bec6f56f992c2e88f9c738be857f64cd
+SHA1: 44c2854296943e7d594c8ce00cef8f52ee7e4e0e
+SHA256: 7f163d2fff4a8aee6f260594b38cfe703c3104b4a0426c06844d8acef2480edf
+Section: 微信插件
+Description: 微信启用视频倍速手势，启用头像时间标签
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.0-3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.0-3_iphoneos-arm64.deb
+Size: 39888
+MD5sum: ed1cdb1eab42f9710bc29c847d21ca7f
+SHA1: e5ce45062d04698fc647faee7dc6f89ead37a2d5
+SHA256: 20de0ced6c0b928694f11c6d80a6e9c7cb3b6b98650cb49b73373ccd3e3d57ef
+Section: 微信插件
+Description: 微信启用视频倍速手势，启用头像时间标签
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
 Package: com.hw.imepremium
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -17995,6 +18033,64 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
 Name: 主题盒子
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
 
+Package: com.tencent.themeboxs
+Version: 2.0.6-1
+Architecture: iphoneos-arm64e
+Maintainer: Mao
+Installed-Size: 8588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.0.6-1_iphoneos-arm64e.deb
+Size: 3927236
+MD5sum: 6c6153a7c0bbcf8abd5f40e6267e8f1b
+SHA1: 397efe38753ab26ffd6074625937c8df3681de70
+SHA256: b404453856b700e06a200753808c783aeb124a2a2f9e26b9cb72d31c910aa18c
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.6-1
+Architecture: iphoneos-arm
+Maintainer: lanmao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm/com.tencent.themeboxs_2.0.6-1_iphoneos-arm.deb
+Size: 3951212
+MD5sum: ef6c9bfe7f529a20a13ad858fe9043e0
+SHA1: eea4b0de4a9b52b003c1ba4bec5565bf7d8ccb3a
+SHA256: c49dfb1baa1a8a287875c3e32b56e54836ce54bdad36b82f9954034415a18a55
+Section: 微信插件
+Description: 微信主题插件
+Author: lanmao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.0.6-1_iphoneos-arm64.deb
+Size: 3976976
+MD5sum: 5e3b1a7ab0602531689aee3336acdbc4
+SHA1: fff2558ec45bbda457e5f699f3ea02a6dc751554
+SHA256: 8885227d73d88a42876a7c9ed87792826a2136b0aed393fa38e9a16af1ec9de2
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
 Package: com.tiaotiao.betteruiswitchs
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -19960,6 +20056,53 @@ Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音插件
  * 双指长按或设置页面调出
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.2-4
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.2-4_iphoneos-arm64e.deb
+Size: 343346
+MD5sum: 197f1d8a5235f005c3618d7f4f49a337
+SHA1: 29fd4201af8a2a1389c80dec6429e69daf18ab5b
+SHA256: 8641c010aa2a4c44c798b34fd4365fa8b468894bb1f4fcafb8002c3d69f36337
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 三指长按或设置页面调出
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.2-4_iphoneos-arm64.deb
+Size: 244760
+MD5sum: 97b61638975f48055e436ba53dbbd83f
+SHA1: 5388dce8660e31ab2564673ed86c7c968a282cfa
+SHA256: 5f01a55a82a48a301cabf2d69bda2178ec027ee723ee9927d379ea5a0530210a
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 三指长按或设置页面调出
  * 支持信息防撤回
  * 支持猜拳骰子作弊
 Author: XUUᶻ
