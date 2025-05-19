@@ -18386,6 +18386,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/icon.png
 Name: 抖音倍数播放 AwemeSpeedX
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeSpeedX/js.json
 
+Package: com.vita.yukis
+Version: 0.0-1-1
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64e/com.vita.yukis_0.0-1-1_iphoneos-arm64e.deb
+Size: 12510
+MD5sum: e0b82a67451be85e81304ad22888a891
+SHA1: 8a29b5ccd85ceedbc677fcd4717b9862ff4d3314
+SHA256: 0571ef54f57208861bda7f99a47f2a8af844826c22165a2eab376f35b8e82f64
+Section: 抖音插件
+Priority: optional
+Description: 免费插件，随缘更新
+ * 注入默认生效，无设置开关
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: Yuki 抖音防撤回
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
+Package: com.vita.yukis
+Version: 0.0-1-1
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64/com.vita.yukis_0.0-1-1_iphoneos-arm64.deb
+Size: 9460
+MD5sum: 226dab5269f0f5fe4a6ef0081e6c421a
+SHA1: bcf296d841d8170fbff9e0b691527fddc2f0b526
+SHA256: 140bf318ebd517c4e1dd8a289482d8f45e870ecf2be664639cbd4ce8325aa0b7
+Section: 抖音插件
+Priority: optional
+Description: 免费插件，随缘更新
+ * 注入默认生效，无设置开关
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: Yuki 抖音防撤回
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
 Package: com.wechat.ColorfulCubes
 Version: 1.0.3
 Architecture: iphoneos-arm64e
