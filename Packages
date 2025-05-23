@@ -6174,6 +6174,57 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
 Name: 黄白助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
 
+Package: com.hbwechathelper.ailuns
+Version: 1.8-7
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64e/com.hbwechathelper.ailuns_1.8-7_iphoneos-arm64e.deb
+Size: 11338252
+MD5sum: 71fa03097ca662430883fe2b68b12b3b
+SHA1: 2291297774459f6a678dcedc7f14e7faa8ca076f
+SHA256: 80a26ff6f797e81f6ab5a6aa51f77dfc543acf6b6e7277ff8983643c067650d0
+Section: 微信插件
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
+Package: com.hbwechathelper.ailuns
+Version: 1.8-7
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailuns_1.8-7_iphoneos-arm64.deb
+Size: 11343132
+MD5sum: 8e76b62c42c0eb56f2baa93465832403
+SHA1: d0d1b6c68c0c2e68962d0f11b59f6d332be627d8
+SHA256: da5fa18e7bce8196c84ed13c0670c5632dba47e5c8e70c0cec5aa0c210b6aeb6
+Section: 微信插件
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HB/js.json
+
 Package: com.huami.DYYYs
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -15867,6 +15918,49 @@ Author: shiftcmdk
 Icon: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/icon.png
 Name: Safari 自定义书签图标 BookmarkIcons
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BookmarkIcons/js.json
+
+Package: com.shtm.flexibleexpressions
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 920
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.shtm.flexibleexpression
+Filename: ./debs/iphoneos-arm64e/com.shtm.flexibleexpressions_0.0.1_iphoneos-arm64e.deb
+Size: 381832
+MD5sum: 89e94222a8dbcee9aaedda83e8621436
+SHA1: 05bd6163a4d2254d254e00a38f876aafdb8b403d
+SHA256: 0863d10d8fcb55f6b6930a29e4cf9d0b47f9480b58540fe24506dd2ad0e8f20a
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画
+ * 仅支持动态岛设备
+ * Add special effect animations for Dynamic Island devices.
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: 灵动空间 FlexibleExpression
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
+
+Package: com.shtm.flexibleexpressions
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 920
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.shtm.flexibleexpression
+Filename: ./debs/iphoneos-arm64/com.shtm.flexibleexpressions_0.0.1_iphoneos-arm64.deb
+Size: 351340
+MD5sum: be59048c39734b78d94489ff94a0eb53
+SHA1: e78a23fdc751722cfc48238adfd830182379ebb3
+SHA256: 577be25a9d7f08c9217d712fe790576072e833c810aa398f93ba83ada66194fe
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画
+ * 仅支持动态岛设备
+ * Add special effect animations for Dynamic Island devices.
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: 灵动空间 FlexibleExpression
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
 
 Package: com.sileo.zh-hans
 Version: 2.6
