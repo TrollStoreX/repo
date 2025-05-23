@@ -4484,6 +4484,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 Name: CC18 iOS18 圆角控制中心
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
+Package: com.dvntm.fbos
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.fbo
+Filename: ./debs/iphoneos-arm64e/com.dvntm.fbos_0.0.1_iphoneos-arm64e.deb
+Size: 4760
+MD5sum: ac3f7a47c73b01881719448d306fc692
+SHA1: b79d0be14e36401c13e3b005f45b54bec2968eb8
+SHA256: c1d75776d77329d39ac3f26983ac43cfd509e9064e2972406196151a4a9202ae
+Section: Tweaks
+Description: 文件 App 仅显示“浏览”选项卡并隐藏底栏
+ * Displays only the Browse tab and hides the tab bar
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/icon.png
+Name: FilesBrowsingOnly 精简文件 App
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/js.json
+
+Package: com.dvntm.fbos
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.fbo
+Filename: ./debs/iphoneos-arm64/com.dvntm.fbos_0.0.1_iphoneos-arm64.deb
+Size: 3408
+MD5sum: c883301159580037a769b08c3519cdda
+SHA1: def38104bd4757847d7cf8acab0c95faf6ed53b2
+SHA256: 5aa011557b9fc9c1d0b2aae90229a99f24bf94ad8507553c3383bc133edb22da
+Section: Tweaks
+Description: 文件 App 仅显示“浏览”选项卡并隐藏底栏
+ * Displays only the Browse tab and hides the tab bar
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/icon.png
+Name: FilesBrowsingOnly 精简文件 App
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FilesBrowsingOnly/js.json
+
 Package: com.dvntm.infusepluss
 Version: 1.2.0
 Architecture: iphoneos-arm64e
@@ -9224,6 +9265,58 @@ Description: 微信实用小插件
  * 启用头像时间标签
  * 自定义防撤回功能
  * 插件管理排序功能
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.0-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.0-8_iphoneos-arm64e.deb
+Size: 69368
+MD5sum: 6e6d5ee137c4a36129d36306fe6735d8
+SHA1: b71c667d7fb686455a86b9a06fea02f04a00ea26
+SHA256: ad41393be9d87e2d15301164017d1f00ff9b330b4c168e6a18dfe2de562a7cfc
+Section: 微信插件
+Description: 微信实用小插件
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.0-8_iphoneos-arm64.deb
+Size: 69620
+MD5sum: 272f182f4d1d97a1bb9724e86b8cb228
+SHA1: 749ee28ee8c6a528a71166d374d025e458274739
+SHA256: 2400ebdd2d70063aeebe821ea17cc8d81291dbefa1b3b306c7b2fd89f07796c7
+Section: 微信插件
+Description: 微信实用小插件
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
  * 默认绕过多开人脸、无后台限制
 Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
@@ -18429,6 +18522,56 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
 Name: Yuki 抖音防撤回
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
 
+Package: com.vita.yukis
+Version: 0.0-4
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64e/com.vita.yukis_0.0-4_iphoneos-arm64e.deb
+Size: 27904
+MD5sum: 06bf054fc0b98a150942f0fa3900d8b3
+SHA1: 2873397d318700c0451a8ea24c60d31fdc2bee2c
+SHA256: c086f5f9a9787902e44008a76ba335c0dc3b6c1878c21402b7e617f322ec2571
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 屏蔽输入状态
+ * 无限看闪照
+  * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: Yuki 抖音防撤回
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
+Package: com.vita.yukis
+Version: 0.0-4
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64/com.vita.yukis_0.0-4_iphoneos-arm64.deb
+Size: 27920
+MD5sum: 3d2894b8f6e1f46074a746617e76c4f0
+SHA1: 29fd2bd09e7cc40e00bf8f67f16a4f7760421096
+SHA256: c3fd943d76e5e14b6ab6e6b2dd16299c8a75c2a1f1f9eb7b6d7400cd4481a0bb
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 屏蔽输入状态
+ * 无限看闪照
+  * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: Yuki 抖音防撤回
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
 Package: com.wechat.ColorfulCubes
 Version: 1.0.3
 Architecture: iphoneos-arm64e
@@ -19123,6 +19266,47 @@ Size: 449264
 MD5sum: 9c612655f77e1522b3df48fa56c56077
 SHA1: 3d154e81b961a673c01d32e3725c125dfca17238
 SHA256: 91421b3884aaa0ce4a1285e6eddbc86863024d9fe9f78d8155e73a1e73dcbe0e
+Section: 微信插件
+Description: 微信增强插件
+ * 支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.4-3
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.4-3_iphoneos-arm64e.deb
+Size: 696404
+MD5sum: e8a10e015bbef676087a012f6cc8efbb
+SHA1: cc6bc5f92e860ce63aaab2b1aa06b0eb78bb2d0d
+SHA256: 295fe047e9f5d17fe40bebafa2cd24dc264531fe32136d8d276f685ac9d17e04
+Section: 微信插件
+Description: 微信增强插件
+ * 支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.4-3
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.4-3_iphoneos-arm64.deb
+Size: 450432
+MD5sum: 4aec8b5b7cdd2660f91f345bee66d1ac
+SHA1: 769370c4ac1ab9dd4fef160d61656701137e6d27
+SHA256: b7b7cd74bb94bd2338e2ffb2720c8ce8e947f0df0d58097187e82786f170249f
 Section: 微信插件
 Description: 微信增强插件
  * 支持聊天按钮布局自定义等功能
