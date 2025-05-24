@@ -3766,6 +3766,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootlesss
+Version: 0.7-5
+Architecture: iphoneos-arm64e
+Maintainer: Curtin
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.7-5_iphoneos-arm64e.deb
+Size: 855772
+MD5sum: 188923fb627a81b8266a2aadd549640a
+SHA1: 4c1a8440fd807a2dc6c3420833a9ee1cd9e4351a
+SHA256: 1a201710c07d4a59b8dec082c08ba3c02f588f3b03ad36a7df6f66d0efad2bbc
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.7-5
+Architecture: iphoneos-arm64
+Maintainer: Curtin
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.7-5_iphoneos-arm64.deb
+Size: 871524
+MD5sum: c5a709d2cb6d0223990f9fa382491350
+SHA1: ffc1ca9557e9da5ca76be31094124f6a5b8f799a
+SHA256: ae3d4d47c08398db8fa69bc1b1b84b242981ba74c890cc918756591022030161
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64e
@@ -15953,6 +15996,49 @@ Size: 351340
 MD5sum: be59048c39734b78d94489ff94a0eb53
 SHA1: e78a23fdc751722cfc48238adfd830182379ebb3
 SHA256: 577be25a9d7f08c9217d712fe790576072e833c810aa398f93ba83ada66194fe
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画
+ * 仅支持动态岛设备
+ * Add special effect animations for Dynamic Island devices.
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: 灵动空间 FlexibleExpression
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
+
+Package: com.shtm.flexibleexpressions
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 920
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.shtm.flexibleexpression
+Filename: ./debs/iphoneos-arm64e/com.shtm.flexibleexpressions_1.0.0_iphoneos-arm64e.deb
+Size: 388968
+MD5sum: 12fd30f19c2b136ad3080f9f97a3a0d4
+SHA1: 3a8c581cbc27f5f68cf3802a5e60f31fc6b42624
+SHA256: 738dd48fe716b47842d4969f42e50789e7ddfcc8c70c1fa1bea540f63f2011ea
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画
+ * 仅支持动态岛设备
+ * Add special effect animations for Dynamic Island devices.
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: 灵动空间 FlexibleExpression
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
+
+Package: com.shtm.flexibleexpressions
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 920
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.shtm.flexibleexpression
+Filename: ./debs/iphoneos-arm64/com.shtm.flexibleexpressions_1.0.0_iphoneos-arm64.deb
+Size: 355832
+MD5sum: ef0ab9fb53c8f49dafd72183ec94de54
+SHA1: a25a8d78e9c5047e8c7d19796503b1a724391a78
+SHA256: eb8390cf9921b4a2756bfa5a50b93758bfcd7d1a4ae7ab5dcf8ec87cb5758abd
 Section: Tweaks
 Description: 为灵动岛设备添加特效动画
  * 仅支持动态岛设备
