@@ -18752,6 +18752,56 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
 Name: Yuki 抖音防撤回
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
 
+Package: com.vita.yukis
+Version: 0.0-5
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64e/com.vita.yukis_0.0-5_iphoneos-arm64e.deb
+Size: 31768
+MD5sum: d73cf3d74b0a370063ada27b130c9189
+SHA1: d9a5b2b06d18666cda4e6615b644d54c65532dbe
+SHA256: bfc01746d66aa047dca88e1d4c9682d4ad46336b151d9055f18c537b51229bd0
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 屏蔽输入状态
+ * 无限看闪照
+  * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: 抖音防撤回 Yuki
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
+Package: com.vita.yukis
+Version: 0.0-5
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64/com.vita.yukis_0.0-5_iphoneos-arm64.deb
+Size: 32060
+MD5sum: 1aa1d5394fe88d17dab1604e659b9205
+SHA1: 95d7d02bd699952659dfecc93d76eae6a8ea8907
+SHA256: f207f86fa0a4b393c26ee919967ad2190f6bd111c41095dc32355b9a94a14ff6
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 屏蔽输入状态
+ * 无限看闪照
+  * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: 抖音防撤回 Yuki
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
 Package: com.wechat.ColorfulCubes
 Version: 1.0.3
 Architecture: iphoneos-arm64e
@@ -23891,6 +23941,51 @@ Size: 1461572
 MD5sum: ed21c0fb6e4e9fedb45852ef38854ad3
 SHA1: 3acffd4d326aedc9b9358bce1c4f56b5d7309c65
 SHA256: 7c60c3aa458b694632cbc509eb0b37b3269dac11a5feae75bd7619210ddcfe35
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * 默认解锁 Pro 专业版本，不生效请打开插件设置反激活，再重新打开
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
+Package: me.alfhaily.rockets
+Version: 3.8.36
+Architecture: iphoneos-arm64e
+Maintainer: Rocket App
+Installed-Size: 6684
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64e/me.alfhaily.rockets_3.8.36_iphoneos-arm64e.deb
+Size: 1432828
+MD5sum: 7c8aad1a0e624a2541fd13d6475d0608
+SHA1: c6887bdf47eea80c3669508435512dd3aae193cb
+SHA256: 40bfbb207d016fde5a0d9c2526b231680c501e42242c4045fe4c2132c1822126
+Section: 应用破解
+Priority: optional
+Description: Instagram 增强插件
+ * 默认解锁 Pro 专业版本，不生效请打开插件设置反激活，再重新打开
+ * Save posts and view stories anonymously and do much more
+Author: Rocket App
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
+Name: Rocket for Instagram
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
+
+Package: me.alfhaily.rockets
+Version: 3.8.36
+Architecture: iphoneos-arm64
+Maintainer: Rocket App
+Installed-Size: 6684
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: me.alfhaily.rocket
+Filename: ./debs/iphoneos-arm64/me.alfhaily.rockets_3.8.36_iphoneos-arm64.deb
+Size: 1462392
+MD5sum: dd4375f5ff16d0809b2ef366ec9f3d2a
+SHA1: 883c82dc1ab10f53bd595db4ee8881ec801898ae
+SHA256: 3e4d5f71cd4f7da9605006d64a5f4b0d0152efb974f3778fc5d872171908ce57
 Section: 应用破解
 Priority: optional
 Description: Instagram 增强插件
