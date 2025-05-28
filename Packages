@@ -3166,6 +3166,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
 Name: 微信推送直达聊天窗口
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
 
+Package: com.be-huge.wechat-push-msg-pages
+Version: 0.0.5
+Architecture: iphoneos-arm64e
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: com.be-huge.wechat-push-msg-page
+Filename: ./debs/iphoneos-arm64e/com.be-huge.wechat-push-msg-pages_0.0.5_iphoneos-arm64e.deb
+Size: 30930
+MD5sum: aeb15c49099f5f8507f4ca288d875dfa
+SHA1: 4c1c19012c01190242b4785917a44060e7e7ebe0
+SHA256: ac60fdf1080ad04d7609d1179ed2dbaf0cbaf565030e234d80d030bd97d1c44e
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口
+Author: be-huge
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
+Name: 微信推送直达聊天窗口
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
+
+Package: com.be-huge.wechat-push-msg-pages
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: com.be-huge.wechat-push-msg-page
+Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-pages_0.0.5_iphoneos-arm64.deb
+Size: 23408
+MD5sum: 1795a322f073875df8098f0f0375cfc5
+SHA1: 29d985562644d4cda5cf921fd6aa2c98fee3fb92
+SHA256: a9c803e7f240f9da29ad5faff947985cd9624534a4e1f4ce60a9476271e4f3bb
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口
+Author: be-huge
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
+Name: 微信推送直达聊天窗口
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
+
 Package: com.choco.tgextras
 Version: 0.0.1-1
 Architecture: iphoneos-arm64e
@@ -4187,6 +4226,49 @@ Size: 80072
 MD5sum: 396a0b76c5ff1364b3c5b50af7f1830c
 SHA1: 2c95a1c0c04c9676e54c6531c463a301de7aec52
 SHA256: d1f1645e157cd01d485b892e7cd5b9bf6bb5cca561e3c87feed7e27a40ea9373
+Section: 应用破解
+Description: X Twitter 增强插件
+ * 插件位于底栏菜单右侧
+ * Make Twitter Better
+Author: DeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
+Name: TWIGalaxy
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
+
+Package: com.den.twigalaxys
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: DeNsor
+Installed-Size: 596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.twigalaxy
+Filename: ./debs/iphoneos-arm64e/com.den.twigalaxys_1.6_iphoneos-arm64e.deb
+Size: 171742
+MD5sum: 5ffa8afdf88e004599afa5d8992ef1e2
+SHA1: ac0b1b214590b20d5f09025e6e404f9e6f33cdcc
+SHA256: 38a6035c5956cc45de04cb405dc5fff9ae1a269e4fdad7c44868b9c1affe426c
+Section: 应用破解
+Description: X Twitter 增强插件
+ * 插件位于底栏菜单右侧
+ * Make Twitter Better
+Author: DeNsor
+Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
+Name: TWIGalaxy
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
+
+Package: com.den.twigalaxys
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: DeNsor
+Installed-Size: 596
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.den.twigalaxy
+Filename: ./debs/iphoneos-arm64/com.den.twigalaxys_1.6_iphoneos-arm64.deb
+Size: 107712
+MD5sum: e70a125da0f499c0b5db5eb1b177224c
+SHA1: f09f687461017d55755372c60da61a8d67fcf477
+SHA256: 782c939d4d509a8c4abc935917643accadfc9883f77e49774db1483b81709112
 Section: 应用破解
 Description: X Twitter 增强插件
  * 插件位于底栏菜单右侧
@@ -5973,6 +6055,49 @@ Size: 404252
 MD5sum: 60794528b4284def43b514c3ce1ca843
 SHA1: 4abe89f3b70e8e6fbb1244507a5a5112793819e9
 SHA256: ed6b351d6c5906b2a17dd5ee534e7eedcdf513877e85aa5b6de253a1588e0a26
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.9.8
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 1620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.29.0)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_5.9.8_iphoneos-arm64e.deb
+Size: 542174
+MD5sum: e22dce547b07a5c1b06ec9c9174226e1
+SHA1: cd44f02537efce92a94cf440d12f03eb4b14ccd8
+SHA256: 0035fc740b0b4266a4d4b0fec6b53ff18a890a4b1cb0896b955d43caa3915399
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 5.9.8
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 1620
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.29.0)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_5.9.8_iphoneos-arm64.deb
+Size: 391960
+MD5sum: f112dfeae64989aa0f9d24cdf911e064
+SHA1: 8db18d04c21de4b854c92d636f486352b2c27bcd
+SHA256: 9dcafc218f60d9bee201b9e36696ae57b85f0f1d0d2e01a6d3f7186ccfca57db
 Section: 应用破解
 Description: Spotify Premium
  * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
@@ -7909,6 +8034,48 @@ Description: 基于 DYYY 的抖音插件
  * 双指长按或设置页面调出
  * 新增一些功能
  * 新增抖音设置原生插件设置 UI
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-7+debug3
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-7+debug3_iphoneos-arm64e.deb
+Size: 446364
+MD5sum: 088a2d0a95687f99447084f9663709c8
+SHA1: 1a2c3b38ae2f2ddec5e3959bec862e799d20e4dd
+SHA256: 1bfa87b391197c71bfb92c8fd7b1b3982abede0ca99b76f8fc0b6bbe1f72361d
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 双指长按或设置页面调出
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-7+debug3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-7+debug3_iphoneos-arm64.deb
+Size: 445888
+MD5sum: eb4d819b1dc59751a90c925c5ac9e93e
+SHA1: 90940c286d980768cd6f13f4d550e9a1bdd9b9bd
+SHA256: cb7392306b3cb024d55db6e149a7ec1b23304cb28b524367629a82a9f4a0ea52
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 双指长按或设置页面调出
 Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
 Name: 抖音 DYYY 维他
@@ -16137,6 +16304,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
 Name: 灵动空间 FlexibleExpression
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
 
+Package: com.shtm.flexibleexpressions
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 920
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.shtm.flexibleexpression
+Filename: ./debs/iphoneos-arm64e/com.shtm.flexibleexpressions_1.1.0_iphoneos-arm64e.deb
+Size: 399094
+MD5sum: c4b8519515058e40b4f57106730906a2
+SHA1: 5e111aadf7ba0c9bc75795ad01233e0bc8d2b4d7
+SHA256: c89ec2fa7513ab582b5ccdd8765319588e47987fb5877d9702d6b272be4c2a0a
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画
+ * 仅支持动态岛设备
+ * Add special effect animations for Dynamic Island devices
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: 灵动空间 FlexibleExpression
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
+
+Package: com.shtm.flexibleexpressions
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 920
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.shtm.flexibleexpression
+Filename: ./debs/iphoneos-arm64/com.shtm.flexibleexpressions_1.1.0_iphoneos-arm64.deb
+Size: 362340
+MD5sum: 2d665769cf3d1ade120b41f05370c829
+SHA1: 6276594afd84a5c0f66e44a925f4a21d378af65f
+SHA256: 72d46ee63cfef630353f8b4d6981b9868cb9f7334cc314ccea7933970d288455
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画
+ * 仅支持动态岛设备
+ * Add special effect animations for Dynamic Island devices
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: 灵动空间 FlexibleExpression
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
+
 Package: com.sileo.zh-hans
 Version: 2.6
 Architecture: iphoneos-arm64e
@@ -19583,6 +19793,47 @@ Size: 450432
 MD5sum: 4aec8b5b7cdd2660f91f345bee66d1ac
 SHA1: 769370c4ac1ab9dd4fef160d61656701137e6d27
 SHA256: b7b7cd74bb94bd2338e2ffb2720c8ce8e947f0df0d58097187e82786f170249f
+Section: 微信插件
+Description: 微信增强插件
+ * 支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.4-4
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.4-4_iphoneos-arm64e.deb
+Size: 1391532
+MD5sum: 581c32e8e9c45422d1b341dcee0af5f4
+SHA1: c5efe26706a371614a463b6cc7ccdb275e4f97df
+SHA256: b99aef10d0c9d6bc267d9e8818da6c807854b95555ef73360ffac8fcf42548af
+Section: 微信插件
+Description: 微信增强插件
+ * 支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.4-4_iphoneos-arm64.deb
+Size: 471748
+MD5sum: a1881d7fe26e9a1dc39847b79c82d038
+SHA1: c1026865cabe2bd32e29a82f2da433651dda5a13
+SHA256: b886037d83079dde18b69445277baaddf95ef9a15f0663c5fa39a737c6412a34
 Section: 微信插件
 Description: 微信增强插件
  * 支持聊天按钮布局自定义等功能
