@@ -3301,6 +3301,30 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 Name: Telegram TGExtra
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
 
+Package: com.choco.tgextras
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 14980
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64/com.choco.tgextras_1.3_iphoneos-arm64.deb
+Size: 4654308
+MD5sum: fd4367c4008d13aeb1bd4d9b86252859
+SHA1: 6bc579f5def89160040650355e3644cb272a45ef
+SHA256: 4a92a0bd38309bdd099958bd629aea2c4f816c9ac0350d97e89c1710081080ad
+Section: 应用破解
+Description: Telegram 增强插件
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”或者空白界面三指长按打开插件
+ * 支持 Telegram、Turrit 等第三方客户端
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
 Package: com.curtin.pkc.rootlesss
 Version: 0.6-3
 Architecture: iphoneos-arm64e
@@ -9659,6 +9683,84 @@ Size: 69620
 MD5sum: 272f182f4d1d97a1bb9724e86b8cb228
 SHA1: 749ee28ee8c6a528a71166d374d025e458274739
 SHA256: 2400ebdd2d70063aeebe821ea17cc8d81291dbefa1b3b306c7b2fd89f07796c7
+Section: 微信插件
+Description: 微信实用小插件
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.0-9_iphoneos-arm64.deb
+Size: 70472
+MD5sum: 7a74a0ff9cfef93dc66022e9440c774c
+SHA1: 7e9b40d7c5a466f5dec9c6b5cc4688205f6af29a
+SHA256: 6319b0dc815e5015942cf5261e900ef150f2dcb6904ea83c644b68fa55544c2c
+Section: 微信插件
+Description: 微信实用小插件
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.0-9
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.0-9_iphoneos-arm64e.deb
+Size: 70584
+MD5sum: 3015359825b1fa06088f74a891e7c6d8
+SHA1: 0eac59080488bb11725af64ed6c5a9a0f4a5f613
+SHA256: 2ce7c52dd199cf36285b937333aa2ce75dfe88b2a1bb6be4da72812d701e324e
+Section: 微信插件
+Description: 微信实用小插件
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.0-9_iphoneos-arm64.deb
+Size: 70472
+MD5sum: 7a74a0ff9cfef93dc66022e9440c774c
+SHA1: 7e9b40d7c5a466f5dec9c6b5cc4688205f6af29a
+SHA256: 6319b0dc815e5015942cf5261e900ef150f2dcb6904ea83c644b68fa55544c2c
 Section: 微信插件
 Description: 微信实用小插件
  * 启用视频倍速手势
