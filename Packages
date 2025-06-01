@@ -8105,6 +8105,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
 Name: 抖音 DYYY 维他
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
 
+Package: com.huami.dyyy.vita
+Version: 2.2-7+debug4
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-7+debug4_iphoneos-arm64e.deb
+Size: 440916
+MD5sum: 17c6b06cf0c2157946fcc52f027993b0
+SHA1: 2738f897ef819646a9f6e98a28ccdf48584657a5
+SHA256: 75865fa2d92e2ae44bed7eafa319f3727e460bace047f94fd9e146178e319f5e
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 双指长按或设置页面调出
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-7+debug4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-7+debug4_iphoneos-arm64.deb
+Size: 441012
+MD5sum: f7ebbee3e1a02467b5bc1e32ae6c26c7
+SHA1: a3c37537a7a3505c85219d52b9d1a2331dd0e12a
+SHA256: 95dcb9de1337916bbdb8a50f84049b5cc84694601a65c21762f9be812e4f4088
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 双指长按或设置页面调出
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
 Package: com.huami.dyyys
 Version: 2.0-2
 Architecture: iphoneos-arm64e
@@ -19160,6 +19202,60 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
 Name: 抖音防撤回 Yuki
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
 
+Package: com.vita.yukis
+Version: 0.0-6
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64e/com.vita.yukis_0.0-6_iphoneos-arm64e.deb
+Size: 39284
+MD5sum: 176cd8c427e3150a8f79e7de1d2b004f
+SHA1: 400cd90cda7bb941bc68703b4669270b8025a50d
+SHA256: e97c88be72643e73b484a4503e944c5c2fdeac83628a2e8cb459c22f82f03ed2
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 自定义语音秒数
+ * 屏蔽输入状态
+ * 无限看闪照
+ * 好友交换作弊
+ * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: 抖音防撤回 Yuki
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
+Package: com.vita.yukis
+Version: 0.0-6
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64/com.vita.yukis_0.0-6_iphoneos-arm64.deb
+Size: 39252
+MD5sum: d7e297d8bfd44b5e247870c5c725d67f
+SHA1: 44333063fa6c4dded022fcbd1d9afceed2428a49
+SHA256: cf1526b91153920252840d343d9576185101491302ae4011965a2575d9f92cb2
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 自定义语音秒数
+ * 屏蔽输入状态
+ * 无限看闪照
+ * 好友交换作弊
+ * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: 抖音防撤回 Yuki
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
 Package: com.wechat.ColorfulCubes
 Version: 1.0.3
 Architecture: iphoneos-arm64e
@@ -21257,6 +21353,53 @@ Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音插件
  * 三指长按或设置页面调出
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.2-9
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.2-9_iphoneos-arm64e.deb
+Size: 416550
+MD5sum: d039965ba62ed106dec20b3061bd6a0b
+SHA1: d14ab15d3b3e79bc319ce7a31e267163a57f701d
+SHA256: bce9e811aa78b2fac81a6be16cead99e4752c573707eb6327d02a75200da916e
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 双指长按或设置页面调出
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.2-9
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.2-9_iphoneos-arm64.deb
+Size: 294968
+MD5sum: f88d080cd971aeb7ff9706da458cb213
+SHA1: 96f9a44cf4e13f226f3016ed18ee6370c65d19ea
+SHA256: c72fda2b0f4c870625ab9103fa2bc30f8bc2e9eac62ab54f89c97b64d14d8b91
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 双指长按或设置页面调出
  * 支持信息防撤回
  * 支持猜拳骰子作弊
 Author: XUUᶻ
