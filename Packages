@@ -16491,6 +16491,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
 Name: 灵动空间 FlexibleExpression
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
 
+Package: com.shtm.flexibleexpressions
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: SHTM
+Installed-Size: 920
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.shtm.flexibleexpression
+Filename: ./debs/iphoneos-arm64e/com.shtm.flexibleexpressions_1.2.0_iphoneos-arm64e.deb
+Size: 7367180
+MD5sum: 70bb69a82a674df64b75d1affe0285e7
+SHA1: 634002450db84d2d65ee1fa11c3b5f7d1867b35e
+SHA256: 35e04bf372e6b380a769882ae9c06523b9545b15f305cafab416915ab5deb372
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画
+ * 仅支持动态岛设备
+ * Add special effect animations for Dynamic Island devices
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: 灵动空间 FlexibleExpression
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
+
+Package: com.shtm.flexibleexpressions
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 920
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.shtm.flexibleexpression
+Filename: ./debs/iphoneos-arm64/com.shtm.flexibleexpressions_1.2.0_iphoneos-arm64.deb
+Size: 3649296
+MD5sum: 1d451c095e9675c87f53a52738623d68
+SHA1: d82662feb58bc8d158eceda0435936b5e471f72c
+SHA256: ad8248651202e69bbc882f7cadf92383138f5f14c1b3febca84958d29d7a9551
+Section: Tweaks
+Description: 为灵动岛设备添加特效动画
+ * 仅支持动态岛设备
+ * Add special effect animations for Dynamic Island devices
+Author: SHTM
+Icon: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/icon.png
+Name: 灵动空间 FlexibleExpression
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FlexibleExpression/js.json
+
 Package: com.sileo.zh-hans
 Version: 2.6
 Architecture: iphoneos-arm64e
@@ -19241,6 +19284,60 @@ Size: 39252
 MD5sum: d7e297d8bfd44b5e247870c5c725d67f
 SHA1: 44333063fa6c4dded022fcbd1d9afceed2428a49
 SHA256: cf1526b91153920252840d343d9576185101491302ae4011965a2575d9f92cb2
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 自定义语音秒数
+ * 屏蔽输入状态
+ * 无限看闪照
+ * 好友交换作弊
+ * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: 抖音防撤回 Yuki
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
+Package: com.vita.yukis
+Version: 0.0-7
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64e/com.vita.yukis_0.0-7_iphoneos-arm64e.deb
+Size: 50200
+MD5sum: 3ed310cdfd891fe244b3faccaa186d25
+SHA1: 90cc84543912969d0c19bf332a3a1bc8b8011a09
+SHA256: 7d39e897d0e12f5bb7af7b211e83a9e785d9558ef0b4e62b14019f56bd672a85
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 自定义语音秒数
+ * 屏蔽输入状态
+ * 无限看闪照
+ * 好友交换作弊
+ * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: 抖音防撤回 Yuki
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
+Package: com.vita.yukis
+Version: 0.0-7
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64/com.vita.yukis_0.0-7_iphoneos-arm64.deb
+Size: 50204
+MD5sum: 336a4f548976986332ad19d1a7230963
+SHA1: 0def219612e1152584ad9c3c1572b089be5ac9be
+SHA256: 761efe99340f29c989a9b0f0b311dc6236a33ac323d9c2dd09cdc887ad1b50d9
 Section: 抖音插件
 Priority: optional
 Description: 抖音消息防撤回
