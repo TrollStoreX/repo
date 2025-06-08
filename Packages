@@ -10031,6 +10031,43 @@ Author: INITNIL
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableShowContactAddCreateTime
 
+Package: com.iosrxwy.QDReader
+Version: 0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: iosrxwy
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.iosrxwy.QDReader_0.1-1_iphoneos-arm64e.deb
+Size: 139244
+MD5sum: fe70de7ef47ffec449a75f36c397aad8
+SHA1: 010662e59f4f89f303d93385bedfd81441ec0fe6
+SHA256: 6d34bbdc32b3fc720035a458f3c7c9ca3d7fd2b256e92acd1ec7a91fa5d6c314
+Section: 应用破解
+Priority: optional
+Description: 起点读书去开屏广告，激励视频加速
+Author: iosrxwy
+Icon: https://TrollStoreX.Github.io/sileodepiction/QDReader/icon.png
+Name: 起点阅读激励视频加速
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QDReader/js.json
+
+Package: com.iosrxwy.QDReader
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: iosrxwy
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.iosrxwy.QDReader_0.1-1_iphoneos-arm64.deb
+Size: 104168
+MD5sum: 014bb8b14ffefa2068b589812da86f38
+SHA1: ae424dbabf7fc705da85016477c1f4695ece376b
+SHA256: 0d94e7d01602d0e90898dfba40498402d2a8a51ac19f92fdaeacbbadb68bf88d
+Section: 应用破解
+Priority: optional
+Description: 起点读书去开屏广告，激励视频加速
+Author: iosrxwy
+Icon: https://TrollStoreX.Github.io/sileodepiction/QDReader/icon.png
+Name: 起点阅读激励视频加速
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QDReader/js.json
+
 Package: com.iosrxwy.xmlynoads
 Version: 0.1-1
 Architecture: iphoneos-arm64e
