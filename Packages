@@ -16825,6 +16825,54 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Qishui/icon.png
 Name: 汽水音乐秒过激励视频
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Qishui/js.json
 
+Package: com.starry6.lunanoads
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: liwhs
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.starry6.lunanoad
+Filename: ./debs/iphoneos-arm64e/com.starry6.lunanoads_1.1_iphoneos-arm64e.deb
+Size: 7668
+MD5sum: 0853348f7311303a7a3a33e8a8b01b52
+SHA1: be2302a84945687171a66df2140b12191212cd88
+SHA256: 6c1a0fd38908a4a76ba23c885dfa616656ed6415cc28ec08df5552b3a3802129
+Section: 应用破解
+Description: 汽水音乐、抖音秒过激励视频
+ * 去开屏广告
+ * 秒过激励式视频
+ * 屏蔽抖音插屏广告
+ * 插件对抖音、极速版、火山版等版本也支持秒过激励式视频
+ * 测试：iOS 17.0 巨魔可用、iOS 16.1.1 越狱可用
+Author: starry6
+Icon: https://TrollStoreX.Github.io/sileodepiction/Qishui/icon.png
+Name: 汽水 & 抖音秒过激励视频
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Qishui/js.json
+
+Package: com.starry6.lunanoads
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: liwhs
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.starry6.lunanoad
+Filename: ./debs/iphoneos-arm64/com.starry6.lunanoads_1.1_iphoneos-arm64.deb
+Size: 7728
+MD5sum: 4a91b627d2ac441d15efa1892328a393
+SHA1: f7e5920e0069c2a62b51fd1cc03a677ed540cd5d
+SHA256: 205b1fd0a166baaa6b44e03454956e26ab582a807dbeee1a571404195254e7c7
+Section: 应用破解
+Description: 汽水音乐、抖音秒过激励视频
+ * 去开屏广告
+ * 秒过激励式视频
+ * 屏蔽抖音插屏广告
+ * 插件对抖音、极速版、火山版等版本也支持秒过激励式视频
+ * 测试：iOS 17.0 巨魔可用、iOS 16.1.1 越狱可用
+Author: starry6
+Icon: https://TrollStoreX.Github.io/sileodepiction/Qishui/icon.png
+Name: 汽水 & 抖音秒过激励视频
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Qishui/js.json
+
 Package: com.storeswitcher.appstore
 Version: 1.0.5
 Architecture: iphoneos-arm64e
@@ -20812,6 +20860,47 @@ Size: 5768828
 MD5sum: d1dc2f49d02be0b904014083216e60f0
 SHA1: 4cf13903cf34bcb66ad452796523f6321cb23b80
 SHA256: bf47ad2aa26d2b482f43bb80b2eb2af061b9171cf408892dd74007ac3bf53483
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.9.1
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_3.9.1_iphoneos-arm64e.deb
+Size: 5767804
+MD5sum: 0f3924f151c9f116796f23155dad660c
+SHA1: 096531142cfa10cce19a5ac01deea531a35e6893
+SHA256: d4c056b32aba25f9f994ee7d52f3c24000e7b9708c35838cd2f6c0f23329dff9
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 3.9.1
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_3.9.1_iphoneos-arm64.deb
+Size: 5763904
+MD5sum: 7f91c0d4635d117b9f1eac8f248be683
+SHA1: 66a7c22848cf66423e03160d1dc1fc763eb71209
+SHA256: 16dcaf8abbd424b4a2dc507c61799ab2bf5d819e63c73b3fda5d0e4fd18b5f87
 Section: 微信插件
 Description: 微信主题插件
  * 由 ThemePro 团队开发
