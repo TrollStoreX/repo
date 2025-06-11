@@ -1280,6 +1280,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
 Name: 微信助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
 
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-5
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64e/com.25mao.miyou.rootlesss_3.8-5_iphoneos-arm64e.deb
+Size: 8871888
+MD5sum: ee464103b858a6a6cc06fbdf16c752c6
+SHA1: e3b28fdc4ce54aa1d83abc3d72e7cce681b95191
+SHA256: cf722118da4d150b9d1c43c00c56118becbc3ec38c4197b717ed9dbba40158d8
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件（密友）
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
+
+Package: com.25mao.miyou.rootlesss
+Version: 3.8-5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.miyou.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.miyou.rootlesss_3.8-5_iphoneos-arm64.deb
+Size: 8992084
+MD5sum: dbd18bee7845ae3882137b5db3041a25
+SHA1: 75be9294777906d3d1ac58977e836eae1b0bbf20
+SHA256: 9a82c851519a219c62c2517634d659b892bc3c05bb40128e64e3bc28c1957a51
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件（密友）
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/mao/icon.png
+Name: 微信助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/mao/js.json
+
 Package: com.25mao.wcplugins.rootlesss
 Version: 0.1-3
 Architecture: iphoneos-arm64e
@@ -4578,26 +4617,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
 Package: com.dvntm.cc18s
 Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Conflicts: com.dvntm.cc18
-Filename: ./debs/iphoneos-arm64/com.dvntm.cc18s_0.0.1_iphoneos-arm64.deb
-Size: 4536
-MD5sum: 9c766e19c189b1dac845806eb1a5898d
-SHA1: f41b24996cf322162b18bf4bf41a1225e423ee72
-SHA256: 80e27db0e1adc8e4a8498bda985691189f82c2a195132adda120ed88d5649339
-Section: Tweaks
-Description: iOS 18 圆角控制中心
- * Round CC modules replication, like in iOS 18
-Author: dvntm
-Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
-Name: CC18 iOS18 圆角控制中心
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
-
-Package: com.dvntm.cc18s
-Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Installed-Size: 152
@@ -4608,6 +4627,26 @@ Size: 4472
 MD5sum: bf37fc85c447535dbc9d51c209ee04f1
 SHA1: 9c2d57063efad4e6f613f3bc07ba337fa6762b09
 SHA256: 5a4e82d62aefa2e8fdf97d518a1e0d24299502138f46bb3d7f6bc16dec176cf7
+Section: Tweaks
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Name: CC18 iOS18 圆角控制中心
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
+Package: com.dvntm.cc18s
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/iphoneos-arm64/com.dvntm.cc18s_0.0.1_iphoneos-arm64.deb
+Size: 4536
+MD5sum: 9c766e19c189b1dac845806eb1a5898d
+SHA1: f41b24996cf322162b18bf4bf41a1225e423ee72
+SHA256: 80e27db0e1adc8e4a8498bda985691189f82c2a195132adda120ed88d5649339
 Section: Tweaks
 Description: iOS 18 圆角控制中心
  * Round CC modules replication, like in iOS 18
@@ -8183,6 +8222,54 @@ Size: 448996
 MD5sum: 989f39d49bf077e454a64a9be01603ab
 SHA1: 88be87f1af498c354cc4d52e476c9d5bebb84173
 SHA256: c423404c4769152c2a36428d495bf0924a4f9bdcba4fbb2f639502346b79e588
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-8_iphoneos-arm64e.deb
+Size: 452208
+MD5sum: 0cb70772afbcd912719828e94db1d7c2
+SHA1: d9b423bf2642c48743e39ee8306a2fac4c07d8e9
+SHA256: 6e8618931e9c8f32fd8b0d6701a419c15385cab90256d84ba7b79ddd9fb7b016
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-8_iphoneos-arm64.deb
+Size: 452000
+MD5sum: aa4383365505fe80d8d27be5308c6b5c
+SHA1: 3f366d6759d0c1457ce8eec86bfc9a9d8f505430
+SHA256: 6582ba490c6b79d341f99299051b3120225725d11dfa5469461c6162686ba67e
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音插件
@@ -12947,15 +13034,14 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Nathan Senter
 Installed-Size: 136
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
-Size: 5692
-MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
-SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
-SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
+Size: 4072
+MD5sum: eea4504514f5ad60d8386a1f7651a8b4
+SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
+SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -12965,14 +13051,15 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
-Size: 4072
-MD5sum: eea4504514f5ad60d8386a1f7651a8b4
-SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
-SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64e.deb
+Size: 5692
+MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
+SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
+SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
