@@ -14631,6 +14631,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 Name: Twitter NoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/js1.json
 
+Package: com.netskao.wcabtestvoicerecordviews
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.netskao.wcabtestvoicerecordviews_1.1-1_iphoneos-arm64e.deb
+Size: 3428
+MD5sum: 743013c43c56f2b3c9876204bd31d059
+SHA1: 11588425280792bbfb6c63c0fa11f33a2ebdecae
+SHA256: f03a945d670e9cf0d24551004d37e733b9f60fbc61c7e0c4c33e3c780e39cb95
+Section: 插件
+Description: 在微信 8.0.60 开启新的语音按钮 UI
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPluginsOrder/icon.png
+Name: 微信开启新语音按钮
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCABTestVoiceRecordView/js.json
+
+Package: com.netskao.wcabtestvoicerecordviews
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.netskao.wcabtestvoicerecordviews_1.1-1_iphoneos-arm64.deb
+Size: 2296
+MD5sum: 118a8d120e8ef3c010e42f26b3aba819
+SHA1: 4b4e38f7851f5f7b5bfddead0649e62af852cc30
+SHA256: 22c319367acf4a6fac4ccae0b70881410ef2327e3da9dd2f6d791647f0f7378c
+Section: 插件
+Description: 在微信 8.0.60 开启新的语音按钮 UI
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPluginsOrder/icon.png
+Name: 微信开启新语音按钮
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCABTestVoiceRecordView/js.json
+
 Package: com.netskao.wcdisablehotupdatess
 Version: 1.1-1
 Architecture: iphoneos-arm64e
