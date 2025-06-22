@@ -6454,6 +6454,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/icon.png
 Name: YTMusicUltimate
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/js.json
 
+Package: com.ginsu.ytmusicultimates
+Version: 2.3.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ginsu.ytmusicultimate, com.dao.ytmusicultimate
+Filename: ./debs/iphoneos-arm64e/com.ginsu.ytmusicultimates_2.3.1-1_iphoneos-arm64e.deb
+Size: 6493852
+MD5sum: ab807da90b9a487a72bc436ea627381d
+SHA1: 7dbca51e87da325dcd6fd997c71d0f27ffdbe277
+SHA256: 878ecb90f2fd5d94fb78c033b83f1af1af76b692e2180a7fbb77c4fc4496e2b2
+Section: 应用破解
+Description: YouTube Music Premium
+Author: dayanch96 & ginsu
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/icon.png
+Name: YTMusicUltimate (Lessica Fork)
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/js.json
+
+Package: com.ginsu.ytmusicultimates
+Version: 2.3.1-1
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 17812
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ginsu.ytmusicultimate, com.dao.ytmusicultimate
+Filename: ./debs/iphoneos-arm64/com.ginsu.ytmusicultimates_2.3.1-1_iphoneos-arm64.deb
+Size: 6490980
+MD5sum: 639e42290c30904d7b05ae9183cde24f
+SHA1: 85d3057e72b0faacf52b43700ba73decdc1dda2c
+SHA256: 4af418a2eaa850b59ce8ae7dddb8ea5d4f4a1fa49298c6326b56bd55efa0cd2a
+Section: 应用破解
+Description: YouTube Music Premium
+Author: dayanch96 & ginsu
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/icon.png
+Name: YTMusicUltimate (Lessica Fork)
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTMusicUltimate/js.json
+
 Package: com.github.wxsmalltabs
 Version: 0.0.1-5
 Architecture: iphoneos-arm64e
@@ -14286,6 +14324,51 @@ Section: 抖音插件
 Description: 抖音全屏显示
  * 插件开关位于抖音设置内
  * 最后在抖音 33.4.0 版本进行测试
+ * 放大视频达到全屏显示，视频区域会部分丢失
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音全屏 AwemeFullScreen
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+
+Package: com.netskao.awemefullscreens
+Version: 1.3-4
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemefullscreen, byg.iosios.net.awemefullscreen
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemefullscreens_1.3-4_iphoneos-arm64e.deb
+Size: 241638
+MD5sum: 2a9c735c92a0944c6a199b5906028abe
+SHA1: 631cf1e79a5204f22c066cf0944103ef142bc801
+SHA256: b0d2156a6a2dbe66051823584fcac339e50eb81c8f6886b6d0cf74bf78ddc274
+Section: 抖音插件
+Description: 抖音主页全屏显示
+ * 插件开关位于抖音设置内
+ * 仅支持抖音 34.7.0 及以上版本
+ * 放大视频达到全屏显示，视频区域会部分丢失
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音全屏 AwemeFullScreen
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+
+Package: com.netskao.awemefullscreens
+Version: 1.3-4
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 448
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemefullscreen, byg.iosios.net.awemefullscreen
+Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreens_1.3-4_iphoneos-arm64.deb
+Size: 187528
+MD5sum: bf5db089951e7a46fe93be4a14ad718e
+SHA1: bd923d4d1e8b3b7d5098c6d2d1573340723a5c88
+SHA256: 4cbaf9896100fe753903799bbf3a55941a9b9241498744a8ed47df264a0411d0
+Section: 抖音插件
+Description: 抖音主页全屏显示
+ * 插件开关位于抖音设置内
+ * 仅支持抖音 34.7.0 及以上版本
  * 放大视频达到全屏显示，视频区域会部分丢失
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
