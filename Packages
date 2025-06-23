@@ -12222,6 +12222,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
 Name: AirPods PodsGrant
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/js.json
 
+Package: com.lns.pogrs
+Version: 0.5.1
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/iphoneos-arm64e/com.lns.pogrs_0.5.1_iphoneos-arm64e.deb
+Size: 86994
+MD5sum: ac5abe5dcd0d2b02c114b70bb3390e22
+SHA1: dcefc47cde7840e09153410b494a4d1bcca5b64f
+SHA256: 38bc59fab7fbb13132a7bbcd40f88895826a336994facc99917f17869575749a
+Section: AirPods
+Description: 提高低系统与新 AirPods 兼容性
+ * Tweak for better AirPods compatibility on old devices
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/js.json
+
+Package: com.lns.pogrs
+Version: 0.5.1
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/iphoneos-arm64/com.lns.pogrs_0.5.1_iphoneos-arm64.deb
+Size: 75168
+MD5sum: c39129a30ae947c9f36f006a15c92fbb
+SHA1: e54e1d92223863ffc05f64d99ca34859d9a06729
+SHA256: 917e3c3f59e1de3dbeb458394b14a69647653706bfc7d9415a7856741ecb3f18
+Section: AirPods
+Description: 提高低系统与新 AirPods 兼容性
+ * Tweak for better AirPods compatibility on old devices
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/js.json
+
 Package: com.lns.whereplays
 Version: 0.0.2
 Architecture: iphoneos-arm64e
