@@ -4841,6 +4841,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Facebook/icon.png
 Name: Glow for Facebook
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Facebook/js.json
 
+Package: com.dvntm.glows
+Version: 1.3.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm & nowesr1
+Installed-Size: 16996
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.glow
+Filename: ./debs/iphoneos-arm64e/com.dvntm.glows_1.3.1_iphoneos-arm64e.deb
+Size: 6900188
+MD5sum: a8b17bb53986e5688bebf311e3fe041e
+SHA1: 5341f8de95217a2eb32626765479fa75a43f1151
+SHA256: 5ae049914b8b7769d0f7a2311afae090664492e3b29d407df224e7f5ebb5a843
+Section: 应用破解
+Description: Facebook 增强插件
+ * 长按底部任意选项打开插件
+ * 去广告、视频下载等
+Author: dvntm, nowesr1
+Icon: https://TrollStoreX.Github.io/sileodepiction/Facebook/icon.png
+Name: Glow for Facebook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Facebook/js.json
+
+Package: com.dvntm.glows
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm & nowesr1
+Installed-Size: 16996
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.glow
+Filename: ./debs/iphoneos-arm64/com.dvntm.glows_1.3.1_iphoneos-arm64.deb
+Size: 6900504
+MD5sum: 61f9cedbee5c951ce47b433e75ddf47d
+SHA1: 18f0add00b00138dd1543be33cda1ae760970d77
+SHA256: ecc6ac656120411a22460f00a4b59391036c0b462bc32e5dc65ab77d53a43d29
+Section: 应用破解
+Description: Facebook 增强插件
+ * 长按底部任意选项打开插件
+ * 去广告、视频下载等
+Author: dvntm, nowesr1
+Icon: https://TrollStoreX.Github.io/sileodepiction/Facebook/icon.png
+Name: Glow for Facebook
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Facebook/js.json
+
 Package: com.dvntm.infusepluss
 Version: 1.2.0
 Architecture: iphoneos-arm64e
@@ -8498,6 +8540,54 @@ Description: 基于 DYYY 的抖音插件
  * 仅供学习交流，禁止用于商业用途
  * 通过“双指长按”或“抖音设置”进入插件
 Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1114
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-8+debug1114_iphoneos-arm64e.deb
+Size: 473980
+MD5sum: f4d7d9f33ac9d2143794ea19c4738c93
+SHA1: 3fe762f90e26198bcd11da9bc18401f33ba7e21f
+SHA256: f9890dd5b8bc5c61be162f8c04ae19c809633b587f2e4dd374c6f0f1c0309b74
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1114
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-8+debug1114_iphoneos-arm64.deb
+Size: 474508
+MD5sum: 2a98d7dd89c4052e9f1251f71a3d6c04
+SHA1: c7e9e109cbb3bda51d314246ec794e463fddfb5c
+SHA256: 4927f0cdc35414772f3a4f4ae8f6fe9ff5d1132185fc20f86962ed8aa37a83d8
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
 Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
 Name: 抖音 DYYY 维他
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
@@ -14416,6 +14506,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: 抖音全屏 AwemeFullScreen
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
 
+Package: com.netskao.awemefullscreens
+Version: 1.3-6
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemefullscreen, byg.iosios.net.awemefullscreen
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemefullscreens_1.3-6_iphoneos-arm64e.deb
+Size: 239024
+MD5sum: 3860d16edf5fc81e188069ba2a5dc158
+SHA1: 6ca5b238298889fca16e9d0f2a246fec6c34dc3a
+SHA256: f923fbfe9ff5172b60773fb314e3eecaf210e553a9e1cacc46777872da070d62
+Section: 抖音插件
+Description: 抖音主页全屏显示
+ * 支持抖音极速版
+ * 插件开关位于抖音设置内
+ * 仅支持抖音 34.7.0 及以上版本
+ * 放大视频达到全屏显示，视频区域会部分丢失
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音全屏 AwemeFullScreen
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+
+Package: com.netskao.awemefullscreens
+Version: 1.3-6
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 448
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.awemefullscreen, byg.iosios.net.awemefullscreen
+Filename: ./debs/iphoneos-arm64/com.netskao.awemefullscreens_1.3-6_iphoneos-arm64.deb
+Size: 186388
+MD5sum: 9807d3a84cc9cc83820c2508898b0a4d
+SHA1: 4b6019ad8a3967ff464a05581686132571075384
+SHA256: bd74db778dc2e15219f333ec5d564d40c3cf16b216ada5a4fbe8ed2f9336a817
+Section: 抖音插件
+Description: 抖音主页全屏显示
+ * 支持抖音极速版
+ * 插件开关位于抖音设置内
+ * 仅支持抖音 34.7.0 及以上版本
+ * 放大视频达到全屏显示，视频区域会部分丢失
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
+Name: 抖音全屏 AwemeFullScreen
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AwemeFullScreen/js.json
+
 Package: com.netskao.awemenoads
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -16198,6 +16335,48 @@ Description: Facebook NoAds 去广告插件
 Author: P2KDev <p2kdev@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/facebook.png
 Name: FacebookNoAds
+
+Package: com.p2kdev.instagramnoadss
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev
+Installed-Size: 176
+Depends: mobilesubstrate
+Conflicts: com.p2kdev.instagramnoads
+Filename: ./debs/iphoneos-arm64e/com.p2kdev.instagramnoadss_1.1_iphoneos-arm64e.deb
+Size: 8276
+MD5sum: 590553b432e5f0ecaac253bcf1ed2332
+SHA1: a972b7a8bb36d6cd149e6f2f74f221833a4a7ea1
+SHA256: ca54b0d3d577ec8fe918fb92ef2dd056579143c0ec7ddbeabcfa0c4a6b7b71e4
+Section: 应用破解
+Description: Instagram 去广告插件
+ * 最后在 Instagram 386.0.0 进行测试
+ * No Ads in the Instagram App!
+Author: P2KDev
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
+Name: InstagramNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InstagramNoAds/js.json
+
+Package: com.p2kdev.instagramnoadss
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Installed-Size: 176
+Depends: mobilesubstrate
+Conflicts: com.p2kdev.instagramnoads
+Filename: ./debs/iphoneos-arm64/com.p2kdev.instagramnoadss_1.1_iphoneos-arm64.deb
+Size: 8340
+MD5sum: 12ed07a0e3ddfb985c5679e059ae24fc
+SHA1: e279c3293ca287a42d71ecea70f95ad7efd545ad
+SHA256: a80e81b0d354617aba211633517bee94ff523b408d165d822daa0aecbb722433
+Section: 应用破解
+Description: Instagram 去广告插件
+ * 最后在 Instagram 386.0.0 进行测试
+ * No Ads in the Instagram App!
+Author: P2KDev
+Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/Instagram.png
+Name: InstagramNoAds
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InstagramNoAds/js.json
 
 Package: com.p2kdev.twitternoadss
 Version: 1.2.4
