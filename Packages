@@ -4919,6 +4919,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
 Name: 锤子助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
 
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.9
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64e/com.dumpapp.wechat-rootlesss_2.0.9_iphoneos-arm64e.deb
+Size: 10521176
+MD5sum: 3814cb976552ef249928188b7dd9b145
+SHA1: c0c9004ea8395e23de6ff10a702eb827135ba847
+SHA256: ce212d6685c745d6a3c1a3a668ecf074564bd93aed065c81da896d4af028b37d
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.0.9
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootlesss_2.0.9_iphoneos-arm64.deb
+Size: 10515792
+MD5sum: 19bce394a8aee90783cef4e4122229bd
+SHA1: 1d48f3631a3a64b8cfc3e91380d46ae6b79c24a7
+SHA256: 87026b43557455c7973e70194c91803484c816cb5b16f47087ae8fdd18ccaaac
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
 Package: com.dvntm.cc18s
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -8955,6 +8996,54 @@ Size: 478320
 MD5sum: bed07a22a563243108854b15deb1e39b
 SHA1: 14fde049f5f38ea940c3dc94464d814d48c1ec44
 SHA256: a3aed3859d895f227ba729e2ebd43f66c9305062c81dc235aea08ea104877512
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1491
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-8+debug1491_iphoneos-arm64e.deb
+Size: 491924
+MD5sum: b8907c234cfa9dca77ae40f761b42613
+SHA1: 13de3f08870215f72ac0e1de8586fda4a43d1338
+SHA256: 035670324b36636f3f5fea752a56fa0a7e8830fc69a0ef3b6d9458041ded7c6d
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1491
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-8+debug1491_iphoneos-arm64.deb
+Size: 491280
+MD5sum: 1ed617c3f36f40567aab4205c76722b9
+SHA1: eba9282ff2400f7a59652c9863c5f3f7fbbea926
+SHA256: 8f42da62059ccd4e92e8d8e6ecec9e5bba31429f96ece2dae1b7dc7252483dc7
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音插件
@@ -19362,6 +19451,45 @@ Size: 508680
 MD5sum: ee7e00f044ec2447ce9909ef480abaae
 SHA1: 47c3b4034f7f5a1c2c18d0b3959ab6767a8d4af6
 SHA256: 222b04d2a5b11081a843ad11baf2a96069c8a43ccbf027e03734984c25dfda5f
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.9-1-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.9-1-1_iphoneos-arm64e.deb
+Size: 662586
+MD5sum: fca91d2059193e8a034836cfaaccc9cc
+SHA1: 408dd006c1b054bb45e079534ac1ff705c34d9cd
+SHA256: 6bf58aff2a4482818329b2b516597cf31ec30242999ddc333502912223d347c8
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.9-1-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.9-1-1_iphoneos-arm64.deb
+Size: 514396
+MD5sum: adf8c7332616132f7f14a838bcd6176c
+SHA1: 66ab8732f10f760bbba0fd22878da028057ca1b8
+SHA256: 9cc552e9d9cb5c59d2f0cf9c5f60ae65d1dc121f47a35b2363cc0a1b04612cf9
 Section: 微信插件
 Description: 微信主题插件
 Author: 苏兔
