@@ -26920,6 +26920,90 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/icon.png
 Name: Rocket for Instagram
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Rocket_zh-Hans/js1.json
 
+Package: me.tomt000.copylog
+Version: 1.7.1+debug
+Architecture: iphoneos-arm64e
+Maintainer: TomT000
+Installed-Size: 2240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/iphoneos-arm64e/me.tomt000.copylog_1.7.1+debug_iphoneos-arm64e.deb
+Size: 2203988
+MD5sum: 3610c6e88c2d6bf1330f5b3b7a94ca22
+SHA1: 23fadb032a440cb88585d0b80f4fef6d24a4288d
+SHA256: 0da2e2725898f0ac1dac7d3b072d6d455f73a1102c11df6346d817e9dab2d107
+Section: Tweaks
+Description: CopyLog 是一款强大的 iOS 剪贴板历史管理器，易于使用，兼容 iPhone 和 iPad，能够帮助你追踪设备上复制过的所有内容
+ * Clipboard history manager for iOS
+Author: TomT000
+Icon: https://TrollStoreX.Github.io/sileodepiction/Copylog/icon.png
+Name: CopyLog 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Copylog/js.json
+
+Package: me.tomt000.copylog
+Version: 1.7.1+debug
+Architecture: iphoneos-arm64
+Maintainer: TomT000
+Installed-Size: 2240
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.0xkuj.copylogfix16
+Filename: ./debs/iphoneos-arm64/me.tomt000.copylog_1.7.1+debug_iphoneos-arm64.deb
+Size: 1036724
+MD5sum: ff044f261c2e20b4edc41bceccf95a97
+SHA1: 7d233e4c5692cb618747a6d3d23accb58f9fd37b
+SHA256: 7d26d762cb1a5f76b9dee3feb6854ece5ee7c820cc1b56b70fbd1a871f391507
+Section: Tweaks
+Description: CopyLog 是一款强大的 iOS 剪贴板历史管理器，易于使用，兼容 iPhone 和 iPad，能够帮助你追踪设备上复制过的所有内容
+ * Clipboard history manager for iOS
+Author: TomT000
+Icon: https://TrollStoreX.Github.io/sileodepiction/Copylog/icon.png
+Name: CopyLog 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Copylog/js.json
+
+Package: me.tomt000.copylog.zh-Hans
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: TomT000
+Installed-Size: 2240
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: me.tomt000.copylog
+Conflicts: com.hk.copylog.cn.rl
+Replaces: me.tomt000.copylog
+Filename: ./debs/iphoneos-arm64e/me.tomt000.copylog.zh-hans_1.0_iphoneos-arm64e.deb
+Size: 3904
+MD5sum: 56590235d3e8520d8dfef39e473c0a6c
+SHA1: 9474fafeb1a7bfe6f2c62addaa4888f62d681491
+SHA256: 2f3c683e1033df34d12f837973abd46a73ce15fd17fac817600d5c6ae2cec51c
+Section: 汉化
+Description: Copylog 汉化
+ * zh-Hans for Copylog
+Author: TomT000
+Icon: https://TrollStoreX.Github.io/sileodepiction/Copylog/icon.png
+Name: CopyLog 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Copylog/zh-Hans.json
+
+Package: me.tomt000.copylog.zh-Hans
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: TomT000
+Installed-Size: 2240
+Depends: me.tomt000.copylog
+Conflicts: com.hk.copylog.cn.rl
+Replaces: me.tomt000.copylog
+Filename: ./debs/iphoneos-arm64/me.tomt000.copylog.zh-Hans_1.0_iphoneos-arm64.deb
+Size: 2988
+MD5sum: 31748102a8e22a4dc2ea878fe8768073
+SHA1: 8dfe33ec22f5bde6b16702f03fdad4f9e615d6ea
+SHA256: d395a1152c01db7c91c0671cb30eda60f0acd7b9a7b76bdce0de3eb45cedfe97
+Section: 汉化
+Description: Copylog 汉化
+ * zh-Hans for Copylog
+Author: TomT000
+Icon: https://TrollStoreX.Github.io/sileodepiction/Copylog/icon.png
+Name: CopyLog 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Copylog/zh-Hans.json
+
 Package: misakahelpers
 Version: 2.1.1
 Architecture: iphoneos-arm64e
