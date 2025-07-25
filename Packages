@@ -5857,6 +5857,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
 Name: YTLite
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
 
+Package: com.dvntm.ytlites
+Version: 5.2b2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16696
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite, com.dao.ytlite, byg.iosios.net.ytlite
+Filename: ./debs/iphoneos-arm64e/com.dvntm.ytlites_5.2b2_iphoneos-arm64e.deb
+Size: 6403608
+MD5sum: 4bcc3089f1b025692b5e5fd5de883516
+SHA1: 6dbae07b15f6f5e282a78bdc8de3e097383e899d
+SHA256: 6dcc0f00833f3e021dd12aacb6f8c68b4fac2d4bd9f5adf9c4425efe5c681698
+Section: 应用破解
+Description: YouTube Plus 增强插件
+ * Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
+Name: YTLite YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
+Package: com.dvntm.ytlites
+Version: 5.2b2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16696
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite, com.dao.ytlite, byg.iosios.net.ytlite
+Filename: ./debs/iphoneos-arm64/com.dvntm.ytlites_5.2b2_iphoneos-arm64.deb
+Size: 6402508
+MD5sum: 9d3bcfa347a2a40af092300ea59748e4
+SHA1: dc82b93c233d21085dad49776b7accdde741364d
+SHA256: f8b48e7abae4753a4cf9177587224552dd207363d7f2bb2bf323b1ab2c234684
+Section: 应用破解
+Description: YouTube Plus 增强插件
+ * Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
+Name: YTLite YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
 Package: com.eevee.spotifys
 Version: 5.2
 Architecture: iphoneos-arm64e
@@ -13689,6 +13729,47 @@ Size: 20736512
 MD5sum: 5bfb3dab857a465c6d73862e122db62d
 SHA1: 530ed2909c04afa160caded22cd3a243b2e18d30
 SHA256: 62f9ecd2209e0662dd1541194f3047ae0dc021091516b040b37cb32230ba94d7
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
+Name: Mikoto 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
+
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V3
+Architecture: iphoneos-arm64e
+Essential: no
+Maintainer: Mikoto
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64e/com.mikotohelper.wechat_1.3.6-V3_iphoneos-arm64e.deb
+Size: 20978040
+MD5sum: c70f699680aaf5983561fd278af18cd3
+SHA1: 99b552f3fb69726ff959828cb777d6dc0a9206b1
+SHA256: 29ae515bde9e25432da81c0613addc8c2e122c7ac72adfee2a800ec6bbf30158
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
+Name: Mikoto 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
+
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V3
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64/com.mikotohelper.wechat_1.3.6-V3_iphoneos-arm64.deb
+Size: 21013564
+MD5sum: c7e63c036a642fbee5adb9661eddfca3
+SHA1: 26cb1d59f27415525039f9108feea9ad6816713c
+SHA256: 4399d02574b685c7c9d9e3cabfcf1855a5f50af25a3db89030db019e5c064548
 Section: 微信插件
 Priority: optional
 Description: 微信多功能插件
@@ -23598,6 +23679,61 @@ Size: 344776
 MD5sum: 9ac515b2b7c79f2314c67a8d53b5e03f
 SHA1: f6ec54621f87bacf7578e3b3c3521d3e871177da
 SHA256: 4460e4b35e3baa63c0f6d85a554e591d2140be6804fe76a861e2026667cea3b2
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 四种插件打开方式
+ * 三指长按
+ * 长按视频
+ * 设置页面
+ * 聊天长按➕/✖️图标
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.6-4
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_1.6-4_iphoneos-arm64e.deb
+Size: 6496180
+MD5sum: 91ec0bfc512de7b43434a88d41f71f27
+SHA1: 4b8643cf087169732429839046eaf4543300e724
+SHA256: e32114360a5fd2d755686eeddaf02e6cf38e47c069910d047cc544162ab18b4c
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 四种插件打开方式
+ * 三指长按
+ * 长按视频
+ * 设置页面
+ * 聊天长按➕/✖️图标
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 1.6-4
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_1.6-4_iphoneos-arm64.deb
+Size: 6493976
+MD5sum: 9ba25acaccbf1f54cd999d4700543c63
+SHA1: 941d4c03fbac91ad247c5444f91b65032429f1a4
+SHA256: 6522489a28655c8084d1956610d9c62c85a9b8801211f4773f2be008ef858413
 Section: 抖音插件
 Priority: optional
 Description: 基于 DYYY 的抖音插件
