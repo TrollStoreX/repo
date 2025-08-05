@@ -9097,6 +9097,54 @@ Name: 抖音 DYYY 维他
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
 
 Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1520
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-8+debug1520_iphoneos-arm64e.deb
+Size: 495452
+MD5sum: b963f8ba839be211a0e4527a85bfa57c
+SHA1: 5d8ccd2a723aa3b90f3fea5930fc487a4139c29f
+SHA256: 3e82915a37622e1acb2e5410009bb1f8c5a190a8446ac9e50dae42af57e392df
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1520
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-8+debug1520_iphoneos-arm64.deb
+Size: 497012
+MD5sum: fa036916f001b0b6ef39ce655f2516b4
+SHA1: a49f706ad9e7cfe96a50f253a574d1237b7136a9
+SHA256: b234bf23ddf8e2c34b2c36b33b2a75e5e6d88cd851321ee6b0e90ba77574efe4
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
 Version: 2.2-8+debug945
 Architecture: iphoneos-arm64e
 Maintainer: vita
@@ -10854,6 +10902,60 @@ SHA1: c66a8b78840831455fda51901f6e4d0a7f541359
 SHA256: 51fe8785098c48b03b114d8b3de75066479b28ed84a76dd844bede7cc05be32d
 Section: 微信插件
 Description: 微信实用小插件
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.1-9
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.1-9_iphoneos-arm64e.deb
+Size: 142160
+MD5sum: aaf95b64cba53efe2d1fc082f19552cf
+SHA1: f375e2c439f82f57fa69bf5f0aa4481a15d62821
+SHA256: 7788eab01c5d70ffa8c760403542022131840c35515e019e7ae0839b18749451
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.1-9_iphoneos-arm64.deb
+Size: 141928
+MD5sum: 05331647f5aba88afe4c54efed204ec8
+SHA1: bc850043df37b54e656f768060a0c0f911569bc1
+SHA256: 9b0a4a3805d9cfcd9e26ead551c5603ba92e8fbe5ce52f320ae3d8f5c500b52a
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
  * 启用视频倍速手势
  * 启用头像时间标签
  * 自定义防撤回功能
@@ -13565,6 +13667,44 @@ Size: 1491660
 MD5sum: fdd26e453ad837c41399c9ce89c96a7f
 SHA1: 64b1f369697164232aae926d2a83f87c1e3a1f59
 SHA256: 69d82a159ac825affa50cce6b9f1e3178fa77cc48c0b896c86d4c6a6a5e50438
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.wcehances_1.2-1_iphoneos-arm64e.deb
+Size: 1650580
+MD5sum: 9d5d04dc5f2c73e7ad461ea690b1df7d
+SHA1: f4998c9491ec08baab0f1ac10439b32e5a47361a
+SHA256: 3cab8bae9c04311256bcf52c64f9b30a5aefd60028e9d7ffa20c28e2cf295d82
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64/com.lxcloud.wcehances_1.2-1_iphoneos-arm64.deb
+Size: 1649692
+MD5sum: d77a220d568d94c91d301147076d28ee
+SHA1: c24080fcad1f809db38f3a12658e0873741eceda
+SHA256: 27e48fc0a2ada1fcf1c2e5606a71022fa5d19f9fdf51f2deed99e29cb2e4766d
 Section: 微信插件
 Priority: optional
 Description: 用于优化一些反人类设计并增强功能
@@ -20847,6 +20987,45 @@ Size: 3980324
 MD5sum: b95673f4ccb5c6ff7f06d015da507e40
 SHA1: 2c9fb8a8d3eac173efcb7247e2342b8eb140c868
 SHA256: 580f7ccfce3dd5ef73da6ffbbc054ffe93b0d0cb725f3b4c28f0988503b20693
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.1.3
+Architecture: iphoneos-arm64e
+Maintainer: Mao
+Installed-Size: 8588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.1.3_iphoneos-arm64e.deb
+Size: 4494520
+MD5sum: 86595b517cdf70ec33384449b2912750
+SHA1: 97769dfbed8cef17f0dddee6994fccfb1cc3f5c1
+SHA256: 5262d0f779b9828857c4087a75865be99331e7ed973e323e3746d2215227080f
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.1.3_iphoneos-arm64.deb
+Size: 4541456
+MD5sum: 8b09cf8b99e9471d344b16f798ccfd9f
+SHA1: 046734afbcd2525d9fb08df17f7c7aac3d4af0a4
+SHA256: c2e0bfd69673fd45a4004dafdbf4ea1d5adaf912ad83f82a27fe8bd8a9bcce38
 Section: 微信插件
 Description: 微信主题插件
 Author: Mao
