@@ -2250,6 +2250,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 Name: Single VPN 上色
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
+Package: com.82flex.singlevpns
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange, byg.iosios.net.singlevpn.green
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpns_1.6_iphoneos-arm64e.deb
+Size: 29008
+MD5sum: f37a540a579f26228f4c3cc8c9283e93
+SHA1: 55912a6c8975456094190ba0a5473fbd84b53fda
+SHA256: a44a52ef7fe525ffd02148d34a2ddba636685f77570e9249c1ab8ccfc055d85d
+Section: 乌龙工作室
+Description: 将 VPN 状态和无线状态合并到一个图标中
+ * Combine VPN state and wireless state into one icon
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+
+Package: com.82flex.singlevpns
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 82Flex
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, com.82flex.singlevpn.green, com.82flex.singlevpn.orange, byg.iosios.net.singlevpn.green
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpns_1.6_iphoneos-arm64.deb
+Size: 29068
+MD5sum: 0ca920837531e76b6a2505807699bbd4
+SHA1: 9d8c9d4446d177ba312c4e629bdb8dc96840bf3e
+SHA256: 6e544c74c2c7484a257b55e1e1e627286462442972b57cf59018896347e73e53
+Section: 乌龙工作室
+Description: 将 VPN 状态和无线状态合并到一个图标中
+ * Combine VPN state and wireless state into one icon
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+
 Package: com.82flex.wtvrbglaunchers
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -19711,6 +19751,45 @@ Size: 514396
 MD5sum: adf8c7332616132f7f14a838bcd6176c
 SHA1: 66ab8732f10f760bbba0fd22878da028057ca1b8
 SHA256: 9cc552e9d9cb5c59d2f0cf9c5f60ae65d1dc121f47a35b2363cc0a1b04612cf9
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.9-2-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.9-2-1_iphoneos-arm64e.deb
+Size: 663292
+MD5sum: 781fce04d48c6d72055fcaa644a08f98
+SHA1: dcce24d52aefa80a711b95359b09b8067c51cb84
+SHA256: feb51d310e6161bb0da89ac20d94b9c3672cdbbc90b9c39cafb8297738b23ff5
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.9-2-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.9-2-1_iphoneos-arm64.deb
+Size: 514324
+MD5sum: 4c71ce29ec0ef8ef06b190e419e320ec
+SHA1: 276eaf1f67c1ce7683418560224c23165438a58b
+SHA256: aecdc5f76dd761d356177f0bd70a903d830e23b6f9bb3f6e729caf87827f6cef
 Section: 微信插件
 Description: 微信主题插件
 Author: 苏兔
