@@ -21313,10 +21313,10 @@ Installed-Size: 8588
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.tencent.themebox
 Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.1.5_iphoneos-arm64.deb
-Size: 4711420
-MD5sum: 365138e1fd6ac8ea6040e1be69edec44
-SHA1: 449eb4bd9251f4268d547eacf3e63c69992ae393
-SHA256: 30abe72aa54d6126bde936dfecd39c21e4779c6d02d11dc5c17ec9173a64e03d
+Size: 4709260
+MD5sum: b6f2a33d0b4de545acdb2c016b0fdd7c
+SHA1: 76e0623dda5c47cc5a8a2abf621a01af1736b431
+SHA256: 75f0e09bc51ecad5aa7a5c72ef0087670d60c5c9c439449454e95f7e49445a91
 Section: 微信插件
 Description: 微信主题插件
 Author: Mao
@@ -21333,10 +21333,10 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.tencent.themebox
 Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.1.5_iphoneos-arm64e.deb
-Size: 4647336
-MD5sum: 83cca4c71f9543921765cee1a053d335
-SHA1: fe54e771dc3977d46ab026df1a2e580f0ebfb859
-SHA256: 830fb988a2b91d2a9b9d8efe19848781e4ea72e4e3d0d51bfaac6c6ca53c92a0
+Size: 4646944
+MD5sum: 55dc5aaf867c1d372ada9769efd1a509
+SHA1: fa0877842cc7f0d7a4b4d188425a250a4ae2ed8c
+SHA256: 31e100f3230a2e986fb545a5d2770ff89ddafe9d7a2c45350181133f8e68f6be
 Section: 微信插件
 Description: 微信主题插件
 Author: Mao
