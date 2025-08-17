@@ -5073,6 +5073,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 Name: CC18 iOS18 圆角控制中心
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
+Package: com.dvntm.cc18s
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/iphoneos-arm64/com.dvntm.cc18s_0.0.3_iphoneos-arm64.deb
+Size: 4616
+MD5sum: f03e932e4d48971aad7708fe45877972
+SHA1: 5eae2fe19d7d85a1baae7d1d91d71d0d047c3277
+SHA256: 739a995fed1bee2f48b441e0b57d753cfa1df40d783fa515d11e0901b78b1758
+Section: Tweaks
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Name: CC18 iOS18 圆角控制中心
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
+Package: com.dvntm.cc18s
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: ./debs/iphoneos-arm64e/com.dvntm.cc18s_0.0.3_iphoneos-arm64e.deb
+Size: 4544
+MD5sum: f5eb712d42af75d0ee363b5fb90a7cc5
+SHA1: 1dfe77f440225dae8b7fb847d23a560dd3774f5c
+SHA256: 9f25cf9709e9410aa564b11a8c4f4f89e8aef3e1aaf4cc718c54e13e4460a1dc
+Section: Tweaks
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+Name: CC18 iOS18 圆角控制中心
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+
 Package: com.dvntm.fbos
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -5559,6 +5599,54 @@ Size: 421756
 MD5sum: 983f16c543451831da50790b7923c366
 SHA1: 1dc2c9a9bd9a24224e5986ecdab22e83406978f7
 SHA256: a2d294dcca7f72d5bad90840a070f47e781d8bc3fb08c36be462c9ce7561dc25
+Section: 应用破解
+Description: InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
+Name: Infuse Plus
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
+
+Package: com.dvntm.infusepluss
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./debs/iphoneos-arm64/com.dvntm.infusepluss_2.4_iphoneos-arm64.deb
+Size: 999700
+MD5sum: 7ed2cd7910a5e8a33f1a6f3dcfc5b5d6
+SHA1: c9ffd181da82f2646cc6efd5711bc7386d7b70d4
+SHA256: 44df9376f9bec95bd5b285e1e818c4bf7b532256ce58428198dc0eb691c363a4
+Section: 应用破解
+Description: InfusePlus 高级版
+ * Enhancer for Infuse app
+ * 后台播放
+ * 双击播放/暂停手势
+ * 向前/向后搜索按钮的自定义搜索时间
+ * 自定义双击可跳过时间
+Author: dvntm
+Icon: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/icon.png
+Name: Infuse Plus
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InfusePlus/js.json
+
+Package: com.dvntm.infusepluss
+Version: 2.4
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./debs/iphoneos-arm64e/com.dvntm.infusepluss_2.4_iphoneos-arm64e.deb
+Size: 446136
+MD5sum: 749045be1fef53e2d273510dcf28c76f
+SHA1: c216d7861cb1ae764f1c3392b625830740d4c245
+SHA256: 6bf34d06fe4663f5371a9e737d578a42b2e42ee9ab9111a3d879d9babb97c6b7
 Section: 应用破解
 Description: InfusePlus 高级版
  * Enhancer for Infuse app
@@ -11153,6 +11241,104 @@ Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
 Name: 微信 WCPulse
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.2-4_iphoneos-arm64.deb
+Size: 175920
+MD5sum: 37b3519586f78e5ddf1b37d21ee88e86
+SHA1: c1666ee0e9231f565e81e2a61931dfea49f5ab26
+SHA256: 47e82df07285641254ca5b62bae62cf87dd91e3a1c6b4d59f4f68b93faf47bb1
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.2-4
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.2-4_iphoneos-arm64e.deb
+Size: 175640
+MD5sum: 0821af2cafcff66b36376b063fda28a2
+SHA1: c8838c029ad21125ae48e2d976d17aeee866f6b5
+SHA256: 4485e081a0b8f6c46fffcb1cb77739ec9a9755f6a43ed248f545450755016e83
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpush2chats
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.WCPush2Chat
+Filename: ./debs/iphoneos-arm64/com.huami.wcpush2chats_1.0-2_iphoneos-arm64.deb
+Size: 35852
+MD5sum: c167f03abbe20800a2103a4d151eab66
+SHA1: 8cb8d7df46f34e974fc21c4f6b8f335cf67e6bd1
+SHA256: f0b8b9bca046d33b84a9dddb3eb4052a1571222d4678fc2dee5576d994a4597e
+Section: 微信插件
+Description: 微信推送信息直达聊天窗口
+ * 无后台/后台直达通知对应的消息界面
+ * 无需 Orion Swift 依赖
+ * 仅在微信 8.0.61 测试，理论上支持  8.0.31+
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPush2Chat/icon.png
+Name: 微信消息直达 WCPush2Chat
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPush2Chat/js.json
+
+Package: com.huami.wcpush2chats
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.WCPush2Chat
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpush2chats_1.0-2_iphoneos-arm64e.deb
+Size: 35784
+MD5sum: f0e5a9ac0dc69da90f9c28f72f30f8d0
+SHA1: ba565d9e68dcd64f1b7f17d28e73a9ec5cf58527
+SHA256: 086aba4b6a5aa98d81c1e4c52911c10d69ed1841c172aca9b8d1c0d5c99d6c63
+Section: 微信插件
+Description: 微信推送信息直达聊天窗口
+ * 无后台/后台直达通知对应的消息界面
+ * 无需 Orion Swift 依赖
+ * 仅在微信 8.0.61 测试，理论上支持  8.0.31+
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPush2Chat/icon.png
+Name: 微信消息直达 WCPush2Chat
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPush2Chat/js.json
 
 Package: com.hw.imepremium
 Version: 0.0.1
@@ -19943,6 +20129,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.9-3-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.9-3-1_iphoneos-arm64.deb
+Size: 516472
+MD5sum: 73ffd20e5125ac40ed5edeaf6c8d4d7c
+SHA1: 4c45b4266e0c56711ad1a396cba98c67822c8c41
+SHA256: 5f223f12f370b954a340602445c5981687e4bfe90448850fb6963fe375571e75
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.9-3-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.9-3-1_iphoneos-arm64e.deb
+Size: 665226
+MD5sum: 2326e0415f13856518597a6ec819cfc8
+SHA1: b4765e3710250e65cc410f6cf32b94ed2ee7468f
+SHA256: 41be6167dde3c3bb4ead29a1ea3e55ed706576233532b65aecd6328d3f4a3856
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -23175,6 +23400,47 @@ Size: 5794884
 MD5sum: e5be3b8d683e327b3560e574c368ecfc
 SHA1: 471596c65a97d58a08860377a2ba056174d0b6f4
 SHA256: e8d2466f273f9297b1a016ef24361dd33749a14d895f790d835209424adbe1b5
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 4.0.9
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_4.0.9_iphoneos-arm64.deb
+Size: 6208844
+MD5sum: ce3cd289ba90232c58a74f3d629528c5
+SHA1: 958870547900ee81494990f8e3e380661cbb7c29
+SHA256: 4abdaa3750266caf819cc54621b58be02eaec773299d0baacf5720133ce23ba1
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 4.0.9
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_4.0.9_iphoneos-arm64e.deb
+Size: 6204452
+MD5sum: d7f647d65e4a33300f3e33890419bde8
+SHA1: fb0c4e1edfb5f4df68efd1383bce4409c6786636
+SHA256: 5a3026808eaf4370ce273f6ed22416912a2394dd1dc1113934beb6060de6ec44
 Section: 微信插件
 Description: 微信主题插件
  * 由 ThemePro 团队开发
