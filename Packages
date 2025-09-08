@@ -9505,6 +9505,54 @@ Name: 抖音 DYYY 维他
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
 
 Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1544
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-8+debug1544_iphoneos-arm64e.deb
+Size: 500836
+MD5sum: 72c774c236ee04e6574207bd14ae8d16
+SHA1: 799426042214957cb8819aa697184578f7404d5a
+SHA256: 80656cea8a8378becb2a543e27a7355dea85a0826ae3252267cf93a6cb8d9d36
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1544
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-8+debug1544_iphoneos-arm64.deb
+Size: 500752
+MD5sum: 52bcfd67b0e31d773f4633074525aca2
+SHA1: 63ba11e62a9538daf7a7b428e06f6f923db46006
+SHA256: 5838d0be5088c3572a697af207191d211c33a9cdeb0aa8d599337aa303bedfc1
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
 Version: 2.2-8+debug945
 Architecture: iphoneos-arm64e
 Maintainer: vita
@@ -14476,6 +14524,47 @@ Size: 21013564
 MD5sum: c7e63c036a642fbee5adb9661eddfca3
 SHA1: 26cb1d59f27415525039f9108feea9ad6816713c
 SHA256: 4399d02574b685c7c9d9e3cabfcf1855a5f50af25a3db89030db019e5c064548
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
+Name: Mikoto 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
+
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V4
+Architecture: iphoneos-arm64e
+Essential: no
+Maintainer: Mikoto
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64e/com.mikotohelper.wechat_1.3.6-V4_iphoneos-arm64e.deb
+Size: 19124136
+MD5sum: 60e449ee838e4ff4a869bb5cd5866aa2
+SHA1: f8819bff3e7d757eb8970813a463db27a7e1801f
+SHA256: db8961abc4a9be0f46d127b391cd6bdf0c0574370273fdb640d630ba08a14b31
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
+Name: Mikoto 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
+
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V4
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64/com.mikotohelper.wechat_1.3.6-V4_iphoneos-arm64.deb
+Size: 19147840
+MD5sum: 757927ea208e2c5433d858b9054fd570
+SHA1: 7c19c338c9fe878252ee6c2747a1a681cdcff60a
+SHA256: 67fd4f32893d63886bbc4585651b290731c73a5a9b0172604cb69bfdc6897588
 Section: 微信插件
 Priority: optional
 Description: 微信多功能插件
@@ -20446,6 +20535,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.9-4-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1712
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_5.9.9-4-1_iphoneos-arm64e.deb
+Size: 665654
+MD5sum: f7cf9a641876572cc6ec06ca0480e61a
+SHA1: c4d7d4346fbf085c0e599faa30dce8901fe89a1b
+SHA256: ea667ea20fc4571e32671c04bd9290e7bad6b9698e7c16a6a534510237dc76d2
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 5.9.9-4-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1712
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_5.9.9-4-1_iphoneos-arm64.deb
+Size: 516544
+MD5sum: abc0b9c42c1ca723a7f4f261b0a4771d
+SHA1: 787929334987e994375d44b662f30255a9e7194d
+SHA256: a9bc56292da539f3fe6ff82a19c257f2beb20dd6b82c07dff2e864167ee9b115
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -23048,6 +23176,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
 Name: WeChatEnhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
 
+Package: com.wechat.enhances
+Version: 1.5-6
+Architecture: iphoneos-arm64e
+Maintainer: 愫茶
+Installed-Size: 2060
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64e/com.wechat.enhances_1.5-6_iphoneos-arm64e.deb
+Size: 537608
+MD5sum: 90495e56403c586b1a5a4d4c1d2c6093
+SHA1: 5682f1a0e3bd977c5b93445a7235273e3f27ef45
+SHA256: d10764f4ffe435ca52806d1fa0d843eb069ba3764adc80a8aa4bb8066095ca88
+Section: 微信插件
+Description: 微信增强插件
+ * 支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
+Package: com.wechat.enhances
+Version: 1.5-6
+Architecture: iphoneos-arm64
+Maintainer: 愫茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.wechat.enhance, byg.iosios.net.wechat.enhances, com.enhance
+Filename: ./debs/iphoneos-arm64/com.wechat.enhances_1.5-6_iphoneos-arm64.deb
+Size: 550480
+MD5sum: 023af970d9beb340169691356b747022
+SHA1: 9c3cb13d6226025fe3170df1a493afec76a3f651
+SHA256: 5b0d2194df7317cc955e1f66473c5f6782ac5577402c46277b3e4b56b56391b6
+Section: 微信插件
+Description: 微信增强插件
+ * 支持聊天按钮布局自定义等功能
+Author: 愫茶
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/icon.png
+Name: WeChatEnhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatEnhance/js.json
+
 Package: com.wechat.themepro
 Version: 3.1.2
 Architecture: iphoneos-arm64e
@@ -23719,6 +23888,47 @@ Size: 6208844
 MD5sum: ce3cd289ba90232c58a74f3d629528c5
 SHA1: 958870547900ee81494990f8e3e380661cbb7c29
 SHA256: 4abdaa3750266caf819cc54621b58be02eaec773299d0baacf5720133ce23ba1
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 4.1.4
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_4.1.4_iphoneos-arm64e.deb
+Size: 6246628
+MD5sum: 56691073e77eef9dad4531d866e54ceb
+SHA1: ee96d156f1405dd349baf7d48c026f729f630b49
+SHA256: c85d2f34ea784352fbe0a6eefa8611b3d86104a3e0fbf39817160f635b099d90
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 4.1.4
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_4.1.4_iphoneos-arm64.deb
+Size: 6238092
+MD5sum: 65e248c1146d3152d2ca8853103ac206
+SHA1: d174b9b28fa6ff4cc2804c79f8d98e88d2a92988
+SHA256: 1573945fa2cc7d0ca4c2b05ca28cf6d13998e1da7d88a36351697b0210c9cb37
 Section: 微信插件
 Description: 微信主题插件
  * 由 ThemePro 团队开发
