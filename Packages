@@ -17353,14 +17353,14 @@ Installed-Size: 2336
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.netskao.wechatnotiavatars_1.3-1_iphoneos-arm64e.deb
-Size: 341586
-MD5sum: 69dc79bfc1ae8651803e8bd902b11e02
-SHA1: c030ec19825c6507502a721cd16abb8e44480fb6
-SHA256: 90594df7066d9e965120fd52cfcdb82c8d910485660daa4fd0b93e03c29a143d
+Size: 341576
+MD5sum: 680bd6e0fb3649b0e5a9b00705b376fb
+SHA1: b7b6b8985f1175a73595672221697356a075a124
+SHA256: 8e3180a3ea18cc4a5a4fdd9ffbcaa936445bcc0cc4fb88c4395ae84b9a6eb574
 Section: Netskao-Tweaks
 Description: 让微信消息通知显示微信好友头像
 Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/icon.png
 Name: WeChatNotiAvatar 微信头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
 
@@ -17372,13 +17372,13 @@ Installed-Size: 2336
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64/com.netskao.wechatnotiavatars_1.3-1_iphoneos-arm64.deb
 Size: 243788
-MD5sum: 27c0cdf650bc93a2376692f86f6a1e12
-SHA1: f885b196aafe50eac07e0fbaee026e17900d4696
-SHA256: d93b36a829577f2cf3f7eee86b4ef47eee00255e67f6480b332c1d3a2ce0884a
+MD5sum: 3f0b6673d73db4a3a959d32ae9fac83a
+SHA1: a1acdc6954258f6baad57e00c8e996eb5768fda0
+SHA256: c00e4fd0671180158f7dda1d479aa2f6deff31de9276d27e4a10197f10263254
 Section: Netskao-Tweaks
 Description: 让微信消息通知显示微信好友头像
 Author: Netskao
-Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/icon.png
 Name: WeChatNotiAvatar 微信头像
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/js.json
 
