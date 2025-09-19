@@ -7009,6 +7009,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify (Lessica Fork)
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.eevee.spotifys
+Version: 6.1.4
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 1688
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.29.0)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_6.1.4_iphoneos-arm64e.deb
+Size: 606268
+MD5sum: 3e44d28da99f71584b322a889a3103b0
+SHA1: 18c8b62a6c2ca8b1cd5e9e5f0d372547dff55e4d
+SHA256: e35245e93b9c53a45f881355158a2cbfe1a959a4444e5020b30b78c440e0fe14
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 6.1.4
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 1688
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.29.0)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_6.1.4_iphoneos-arm64.deb
+Size: 439160
+MD5sum: 1fa8ff434868dd6fc036a95ba287ad84
+SHA1: 0faf8403dba91ab8fa4713e25dd40d2acc435136
+SHA256: a1c7f896dc41ac032fd5aee14da7e1daf038504b3699ba93b0b445e15f8870cd
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件，就像Spotilife 一样
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
 Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64e
