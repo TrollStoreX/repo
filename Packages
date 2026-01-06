@@ -484,6 +484,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
 Name: Kayoko 剪切板
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
 
+Package: codes.aurora.kayokos
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_3.0_iphoneos-arm64.deb
+Size: 131684
+MD5sum: 6961d70c1fec2da747e4fa184b86913b
+SHA1: 8915eabe60767a6d0ac17f02c20c9d9d8bd2bff8
+SHA256: 91c6beaa3a95cda5f615c1bfed027f206f8f914abea9ae0825fc66611c64cbfb
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 由「乌龙工作室」修复支持 iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
+Package: codes.aurora.kayokos
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_3.0_iphoneos-arm64e.deb
+Size: 131524
+MD5sum: a92fd8f635535d326bfc20d1bb169204
+SHA1: 9552b8e299d1666510066d64d0d0922e8386e1c8
+SHA256: 7326bd8bde82d1d59edf43bc72305fad96758dfe8166bd0335801e84ccc63d2a
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 由「乌龙工作室」修复支持 iOS 16
+Author: Alexandra Aurora Göttlicher
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -9978,6 +10020,54 @@ Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
 
 Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1608
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-8+debug1608_iphoneos-arm64.deb
+Size: 437388
+MD5sum: 0264baceded97e817cb2eb250cab9bd4
+SHA1: 0abd6e47c236576f41a97506e8d3694592cd2310
+SHA256: 1e08ab440e1eb3ce0fb75ac2fe76b1c789ef157a64646985a01f348d0ae30b5a
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-8+debug1608
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-8+debug1608_iphoneos-arm64e.deb
+Size: 437520
+MD5sum: f20dfc14ff0b22258f83864dfae4045e
+SHA1: ee6424b4e15d9873eafb5895a443e179ee83e9a2
+SHA256: 3143905e169ed548d4fff41c30b8956c9343449c7ba15d264aee0db0ac93240c
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
 Version: 2.2-8+debug945
 Architecture: iphoneos-arm64
 Maintainer: vita
@@ -16992,6 +17082,47 @@ Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/icon.png
 Name: DumpDecrypter 砸壳
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Dumpdecrypter/js.json
+
+Package: com.netskao.imgplaycracks
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1012
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.imgplaycrack
+Filename: ./debs/iphoneos-arm64/com.netskao.imgplaycracks_1.1-5_iphoneos-arm64.deb
+Size: 381556
+MD5sum: 2b3caf199318d976537c9500fa0bea50
+SHA1: 1fe882ae464c635281fe2a0a92ed05059f838845
+SHA256: 7bf0b70c63eeeb05cd65bee87f9437fe65436b8c0dd0c6f5ec5be7ce46ac9171
+Section: 应用破解
+Description: ImgPlay Crack
+ * 仅支持 Imgplay 6.5.2 版本
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/ImgPlay/icon.png
+Name: ImgPlay Crack
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ImgPlay/js.json
+
+Package: com.netskao.imgplaycracks
+Version: 1.1-5
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 1012
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.imgplaycrack
+Filename: ./debs/iphoneos-arm64e/com.netskao.imgplaycracks_1.1-5_iphoneos-arm64e.deb
+Size: 516618
+MD5sum: 62904edec4881fac0cb1c9a939c252db
+SHA1: 315b912d4650339eb29e2b62ecb40307f77f3632
+SHA256: 98cf86c7ea356ea4c1e5aa751ee30a21f1bfeaee6e7825b475c4f328915557a3
+Section: 应用破解
+Description: ImgPlay Crack
+ * 仅支持 Imgplay 6.5.2 版本
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/ImgPlay/icon.png
+Name: ImgPlay Crack
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ImgPlay/js.json
 
 Package: com.netskao.qqipadmodelogins
 Version: 1.1-1
@@ -27839,23 +27970,6 @@ Description: 微信强制开启朋友圈LivePhoto功能。WeChat Enable Testing 
 Author: 怡点日常
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableMomentsLivePhoto
-
-Package: com.yourdismissedty.abc
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: i0s_tweak3r
-Depends: mobilesubstrate
-Filename: ./debs/iphoneos-arm64/com.yourdismissedty.abc_1.0_iphoneos-arm64.deb
-Size: 7332
-MD5sum: afe29371407fb6b7c7b427f57347629d
-SHA1: 26a8e0e48a92b1c3b23405cfff42e10ce1db85c9
-SHA256: b81eaed74245ff57486010ad0f1fdafb88550dcc120fc0bb65adf6c9e96378e4
-Section: 应用破解
-Description: 取消农业银行越狱检测弹窗
-Author: i0s_tweak3r
-Icon: https://TrollStoreX.Github.io/sileodepiction/abc/icon.png
-Name: 取消农业银行越狱检测弹窗
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/abc/js.json
 
 Package: com.yourepo.lly.adsspee-rootlesss
 Version: 1.1.2
