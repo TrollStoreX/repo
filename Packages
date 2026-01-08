@@ -3306,6 +3306,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootlesss
+Version: 0.8-7
+Architecture: iphoneos-arm64
+Maintainer: Curtin
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.8-7_iphoneos-arm64.deb
+Size: 974980
+MD5sum: 7ec40d8f7d45fb9401c7564b6b8beed7
+SHA1: 72d1651577f2e90aea0099535a6045fa41953d57
+SHA256: de676dee370699769e2a050d28a770a758e7ec0ad540c219b68ef409eb513604
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.8-7
+Architecture: iphoneos-arm64e
+Maintainer: Curtin
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.8-7_iphoneos-arm64e.deb
+Size: 2705348
+MD5sum: b179fea531213ce89845b381e89df9dc
+SHA1: 14eb040cdc650807ce0d609ccdafdc8fe655f59f
+SHA256: 97e2db4d0b303fd88dd0124290001099618d03f4a7a6916ca205acbb2f1e27bc
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
 Architecture: iphoneos-arm64
@@ -10896,6 +10939,49 @@ Author: Nathan
 Icon: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/icon.png
 Name: DynamicNotLand 隐藏灵动岛
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DynamicNotLand/js.json
+
+Package: com.nathan.homehiders
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.homehider
+Filename: ./debs/iphoneos-arm64/com.nathan.homehiders_1.1_iphoneos-arm64.deb
+Size: 2800
+MD5sum: 16a4e06d0a7be85aa8c20b4e6c1e83f6
+SHA1: 7678e4595fee99fb737771c5a432b143a840a595
+SHA256: 1a729e2c52da1478387a997aaf5fd55f0bcf5f1d08413f0b81bc5ce7660bd89a
+Section: 插件
+Description: 隐藏设备底部小白条
+ * 支持 iOS 15 - iiOS 17.0
+ * Tweak to hide your homebar!
+Author: Nathan Senter
+Icon: https://TrollStoreX.Github.io/sileodepiction/HomeHider/icon.png
+Name: 隐藏小白条 HomeHider
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HomeHider/js.json
+
+Package: com.nathan.homehiders
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Nathan Senter
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.nathan.homehider
+Filename: ./debs/iphoneos-arm64e/com.nathan.homehiders_1.1_iphoneos-arm64e.deb
+Size: 4040
+MD5sum: b9d0bd034992cc358a47370b663b6bfb
+SHA1: ee0016bb66b264388ff662668282fc03c794e597
+SHA256: ce6e4f3458ead43bcb28b68c469010660fd4fb440087633cf6209e257a8570fd
+Section: 插件
+Description: 隐藏设备底部小白条
+ * 支持 iOS 15 - iiOS 17.0
+ * Tweak to hide your homebar!
+Author: Nathan Senter
+Icon: https://TrollStoreX.Github.io/sileodepiction/HomeHider/icon.png
+Name: 隐藏小白条 HomeHider
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HomeHider/js.json
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
