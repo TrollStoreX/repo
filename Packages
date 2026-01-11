@@ -1140,6 +1140,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Yuyin/icon.png
 Name: 语音转文字免跳转
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuyin/js.json
 
+Package: com.82flex.wtvrbglaunchers
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.wtvrbglauncher
+Filename: ./debs/iphoneos-arm64/com.82flex.wtvrbglaunchers_1.2_iphoneos-arm64.deb
+Size: 23344
+MD5sum: b1539a8ac786d6fbf78f097edb3d37b6
+SHA1: 1df5b4866f3d9d98a748c9d5cfb8b187951a16a8
+SHA256: 3bd6fa9366107b2d1117d4406f6cfc021d4deba8904298931897896eecdb254a
+Section: 乌龙工作室
+Description: 中文输入法语音转文字免跳转插件。
+ * 无设置选项，安装并注销后立即生效。
+ * 支持的输入法：微信、百度、搜狗、讯飞、豆包
+Author: Lessica
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuyin/icon.png
+Name: 语音转文字免跳转
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuyin/js.json
+
+Package: com.82flex.wtvrbglaunchers
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.82flex.wtvrbglauncher
+Filename: ./debs/iphoneos-arm64e/com.82flex.wtvrbglaunchers_1.2_iphoneos-arm64e.deb
+Size: 23288
+MD5sum: daf54fb9bb6f8bf4370da046920754bf
+SHA1: f09ce552c142895977cd586eb065e628caec2e3a
+SHA256: e8e70e42072cfea9682553a545afa326bb837c69cd657e5d2ea1ff484a46d390
+Section: 乌龙工作室
+Description: 中文输入法语音转文字免跳转插件。
+ * 无设置选项，安装并注销后立即生效。
+ * 支持的输入法：微信、百度、搜狗、讯飞、豆包
+Author: Lessica
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuyin/icon.png
+Name: 语音转文字免跳转
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuyin/js.json
+
 Package: com.BeanbunsHelpers.DBs
 Version: 1.0-4
 Architecture: iphoneos-arm64
@@ -2189,6 +2231,54 @@ Description: Telegram 增强插件
  * 隐藏一些输入状态
  * 允许保存频道限制下载的文件
  * 设置界面-长按倒数第三个选项“客服”或者空白界面三指长按打开插件
+ * 支持 Telegram、Turrit 等第三方客户端
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
+Package: com.choco.tgextras
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 14980
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64/com.choco.tgextras_1.7.1_iphoneos-arm64.deb
+Size: 2331160
+MD5sum: bf265e4e62b8852bdd40d2df18754de0
+SHA1: 86d727d5c11ebcda1b4c39fb7c920f370d311424
+SHA256: 4aa0ad5d2d20f0863098eaa0d04a32da968cb1977dec9e528ce711806428be0d
+Section: 应用破解
+Description: Telegram 增强插件
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”打开插件
+ * 支持 Telegram、Turrit 等第三方客户端
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
+Package: com.choco.tgextras
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 14980
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64e/com.choco.tgextras_1.7.1_iphoneos-arm64e.deb
+Size: 2330908
+MD5sum: 65e132d1d9668439ff4af68d091529cc
+SHA1: 8ee98e763883df974dcf9b637b43566287d3deb0
+SHA256: edeee078db3487f9e362b92a42d38527048907bce60558d9a847d3db2f76422e
+Section: 应用破解
+Description: Telegram 增强插件
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”打开插件
  * 支持 Telegram、Turrit 等第三方客户端
 Author: choco
 Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
@@ -8862,6 +8952,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
 Name: AirPods PodsGrant
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/js.json
 
+Package: com.lns.pogrs
+Version: 0.5.2
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/iphoneos-arm64/com.lns.pogrs_0.5.2_iphoneos-arm64.deb
+Size: 74932
+MD5sum: 19e0a7c4f59a50906e37747997d89fe7
+SHA1: 19b68fc87cf182b6e40e5ce4bd240fd109a4b2db
+SHA256: db61c99b7e1bbebca08c67ca23533b9a5a74e0e555ad671d30b90844499c6a70
+Section: AirPods
+Description: 提高低系统与新 AirPods 兼容性
+ * Tweak for better AirPods compatibility on old devices
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/js.json
+
+Package: com.lns.pogrs
+Version: 0.5.2
+Architecture: iphoneos-arm64e
+Maintainer: Ruphane
+Installed-Size: 480
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/iphoneos-arm64e/com.lns.pogrs_0.5.2_iphoneos-arm64e.deb
+Size: 86648
+MD5sum: 76746d209e27161db1b10d2e63ce47fb
+SHA1: 9ee8e2affc02c2a309bd02dcfcfa5e9a51857526
+SHA256: e14b7b45df6c8d6d4266d98b60d61206abd3bf8bec22126636d0bb637eca9452
+Section: AirPods
+Description: 提高低系统与新 AirPods 兼容性
+ * Tweak for better AirPods compatibility on old devices
+Author: Ruphane
+Icon: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/icon.png
+Name: AirPods PodsGrant
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PodsGrant/js.json
+
 Package: com.lns.whereplays
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -12123,6 +12254,51 @@ Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/WCPluginsOrder/icon.png
 Name: 微信开启新语音按钮
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCABTestVoiceRecordView/js.json
+
+Package: com.netskao.wcaddnotiheadimgswitchs
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 944
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.wcaddnotiheadimgswitch
+Filename: ./debs/iphoneos-arm64/com.netskao.wcaddnotiheadimgswitchs_1.1-2_iphoneos-arm64.deb
+Size: 468900
+MD5sum: 7a90f9500f375c0c9f7e28d8aa50e3f6
+SHA1: e6c30e7c7cd5fa13b1667e57affa6f51c33e850b
+SHA256: 2fe3765c566b538a8848d4ca2249257ecaec75209d1ac906919198d732c09254
+Section: 微信插件
+Description: 强制开通微信灰度测试的信息推送显示头像功能
+ * 支持 微信 8.0.63 - 8.0.66
+ * 开关位于微信设置顶部
+ * 打开开关即可生效，升级微信或切换设置皆有效
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCAddNotiHeadImgSwitch/icon.png
+Name: 强开微信信息推送显示头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCAddNotiHeadImgSwitch/js.json
+
+Package: com.netskao.wcaddnotiheadimgswitchs
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 944
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.wcaddnotiheadimgswitch
+Filename: ./debs/iphoneos-arm64e/com.netskao.wcaddnotiheadimgswitchs_1.1-2_iphoneos-arm64e.deb
+Size: 621812
+MD5sum: 0ee9727d00b4c01827363f1223c6461f
+SHA1: 910bc816703b0cc55516866e81f969ef18fdcd13
+SHA256: 3a88edf05426b71e44cc2d67410c516022e5f4cfcec7d4bba4351930fbd9d1be
+Section: 微信插件
+Description: 强制开通微信灰度测试的信息推送显示头像功能
+ * 支持 微信 8.0.63 - 8.0.66
+ * 开关位于微信设置顶部
+ * 打开开关即可生效，升级微信或切换设置皆有效
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCAddNotiHeadImgSwitch/icon.png
+Name: 强开微信信息推送显示头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCAddNotiHeadImgSwitch/js.json
 
 Package: com.netskao.wcdisablehotupdatess
 Version: 1.1-1
@@ -15392,6 +15568,45 @@ Size: 4758308
 MD5sum: c4a023b379ff403879bcfab9bf1992be
 SHA1: 1b6cbb43a16101f5e2e714e1611cbd1f9891a819
 SHA256: 51f64ad9572ccf2b5f83ee5a4f553c1f34d39636f495781df1fc51778d882d85
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.2.2_iphoneos-arm64.deb
+Size: 4963884
+MD5sum: 4bccf66fa21fb95fe5852bb2c63fa858
+SHA1: a23bc484446fb65e5cd30a1aa7d28389b072e664
+SHA256: 88424fba7da58e534fb7c626c467d7845e8ac656afce7d5fc80267e08785123c
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.2.2
+Architecture: iphoneos-arm64e
+Maintainer: Mao
+Installed-Size: 8588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.2.2_iphoneos-arm64e.deb
+Size: 4914856
+MD5sum: 46fa3acd9cda0995b06e45efc522cd30
+SHA1: 9c98c2289bd0750ce3aedf926ab8dc1e9ce1aa7b
+SHA256: 8db45114341b4a5b78d16f9ff40abb63273d118ba20656a099a00f923f2e923f
 Section: 微信插件
 Description: 微信主题插件
 Author: Mao
