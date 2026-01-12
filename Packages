@@ -15655,6 +15655,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/icon.png
 Name: JB 按钮 BetterUISwitch
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BetterUISwitch/js.json
 
+Package: com.tigisoftware.filza64bits
+Version: 4.0.1-4~roothide
+Architecture: iphoneos-arm64e
+Maintainer: TIGI Software
+Pre-Depends: patches-com.tigisoftware.filza64bit(= 4.0.1-4~roothide)
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39, com.tigisoftware.filza64bit
+Filename: ./debs/iphoneos-arm64e/com.tigisoftware.filza64bits_4.0.1-4~roothide_iphoneos-arm64e.deb
+Size: 6970916
+MD5sum: 46bbea1723b62c27e10810562042539e
+SHA1: d2a6995632fee7c65f645e935ffd5cdfda8e5fd0
+SHA256: 4d86696f88752f031d455c6532041c01f6facec1e37a73eec15a3c0ec0f43f7b
+Section: RootHide
+Description: Filza 文件管理器 RootHide 专用
+ * 支持 RootHide Dopamine、BootStrap 半越狱
+ * 支持解压打包 deb 插件
+Author: TIGI Software
+Icon: https://TrollStoreX.Github.io/sileodepiction/Filza/icon.png
+Name: Filza 文件管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Filza/js.json
+
 Package: com.vita.awemespeedxs
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -16118,6 +16139,47 @@ Size: 6246628
 MD5sum: 56691073e77eef9dad4531d866e54ceb
 SHA1: ee96d156f1405dd349baf7d48c026f729f630b49
 SHA256: c85d2f34ea784352fbe0a6eefa8611b3d86104a3e0fbf39817160f635b099d90
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 4.2.5
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_4.2.5_iphoneos-arm64.deb
+Size: 6416600
+MD5sum: a25a92f163735fd5e70cded8e4bf65f6
+SHA1: ccc33a72b557540a6ab01c663878a43105f32cd4
+SHA256: 1c3c1087dc239589d1cbfab10f0d6794947e4e3cca0869fde4e8dfc925e0f43f
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 4.2.5
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_4.2.5_iphoneos-arm64e.deb
+Size: 6416276
+MD5sum: 2e913c2aca6e5be1cb5e5ca866c40a8a
+SHA1: 2b251c443ba3ff780dc38fee5a78306d1d516bd9
+SHA256: 3eaaa8ea0f994aabbf31160c210e03c36a2aaa1b73c53c80bbefd4d2269444ab
 Section: 微信插件
 Description: 微信主题插件
  * 由 ThemePro 团队开发
