@@ -875,6 +875,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/icon.png
 Name: No Redirect 禁字诀
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/NoRedirect/js.json
 
+Package: com.82flex.noredirects
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 832
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: ./debs/iphoneos-arm64e/com.82flex.noredirects_2.1_iphoneos-arm64e.deb
+Size: 91424
+MD5sum: e95329fa42c29e1bd0a65a9a63a84b28
+SHA1: 39d1a88d9881e18a3c5f7160ab7b5c4ff88d4134
+SHA256: 8a7fcb29df8488591065ed1009b2028e5f8c25fe62d2b21d4cbb334d622d90d1
+Section: Tweaks
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。
+ * Stop specified apps from redirecting to App Store, Safari or other apps.
+Author: Lessica <82flex@gmail.com>
+Icon: https://limi586.Github.io/sileodepiction/NoRedirect/icon.png
+Name: No Redirect 禁字诀
+Sileodepiction: https://limi586.Github.io/sileodepiction/NoRedirect/js.json
+
 Package: com.82flex.ohmyinsetss
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -1646,6 +1666,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/icon.png
 Name: AutoScroll 自动滑动
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/js.json
 
+Package: com.baidutb.noad
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.baidutb.noad_1.5.5_iphoneos-arm64e.deb
+Size: 4872
+MD5sum: e5f90b0140dda552229aa923cc6f9f37
+SHA1: da76c7bf25c094cb1961e4049da82f62043fa591
+SHA256: 63bb1f14eaf70a3b7366cb78f1d7ad78dabc36d7cced9aea3e4edaa9475794cf
+Section: 应用破解
+Description: 百度贴吧去广告
+ * 百度贴吧 去开屏广告及恶心的跳转
+Author: ylr
+Icon: https://limi586.Github.io/sileodepiction/BaiduTB/icon.png
+Name: 百度贴吧去广告
+Sileodepiction: https://limi586.Github.io/sileodepiction/BaiduTB/js.json
+
 Package: com.bandarhl.bhtwitters
 Version: 4.3-1+debug
 Architecture: iphoneos-arm64
@@ -1961,6 +2001,29 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
+Package: com.bandarhl.bhtwitters
+Version: 4.4-5
+Architecture: iphoneos-arm64e
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
+Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_4.4-5_iphoneos-arm64e.deb
+Size: 13327844
+MD5sum: cf38e70103bc67b790b74a1e71388d6a
+SHA1: b6f4993ff7f4f8f57cfa39f93c12c181bf64c58f
+SHA256: 3c150c9e2298f7f49db6c22826069f86bdf432a0520182d78dfa3d5fad0b0fcd
+Section: 应用破解
+Description: Twitter X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、隐藏底部标签栏等功能
+Author: Bandar Alruwaili
+Icon: https://limi586.Github.io/sileodepiction/BHTwitter/icon.png
+Name: BHTwitter
+Sileodepiction: https://limi586.Github.io/sileodepiction/BHTwitter/js.json
+
 Package: com.be-huge.wechat-pop-vcs
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -2116,6 +2179,26 @@ Author: be-huge
 Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
 Name: 微信推送直达聊天窗口
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
+
+Package: com.cainiao.noad
+Version: 0.1.3-3
+Architecture: iphoneos-arm64e
+Maintainer: Vita
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.cainiao.noad_0.1.3-3_iphoneos-arm64e.deb
+Size: 6304
+MD5sum: 57fb15075eabff744236782fd65e577c
+SHA1: 1f2c9fdf93440d1ce8756609e6afa3928c49444b
+SHA256: 22f946feef784cf055a7561b055b4e30fe1af2a2ba1156e28bcca3dd3a86be8e
+Section: 应用破解
+Priority: optional
+Description: 菜鸟去广告
+ * 菜鸟 去广告
+Author: Vita
+Icon: https://limi586.Github.io/sileodepiction/Cainiao/icon.png
+Name: 菜鸟去广告
+Sileodepiction: https://limi586.Github.io/sileodepiction/Cainiao/js.json
 
 Package: com.choco.tgextras
 Version: 0.0.1-1
@@ -3085,6 +3168,26 @@ Author: Curtin
 Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
 Name: PKC 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.cytq.vip
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: none
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.cytq.vip_1.0.0_iphoneos-arm64e.deb
+Size: 7358
+MD5sum: 86a137808465b5c31adde59e502b2724
+SHA1: a189927dcfd023610d6d9b8dd29e1d070bcda9f9
+SHA256: 7148f5f0ebcbdc77aa62bf8d1cf49c246d20c1fae2637b5ab9b104ed5fc7e59e
+Section: 应用破解
+Description: 彩云天气VIP
+ * 彩云天气VIP
+Author: none
+Icon: https://limi586.Github.io/sileodepiction/CYTQ/icon.png
+Name: 彩云天气VIP
+Sileodepiction: https://limi586.Github.io/sileodepiction/CYTQ/js.json
 
 Package: com.dao.hidenumber.cns
 Version: 0.0.4
@@ -4283,6 +4386,26 @@ Author: dvntm
 Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
 Name: YTLite YouTube 增强
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
+
+Package: com.dy.pbjcs
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: liuf
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.dy.pbjcs_1.0.0_iphoneos-arm64e.deb
+Size: 4344
+MD5sum: 084ed4735f8ff3a9e566cc8151ec5bfe
+SHA1: 2cf88d3dde59df0fd7d7a437d29389adcae6600d
+SHA256: 5a354cbede4facf6986ab3878ea2ffe8739f7f621525b6f6e34a7f990773f559
+Section: Tweaks
+Description: 抖音屏蔽越狱检测
+ * 抖音屏蔽越狱检测
+Author: liuf
+Icon: https://limi586.Github.io/sileodepiction/DYJC/icon.png
+Name: 抖音屏蔽越狱检测
+Sileodepiction: https://limi586.Github.io/sileodepiction/DYJC/js.json
 
 Package: com.eevee.spotifys
 Version: 5.2
@@ -8332,6 +8455,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Picsart/icon.png
 Name: PicsArt Patch 破解
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Picsart/js.json
 
+Package: com.joshuaseltzer.sleeperxs
+Version: 3.0.5
+Architecture: iphoneos-arm64e
+Maintainer: Joshua Seltzer
+Installed-Size: 1836
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>=15.0), firmware (<<17.0)
+Conflicts: org.thebigboss.sleeper, com.joshuaseltzer.sleeper
+Filename: ./debs/iphoneos-arm64e/com.joshuaseltzer.sleeperxs_3.0.5_iphoneos-arm64e.deb
+Size: 269662
+MD5sum: ff77678734aa402c2fe72fcca56c3e3c
+SHA1: 6d06c10182bd72e3548aadec1dc4d9939d7c24d1
+SHA256: e1af04af889e18e7f4f21bbfca132c1799d798085584e228cde53ed4d9454aba
+Section: Tweaks
+Description: SleeperX 闹钟优化
+ * 闹钟自定义优化
+Author: Joshua Seltzer
+Icon: https://limi586.Github.io/sileodepiction/SleeperX/icon.png
+Name: SleeperX 闹钟优化
+Sileodepiction: https://limi586.Github.io/sileodepiction/SleeperX/js.json
+
 Package: com.kingpuffdaddi.control-center.ccvpn.surge
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -8419,6 +8563,28 @@ Author: Unknown 佚名
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/kuan.png
 Name: 酷安 NoAd
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kuan/js.json
+
+Package: com.kuan.noads
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 佚名
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.kuan.noads_1.1_iphoneos-arm64e.deb
+Size: 38048
+MD5sum: b70dcbeb0668774454149fea1b46d9ae
+SHA1: 0de56495b5b55816058afde274fe1281445921e5
+SHA256: 0022b63d7c926736b8637d35c1922a892b163d6a5790a1931680c1e8e53f1adf
+Section: 应用破解
+Description: 酷安去广告
+ * 无弹窗
+ * 去除开屏广告
+ * 去除帖子广告
+Author: Unknown 佚名
+Icon: https://limi586.Github.io/sileodepiction/repo_pic/kuan.png
+Name: 酷安 NoAd
+Sileodepiction: https://limi586.Github.io/sileodepiction/Kuan/js.json
 
 Package: com.lclrc.hammerits
 Version: 1.7.0
@@ -8832,6 +8998,29 @@ Author: level3tjg
 Icon: https://TrollStoreX.Github.io/sileodepiction/TwitchAdBlock/icon.png
 Name: TwitchAdBlock
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitchAdBlock/js.json
+
+Package: com.limi586.ccless
+Version: 2.0.5-5
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000),com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
+Filename: ./debs/iphoneos-arm64e/com.limi586.ccless_2.0.5-5_iphoneos-arm64e.deb
+Size: 181702
+MD5sum: d5dc3c158f06f0952c1f8da5169f6ace
+SHA1: 23cac5a7352bbbe97e580882ee8b4039b46b4e6b
+SHA256: 9832073077083854b2245d3b910b4e537bc21031401575c5ddcfa4c0969a7e6a
+Section: Tweaks
+Description: 集合的控制中心模块
+ * CCVPN
+ * CC截图
+ * 蜂窝切换
+ * 4G/5G切换
+Author: 妖刀
+Icon: https://limi586.Github.io/sileodepiction/CCLess/icon.png
+Name: CCLess 控制中心多模块
+Sileodepiction: https://limi586.Github.io/sileodepiction/CCLess/js.json
 
 Package: com.liuf.jpyj
 Version: 0.0.1
@@ -10000,6 +10189,27 @@ Tag: role::developer
 Author: MrGcGamer
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/LibGcUniversal.png
 Name: LibGcUniversal
+
+Package: com.nahtedetihw.floatingdockxvis
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: Ethan Whited
+Installed-Size: 812
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: preferenceloader
+Conflicts: com.nahtedetihw.floatingdockxvi
+Filename: ./debs/iphoneos-arm64e/com.nahtedetihw.floatingdockxvis_2.3_iphoneos-arm64e.deb
+Size: 407708
+MD5sum: 8c32905836404ebba539a7a8fa488bf0
+SHA1: e65630c886ced4f48754c288a1d7e46c7e9a3476
+SHA256: 6bfbf9e302b50ad4fbf77722c5440b75a88591c9979a5e2608d35a0b1ae1c8d6
+Section: Tweaks
+Description: Floating Dock on iOS 16
+ * 仿iPad Dock栏
+Author: Ethan Whited
+Icon: https://limi586.Github.io/sileodepiction/FloatingDockXVI/icon.png
+Name: FloatingDockXVI
+Sileodepiction: https://limi586.Github.io/sileodepiction/FloatingDockXVI/js.json
 
 Package: com.nathan.dynamicnotlands
 Version: 1.0
@@ -16267,6 +16477,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
 Name: 威锋去广告
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WF/js.json
 
+Package: com.weifeng.noad
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.weifeng.noad_1.5_iphoneos-arm64e.deb
+Size: 4116
+MD5sum: 281bb2f38510600ecf2d009472ffa2ef
+SHA1: 641836cd965b95ae5f5a41f3ecee42ed3d64496c
+SHA256: ccfd375cdd51c75eb8c457699d5567f088e07d42cf31519e54a8e7e21212a533
+Section: 应用破解
+Description: 威锋 7.0.5 去广告
+ * 使用 gior007 部分代码
+ * 如果不弹通知的，不装插件进威锋一次后，再装插件就正常了。
+ * 去除推荐新内容 xx 条模块
+Author: z
+Icon: https://limi586.Github.io/sileodepiction/repo_pic/weifeng.png
+Name: 威锋去广告
+Sileodepiction: https://limi586.Github.io/sileodepiction/WF/js.json
+
 Package: com.wrp1002.cornbars
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -16307,6 +16538,26 @@ Author: Wes <wes.hamster@gmail.com>
 Icon: https://TrollStoreX.Github.io/sileodepiction/CornBar/icon.png
 Name: CornBar 玉米手势横杠
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CornBar/js.json
+
+Package: com.xianyu.noad
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.xianyu.noad_1.5.5_iphoneos-arm64e.deb
+Size: 74896
+MD5sum: 2002cc2559323e4497b9a59abad77378
+SHA1: e80e8783be5fa802be7cb900bc9efed8d5dd73dc
+SHA256: cc46ecce18e42a83d10c081080f17d35cdfc8172261f50cea26a95f3b935ba4d
+Section: 应用破解
+Description: 闲鱼去广告
+ * 闲鱼 去开屏广告
+Author: ylr
+Icon: https://limi586.Github.io/sileodepiction/Xianyu/icon.png
+Name: 闲鱼去广告
+Sileodepiction: https://limi586.Github.io/sileodepiction/Xianyu/js.json
 
 Package: com.xuuz.douyinhelpers
 Version: 1.6-4
@@ -16362,6 +16613,34 @@ Author: XUUᶻ
 Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
 Name: 抖音助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 2.0-6
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 17184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_2.0-6_iphoneos-arm64e.deb
+Size: 18165424
+MD5sum: 0762fa3c6a12a5d578ace6fb06f687d9
+SHA1: 5beeaae298f67d3441770827e90e51d85d8a5c3d
+SHA256: b0094d7cd62ea874fc3844355be4cb4ed51b3d1dc2734c2322181480b3872a22
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 四种插件打开方式
+ * 三指长按
+ * 长按视频
+ * 设置页面
+ * 聊天长按➕/✖️图标
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://limi586.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: 抖音助手
+Sileodepiction: https://limi586.Github.io/sileodepiction/Douyinhelper/js.json
 
 Package: com.xx.dyhooks
 Version: 2.0.5
@@ -18265,6 +18544,30 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层 小红薯
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
+Package: com.xx.xhshooks
+Version: 1.1.6-8
+Architecture: iphoneos-arm64e
+Maintainer: x✨
+Installed-Size: 3196
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.1.6-8_iphoneos-arm64e.deb
+Size: 4031832
+MD5sum: afabb9419f15c00b2f901dc59c1ca664
+SHA1: e4b8039fe7d0f55adf6de92773878664ef8c850d
+SHA256: 7bfbb8a0b812f67eb387890827f46029966c1b0ab7472d1853e2722aaeb64246
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://limi586.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://limi586.Github.io/sileodepiction/XHS/js.json
+
 Package: com.xx.ysbrowserhooks
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -18393,6 +18696,32 @@ Author: xybp888
 Depiction: 一键锁屏安装后在桌面显示一个图标，点击图标就能快速锁屏
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/suo.png
 Name: 一键锁屏
+
+Package: com.xybp888.noapplemobilerepairs
+Version: 0.0.1-104
+Architecture: iphoneos-arm64e
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xybp888.noapplemobilerepair
+Filename: ./debs/iphoneos-arm64e/com.xybp888.noapplemobilerepairs_0.0.1-104_iphoneos-arm64e.deb
+Size: 11068
+MD5sum: 183efcbaf85e7ecce846ebb07e7a1539
+SHA1: 4c42529fe6c214dabbbc8fdaae60b208c27ea7ee
+SHA256: 574b54ed9d144ca8fe4dfdc68f9f97d45a5841167926f1c1a699e4c819b82959
+Section: Tweaks
+Description: No Apple MobileRepair
+ * 禁止在设置页面显示维修记录，例如更换电池的提醒、屏幕等
+ * 更换第三方电池后，开启显示正常电池健康值。
+ * 屏蔽关于本机显示未知部件记录。
+ * 屏蔽设置显示“红1”以及电池更新提醒信息。
+ * 屏蔽设置系统 OTA 升级显示“红1”提醒信息
+ * 本插件免费使用，安装即可生效，无设置
+ * 本插件在 16.5 多巴胺越狱环境下测试通过，其他系统自行测试
+Author: xybp888
+Icon: https://limi586.Github.io/sileodepiction/NoAppleMobileRepair/icon.png
+Name: 禁止显示维修记录
+Sileodepiction: https://limi586.Github.io/sileodepiction/NoAppleMobileRepair/js.json
 
 Package: com.xybp888.noapplemobilerepairs
 Version: 0.0.1-21
@@ -18686,6 +19015,46 @@ Author: lenglengyu
 Icon: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/icon.png
 Name: 快速跳过广告 VideoAdsSpeed
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/VideoAdsSpeed/js.json
+
+Package: com.zgdx.noads
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.zgdx.noads_1.5.5_iphoneos-arm64e.deb
+Size: 6944
+MD5sum: 1483b4ff986347a4493d6b208c5f504a
+SHA1: 3caea95a6bbf00b70d11241cc59e1e1388654ba9
+SHA256: 8fc73661d485d3bd1c8a79d7ba8fed2ad838fc7db8a4f633c436d2334cf40e8a
+Section: Tweaks
+Description: 中国电信去广告
+ * 中国电信去广告
+Author: ylr
+Icon: https://limi586.Github.io/sileodepiction/ZGDX/icon.png
+Name: 中国电信去广告
+Sileodepiction: https://limi586.Github.io/sileodepiction/ZGDX/js.json
+
+Package: com.zgyd.noads
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.zgyd.noads_1.5.5_iphoneos-arm64e.deb
+Size: 18530
+MD5sum: 371bce2805c15e2f6adc0f6623167b80
+SHA1: fe1c9f588e29996ba6c19ea7cad0df85d68730c9
+SHA256: ee74af2e9d00916d85d5c3988962ce5ee09f12cc8b34115ba91800ee1fc7998c
+Section: Tweaks
+Description: 中国移动去广告
+ * 中国移动去广告
+Author: ylr
+Icon: https://limi586.Github.io/sileodepiction/ZGYD/icon.png
+Name: 中国移动去广告
+Sileodepiction: https://limi586.Github.io/sileodepiction/ZGYD/js.json
 
 Package: de.finngaida.daynightswitchs
 Version: 1.1
