@@ -6863,6 +6863,54 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
 Name: 抖音 DYYY 维他
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
 
+Package: com.huami.dyyy.vita
+Version: 2.2-9
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.2-9_iphoneos-arm64.deb
+Size: 439080
+MD5sum: c98cbfb4f305c255720a5464156266d7
+SHA1: 834dad9c2e0c07a9a1b9cf1b644e1e837a8015bf
+SHA256: fb8c57d6fa707cc138339fbd72f1a8032428c63522c31d3729e2dc9d816deb95
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY 维他
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.2-9
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 1932
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.2-9_iphoneos-arm64e.deb
+Size: 439328
+MD5sum: 811d1ddb00b882147fce679502584333
+SHA1: 1606ff87b29ebf2729b04b39c6a3146d49dd6ff7
+SHA256: 13ee91d97a52a7f82000b4e9c2f29a0b21842a828c2bab863e070902947f0475
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 34.2.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -15329,6 +15377,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 6.0.4-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1848
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_6.0.4-1_iphoneos-arm64.deb
+Size: 532400
+MD5sum: 354745808c5a905ff796ac39f793343b
+SHA1: 6036a8dbb1667314caee783520e028e8a6fe2ddb
+SHA256: 8aa1c6b773c5e0d911ad12e10cb9a2c16f41c89d5b31c9f775af665a319f1146
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 6.0.4-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1848
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_6.0.4-1_iphoneos-arm64e.deb
+Size: 689214
+MD5sum: 9cfb075450c94eca9257969461c5f291
+SHA1: d1534b234016d553ee4133a53cfbed3c9d51f2c0
+SHA256: b4cd0083a7d5f0ffae5eecf69068129a4678bb64981dda0c950083e5b870e502
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -15607,6 +15694,45 @@ Size: 4914856
 MD5sum: 46fa3acd9cda0995b06e45efc522cd30
 SHA1: 9c98c2289bd0750ce3aedf926ab8dc1e9ce1aa7b
 SHA256: 8db45114341b4a5b78d16f9ff40abb63273d118ba20656a099a00f923f2e923f
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.2.5
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.2.5_iphoneos-arm64.deb
+Size: 5023972
+MD5sum: 406adb7952d0cfadbe571530d485056b
+SHA1: d40efe01b0c77f1615b3b3f45cc82ac72db4b74e
+SHA256: 43f8ce290e06226c1271281d38248393142e330c4cd0d2cf66ea4471d1e8fa72
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.2.5
+Architecture: iphoneos-arm64e
+Maintainer: Mao
+Installed-Size: 8588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.2.5_iphoneos-arm64e.deb
+Size: 4967980
+MD5sum: 75264b563311935bb7ac0c275e7dd6bb
+SHA1: 0432672358c0225ae12c431059cb99aa8872af7f
+SHA256: 5fc699e0575dd755641022aeb09502bb6a5ac2de6478786043b9631152a4f0c7
 Section: 微信插件
 Description: 微信主题插件
 Author: Mao
