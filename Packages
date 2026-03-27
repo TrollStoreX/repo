@@ -15168,6 +15168,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
 Name: StoreSwitcher 账号切换
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
 
+Package: com.storeswitcher.appstore
+Version: 1.0.6
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/iphoneos-arm64e/com.storeswitcher.appstore_1.0.6_iphoneos-arm64e.deb
+Size: 24152
+MD5sum: 9e28f4fb48eed98d3189a6aa9c7e1bb9
+SHA1: 5ae167be449299be6c6afde3252961e3053d41ce
+SHA256: 7b0d8a8bf0d38c1ccccf0c7cab942e4e61a3575e0020edf0c9d558d1ef9385fe
+Section: Bootstrap
+Description: 桌面长按 App Store 进行切换账号
+ * Long press the App Store on the desktop to switch accounts
+Author: subdiox & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
+Name: StoreSwitcher 账号切换
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
+
+Package: com.storeswitcher.appstore
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: ./debs/iphoneos-arm64/com.storeswitcher.appstore_1.0.6_iphoneos-arm64.deb
+Size: 23116
+MD5sum: 0f42379e8248d370e6147b4b98900232
+SHA1: 0458e96d0632bb531c9863d976f327508d95cbbc
+SHA256: 8c91cddc2c04a4315dbf8c63720438df52d521bf1a04ec289c00ca813cceb268
+Section: Bootstrap
+Description: 桌面长按 App Store 进行切换账号
+ * Long press the App Store on the desktop to switch accounts
+Author: subdiox & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/icon.png
+Name: StoreSwitcher 账号切换
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/StoreSwitcher/js.json
+
 Package: com.susu.fuckwechatadss
 Version: 1.0.2
 Architecture: iphoneos-arm64e
