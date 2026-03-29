@@ -8522,6 +8522,51 @@ Author: INITNIL
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableShowContactAddCreateTime
 
+Package: com.iosdump.appdata
+Version: 1.8.9
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.8.9_iphoneos-arm64e.deb
+Size: 242706
+MD5sum: 4f11806f08577d13dfc85ccbd7560a7d
+SHA1: 8821530fa96417b426f835854a3c9973cac614b0
+SHA256: f9c9c38f70504e787823c738534eae54b8b3432bc824f8f6a3ac589047a35653
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdata
+Version: 1.8.9
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.8.9_iphoneos-arm64.deb
+Size: 174416
+MD5sum: 769970a7a0c5b27b40b53b39b44bc486
+SHA1: e276afcbdfe10478f323cedc6ea29252dd5a0fb3
+SHA256: eb1b27b2463e2d26f6518377144c71aee9ae68817ca2a8fb4a2df353d219aa58
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
 Package: com.iosrxwy.QDReader
 Version: 0.1-1
 Architecture: iphoneos-arm64e
