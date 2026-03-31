@@ -378,6 +378,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Doutu/icon.png
 Name: 斗图助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doutu/js.json
 
+Package: com.25mao.doutu.rootlesss
+Version: 3.1-8
+Architecture: iphoneos-arm64e
+Maintainer: Mao
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.doutu.rootless
+Filename: ./debs/iphoneos-arm64e/com.25mao.doutu.rootlesss_3.1-8_iphoneos-arm64e.deb
+Size: 775828
+MD5sum: 65adcfec008c0a28ca484bf179e57d04
+SHA1: 23a301d7604de14540f5465421c15116755a71c4
+SHA256: d708c9861764e3dbfbe35286347bf9c13483b698983552cc25c65bdd2544cdc3
+Section: 微信插件
+Description: 微信斗图助手插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Doutu/icon.png
+Name: 斗图助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doutu/js.json
+
+Package: com.25mao.doutu.rootlesss
+Version: 3.1-8
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.doutu.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.doutu.rootlesss_3.1-8_iphoneos-arm64.deb
+Size: 786600
+MD5sum: 00824f1a8c2357044c907fa2c908bb49
+SHA1: e1842f9c1ff3a461ef3d6984cdfb49a588ad8e4f
+SHA256: 6d090306474bb8d7799fb350c2ffa06ec6470a81a193717c61d28f5d19070c01
+Section: 微信插件
+Description: 微信斗图助手插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Doutu/icon.png
+Name: 斗图助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doutu/js.json
+
 Package: com.25mao.miyou.rootlesss
 Version: 3.8-0
 Architecture: iphoneos-arm64e
@@ -3170,6 +3207,49 @@ Size: 974980
 MD5sum: 7ec40d8f7d45fb9401c7564b6b8beed7
 SHA1: 72d1651577f2e90aea0099535a6045fa41953d57
 SHA256: de676dee370699769e2a050d28a770a758e7ec0ad540c219b68ef409eb513604
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.9-5
+Architecture: iphoneos-arm64e
+Maintainer: Curtin
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64e/com.curtin.pkc.rootlesss_0.9-5_iphoneos-arm64e.deb
+Size: 1247316
+MD5sum: ff0b0978c765598854a6925be2039b73
+SHA1: ee3398caa29b06e14d86461679ba3087680f35f0
+SHA256: 17c6d3b66c2aeed14f3996d7863508103e7fee6eea71f9664b0f3a92526e1ed8
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+ * 群管理 Pro、标签 Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义 API(图、文本、视频)、消息统计、加密对话、Bark 消息推送、定时问候、JD 自动签到、好友分析、会话分析、每天 60s 新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、ID 加好友、匿名艾特等
+ * 提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+Name: PKC 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PKC/js.json
+
+Package: com.curtin.pkc.rootlesss
+Version: 0.9-5
+Architecture: iphoneos-arm64
+Maintainer: Curtin
+Depends: firmware (>= 5.0)
+Conflicts: com.curtin.pkc.rootless, byg.iosios.net.pkc
+Filename: ./debs/iphoneos-arm64/com.curtin.pkc.rootlesss_0.9-5_iphoneos-arm64.deb
+Size: 1269996
+MD5sum: 357b6411a340839b07c51f70d1b35ecf
+SHA1: c1a977d139b3ec3b8dce0cd9ef502d3cb34f4330
+SHA256: 7498f1c1c0ed79f0412b37c8f37259f6fdcc4670a8c88ca91e3d62cc9fc39bd4
 Section: 微信插件
 Priority: optional
 Description: 微信多功能插件
@@ -8566,6 +8646,92 @@ Author: Fouad Raheb & iosdump
 Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData iosdump
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdata
+Version: 1.9.1
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.9.1_iphoneos-arm64e.deb
+Size: 247024
+MD5sum: a403a52eddc571bdde72bfe706893a2b
+SHA1: e00e110e8fe61af4bb2d313522fc0af9da7851ca
+SHA256: b7b6a89dbe86369de7fa2889f3a7a595e24fd8a539f20ac603ebeacd975b7365
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdata
+Version: 1.9.1
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.9.1_iphoneos-arm64.deb
+Size: 177000
+MD5sum: 70d6a5efc8116105b41cb07c5da3d34e
+SHA1: 98c3c5995006ba439d2941b81a15db71377c2053
+SHA256: 0767b4a0dad86a180e50f662679ecfe2c64fbe2f523866aeb80fd8eac54a7e4b
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.filzacarplugins
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 10644
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.iosdump.filzacarplugin
+Filename: ./debs/iphoneos-arm64e/com.iosdump.filzacarplugins_1.0.0_iphoneos-arm64e.deb
+Size: 21340148
+MD5sum: cba2aac4ab28c4d20703095f22a75f2f
+SHA1: c0628e4a143bd8b29e667d111249e7d7236b1696
+SHA256: f31cf7e4f143510ccc782ab8eec3dfecd16a5e88f5952ef4d3988897aa57f079
+Section: Tweaks
+Description: Filza 增强插件
+ * 提取与修改 Assets.car 资源文件
+ * 使用：长按 .car 文件，菜单中点击“打开方式”
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/icon.png
+Name: FilzaCarPlugin
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/js.json
+
+Package: com.iosdump.filzacarplugins
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 10644
+Conflicts: com.iosdump.filzacarplugin
+Filename: ./debs/iphoneos-arm64/com.iosdump.filzacarplugins_1.0.0_iphoneos-arm64.deb
+Size: 5351396
+MD5sum: 508dd34a3ee2182881cdda0e541dc758
+SHA1: 533914441da17619d222fe90d043e149a86f0c7a
+SHA256: 8eedc8b0594ba9e276cd9ede835fbb5a0a974fa1e931b88aa07ab1c9bc2576d7
+Section: Tweaks
+Description: Filza 增强插件
+ * 提取与修改 Assets.car 资源文件
+ * 使用：长按 .car 文件，菜单中点击“打开方式”
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/icon.png
+Name: FilzaCarPlugin
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/js.json
 
 Package: com.iosrxwy.QDReader
 Version: 0.1-1
@@ -16072,6 +16238,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
 Name: 主题盒子
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
 
+Package: com.tencent.themeboxs
+Version: 2.2.8
+Architecture: iphoneos-arm64e
+Maintainer: Mao
+Installed-Size: 8588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.2.8_iphoneos-arm64e.deb
+Size: 5266720
+MD5sum: 7dd4bced9ab55743c76f078860e6bd7d
+SHA1: 6bae1d89047573420a724cb9de451429595aac60
+SHA256: bff38c640dcb42368556d48c02e1f70d0aefb49ca8c7fe55b0dec5343ff2b617
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.2.8
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.2.8_iphoneos-arm64.deb
+Size: 5330040
+MD5sum: 456899a88e47dd5c74c9402cdd202de5
+SHA1: 8053de09fabc12e0d0437dc75cb86fbf78ae71aa
+SHA256: 7add25810eea29112d7f8cbe1c0bc2152f29357d7bc73150793d9dda1d8ea6d1
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
 Package: com.tiaotiao.betteruiswitchs
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -16419,6 +16624,60 @@ Size: 54000
 MD5sum: b06c70d6a943e6c9a7859ff574b28560
 SHA1: 04afbce221db682924e3e194564564c07a37f0cc
 SHA256: 4d185def3239beb0747e4c052fc57ecfecf7e5ad8e05a8a8470cfa08bc65ada2
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 自定义语音秒数
+ * 屏蔽输入状态
+ * 无限看闪照
+ * 好友交换作弊
+ * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: 抖音防撤回 Yuki
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
+Package: com.vita.yukis
+Version: 0.1-0
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64e/com.vita.yukis_0.1-0_iphoneos-arm64e.deb
+Size: 131724
+MD5sum: 791b41f4d0a7e7ac74bdcfba466c3a87
+SHA1: d5330374d3ac9f76d22b4f54538aec2c34d182a4
+SHA256: 06101ae266f22e158902e49953c1b6394bf4374420b158f41dc21d77d010f82e
+Section: 抖音插件
+Priority: optional
+Description: 抖音消息防撤回
+ * 猜拳骰子作弊
+ * 语音转发
+ * 自定义语音秒数
+ * 屏蔽输入状态
+ * 无限看闪照
+ * 好友交换作弊
+ * 插件位于抖音设置内
+Author: vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/Yuki/icon.png
+Name: 抖音防撤回 Yuki
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Yuki/js.json
+
+Package: com.vita.yukis
+Version: 0.1-0
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 172
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.vita.yuki
+Filename: ./debs/iphoneos-arm64/com.vita.yukis_0.1-0_iphoneos-arm64.deb
+Size: 132248
+MD5sum: 7e5158ad0569a33a5b46c36e0099e5f5
+SHA1: 1ee75826eea167e9f08c0276a406e0e495d84aa8
+SHA256: 0ad203339b769ad246302f1154be6b01899ecb810e50387f7eeea83f22cf67c7
 Section: 抖音插件
 Priority: optional
 Description: 抖音消息防撤回
@@ -18329,6 +18588,49 @@ Size: 1318880
 MD5sum: b8a1da21bcc17a77c897c5bcf830280b
 SHA1: b62bc86d1dd2e0727875e5341eb2f8b7368ab66b
 SHA256: b4935e28d11533f58f76b613a3658465970b20a84ed28063b51ec102225b7a35
+Section: 应用破解
+Description: QQ 多功能插件
+ * 插件位于 QQ 设置内
+ * 支持防撤回/机型伪装/语音娱乐/闪照
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
+Name: QQ 防撤回图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/tuceng.json
+
+Package: com.xx.qqhooks
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 1032
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.qqhook
+Filename: ./debs/iphoneos-arm64e/com.xx.qqhooks_1.6_iphoneos-arm64e.deb
+Size: 3072402
+MD5sum: 03212f1ba161d5ce152ed18ca5e6b816
+SHA1: 1bb843a5a265ff5b475a703446aa07978852dddf
+SHA256: 09ec4ba51841bccb275a14d6805b45233d049ffdb0254187bd5b838fe9fda616
+Section: 应用破解
+Description: QQ 多功能插件
+ * 插件位于 QQ 设置内
+ * 支持防撤回/机型伪装/语音娱乐/闪照
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
+Name: QQ 防撤回图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/tuceng.json
+
+Package: com.xx.qqhooks
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.qqhook
+Filename: ./debs/iphoneos-arm64/com.xx.qqhooks_1.6_iphoneos-arm64.deb
+Size: 1332344
+MD5sum: 10cf0e94c366ab808901906b4189e4d2
+SHA1: 5ef75df65dd26638af1e9410352a683060b4c3d4
+SHA256: 34ff1d6fa925654ee2d904fdaad23982dafe9a0bded4f85ffc8e697340dc64b2
 Section: 应用破解
 Description: QQ 多功能插件
  * 插件位于 QQ 设置内
