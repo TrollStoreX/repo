@@ -3298,6 +3298,45 @@ Icon: https://i.imgur.com/uFWkBXD.png
 Name: HideSerialNumber 简体中文包
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/HideSerialNumber/jss.json
 
+Package: com.dd.ds
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: DD
+Installed-Size: 204
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dd.d
+Filename: ./debs/iphoneos-arm64e/com.dd.ds_1.0.0_iphoneos-arm64e.deb
+Size: 26272
+MD5sum: 2f1a79c99da87b41166ab6ac1504fc21
+SHA1: 85e2f8d71a51d8cc8840d7b0094f4b73b3b3411e
+SHA256: 793049c7f99d05efb1de9300cc5b8d3f6154d9d85e118fc6eb31a0439d611298
+Section: 微信插件
+Description: 微信消息屏蔽
+Author: DD
+Icon: https://TrollStoreX.Github.io/sileodepiction/DD/icon.png
+Name: DD 微信消息屏蔽
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DD/js.json
+
+Package: com.dd.ds
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: DD
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dd.d
+Filename: ./debs/iphoneos-arm64/com.dd.ds_1.0.0_iphoneos-arm64.deb
+Size: 19556
+MD5sum: ead83fa0b89b6a77bede5e5af918b63a
+SHA1: 5be16668961c875f9ffd20c735317ba85659ddb0
+SHA256: bb9f2bf6626e9a793906ee2e008afde84c3f75ef9e0eb504cc422ece45ec6309
+Section: 微信插件
+Description: 微信消息屏蔽
+Author: DD
+Icon: https://TrollStoreX.Github.io/sileodepiction/DD/icon.png
+Name: DD 微信消息屏蔽
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DD/js.json
+
 Package: com.den.locktouchxs
 Version: 1.3
 Architecture: iphoneos-arm64e
@@ -8344,6 +8383,62 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
 Name: 微信 WCPulse
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
 
+Package: com.huami.wcpulses
+Version: 1.5-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.5-8_iphoneos-arm64e.deb
+Size: 8604068
+MD5sum: 09989a20db7df93d41da0e0f78410606
+SHA1: c860a079d7503c8e24c4594441bd305f99eb0faf
+SHA256: e4b614de2339af6fc0b3c3955656bd85446a7e244969e8321795af4e3dfabf1f
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.5-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.5-8_iphoneos-arm64.deb
+Size: 8605368
+MD5sum: c196351775e7c3912e16d92038460425
+SHA1: 9062e07233082323e7f3e407511aefec46876ce7
+SHA256: 94697e662819041b9397c19525681c0f9154694fa5d33ef227028993c727169c
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
 Package: com.huami.wcpush2chats
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -10241,6 +10336,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
 Name: 微信增强 WCEhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
 
+Package: com.lxcloud.wcehances
+Version: 2.0-4
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64e/com.lxcloud.wcehances_2.0-4_iphoneos-arm64e.deb
+Size: 2406216
+MD5sum: af2b9ae4ae75fde276750904df34cb87
+SHA1: 75f9eb6e2908e06efcde4cbb7f7cbc71ff7f0825
+SHA256: 6cc90fbba5b9ce7d7c100570b9cc4021e607cd43cf3511e33baced294c8aa7fb
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.lxcloud.wcehances
+Version: 2.0-4
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.lxcloud.WCEhance, byg.iosios.net.wcehances
+Filename: ./debs/iphoneos-arm64/com.lxcloud.wcehances_2.0-4_iphoneos-arm64.deb
+Size: 2404692
+MD5sum: 5faefb326f07cbe5629603210ee78de6
+SHA1: ac1528afb5ff4ea8f88332a0318b3effeb2a66b0
+SHA256: 420f5634dc0576136c7cf64e5a08e25f99f9db434a2da66b76625a40be3962e5
+Section: 微信插件
+Priority: optional
+Description: 用于优化一些反人类设计并增强功能
+Author: huami & Lxcloud
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
+Name: 微信增强 WCEhance
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
 Package: com.mikifp.griddys
 Version: 1.0.4
 Architecture: iphoneos-arm64e
@@ -10479,6 +10612,47 @@ Size: 19147840
 MD5sum: 757927ea208e2c5433d858b9054fd570
 SHA1: 7c19c338c9fe878252ee6c2747a1a681cdcff60a
 SHA256: 67fd4f32893d63886bbc4585651b290731c73a5a9b0172604cb69bfdc6897588
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
+Name: Mikoto 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
+
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V9
+Architecture: iphoneos-arm64e
+Essential: no
+Maintainer: Mikoto
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64e/com.mikotohelper.wechat_1.3.6-V9_iphoneos-arm64e.deb
+Size: 19856460
+MD5sum: 5b9a2d680ed06a031a840509748823ef
+SHA1: 0b99f824ad1a9c8706e33cf6576cf38a5bc0e756
+SHA256: d548237f5e00d2fdf840bf19f79f8decd1eff7d11c498c2fb693c50d496cb6ef
+Section: 微信插件
+Priority: optional
+Description: 微信多功能插件
+Author: Mikoto
+Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
+Name: Mikoto 助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
+
+Package: com.mikotohelper.wechat
+Version: 1.3.6-V9
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Filename: ./debs/iphoneos-arm64/com.mikotohelper.wechat_1.3.6-V9_iphoneos-arm64.deb
+Size: 19867304
+MD5sum: a95a2a5d2da8dd93ce110a3e0a243249
+SHA1: 5aedf485150b7195f3483830dd18063fbecb875f
+SHA256: bff2aa739d9c3100e378073a9772c21ccc01b879224fe4a02f31920293d87902
 Section: 微信插件
 Priority: optional
 Description: 微信多功能插件
@@ -15914,6 +16088,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
+Package: com.sutuplus.releasefugu15s
+Version: 6.1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1848
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_6.1.2-2_iphoneos-arm64e.deb
+Size: 1578266
+MD5sum: e2d47c1b2c11ca70d8e925c40d407e26
+SHA1: bcd13e0b63077ecb35509da7925210d48590a4e1
+SHA256: 2a031bc9e25c7b9ae0e45111b0b5ef87aecb9425b5778dcf6987ace81893e3c6
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 6.1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1848
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_6.1.2-2_iphoneos-arm64.deb
+Size: 609588
+MD5sum: 0e9c5a240576f90f515d6dcb121ba659
+SHA1: 3e38525a82924f83ea8c5c219286e392d9a0aa57
+SHA256: 40278bff400f381b60733bb45743d330ba563a83724e886156c7f6311e81d865
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -16904,6 +17117,47 @@ Description: 微信主题插件
 Author: MustangYM
 Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
 Name: ThemePro
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 4.6.7
+Architecture: iphoneos-arm64e
+Maintainer: MustangYM
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64e/com.wechat.themepro_4.6.7_iphoneos-arm64e.deb
+Size: 6566032
+MD5sum: 526494d5628dd1b2990ddb2ab9bad3e1
+SHA1: 4dd16b4fc40b6bca7bff155c0c5fa665a7ab1afe
+SHA256: 9fb5563cca35ecb7367beefcf37558166a141d45ff906192ccf2d49d1df75a66
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
+
+Package: com.wechat.themepro
+Version: 4.6.7
+Architecture: iphoneos-arm64
+Maintainer: MustangYM
+Depends: mobilesubstrate
+Conflicts: com.yourepo.themepro.themepro-312-rootless, byg.iosios.net.themepro
+Filename: ./debs/iphoneos-arm64/com.wechat.themepro_4.6.7_iphoneos-arm64.deb
+Size: 6555916
+MD5sum: be5b787b281211e2a9f49e3b5a0ae7ae
+SHA1: c6c6de76ffb1a258400273a8854a550c36ae3574
+SHA256: b151118b4c28ae7e1a5c47a5e8236261d47a5c93c02243c18e5d23a01fa1c450
+Section: 微信插件
+Description: 微信主题插件
+ * 由 ThemePro 团队开发
+ * 用于加载微信美化主题
+Author: MustangYM
+Icon: https://TrollStoreX.Github.io/sileodepiction/ThemePro/icon.png
+Name: ThemePro 微信主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemePro/js.json
 
 Package: com.weifeng.noad
@@ -18308,6 +18562,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
 Name: 抖音图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
+Package: com.xx.dyhooks
+Version: 2.3.8-3
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook, aweme.x
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.3.8-3_iphoneos-arm64e.deb
+Size: 4056260
+MD5sum: c6fb472128a67a29f688d552d6bccde2
+SHA1: 032c505b2082df835dd851ca96356a5def654427
+SHA256: 952c65a7cc18ee28395203c840204a90e270380a8bacc50ceaaf7337943adf38
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+ * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.3.8-3
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook, aweme.x
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.3.8-3_iphoneos-arm64.deb
+Size: 4114496
+MD5sum: 7f5cadebb353ef6d8d5f358927b72a36
+SHA1: 39142fc07a1e3e96faf6f1e73b2ed171e65286f6
+SHA256: 1aca2b1f984598f9a695425cdddb1e7c3dcd061f9d628d119afb4a560f0bb5b8
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+ * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
 Package: com.xx.dyhooks.old
 Version: 1.0.3
 Architecture: iphoneos-arm64e
@@ -19064,6 +19365,55 @@ Description: 小红书增强插件
  * 放大图片双指长按可保存高分辨率图片
  * APP设置界面右上角打开插件界面或双指长按设置界面
 Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 3196
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, xhs.x
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.2.0_iphoneos-arm64e.deb
+Size: 1766564
+MD5sum: 903433e3e71aae930094e6a66b58cee2
+SHA1: 3076fc952ca228e6e602b66d24a24e9e6a773651
+SHA256: db35a456f72f998fb2e6b9a60421eb3b76f6114627ee2e140e58ba89274fe27b
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 移除底栏菜单
+ * 保存评论区语音
+ * 批量无水印保存原图图片/LivePhoto/视频
+ * 应用设置内界面右上角打开插件界面或双指长按设置界面
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, xhs.x
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.2.0_iphoneos-arm64.deb
+Size: 1787220
+MD5sum: 7f49fb0e44456edfb439097cd3622486
+SHA1: 32a1fc6ebde37b696a322be3bbba5c6c3f7a8b9d
+SHA256: 36e917400d6ff056e1e184287b5b217b2f3a1200e9a5c90052edbef2c13812fe
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 移除底栏菜单
+ * 保存评论区语音
+ * 批量无水印保存原图图片/LivePhoto/视频
+ * 应用设置内界面右上角打开插件界面或双指长按设置界面
+Author: 𝙓
 Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层 小红薯
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
