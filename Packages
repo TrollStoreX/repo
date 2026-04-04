@@ -86,6 +86,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/icon.png
 Name: ThemeManager 猪咪微信主题
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.json
 
+Package: cc.forcequit.lightshields
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Taj C (forcequit)
+Installed-Size: 200
+Depends: preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
+Conflicts: cc.forcequit.lightshield
+Filename: ./debs/iphoneos-arm64/cc.forcequit.lightshields_1.0.0_iphoneos-arm64.deb
+Size: 21592
+MD5sum: fed4cf8c404bfe1864a872cf704c1c19
+SHA1: 05672427327397cd9b1ba394177b323091cb0e48
+SHA256: 7de9d7a5f92b8ed01534b1ac9b8fb99988e0e5cbb2277bee7df1a3f409e6acb1
+Section: Tweaks
+Description: 用来缓解 Coruna and DarkSword 攻击的插件
+ * 这是一个面向越狱 iOS（15及以上）的轻量级安全工具，用来替代系统的 Lockdown Mode。它通过关闭 WebKit 的 JavaScript JIT 编译来降低被漏洞（如 Coruna、DarkSword）利用的风险，从而提升浏览器及应用的整体安全性
+ * Lightweight Lockdown Mode alternative for WebKit.
+Author: Taj C (forcequit)
+Icon: https://TrollStoreX.Github.io/sileodepiction/Lockdown/icon.png
+Name: Lightshield
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Lockdown/Lightshield.json
+
 Package: cn.Bswbw.fixsets
 Version: 1.1
 Architecture: iphoneos-arm64e
