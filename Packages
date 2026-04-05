@@ -88,6 +88,28 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ThemeManager/js.jso
 
 Package: cc.forcequit.lightshields
 Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Taj C (forcequit)
+Installed-Size: 200
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
+Conflicts: cc.forcequit.lightshield
+Filename: ./debs/iphoneos-arm64e/cc.forcequit.lightshields_1.0.0_iphoneos-arm64e.deb
+Size: 23986
+MD5sum: 8cc4a7112eae91ebb3301addb871908f
+SHA1: bf2483740a7c092bc7e1b2a5629c5f995521fd25
+SHA256: 30ef7175af82e3a13eabff75450fe3dd6ac13f44b8fe49105266175bba6d25d5
+Section: Tweaks
+Description: 用来缓解 Coruna and DarkSword 攻击的插件
+ * 这是一个面向越狱 iOS（15及以上）的轻量级安全工具，用来替代系统的 Lockdown Mode。它通过关闭 WebKit 的 JavaScript JIT 编译来降低被漏洞（如 Coruna、DarkSword）利用的风险，从而提升浏览器及应用的整体安全性
+ * Lightweight Lockdown Mode alternative for WebKit.
+Author: Taj C (forcequit)
+Icon: https://TrollStoreX.Github.io/sileodepiction/Lockdown/icon.png
+Name: Lightshield
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Lockdown/Lightshield.json
+
+Package: cc.forcequit.lightshields
+Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: Taj C (forcequit)
 Installed-Size: 200
@@ -2312,6 +2334,47 @@ Size: 5629608
 MD5sum: 5c82b051fef6d5878f4d1b264d4947e0
 SHA1: ef0827d2d74e4b7a7d9968a824dd88cf1e36253d
 SHA256: c64864137dc27673f0f6123a361ece406373dffa6635a861319abb03bc0a5213
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.4.1
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64e/com.dumpapp.wechat-rootlesss_2.4.1_iphoneos-arm64e.deb
+Size: 5623976
+MD5sum: 76826fced52c83f02e4da3a2b0c24ced
+SHA1: ad0d01f2a09b5b8c9d2d6f88eff808fe5f1e1929
+SHA256: 708fd02f586a8af54e32a037aa95fc12b4e9cafa1236ef0ba3b1cf631f2550da
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.4.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootlesss_2.4.1_iphoneos-arm64.deb
+Size: 5622256
+MD5sum: f85d77968ee1ce203d3d2ad137dd4392
+SHA1: eb223ed420f8161cbd9c318eb4bdf6121a74e850
+SHA256: 3ad6ff67a8116b83281e3768fce7eb213001ac180369c13c0103b3eae569b3cd
 Section: 微信插件
 Description: 微信多功能插件
  * 1:1 复刻“微信净化”插件，保留红包功能
@@ -4805,6 +4868,44 @@ Author: huami
 Icon: https://TrollStoreX.Github.io/sileodepiction/Weibo/icon.png
 Name: 微博 WBNoAds
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Weibo/js.json
+
+Package: com.huami.wcccs
+Version: 1.0-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1620
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.WCCC
+Filename: ./debs/iphoneos-arm64e/com.huami.wcccs_1.0-6_iphoneos-arm64e.deb
+Size: 676564
+MD5sum: 56553e22893f60ca4c7fb90bceba29a1
+SHA1: c07e460459cd28ba65caba6ab0a5e98ca5a9b5e0
+SHA256: d81e68094594b3b0dc3044140f2fb8ba2a5d701929f3d3d13fa4afdc063d1e7f
+Section: 微信插件
+Description: 微信强大的热更新以及灰度配置管理插件
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCCC/icon.png
+Name: WCCC 微信热更新管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCCC/js.json
+
+Package: com.huami.wcccs
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1620
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.WCCC
+Filename: ./debs/iphoneos-arm64/com.huami.wcccs_1.0-6_iphoneos-arm64.deb
+Size: 671816
+MD5sum: 7eef860c9322c618b90ad036eb50f874
+SHA1: 8743d1ce992bb9500e6ed4af1d5c56780c235285
+SHA256: bab072bf657916c5245b3204fbd00c58a6c249889c2fede4b2afc607544b856c
+Section: 微信插件
+Description: 微信强大的热更新以及灰度配置管理插件
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCCC/icon.png
+Name: WCCC 微信热更新管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCCC/js.json
 
 Package: com.huami.wcnicknameavatarstyles
 Version: 2.2
