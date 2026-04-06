@@ -14242,6 +14242,51 @@ Name: 微信净化
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/jss.json
 
 Package: netskao.wechatpurifications
+Version: 2026.04
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss
+Installed-Size: 23256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wechatpurification
+Filename: ./debs/iphoneos-arm64e/netskao.wechatpurifications_2026.04_iphoneos-arm64e.deb
+Size: 7996448
+MD5sum: fa10c80c060c16dee1edd87646bf3eef
+SHA1: aa1e7f3e50a145d30ce3698861ba17a3e353e9aa
+SHA256: 942e57d0791a1339fc5159b1cde09599078730e8b1567681c8d66efe3edc1d69
+Section: 微信插件
+Description: 微信净化 2026.04 版本
+ * 还原聊天本质，干净的微信给你
+ * 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题
+ * 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+Name: 微信净化 2026.04
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
+
+Package: netskao.wechatpurifications
+Version: 2026.04
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 23256
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.wechatpurification
+Filename: ./debs/iphoneos-arm64/netskao.wechatpurifications_2026.04_iphoneos-arm64.deb
+Size: 7995256
+MD5sum: c78112c4980184ac2b180fb9b1a48608
+SHA1: 219294ec912ab502c463918e08905aca7f604a83
+SHA256: 948d4ddd6af9a57f4c22bebbb4d76df199b62f3965c7d1de5902435e17291fe4
+Section: 微信插件
+Description: 微信净化 2026.04 版本
+ * 还原聊天本质，干净的微信给你
+ * 2026 年基于 2023 年最终版重新编译，仅优化防止热更新导致的功能失效，未修复任何因微信版本更新出现的问题
+ * 如需私有版(¥68.00)可联系 admin@initnil.com 进行了解
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPure/icon.png
+Name: 微信净化 2026.04
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPure/js.json
+
+Package: netskao.wechatpurifications
 Version: 4.2-7
 Architecture: iphoneos-arm64e
 Maintainer: BigBoss <bigboss@thebigboss.org>
