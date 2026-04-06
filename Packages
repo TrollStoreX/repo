@@ -9002,6 +9002,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Lockdown/icon.png
 Name: Lockdown
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Lockdown/js.json
 
+Package: com.roothide.lockdowns
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.roothide.lockdown
+Filename: ./debs/iphoneos-arm64e/com.roothide.lockdowns_1.0.3_iphoneos-arm64e.deb
+Size: 5376
+MD5sum: 7b20d3afab1c6e99e319063601c2d119
+SHA1: 9ac15b2ad09f0be1aaa269f236eeb1101cf7bf06
+SHA256: 3bd54c0ee5c82f1f7f56df1d43d15061c46d919ff312fd3b317b3dedf119031a
+Section: DarkSword
+Description: 该插件可有效防护 DarkSword / Coruna 攻击，保障设备安全
+ * 同时支持 BootStrap 半越狱，BootStrap 需要手动对 Safari 开启注入
+ * JSC security hardening for WebContent process. Configures JavaScriptCore options to eliminate exploit primitives (addrof/fakeobj, JIT type confusion, GC UAF). Three security levels: balanced, strict, maximum.
+Author: roothide
+Icon: https://TrollStoreX.Github.io/sileodepiction/Lockdown/icon.png
+Name: Lockdown DarkSword
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Lockdown/js.json
+
 Package: com.safarixs.zh-Hans
 Version: 1.3.0
 Architecture: iphoneos-arm64e
