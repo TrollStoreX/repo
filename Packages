@@ -1932,6 +1932,56 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 Name: Telegram TGExtra
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
 
+Package: com.choco.tgextras
+Version: 1.7.5
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 3256
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64/com.choco.tgextras_1.7.5_iphoneos-arm64.deb
+Size: 615920
+MD5sum: b3fd238a6257c5a567f26cb1c9bab2b9
+SHA1: 9fa4144cd2a86778a805f8a6716c11e66ad78d40
+SHA256: 902adeb0060b287817818814e785f0ef78e78c89b66895079d67a3c71d13263f
+Section: 应用破解
+Description: Telegram 增强插件
+ * 最后在 Telegram 12.6.3 进行测试
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”打开插件
+ * 支持 Telegram、Turrit 等第三方客户端，具体自测
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
+Package: com.choco.tgextras
+Version: 1.7.5
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 3256
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64e/com.choco.tgextras_1.7.5_iphoneos-arm64e.deb
+Size: 613304
+MD5sum: 2d5c04e8533ee4db86819fb3870041e8
+SHA1: 17355c293c36ef661344dfb4b1dc47dbfd2cde34
+SHA256: f26dcc304cfe6bf0a428c0ca56236386c6ded3047ad43ac64079de5aa0a7452f
+Section: 应用破解
+Description: Telegram 增强插件
+ * 最后在 Telegram 12.6.3 进行测试
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”打开插件
+ * 支持 Telegram、Turrit 等第三方客户端，具体自测
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
 Package: com.cureux.cc26s
 Version: 0.4.3b
 Architecture: iphoneos-arm64
@@ -2922,6 +2972,44 @@ Description: 让你的旧设备体验 iOS 26 Liquid Glass 玻璃特效
 Author: dylv
 Icon: https://TrollStoreX.Github.io/sileodepiction/Liquidass/icon.png
 Name: Liquidass iOS26 玻璃特效
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
+
+Package: com.dylv.liquidass
+Version: 7.alpha
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 1092
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: dylv.liquidass
+Filename: ./debs/iphoneos-arm64/com.dylv.liquidass_7.alpha_iphoneos-arm64.deb
+Size: 218972
+MD5sum: f0f5ed8dcab16b8a242b72faa9b11017
+SHA1: fa079441ae93a7119374d0bda0e1cd3b6f213f46
+SHA256: 9bca275e8b0c6e138711aa5ffd5b07604a8c6882182857182c2897099d8df329
+Section: iOS26
+Description: 让你的旧设备体验 iOS 26 Liquid Glass 玻璃特效
+Author: dylv
+Icon: https://TrollStoreX.Github.io/sileodepiction/Liquidass/icon.png
+Name: Liquidass iOS 26 玻璃特效
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
+
+Package: com.dylv.liquidass
+Version: 7.alpha
+Architecture: iphoneos-arm64e
+Maintainer: dylv
+Installed-Size: 1092
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: dylv.liquidass
+Filename: ./debs/iphoneos-arm64e/com.dylv.liquidass_7.alpha_iphoneos-arm64e.deb
+Size: 220864
+MD5sum: 090e3696eec7ba1a95c8a73317e65ad5
+SHA1: ae53fd54a22bf26fe0fd96741ff116d99064696d
+SHA256: 71c7eca6931c87224c1a83539e6b8207f8e8b6e1ced28dd214a15de52836b2aa
+Section: iOS26
+Description: 让你的旧设备体验 iOS 26 Liquid Glass 玻璃特效
+Author: dylv
+Icon: https://TrollStoreX.Github.io/sileodepiction/Liquidass/icon.png
+Name: Liquidass iOS 26 玻璃特效
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
 
 Package: com.eevee.spotifys
