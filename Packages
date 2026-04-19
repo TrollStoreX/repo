@@ -5033,6 +5033,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCCC/icon.png
 Name: WCCC 微信热更新管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCCC/js.json
 
+Package: com.huami.wcccs
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1620
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.WCCC
+Filename: ./debs/iphoneos-arm64/com.huami.wcccs_1.0-8_iphoneos-arm64.deb
+Size: 735972
+MD5sum: 976d7b370569ab9508b887b59a330d96
+SHA1: 833200d3653c21a32534d28474883d2e05368ebc
+SHA256: af165c4ddaec22fd81c2913adb82636d4cd81cb03635f0343065de6ae6887792
+Section: 微信插件
+Description: 微信强大的热更新以及灰度配置管理插件
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCCC/icon.png
+Name: WCCC 微信热更新管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCCC/js.json
+
+Package: com.huami.wcccs
+Version: 1.0-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1620
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.WCCC
+Filename: ./debs/iphoneos-arm64e/com.huami.wcccs_1.0-8_iphoneos-arm64e.deb
+Size: 735672
+MD5sum: c7f840df59c7dbcbb924510b8c671614
+SHA1: d47554aaeaa1008bb968b84cf7dd6de3a1e97fce
+SHA256: 29b31fc333bf2066e68cec9b8b14677b130aaa9fb1c0d0c45db06b92c71378c8
+Section: 微信插件
+Description: 微信强大的热更新以及灰度配置管理插件
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCCC/icon.png
+Name: WCCC 微信热更新管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCCC/js.json
+
 Package: com.huami.wcnicknameavatarstyles
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -5161,6 +5199,62 @@ Size: 8604068
 MD5sum: 09989a20db7df93d41da0e0f78410606
 SHA1: c860a079d7503c8e24c4594441bd305f99eb0faf
 SHA256: e4b614de2339af6fc0b3c3955656bd85446a7e244969e8321795af4e3dfabf1f
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.5-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.5-9_iphoneos-arm64.deb
+Size: 8747824
+MD5sum: a235c522712322b2dae15d92b9db1aba
+SHA1: e352728abcbd9bf65060eb3082ba3d46e6b7c1c8
+SHA256: a2cb4d3998cb59c02df54118aee57ae4de545b66dc575fcc34eb33eaf988cf7a
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.5-9
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.5-9_iphoneos-arm64e.deb
+Size: 8746320
+MD5sum: ba782a1c30f73e3d599030fd686c18f5
+SHA1: 82d780bff5dbadf435feea3ab3b1856380b0b1bf
+SHA256: 9ba3b5be0476f6049093c811864627bc694899342e797f64015dbf006d3241cc
 Section: 微信插件
 Description: 微信实用小插件
  * 分组功能
@@ -5560,6 +5654,51 @@ Size: 252354
 MD5sum: 3e30e02a92c087346e2c5aab21209c35
 SHA1: d86978ac3470b3a27040ecd00d795cd64d029098
 SHA256: c7b74a9989d132011408c7d453ada88e9e4f277cec02bcaf0930265f51ba908c
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdata
+Version: 1.9.4
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.9.4_iphoneos-arm64.deb
+Size: 207548
+MD5sum: 4f7aa00946fcb96ab55d121f2eaf11ac
+SHA1: 3d1e0cd2b47bc37136512b3c76dc3decffb2bc53
+SHA256: 41cdb7b407e8d85d9a673111fcf375c6e15666660ea24304bb6e571488c23531
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdata
+Version: 1.9.4
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.9.4_iphoneos-arm64e.deb
+Size: 291236
+MD5sum: 9312d0d9886e9422833d64d88777bd4a
+SHA1: 7470689306a59bf4f82884ae74d5c185729d213c
+SHA256: 28d8f3e730a4608e2482d6790574b8c38a36ebec641118fb2258dcd8ac469750
 Section: Tweaks
 Description: 桌面图标增强插件
  * 由 iosdump 汉化修改
@@ -8888,6 +9027,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/YouTube/icon.png
 Name: YouTube YTUHD
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YouTube/YTUHD.json
 
+Package: com.qimiao.wcrefines
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.qimiao.WCRefine
+Filename: ./debs/iphoneos-arm64/com.qimiao.wcrefines_1.4-2_iphoneos-arm64.deb
+Size: 2984488
+MD5sum: 45d4552a7a7693fdf812e4fd741ced4c
+SHA1: 371cfc20523c361394111dd9864224135d22c14f
+SHA256: ecb906ddc09e94a7bba552a2c5e6f1e30eb533bd726c9fb8b939337afe4300da
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版
+ * 基于微信 8.0.64+ 版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCRefine/icon.png
+Name: WCRefine 微信优化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCRefine/js.json
+
+Package: com.qimiao.wcrefines
+Version: 1.4-2
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.qimiao.WCRefine
+Filename: ./debs/iphoneos-arm64e/com.qimiao.wcrefines_1.4-2_iphoneos-arm64e.deb
+Size: 2929748
+MD5sum: 16b479ec85b02604e4920313d627ba04
+SHA1: fc6867dc0220aed4881326a8a1a6fd13856c6ce5
+SHA256: dfaa8103a86849539fe9715eff237fba30407f7670a96b6302f988ed90001362
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版
+ * 基于微信 8.0.64+ 版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCRefine/icon.png
+Name: WCRefine 微信优化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCRefine/js.json
+
 Package: com.raulsaeed.bhtiktok++s
 Version: 1.2-3+debug
 Architecture: iphoneos-arm64
@@ -10513,6 +10695,45 @@ Size: 5266720
 MD5sum: 7dd4bced9ab55743c76f078860e6bd7d
 SHA1: 6bae1d89047573420a724cb9de451429595aac60
 SHA256: bff38c640dcb42368556d48c02e1f70d0aefb49ca8c7fe55b0dec5343ff2b617
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.3.0
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_2.3.0_iphoneos-arm64.deb
+Size: 5384004
+MD5sum: a7932c1001e3c534af78c0ccf32c37ab
+SHA1: 88e394f9229ae13176b6d99e9e47ed52703784f0
+SHA256: f2985c95ff8c0aa68b35c464e4eedfe846158ffc0cb090aadd0179481145e8ae
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 2.3.0
+Architecture: iphoneos-arm64e
+Maintainer: Mao
+Installed-Size: 8588
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64e/com.tencent.themeboxs_2.3.0_iphoneos-arm64e.deb
+Size: 5324152
+MD5sum: 31f79c59b304b35602cc3ff1ee099c96
+SHA1: d274367f7bf56c162819c267515a750bf2ee2b4f
+SHA256: 33cc9ca119e4c92b9c1635b24b9a6a0f4e094bbd7e4cbc9e31b14710f2b83c42
 Section: 微信插件
 Description: 微信主题插件
 Author: Mao
