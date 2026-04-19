@@ -2994,6 +2994,25 @@ Name: Liquidass iOS 26 液态玻璃
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
 
 Package: com.dylv.liquidass
+Version: 7.2.alpha
+Architecture: iphoneos-arm64e
+Maintainer: dylv
+Installed-Size: 1340
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: dylv.liquidass
+Filename: ./debs/iphoneos-arm64e/com.dylv.liquidass_7.2.alpha_iphoneos-arm64e.deb
+Size: 274116
+MD5sum: 7bd7d9cba15ad5e3afc3e9320395d5af
+SHA1: 136b60c5d8835fc3e1cf6f325d5e3dcb67cf6284
+SHA256: 2df6f55dddac3fc964b5b4f31f88e01450c5fc492c93d2e2cba4be31f4fa4ee1
+Section: iOS 26
+Description: 让你的旧设备体验 iOS 26 Liquid Glass 玻璃特效
+Author: dylv
+Icon: https://TrollStoreX.Github.io/sileodepiction/Liquidass/icon.png
+Name: Liquidass iOS 26 液态玻璃
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
+
+Package: com.dylv.liquidass
 Version: 7.alpha
 Architecture: iphoneos-arm64
 Maintainer: dylv
