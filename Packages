@@ -4902,6 +4902,54 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
 Name: 抖音 DYYY
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
 
+Package: com.huami.dyyy.vita
+Version: 2.3-0
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 2184
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy.vita_2.3-0_iphoneos-arm64e.deb
+Size: 651172
+MD5sum: 1cbe9cca251138e772000f9c2f04de9a
+SHA1: 3fdbe2bbc5b82038b5e90bf3abcd8cfbea3792d6
+SHA256: 50d130dbc5270339c0b73012585111d225c98695b14f43aec0c3c661396ca5f1
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 36.5.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
+Package: com.huami.dyyy.vita
+Version: 2.3-0
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 2184
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.huami.dyyy, com.huami.dyyys
+Filename: ./debs/iphoneos-arm64/com.huami.dyyy.vita_2.3-0_iphoneos-arm64.deb
+Size: 650880
+MD5sum: fdc7caa3d392a1dce190debe4c17b1c2
+SHA1: af40d2fe9d1a5e9c68658b41fab9c12497c3be4b
+SHA256: 6917016a481f5242a0bac7ff0f5f29e5ddcd8ddbafe37a51bfb63ccfe98b3978
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 用于调整抖音 UI 的插件
+ * 仅在抖音 36.5.0 版本中测试
+ * 仅供学习交流，禁止用于商业用途
+ * 通过“双指长按”或“抖音设置”进入插件
+Author: huami & vita
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/icon.png
+Name: 抖音 DYYY
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYYYVita/js.json
+
 Package: com.huami.kugouNoAD
 Version: 0.1-1
 Architecture: iphoneos-arm64e
@@ -13189,6 +13237,28 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ1/js.json
 
 Package: com.xx.qqhooks
 Version: 1.1.3-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1960
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.qqhook
+Filename: ./debs/iphoneos-arm64/com.xx.qqhooks_1.1.3-1_iphoneos-arm64.deb
+Size: 594656
+MD5sum: 2068dfd3d2819cbfaa8e61f0e7429ebf
+SHA1: 6cb5e8fb8aef660c2cb0fffe1d18d6010d27f5b5
+SHA256: d7a79e0f323cc572a32c62d577781a9e09a874a9897e0118c9fb45978875641e
+Section: 应用破解
+Description: QQ·TIM 新版防撤回
+ * QQ 设置-辅助功能-右上角开启(或新设置界面)
+ * 支持 QQ  9.0.20+
+ * 支持 TIM 4.0.95+
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
+Name: QQ 图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/js.json
+
+Package: com.xx.qqhooks
+Version: 1.1.3-1
 Architecture: iphoneos-arm64e
 Maintainer: x✨
 Installed-Size: 1960
@@ -13209,28 +13279,6 @@ Author: x✨
 Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
 Name: QQ 图层
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ1/js.json
-
-Package: com.xx.qqhooks
-Version: 1.1.3-1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 1960
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.xx.qqhook
-Filename: ./debs/iphoneos-arm64/com.xx.qqhooks_1.1.3-1_iphoneos-arm64.deb
-Size: 594656
-MD5sum: 2068dfd3d2819cbfaa8e61f0e7429ebf
-SHA1: 6cb5e8fb8aef660c2cb0fffe1d18d6010d27f5b5
-SHA256: d7a79e0f323cc572a32c62d577781a9e09a874a9897e0118c9fb45978875641e
-Section: 应用破解
-Description: QQ·TIM 新版防撤回
- * QQ 设置-辅助功能-右上角开启(或新设置界面)
- * 支持 QQ  9.0.20+
- * 支持 TIM 4.0.95+
-Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/QQ/icon.png
-Name: QQ 图层
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/QQ/js.json
 
 Package: com.xx.qqhooks
 Version: 1.1.5
