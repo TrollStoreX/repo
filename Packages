@@ -230,6 +230,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
 Name: Kayoko 剪切板
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
 
+Package: codes.aurora.kayokos
+Version: 4.6
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3156
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko,com.mlgm.kayoko
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_4.6_iphoneos-arm64e.deb
+Size: 670708
+MD5sum: 926613a2d4c571848fc764bcdec19599
+SHA1: 58313edc6355db44b3947517a4f353b67f62f84e
+SHA256: 28de3cb3813b2d3f12f71991d6c752ff3dacc1880205dca0cd97e7757645379f
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 基于「乌龙工作室」版本进行修改
+Author: mlgm
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
+Package: codes.aurora.kayokos
+Version: 4.6
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3156
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko,com.mlgm.kayoko
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_4.6_iphoneos-arm64.deb
+Size: 672244
+MD5sum: eb3fdcbb44735e419e8527485b8bb65b
+SHA1: 643e2487d7e4d90d9a773970175b897bef52a749
+SHA256: 68ee1eb3f81329ad6408cf50113b9a6b8ca14384cf3e5760c78d31e0019b7f3c
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 基于「乌龙工作室」版本进行修改
+Author: mlgm
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.7
 Architecture: iphoneos-arm64e
@@ -5785,6 +5827,51 @@ Size: 207548
 MD5sum: 4f7aa00946fcb96ab55d121f2eaf11ac
 SHA1: 3d1e0cd2b47bc37136512b3c76dc3decffb2bc53
 SHA256: 41cdb7b407e8d85d9a673111fcf375c6e15666660ea24304bb6e571488c23531
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdatas
+Version: 2.6.1
+Architecture: iphoneos-arm64e
+Maintainer: Netskao
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdatas_2.6.1_iphoneos-arm64e.deb
+Size: 3641410
+MD5sum: a9dff000365e43d846695af5cb084290
+SHA1: 631fcf274b43b76d348ba22fb2e16a2dc7ceb096
+SHA256: cec2f6a60e1bf01b7f062bf8edc7444d98417a0bf7f7d5278461a08d7863de03
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb & iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdatas
+Version: 2.6.1
+Architecture: iphoneos-arm64
+Maintainer: Netskao
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdatas_2.6.1_iphoneos-arm64.deb
+Size: 1611968
+MD5sum: 267a3371b6c5812397a5547a2251d49d
+SHA1: 15750989c53adb09c4de57b0715218608bf08ca3
+SHA256: 0173d51b875a39f5df4966c18f78c0478b0ff52d1fce8aafedbc29d4abe9da28
 Section: Tweaks
 Description: 桌面图标增强插件
  * 由 iosdump 汉化修改
@@ -15046,6 +15133,48 @@ Size: 16120
 MD5sum: a6c9bc049c61a12a4757018be408ff42
 SHA1: 4f0f4af64a4e8e560593a341f9e7356549126ef4
 SHA256: 262168b3e680087ebee19d13856d8eca37c52c88fe9ba9b83215b53195b8a145
+Section: 依赖
+Description: 越狱依赖 PreferenceLoader
+ * 系统设置内插件选项置顶
+Author: Dustin Howett
+Icon: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/icon.png
+Name: PreferenceLoader Top
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/js.json
+
+Package: preferenceloader.rootless.tops
+Version: 2.2.7
+Architecture: iphoneos-arm64e
+Maintainer: zp,Dustin Howett
+Installed-Size: 337
+Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Provides: preferenceloader (= 2.2.6), preferenceloader.rootless, preferenceloader.rootless.top
+Filename: ./debs/iphoneos-arm64e/preferenceloader.rootless.tops_2.2.7_iphoneos-arm64e.deb
+Size: 12440
+MD5sum: c1da1a9d475640512ad1f561440406a0
+SHA1: 937ff7c5d12a609d5dd17a9b9f13a2fd53818d16
+SHA256: b1251ce6e3e07772c01dc14feb72eeeff21a2b1f971f438623b0cf50bfa67c52
+Section: 依赖
+Description: 越狱依赖 PreferenceLoader
+ * 系统设置内插件选项置顶
+Author: Dustin Howett
+Icon: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/icon.png
+Name: PreferenceLoader Top
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PreferenceLoader/js.json
+
+Package: preferenceloader.rootless.tops
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: zp,Dustin Howett
+Installed-Size: 337
+Conflicts: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Replaces: preferenceloader, preferenceloader.rootless, preferenceloader.rootless.top
+Provides: preferenceloader (= 2.2.6), preferenceloader.rootless, preferenceloader.rootless.top
+Filename: ./debs/iphoneos-arm64/preferenceloader.rootless.tops_2.2.7_iphoneos-arm64.deb
+Size: 13408
+MD5sum: af1710678015483e764b273aa24db7e3
+SHA1: 8026b59ea7ab7f827bb6fb5d6745eb7743b09edc
+SHA256: 14c7ddbc5b4831f513f6b0e304edd7cd7c0b53c5736e577864e3e866a48e4e43
 Section: 依赖
 Description: 越狱依赖 PreferenceLoader
  * 系统设置内插件选项置顶
