@@ -6931,6 +6931,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
 Name: Griddy 图标随意摆
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
 
+Package: com.mikifp.griddys
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: mikifp
+Installed-Size: 272
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/iphoneos-arm64e/com.mikifp.griddys_1.1.2_iphoneos-arm64e.deb
+Size: 26588
+MD5sum: a28db14a967e5011114a381716494155
+SHA1: b3cca32629efd512ec85ec200a4cad52cb2d016f
+SHA256: 6ac06c56aa92908cf078dd3cf8f2ede1b14bd881086a6104230b3933b8d96078
+Section: 插件
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy 图标随意摆
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
+
+Package: com.mikifp.griddys
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: mikifp
+Installed-Size: 272
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy, com.dao.griddy, byg.iosios.net.griddy
+Filename: ./debs/iphoneos-arm64/com.mikifp.griddys_1.1.2_iphoneos-arm64.deb
+Size: 27772
+MD5sum: 52a24529ae05d9f4f224ae073010371b
+SHA1: 63fb77743ad152412140df2fe6cf193941ab4704
+SHA256: 1d8a92e1dd839a31479117c6672579e638d4dc8716440916b7546dfb2d52b1a2
+Section: 插件
+Description: 桌面图标可以随意摆放
+ * Layout your icons anywhere you want!
+Author: mikifp
+Icon: https://TrollStoreX.Github.io/sileodepiction/Griddy/icon.png
+Name: Griddy 图标随意摆
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Griddy/js.json
+
 Package: com.mikotohelper.wechat
 Version: 1.3.6
 Architecture: iphoneos-arm64e
@@ -10228,6 +10268,48 @@ Author: 巨魔商店 Telegram
 Icon: https://getsileo.app/img/icon.png
 Name: Sileo 简体中文
 Sileodepiction: https://trollstorex.github.io/sileodepiction/Sileo_zh-Hans/js.json
+
+Package: com.skypain.ccresprings
+Version: 2.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang
+Installed-Size: 192
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.ccrespring
+Filename: ./debs/iphoneos-arm64e/com.skypain.ccresprings_2.0.0-1_iphoneos-arm64e.deb
+Size: 19216
+MD5sum: b278a6209aa4405f57f66aa005444389
+SHA1: b12ce8d61bdfa6d250246091f3eb7a74db946cfa
+SHA256: 96b372caf1d6e64ef60652a7ffa81b57c8ad0924985e6642097e9dc4a14576e6
+Section: 控制中心
+Description: 控制中心注销模块
+ * 单击注销
+ * 长按打开其他功能选项
+Author: Mr.Zhang
+Icon: https://TrollStoreX.Github.io/sileodepiction/CCRespring/icon.png
+Name: CCRespring 注销模块
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCRespring/js.json
+
+Package: com.skypain.ccresprings
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang
+Installed-Size: 192
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.ccrespring
+Filename: ./debs/iphoneos-arm64/com.skypain.ccresprings_2.0.0-1_iphoneos-arm64.deb
+Size: 20320
+MD5sum: 2ea69142661026361833b981a49f89db
+SHA1: ae757ed23b625fb32192724dc7a0060f7bd0c148
+SHA256: f541c0d1ecdd9440a7d618bc3a1c0d4ca4c5df6651d4a1857fcfb5acbe5e5cb9
+Section: 控制中心
+Description: 控制中心注销模块
+ * 单击注销
+ * 长按打开其他功能选项
+Author: Mr.Zhang
+Icon: https://TrollStoreX.Github.io/sileodepiction/CCRespring/icon.png
+Name: CCRespring 注销模块
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CCRespring/js.json
 
 Package: com.skypain.teleportcns
 Version: 1.0.0-2
