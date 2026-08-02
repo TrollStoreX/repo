@@ -5415,6 +5415,62 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
 Name: 微信 WCPulse
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
 
+Package: com.huami.wcpulses
+Version: 1.6.3
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.6.3_iphoneos-arm64e.deb
+Size: 7592710
+MD5sum: 410a101a8c7bf30d475a968a590a8fb1
+SHA1: 8535e383062339f250d113ae2a11fcc76e5421a7
+SHA256: 1a65fa239b8f10262dc0db0e951b1a5e7f5fc0cdac85671628be01da3ba8dc11
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.6.3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.6.3_iphoneos-arm64.deb
+Size: 7592752
+MD5sum: 8bc2dc1784408bb83b95389de4af6eba
+SHA1: a57a1d7f6565e13ebf18a8d5d716df000db87ad0
+SHA256: 78770cc25591e16c89081008f08d55a48ed9d9fc5bc53afa858aa0859ecfa268
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
 Package: com.huami.wcpush2chats
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -5672,186 +5728,6 @@ Description: 微信显示好友添加时间 WeChat Enable Testing Show Contact A
 Author: INITNIL
 Icon: https://TrollStoreX.Github.io/sileodepiction/Wechat/icon.png
 Name: WCEnableShowContactAddCreateTime
-
-Package: com.iosdump.appdata
-Version: 1.8.9
-Architecture: iphoneos-arm64e
-Maintainer: Netskao
-Installed-Size: 3772
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
-Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.8.9_iphoneos-arm64e.deb
-Size: 242706
-MD5sum: 4f11806f08577d13dfc85ccbd7560a7d
-SHA1: 8821530fa96417b426f835854a3c9973cac614b0
-SHA256: f9c9c38f70504e787823c738534eae54b8b3432bc824f8f6a3ac589047a35653
-Section: Tweaks
-Description: 桌面图标增强插件
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb & iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData iosdump
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
-
-Package: com.iosdump.appdata
-Version: 1.8.9
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 3772
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
-Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.8.9_iphoneos-arm64.deb
-Size: 174416
-MD5sum: 769970a7a0c5b27b40b53b39b44bc486
-SHA1: e276afcbdfe10478f323cedc6ea29252dd5a0fb3
-SHA256: eb1b27b2463e2d26f6518377144c71aee9ae68817ca2a8fb4a2df353d219aa58
-Section: Tweaks
-Description: 桌面图标增强插件
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb & iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData iosdump
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
-
-Package: com.iosdump.appdata
-Version: 1.9.1
-Architecture: iphoneos-arm64e
-Maintainer: Netskao
-Installed-Size: 3772
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
-Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.9.1_iphoneos-arm64e.deb
-Size: 247024
-MD5sum: a403a52eddc571bdde72bfe706893a2b
-SHA1: e00e110e8fe61af4bb2d313522fc0af9da7851ca
-SHA256: b7b6a89dbe86369de7fa2889f3a7a595e24fd8a539f20ac603ebeacd975b7365
-Section: Tweaks
-Description: 桌面图标增强插件
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb & iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData iosdump
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
-
-Package: com.iosdump.appdata
-Version: 1.9.1
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 3772
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
-Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.9.1_iphoneos-arm64.deb
-Size: 177000
-MD5sum: 70d6a5efc8116105b41cb07c5da3d34e
-SHA1: 98c3c5995006ba439d2941b81a15db71377c2053
-SHA256: 0767b4a0dad86a180e50f662679ecfe2c64fbe2f523866aeb80fd8eac54a7e4b
-Section: Tweaks
-Description: 桌面图标增强插件
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb & iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData iosdump
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
-
-Package: com.iosdump.appdata
-Version: 1.9.2
-Architecture: iphoneos-arm64e
-Maintainer: Netskao
-Installed-Size: 3772
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
-Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.9.2_iphoneos-arm64e.deb
-Size: 252354
-MD5sum: 3e30e02a92c087346e2c5aab21209c35
-SHA1: d86978ac3470b3a27040ecd00d795cd64d029098
-SHA256: c7b74a9989d132011408c7d453ada88e9e4f277cec02bcaf0930265f51ba908c
-Section: Tweaks
-Description: 桌面图标增强插件
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb & iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData iosdump
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
-
-Package: com.iosdump.appdata
-Version: 1.9.2
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 3772
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
-Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.9.2_iphoneos-arm64.deb
-Size: 180456
-MD5sum: ef1b9dcaac1ad387938f52c338f26d8f
-SHA1: 8ebef6ef676d1e0af9a3f4f5ce3f605403a2ab5e
-SHA256: e7a48678c0fa4cb19f4cf67fcc933f91358d26987ff3bd1fdad5b2c60c23d842
-Section: Tweaks
-Description: 桌面图标增强插件
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb & iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData iosdump
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
-
-Package: com.iosdump.appdata
-Version: 1.9.4
-Architecture: iphoneos-arm64e
-Maintainer: Netskao
-Installed-Size: 3772
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
-Filename: ./debs/iphoneos-arm64e/com.iosdump.appdata_1.9.4_iphoneos-arm64e.deb
-Size: 291236
-MD5sum: 9312d0d9886e9422833d64d88777bd4a
-SHA1: 7470689306a59bf4f82884ae74d5c185729d213c
-SHA256: 28d8f3e730a4608e2482d6790574b8c38a36ebec641118fb2258dcd8ac469750
-Section: Tweaks
-Description: 桌面图标增强插件
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb & iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData iosdump
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
-
-Package: com.iosdump.appdata
-Version: 1.9.4
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Installed-Size: 3772
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas
-Filename: ./debs/iphoneos-arm64/com.iosdump.appdata_1.9.4_iphoneos-arm64.deb
-Size: 207548
-MD5sum: 4f7aa00946fcb96ab55d121f2eaf11ac
-SHA1: 3d1e0cd2b47bc37136512b3c76dc3decffb2bc53
-SHA256: 41cdb7b407e8d85d9a673111fcf375c6e15666660ea24304bb6e571488c23531
-Section: Tweaks
-Description: 桌面图标增强插件
- * 由 iosdump 汉化修改
- * 桌面图标向上滑动或长按激活
- * View & Manage Applications Data from your Home Screen
-Author: Fouad Raheb & iosdump
-Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
-Name: AppData iosdump
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
 
 Package: com.iosdump.appdatas
 Version: 2.6.1
