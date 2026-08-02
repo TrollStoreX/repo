@@ -1052,6 +1052,22 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/ArtworkSpinner/icon.png
 Name: ArtworkSpinner 旋转的艺术
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ArtworkSpinner/js.json
 
+Package: com.82flex.cranepkdserverfix
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 72
+Depends: firmware (>= 17.0), mobilesubstrate, com.opa334.crane
+Filename: ./debs/iphoneos-arm64e/com.82flex.cranepkdserverfix_0.0.1_iphoneos-arm64e.deb
+Size: 2698
+MD5sum: c52b61b377d7a42d480bbef54648b4e1
+SHA1: 1d92775235cd5052dc258f6b8cb79e5750b47000
+SHA256: c23dffee05bfe6e3e2b847efe3a5ce71f20d359539658352cef0bfd99f3ecdd7
+Section: Tweaks
+Description: Repairs Crane PKDServer discovery on iOS 17.
+Author: 82flex
+Name: Crane PKDServer Fix
+
 Package: com.82flex.noredirects
 Version: 1.3
 Architecture: iphoneos-arm64e
