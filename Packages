@@ -2328,6 +2328,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/icon.png
 Name: TWIGalaxy
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TWIGalaxy/js.json
 
+Package: com.developlab.appbadges
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: developlab
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.developlab.appbadge
+Filename: ./debs/iphoneos-arm64e/com.developlab.appbadges_1.0_iphoneos-arm64e.deb
+Size: 10930
+MD5sum: f58df292d6a554126482c4a092857bc4
+SHA1: 1e2cb2be37002e2af6b2c1e721e2fc212c3708a4
+SHA256: 387899b5fecd03298baaa6bb5e2a521cb7b53737831246ca44641c007132a864
+Section: 插件
+Description: 在刘海或灵动岛下显示应用的「图标、名称、版本」
+Author: developlab
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
+Name: AppBadge 应用胶囊
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AppBadge/js.json
+
+Package: com.developlab.appbadges
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: developlab
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Conflicts: com.developlab.appbadge
+Filename: ./debs/iphoneos-arm64/com.developlab.appbadges_1.0_iphoneos-arm64.deb
+Size: 8208
+MD5sum: 6b9cbd7ddd7180d0c7e96e7b7471e26c
+SHA1: 6524b6b381c6458adf0ee04f649f7c215e91e59a
+SHA256: 1cb9f8b16256e74beccd2adddc5c818812b183ca87c762f41008d816f57e0649
+Section: 插件
+Description: 在刘海或灵动岛下显示应用的「图标、名称、版本」
+Author: developlab
+Icon: https://TrollStoreX.Github.io/sileodepiction/AppBadge/icon.png
+Name: AppBadge 应用胶囊
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AppBadge/js.json
+
 Package: com.dumpapp.wechat-rootlesss
 Version: 2.3.0
 Architecture: iphoneos-arm64e
