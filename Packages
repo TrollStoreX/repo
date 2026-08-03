@@ -1958,6 +1958,50 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 Name: Telegram TGExtra
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
 
+Package: com.colorblack.bottomxs
+Version: 0.2.71
+Architecture: iphoneos-arm64e
+Maintainer: Color Black
+Installed-Size: 3044
+Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 14.0)
+Conflicts: com.colorblack.bottomx
+Filename: ./debs/iphoneos-arm64e/com.colorblack.bottomxs_0.2.71_iphoneos-arm64e.deb
+Size: 731040
+MD5sum: d8a09ac35ac273475a6157166b62cb47
+SHA1: db1d86756e0605fd63f869d550954ef4dc3426eb
+SHA256: f43da13562844f5b33b999d65a20c67599a66c85246a959bd309bc5c7e8d92c9
+Section: 插件
+Description: 点击底部小白条逐级返回
+ * 到应用最顶层就会返回桌面
+ * 新增学习返回模式，视觉返回保留
+ * 感兴趣可以加 QQ群 205928931
+Author: Color Black
+Icon: https://TrollStoreX.Github.io/sileodepiction/Bottom-x/icon.png
+Name: Bottom-x 小白条返回
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Bottom-x/js.json
+
+Package: com.colorblack.bottomxs
+Version: 0.2.71
+Architecture: iphoneos-arm64
+Maintainer: Color Black
+Installed-Size: 3044
+Depends: mobilesubstrate | ellekit, preferenceloader, firmware (>= 14.0)
+Conflicts: com.colorblack.bottomx
+Filename: ./debs/iphoneos-arm64/com.colorblack.bottomxs_0.2.71_iphoneos-arm64.deb
+Size: 729260
+MD5sum: d070cf546e6f534f4fab4bbfef872f17
+SHA1: f64ca46061069c5f2ab381336a21a833a3cd2d37
+SHA256: c79f3c2768871a1e8dbaf087b4b085c1bee305c3b8add0631e824684553452e9
+Section: 插件
+Description: 点击底部小白条逐级返回
+ * 到应用最顶层就会返回桌面
+ * 新增学习返回模式，视觉返回保留
+ * 感兴趣可以加 QQ群 205928931
+Author: Color Black
+Icon: https://TrollStoreX.Github.io/sileodepiction/Bottom-x/icon.png
+Name: Bottom-x 小白条返回
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Bottom-x/js.json
+
 Package: com.cureux.cc26s
 Version: 0.4.3b
 Architecture: iphoneos-arm64e
