@@ -148,6 +148,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/FixSet/icon.png
 Name: FixSet RootHide
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FixSet/js.json
 
+Package: cn.tinyapps.renets
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: BigBoss
+Installed-Size: 805
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.tinyapps.renet
+Filename: ./debs/iphoneos-arm64e/cn.tinyapps.renets_1.2.2_iphoneos-arm64e.deb
+Size: 297802
+MD5sum: f7278d49f7049de0d05c99341b6ede52
+SHA1: d252a7021abc26a7b50edf5a488ac8d0c16c99f9
+SHA256: f83eaf22ed575fadfb31882df8e42159f4f94472422bc825a998204daf361992
+Section: 网络
+Description: 修复国行设备越狱后 Sileo 等软件无法联网的问题
+Tag: purpose::extension
+Author: Tinyapps
+Dev: tinyapps
+Icon: https://TrollStoreX.Github.io/sileodepiction/Chuizi/icon.png
+Name: 连个锤子 修复联网
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Chuizi/js.json
+Sponsor: thebigboss.org
+
+Package: cn.tinyapps.renets
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: BigBoss
+Installed-Size: 805
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.tinyapps.renet
+Filename: ./debs/iphoneos-arm64/cn.tinyapps.renets_1.2.2_iphoneos-arm64.deb
+Size: 224272
+MD5sum: 5c52389f666fee553714b97404515458
+SHA1: 35bd059d76106a06fea7100ec43cf9cf5f9fedce
+SHA256: f078405b4c0b3ed124e76750e5ea8b983e9a698c6b365a533bc0a3da46a37d3e
+Section: 网络
+Description: 修复国行设备越狱后 Sileo 等软件无法联网的问题
+Tag: purpose::extension
+Author: Tinyapps
+Dev: tinyapps
+Icon: https://TrollStoreX.Github.io/sileodepiction/Chuizi/icon.png
+Name: 连个锤子 修复联网
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Chuizi/js.json
+Sponsor: thebigboss.org
+
 Package: cn.zqbb.phonekey.resets
 Version: 1.0.3
 Architecture: iphoneos-arm64e
