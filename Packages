@@ -317,6 +317,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
 Name: Kayoko 剪切板
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
 
+Package: codes.aurora.kayokos
+Version: 4.7.2
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3156
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko,com.mlgm.kayoko
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_4.7.2_iphoneos-arm64e.deb
+Size: 672556
+MD5sum: 7a8139c8f89c242c34b040e086f9331a
+SHA1: de0064f5b880a1822ec13c0a1be92a1f1b6ca89e
+SHA256: 3177f6ef14c640c7015712e0f8ac470a80349692767a8fab03e233c324bbe9af
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 基于「乌龙工作室」版本进行修改
+Author: mlgm
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
+Package: codes.aurora.kayokos
+Version: 4.7.2
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3156
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko,com.mlgm.kayoko
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_4.7.2_iphoneos-arm64.deb
+Size: 674660
+MD5sum: 58f8df6a1664407c2c7ccc8ede5e7416
+SHA1: dcee206ec05df047b9bcb8a3ed507dff08af3ac1
+SHA256: cc492202a49ce7cf1d57d38bbd85c251944ce9f08905a73b3421619bf5e9f682
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * Clipboard manager for iOS
+ * 基于「乌龙工作室」版本进行修改
+Author: mlgm
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.7
 Architecture: iphoneos-arm64e
@@ -6561,6 +6603,49 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TwitchAdBlock/icon.png
 Name: TwitchAdBlock
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TwitchAdBlock/js.json
 
+Package: com.liam.chatgbefrees
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: Liam
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.liam.chatgbefree
+Filename: ./debs/iphoneos-arm64e/com.liam.chatgbefrees_1.0.0_iphoneos-arm64e.deb
+Size: 5160
+MD5sum: 143a85d37da904f1d6885952abdace60
+SHA1: affd8ac06d30217fc0c835df6dba6fe001838a7d
+SHA256: 08175f5ea40d0b011dcca083fbb2f67744e4ae7d31cee3e35c046614cd5912eb
+Section: 应用破解
+Description: 让 iOS 16 可以使用旧版 ChatGPT
+ * 绕过 ChatGPT 应用中强制的升级界面
+ * Bypass the forced 'sunset' upgrade screen in the ChatGPT app.
+Author: Liam
+Icon: https://TrollStoreX.Github.io/sileodepiction/ChatGBeFree/icon.png
+Name: ChatGBeFree 绕过 GPT
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ChatGBeFree/js.json
+
+Package: com.liam.chatgbefrees
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Liam
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.liam.chatgbefree
+Filename: ./debs/iphoneos-arm64/com.liam.chatgbefrees_1.0.0_iphoneos-arm64.deb
+Size: 3712
+MD5sum: b7bca0b11ce09c220ac9df57439636b5
+SHA1: 96fef5f6890273633aac7de1e735954c7d8a7262
+SHA256: a249a0494d80578fb8514b51e5e80271e8b1baaae22166b06731dd2d3524e879
+Section: 应用破解
+Description: 让 iOS 16 可以使用旧版 ChatGPT
+ * 绕过 ChatGPT 应用中强制的升级界面
+ * Bypass the forced 'sunset' upgrade screen in the ChatGPT app.
+Author: Liam
+Icon: https://TrollStoreX.Github.io/sileodepiction/ChatGBeFree/icon.png
+Name: ChatGBeFree 绕过 GPT
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ChatGBeFree/js.json
+
 Package: com.liuf.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -7983,6 +8068,43 @@ SHA1: 3381fcdfb8fcbfafa21e61b62f1d1a55c73f5582
 SHA256: 8a9eee424e8eeeb2536fb05708158c4984e9016f32e75d3e69cfb8f91d90689b
 Section: Netskao-Tweaks
 Description: 让 QQ 消息通知显示 QQ 好友头像
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
+Name: QQNotiAvatar QQ头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/jss.json
+
+Package: com.netskao.qqnotiavatars
+Version: 1.2-3
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 236
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.qqnotiavatars_1.2-3_iphoneos-arm64e.deb
+Size: 45650
+MD5sum: aa3c306be9e614565ce47b64a24e460d
+SHA1: ae1c5076a7aa3876063eb44b14ac4c41747dcac8
+SHA256: e3815ae56335c9e4ed407b317564bbdd8caa53ee456c3f75100afe7316dcd206
+Section: 应用破解
+Description: 让 QQ 推送消息通知显示好友头像
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
+Name: QQNotiAvatar QQ头像
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/jss.json
+
+Package: com.netskao.qqnotiavatars
+Version: 1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 236
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.netskao.qqnotiavatars_1.2-3_iphoneos-arm64.deb
+Size: 32416
+MD5sum: 5a43ce00002bd5cd14a9a6583a160587
+SHA1: 625a85ba7c4de579d506e9ad31d7f59939a128e5
+SHA256: 4f7bfa93a9385b0401cf65f823e1f8b38b4b6c30a1cb44fdf7aba19383d73c9c
+Section: 应用破解
+Description: 让 QQ 推送消息通知显示好友头像
 Author: Netskao
 Icon: https://TrollStoreX.Github.io/sileodepiction/WeChatNotiAvatar/qq.png
 Name: QQNotiAvatar QQ头像
@@ -13311,6 +13433,53 @@ Size: 3605992
 MD5sum: d28ef90fbb7b6cee72699c46dce8d3fa
 SHA1: e33c634f4aa6320a7a0d3d007194d2d09510d661
 SHA256: f6312df5864db0bc182678a7c7f919c96706ea5f0cefb337f5d144be3af7d31c
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+ * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.6.2
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook, aweme.x
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.6.2_iphoneos-arm64e.deb
+Size: 3553968
+MD5sum: 451cf735f50d83a545f006efe83b5f79
+SHA1: 1040077f23beff93c626cb3afb45a93258852e14
+SHA256: 6f2ed989db7a7c03de13d481da819bdc670b7ab397916d30c04e9fe403330fd0
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+ * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.6.2
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook, aweme.x
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.6.2_iphoneos-arm64.deb
+Size: 3613776
+MD5sum: b46ebc622cb6de3d8d10b89e8eed9dd6
+SHA1: bdc2d692baf24f9cfcbdbcd4374b460218d50735
+SHA256: 67d2a1c18e5a0e8826475e67fb55641c43a6443159a3a52ae1f0fa6c7fbeb5b4
 Section: 抖音插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
