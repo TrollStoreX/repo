@@ -1586,13 +1586,36 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/js.json
 
 Package: com.awej
 Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: siwenjiajia
+Installed-Size: 360
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
+Conflicts: awej
+Replaces: com.siwenjiajia.awemeloginrepair
+Filename: ./debs/iphoneos-arm64e/com.awej_1.2.0_iphoneos-arm64e.deb
+Size: 152962
+MD5sum: 30cfd849c7b00d3ac2804c1a2047edf6
+SHA1: 293b3e4cc8ccfed67cc66cc5c61ca2cd9da4b2f2
+SHA256: 6ba40e8572af827e9896ddb62c42ee3def0ea4889d8fc95ebd0baa3b58187ea7
+Section: 抖音插件
+Description: aweJ 独立版抖⁺功能插件
+ * 插件位于抖音设置-通用选项下方
+ * 跳小程序广告、加速滑动动画
+Author: siwenjiajia
+Icon: https://TrollStoreX.Github.io/sileodepiction/AweJ/icon.png
+Name: 抖音+ aweJ
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AweJ/js.json
+
+Package: com.awej
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: siwenjiajia
 Installed-Size: 360
 Depends: firmware (>= 14.0), mobilesubstrate | org.coolstar.libhooker | ellekit
 Conflicts: awej
 Replaces: com.siwenjiajia.awemeloginrepair
-Filename: ./debs/com.awej_1.2.0_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.awej_1.2.0_iphoneos-arm64.deb
 Size: 109408
 MD5sum: f6ab2fa18ea014cf6d57c427791397bd
 SHA1: ec4250ebb914ab60b4839931390a19d58f72c2b0
@@ -13254,12 +13277,36 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
 
 Package: com.xx.dyhooks
 Version: 2.6.1
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 9332
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook, aweme.x
+Filename: ./debs/iphoneos-arm64e/com.xx.dyhooks_2.6.1_iphoneos-arm64e.deb
+Size: 3545228
+MD5sum: b4b21fd2f83ff84d13cb4ef2a27b47b7
+SHA1: 81d9a3ac5277852224252451939d6f1aa74f25a5
+SHA256: 638f2015fa922f57c82dc05867aa4896fd8be6c21983727da8cef7627f45250c
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+ * 此版本起采取自动授权 1-7天，随机授权哪天授权看运气
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.6.1
 Architecture: iphoneos-arm64
 Maintainer: 𝙓
 Installed-Size: 9332
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.xx.dyhook, byg.iosios.net.dyhook, aweme.x
-Filename: ./debs/com.xx.dyhooks_2.6.1_iphoneos-arm64.deb
+Filename: ./debs/iphoneos-arm64/com.xx.dyhooks_2.6.1_iphoneos-arm64.deb
 Size: 3605992
 MD5sum: d28ef90fbb7b6cee72699c46dce8d3fa
 SHA1: e33c634f4aa6320a7a0d3d007194d2d09510d661
