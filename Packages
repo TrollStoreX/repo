@@ -1466,6 +1466,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Doubao/icon.png
 Name: 抖音 豆包助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Doubao/js.json
 
+Package: com.afns
+Version: 3.5.5
+Architecture: iphoneos-arm64e
+Maintainer: AFN Team
+Installed-Size: 5412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper, com.afn
+Filename: ./debs/iphoneos-arm64e/com.afns_3.5.5_iphoneos-arm64e.deb
+Size: 1588312
+MD5sum: 73279d2f94282b2c9af4eaca1880ae1a
+SHA1: 5782999a78d4e12f8c13eaac47d4743df62b9d53
+SHA256: f869e271a4e737ba1382605652c3215f40c8bf1a4dc20789c8f9576a5b901f24
+Section: 微信插件
+Description: 微信超多功能插件
+Author: AFN Team
+Icon: https://TrollStoreX.Github.io/sileodepiction/AFN/icon.png
+Name: 微信大杂烩 AFN
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AFN/js.json
+
+Package: com.afns
+Version: 3.5.5
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 5412
+Depends: firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper, com.afn
+Filename: ./debs/iphoneos-arm64/com.afns_3.5.5_iphoneos-arm64.deb
+Size: 1614660
+MD5sum: c6c59c4afd892f04c02ec748dbef4968
+SHA1: d5e6616b05ac57d16bc1a50cd11823c5313e5d16
+SHA256: 9f99744714d73a336306f7b3d4765ec030cf106c3035a78432ea7eb4cbffd3d7
+Section: 微信插件
+Description: 微信超多功能插件
+Author: AFN Team
+Icon: https://TrollStoreX.Github.io/sileodepiction/AFN/icon.png
+Name: 微信大杂烩 AFN
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AFN/js.json
+
 Package: com.anthopak.appaze3s
 Version: 1.0
 Architecture: iphoneos-arm64e
