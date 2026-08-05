@@ -7003,6 +7003,40 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
 Name: 微信增强 WCEhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
 
+Package: com.mikey820.pleasedontstopthemusic
+Version: 2.3.1
+Architecture: iphoneos-arm64e
+Maintainer: mikey820 <mikey820@users.noreply.github.com>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64e/com.mikey820.pleasedontstopthemusic_2.3.1_iphoneos-arm64e.deb
+Size: 33550
+MD5sum: 64d069c7890ffc9caf545565581420d5
+SHA1: e067289ae3a83ba3e5cc60a21ef37182465d998a
+SHA256: 9585b6b5a1f22097d38772e615f7f03c785374bd0da9b9c6ca9974d32625f012
+Section: Tweaks
+Description: Prevent apps (e.g. Roblox) from pausing your background music
+Author: mikey820
+Icon: icon.png
+Name: PleaseDontStopTheMusic
+
+Package: com.mikey820.pleasedontstopthemusic
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: mikey820 <mikey820@users.noreply.github.com>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/iphoneos-arm64/com.mikey820.pleasedontstopthemusic_2.3.1_iphoneos-arm64.deb
+Size: 33618
+MD5sum: 10145c485b300f1977f841d0ab3ee6ba
+SHA1: 30e4d947afb6809843cd17c5341a8873dd77d6c8
+SHA256: 82f1002343d11c97c1d56cb90fa0d1ff20b95a1c07f9939c67c880fc0e6b945c
+Section: Tweaks
+Description: Prevent apps (e.g. Roblox) from pausing your background music
+Author: mikey820
+Icon: icon.png
+Name: PleaseDontStopTheMusic
+
 Package: com.mikifp.griddys
 Version: 1.0.4
 Architecture: iphoneos-arm64e
