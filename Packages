@@ -14785,6 +14785,28 @@ Name: 真后台 BackgrounderAction15 CCSupport
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction15/js.json
 
 Package: jp.soh.reprovisions
+Version: 1.1.164
+Architecture: iphoneos-arm64e
+Maintainer: AmorCool <admin@reprovision.dev>
+Depends: firmware (>= 15.0), zip, unzip
+Conflicts: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64e/jp.soh.reprovisions_1.1.164_iphoneos-arm64e.deb
+Size: 6259978
+MD5sum: 130b7cbdf6f588c86bc9854fc711c7be
+SHA1: 13939cb1bb4ab47e4c7eae4c6ab1b246dfc4ef71
+SHA256: 4d8362e326ae69d7c1ca7f7069e7133182d6f0b12477e93cfb7fd6ad59427d28
+Section: Utilities
+Priority: optional
+Description: 使用 苹果 ID 续签 IPA
+ * 仅支持 iOS 17 Relaxin 越狱
+ * 解决非巨魔设备签名 Relaxin IPA 问题
+ * Re-signing tool for iOS jailbreak
+Author: Coolapk@Analytics
+Icon: https://TrollStoreX.Github.io/sileodepiction/ReSign/icon.png
+Name: ReSign 苹果 ID 续签
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ReSign/js.json
+
+Package: jp.soh.reprovisions
 Version: 1.1.94
 Architecture: iphoneos-arm64e
 Maintainer: AmorCool <admin@reprovision.dev>
