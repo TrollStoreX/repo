@@ -14847,6 +14847,28 @@ Name: ReSign 苹果 ID 续签
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ReSign/js.json
 
 Package: jp.soh.reprovisions
+Version: 1.1.189
+Architecture: iphoneos-arm64e
+Maintainer: AmorCool <admin@reprovision.dev>
+Depends: firmware (>= 15.0), zip, unzip
+Conflicts: jp.soh.reprovision
+Filename: ./debs/iphoneos-arm64e/jp.soh.reprovisions_1.1.189_iphoneos-arm64e.deb
+Size: 4258332
+MD5sum: ed34637406ae094ea940096cef8726a5
+SHA1: ed52143f5b62bbc74acfbb9810a2d97d4b9b5847
+SHA256: 2afde03755c478696d195fda5a0f85f7b43f8c799d66fd8ee8604095d7196e19
+Section: Utilities
+Priority: optional
+Description: 使用 苹果 ID 续签 IPA
+ * 仅支持 iOS 17 Relaxin 越狱
+ * 解决非巨魔设备签名 Relaxin IPA 问题
+ * Re-signing tool for iOS jailbreak
+Author: 酷安 Analytics
+Icon: https://TrollStoreX.Github.io/sileodepiction/ReSign/icon.png
+Name: ReSign ID 自动续签
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/ReSign/js.json
+
+Package: jp.soh.reprovisions
 Version: 1.1.94
 Architecture: iphoneos-arm64e
 Maintainer: AmorCool <admin@reprovision.dev>
