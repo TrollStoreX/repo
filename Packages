@@ -734,6 +734,50 @@ Name: 微信插件管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
 Sponsor: admin@25mao.com
 
+Package: com.34306.watcheds
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.34306.watched
+Filename: ./debs/iphoneos-arm64e/com.34306.watcheds_2.0_iphoneos-arm64e.deb
+Size: 12680
+MD5sum: 3bf7eb514ef447b73df6c9b16427e7fe
+SHA1: 703c440d95bfe965459fa4c77bfb06de6dbe1338
+SHA256: 2da89620e30de5e83e4edfd5cc3485d951e8bce99fe9ca862f14752ffb8baac3
+Section: Tweaks
+Description: Apple Watch 配对
+ * 让你能将运行着比 iPhone iOS 官方支持版本更新的 watchOS 的 Apple Watch 配对
+ * Pair your Apple Watch on a newer watchOS than this iOS support
+ * 安装后，重启 iPhone 和 Apple Watch，然后重新配，具体自测
+Author: 34306
+Icon: https://TrollStoreX.Github.io/sileodepiction/Watched/icon.png
+Name: Watched 手表配对
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Watched/js.json
+
+Package: com.34306.watcheds
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.34306.watched
+Filename: ./debs/iphoneos-arm64/com.34306.watcheds_2.0_iphoneos-arm64.deb
+Size: 12816
+MD5sum: 7ae52fa5fae697a03c5342a37d3d68a4
+SHA1: 0b52be1f9cebd37e647c55ccdd30e6d9734613f8
+SHA256: 46d7155bbb6ad72fe047cb53b2b00f72ae0ef74fd576da08203fe6b6b8ae3207
+Section: Tweaks
+Description: Apple Watch 配对
+ * 让你能将运行着比 iPhone iOS 官方支持版本更新的 watchOS 的 Apple Watch 配对
+ * Pair your Apple Watch on a newer watchOS than this iOS support
+ * 安装后，重启 iPhone 和 Apple Watch，然后重新配，具体自测
+Author: 34306
+Icon: https://TrollStoreX.Github.io/sileodepiction/Watched/icon.png
+Name: Watched 手表配对
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Watched/js.json
+
 Package: com.82flex.artworkspinners
 Version: 1.6
 Architecture: iphoneos-arm64e
