@@ -148,6 +148,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/FixSet/icon.png
 Name: FixSet RootHide
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FixSet/js.json
 
+Package: cn.fkj233.watchfixs
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 577FKJ
+Installed-Size: 4608
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: cn.fkj233.watchfixs
+Filename: ./debs/iphoneos-arm64e/cn.fkj233.watchfixs_2.0.2_iphoneos-arm64e.deb
+Size: 612028
+MD5sum: 1f4df71925ddee12dd1a60ae1442724e
+SHA1: 6e239b08e16b492badcff4d49b417675cbbb3361
+SHA256: 17d30a91a40bfa0f9465ea7d46ccc84d240ca71c64b65cb97f31b9c5c3c24e1e
+Section: Tweaks
+Description: 修复 Apple Watch 连接问题
+ * 插件的其他功能目前仍然不完美，具体自测
+ * Fix Apple watch connection issues
+Author: 577FKJ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Watched/icon.png
+Name: WatchFix
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Watched/WatchFix.json
+
+Package: cn.fkj233.watchfixs
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: 577FKJ
+Installed-Size: 4608
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: cn.fkj233.watchfixs
+Filename: ./debs/iphoneos-arm64/cn.fkj233.watchfixs_2.0.2_iphoneos-arm64.deb
+Size: 609096
+MD5sum: 1d7c6711c7cea85694dd9468661d9c47
+SHA1: ede76ccf0ad4261259702828c1bf2348eb318911
+SHA256: 75a5e222850ce900f23ead2e25088d77cb0fedeb3d7e86393e59951171bb6e46
+Section: Tweaks
+Description: 修复 Apple Watch 连接问题
+ * 插件的其他功能目前仍然不完美，具体自测
+ * Fix Apple watch connection issues
+Author: 577FKJ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Watched/icon.png
+Name: WatchFix
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Watched/WatchFix.json
+
 Package: cn.tinyapps.renets
 Version: 1.2.2
 Architecture: iphoneos-arm64e
@@ -3430,6 +3472,54 @@ Size: 434460
 MD5sum: 6fbaf18c12f7b7552c72f6ce825f6605
 SHA1: b9218348a708c4ef8fd6873e9eebcdd906dcdcc2
 SHA256: fcfc0cf40a99e9493acc699b2fb5f00cd802a3caf7e4bae6fd601f8f01533014
+Section: Utilities
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 全局字体管理器
+ * 支持 iOS 16.0 及以上版本
+ * 支持 Rootless 和 RootHide
+ * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
+ * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
+Author: Hmmzzz
+Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
+Name: MarkFont 字体管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
+
+Package: com.hmmzzz.fontmanagers
+Version: 0.3.1
+Architecture: iphoneos-arm64e
+Maintainer: Hmmzzz
+Installed-Size: 2324
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./debs/iphoneos-arm64e/com.hmmzzz.fontmanagers_0.3.1_iphoneos-arm64e.deb
+Size: 435680
+MD5sum: 1e1f43a85878f05d98630cc4122a3ba2
+SHA1: c1bdc736bb6bef7136727ba0db24a1e50b62e30d
+SHA256: bde1a0bddda2698c7d37af8c35532469ccf794021bfb83bb87a65ab95ed2df96
+Section: Utilities
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 全局字体管理器
+ * 支持 iOS 16.0 及以上版本
+ * 支持 Rootless 和 RootHide
+ * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
+ * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
+Author: Hmmzzz
+Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
+Name: MarkFont 字体管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
+
+Package: com.hmmzzz.fontmanagers
+Version: 0.3.1
+Architecture: iphoneos-arm64
+Maintainer: Hmmzzz
+Installed-Size: 2324
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./debs/iphoneos-arm64/com.hmmzzz.fontmanagers_0.3.1_iphoneos-arm64.deb
+Size: 435592
+MD5sum: c3466f2afd594ded9d3b2fe6c9c50206
+SHA1: 6de5a62ff6630a2570c5f531e362e6a16d67267a
+SHA256: 4dad6c1a00ae2ab4fe1b5ea83d49a795d319c388e4f8e8db283ebd6943b5c260
 Section: Utilities
 Homepage: https://hmmzzz.github.io/repo/
 Description: iOS 全局字体管理器
