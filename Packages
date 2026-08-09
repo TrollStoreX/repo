@@ -7610,6 +7610,50 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStoreLite/icon.png
 Name: 越狱 TrollStore Lite
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStoreLite/js.json
 
+Package: com.opa334.trollstorelites
+Version: 2.1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: opa334
+Installed-Size: 592
+Depends: ldid
+Conflicts: com.opa334.trollstorelite
+Filename: ./debs/iphoneos-arm64e/com.opa334.trollstorelites_2.1.1-1_iphoneos-arm64e.deb
+Size: 212360
+MD5sum: a33e1900db0f74f0964bc64c66ae8763
+SHA1: dd98e9517a4e33da530b9ceeff69ecff2003af46
+SHA256: 6429e7e65bd6d5d8211f623d0f5810cdcecde0423164322b2ff15272f107aff8
+Section: Applications
+Description: 巨魔商店越狱版
+ * 支持安装 IPA 文件
+ * 重启设备后丢失越狱环境将失效
+ * TrollStore for jailbroken iOS
+Author: opa334
+Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/icon.png
+Name: TrollStore Lite 白巨魔
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/js.json
+
+Package: com.opa334.trollstorelites
+Version: 2.1.1-1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 592
+Depends: ldid
+Conflicts: com.opa334.trollstorelite
+Filename: ./debs/iphoneos-arm64/com.opa334.trollstorelites_2.1.1-1_iphoneos-arm64.deb
+Size: 213240
+MD5sum: 64e7a54caa558046d9d587f321adbc72
+SHA1: 172fbeea197b9b175487ced8801ad37361e1b173
+SHA256: 91a54eb8272cf8c9f42ab2b37345fc5495781d68dafeeddb15fa217a4368a0d8
+Section: Applications
+Description: 巨魔商店越狱版
+ * 支持安装 IPA 文件
+ * 重启设备后丢失越狱环境将失效
+ * TrollStore for jailbroken iOS
+Author: opa334
+Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/icon.png
+Name: TrollStore Lite 白巨魔
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/js.json
+
 Package: com.p2kdev.facebooknoads
 Version: 1.3
 Architecture: iphoneos-arm64e
