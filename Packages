@@ -1057,6 +1057,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 Name: Single VPN 上色
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
+Package: com.82flex.singlevpns
+Version: 2.1-2
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, byg.iosios.net.singlevpn.green
+Filename: ./debs/iphoneos-arm64e/com.82flex.singlevpns_2.1-2_iphoneos-arm64e.deb
+Size: 35340
+MD5sum: 6cfa0963f0d1aac199ec86cb9a75e698
+SHA1: 5a54ac2ec4aeb76cef7e44608c74caa404c6799a
+SHA256: cdc56cfcb8ee24bc504ff304de0de9e66c0ca05aca2877c1612f5516964ff42c
+Section: 乌龙工作室
+Description: 将 VPN 状态和无线状态合并到一个图标中
+ * Combine VPN state and wireless state into one icon
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+
+Package: com.82flex.singlevpns
+Version: 2.1-2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.82flex.singlevpn, byg.iosios.net.singlevpn.green
+Filename: ./debs/iphoneos-arm64/com.82flex.singlevpns_2.1-2_iphoneos-arm64.deb
+Size: 35456
+MD5sum: e145de3d11a0a21b3f540018d595166b
+SHA1: 2e527c093ac145c43a08394dda51e1cad2362b19
+SHA256: 6592cad062c78bf71715ebcab067853b543eee274d293be4299145be9858cf88
+Section: 乌龙工作室
+Description: 将 VPN 状态和无线状态合并到一个图标中
+ * Combine VPN state and wireless state into one icon
+Author: 82Flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
+Name: Single VPN 上色
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
+
 Package: com.82flex.wtvrbglaunchers
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -3532,6 +3572,54 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
 Name: MarkFont 字体管理器
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
 
+Package: com.hmmzzz.fontmanagers
+Version: 0.3.3
+Architecture: iphoneos-arm64e
+Maintainer: Hmmzzz
+Installed-Size: 2324
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./debs/iphoneos-arm64e/com.hmmzzz.fontmanagers_0.3.3_iphoneos-arm64e.deb
+Size: 454076
+MD5sum: 0c9b33a995e902ac495b1e4d8ea7e35f
+SHA1: b5016fdf0a0762982dd23d5f1762971de5f144d8
+SHA256: 2ff535b203bc7847093096c7d5dabf3ff5f6132bc08e2eeac9208fd103617090
+Section: Utilities
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 全局字体管理器
+ * 支持 iOS 16.0 及以上版本
+ * 支持 Rootless 和 RootHide
+ * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
+ * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
+Author: Hmmzzz
+Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
+Name: MarkFont 字体管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
+
+Package: com.hmmzzz.fontmanagers
+Version: 0.3.3
+Architecture: iphoneos-arm64
+Maintainer: Hmmzzz
+Installed-Size: 2324
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./debs/iphoneos-arm64/com.hmmzzz.fontmanagers_0.3.3_iphoneos-arm64.deb
+Size: 463680
+MD5sum: 4a456f8f0a2d9df371b9ac5b1746ecdb
+SHA1: a943cdf4ba59af00aaa051fe0b0da40cbab57b52
+SHA256: 299eee3eb9977dbb5f800fd9a4b999b878812dd1dbb50408e904815162fdd0c0
+Section: Utilities
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 全局字体管理器
+ * 支持 iOS 16.0 及以上版本
+ * 支持 Rootless 和 RootHide
+ * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
+ * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
+Author: Hmmzzz
+Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
+Name: MarkFont 字体管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
+
 Package: com.huami.bilinoads
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -4577,6 +4665,46 @@ Description: 喜马拉雅去广告，非破解！
 Author: iosrxwy
 Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/xmly.png
 Name: 喜马拉雅 NoAd
+
+Package: com.itzzace.ytkaces
+Version: 0.8.2
+Architecture: iphoneos-arm64e
+Maintainer: itzzace
+Installed-Size: 2936
+Depends: mobilesubstrate | ellekit, firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./debs/iphoneos-arm64e/com.itzzace.ytkaces_0.8.2_iphoneos-arm64e.deb
+Size: 1598188
+MD5sum: d171ab2e04f8988178f80e63f3876848
+SHA1: 0846be0f14edecccd9784010bbe8a766c1f70992
+SHA256: d45a5f240fe902c5fc72b45d0e08e667fde7961b55112e75e3cb05d1e7c6549b
+Section: 应用破解
+Description: YTKACE 是一款免费、开源的 iOS 版 YouTube 增强与下载工具，支持 SponsorBlock、后台播放、播放器控制及界面自定义。
+ * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Author: itzzace
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTKACE/icon.png
+Name: YTKACE YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTKACE/js.json
+
+Package: com.itzzace.ytkaces
+Version: 0.8.2
+Architecture: iphoneos-arm64
+Maintainer: itzzace
+Installed-Size: 2936
+Depends: mobilesubstrate | ellekit, firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./debs/iphoneos-arm64/com.itzzace.ytkaces_0.8.2_iphoneos-arm64.deb
+Size: 1598512
+MD5sum: e794323ecf02047cf951d838380f0a2b
+SHA1: e3ecbe0bb7a5429c7b242f9f12edaf714075a2a6
+SHA256: f2af0b682150de8a17a9e54467b896c1c6868e4b53579c39584e634ab61c146d
+Section: 应用破解
+Description: YTKACE 是一款免费、开源的 iOS 版 YouTube 增强与下载工具，支持 SponsorBlock、后台播放、播放器控制及界面自定义。
+ * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Author: itzzace
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTKACE/icon.png
+Name: YTKACE YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTKACE/js.json
 
 Package: com.jamme.picsartpatch
 Version: 4.2.0+debug
