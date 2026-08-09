@@ -4555,6 +4555,51 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
 Name: AppData iosdump
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
 
+Package: com.iosdump.appdatas
+Version: 2.6.6
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas, com.iosdump.appdata
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdatas_2.6.6_iphoneos-arm64e.deb
+Size: 3870482
+MD5sum: aadab6a88dea709819e84c947202fb64
+SHA1: 26d9ebb032235812bffa85cf77e3ca9eedcaaf56
+SHA256: c78c75a1d742421fcb4a30807e8d710e3deb775b98861e3cb51ab7578b49373e
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdatas
+Version: 2.6.6
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas, com.iosdump.appdata
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdatas_2.6.6_iphoneos-arm64.deb
+Size: 2378258
+MD5sum: a599ca6fb9063c16ba1acd38bf5e7804
+SHA1: 4147480977be507bb98dfe2aa18236248ff6938f
+SHA256: cb18b696f4ef4d5a2e187ca00c92ef52d40b715de2b3e4d7a386fe66b769e626
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
 Package: com.iosdump.filzacarplugins
 Version: 1.0.0
 Architecture: iphoneos-arm64e
