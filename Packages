@@ -776,6 +776,27 @@ Name: 微信插件管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
 Sponsor: admin@25mao.com
 
+Package: com.34306.upsidedowneds
+Version: 1.1-6+debug
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.34306.upsidedowned
+Filename: ./debs/iphoneos-arm64e/com.34306.upsidedowneds_1.1-6+debug_iphoneos-arm64e.deb
+Size: 4808
+MD5sum: f6fe7b0b98fcd3b26b9be1a4d18e806b
+SHA1: 3203c8b4c5612ff01da230b9ec8c59dc5e7e50d0
+SHA256: 3052cb7dd7c4e00c932560fc7415b92a34936f5c35467787cd4d432fdb56dfef
+Section: Tweaks
+Description: 真全屏屏显示
+ * 先关闭重量锁定，向左、向右、上下旋转你的 iPhone，支持屏幕上下颠倒，实现“真全面屏”
+ * Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Author: 34306, KhanhDuyTran
+Icon: https://TrollStoreX.Github.io/sileodepiction/Upsidedowned/icon.png
+Name: upsidedowned 真全面屏
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Upsidedowned/js.json
+
 Package: com.34306.watcheds
 Version: 2.0
 Architecture: iphoneos-arm64e
