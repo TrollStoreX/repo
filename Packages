@@ -8266,6 +8266,27 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/dy.png
 Name: BHTikTok++
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TikTok/js.json
 
+Package: com.rileytestut.altdaemons
+Version: 1.1.0~modern2
+Architecture: iphoneos-arm64
+Maintainer: AltDaemonModern contributors
+Conflicts: com.rileytestut.altdaemon
+Filename: ./debs/iphoneos-arm64/com.rileytestut.altdaemons_1.1.0~modern2_iphoneos-arm64.deb
+Size: 1545392
+MD5sum: b7f259a043501a55c86d98ea64baaf36
+SHA1: fb39bfeb90cdf2520c207fca50ac850b1b87d720
+SHA256: 91bf5a73ac0085f9d0e72f554544f91cd3a2d9181612918afb68af87e8decfb4
+Section: 签名
+Description: 允许你在越狱设备上续签 AltStore
+ * 此分支专为标准的 Dopamine 无根越狱环境设计，不支持 RootHide 环境！
+ * Rootless AltDaemon with modern anisette v3 support.
+ * AltDaemon allows compatible AltStore builds to install and refresh apps
+ without a computer. This fork targets standard Dopamine rootless jailbreaks.
+Author: Riley Testut and AltDaemonModern contributors
+Icon: https://TrollStoreX.Github.io/sileodepiction/AltDaemon/icon.png
+Name: AltDaemon Modern ID 续签
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AltDaemon/js.json
+
 Package: com.rocket.zh-Hans
 Version: 1.0
 Architecture: iphoneos-arm64e
