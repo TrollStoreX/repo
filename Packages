@@ -1779,6 +1779,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
 Name: 微信推送直达聊天窗口
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
 
+Package: com.chloe.physpringboards
+Version: 1.9.0
+Architecture: iphoneos-arm64e
+Maintainer: Chloe
+Installed-Size: 496
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17, com.chloe.physpringboard
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: ./debs/iphoneos-arm64e/com.chloe.physpringboards_1.9.0_iphoneos-arm64e.deb
+Size: 91578
+MD5sum: 13fa955a87b0bd1b6e394370917bda76
+SHA1: d45de1e1033c3592450f8773ac0c6a643d452230
+SHA256: 8445d8a6572cb70f7c9a9022a16112f72353a64a08eafff620e4616bd8f91e66
+Section: Tweaks
+Description: 在主屏幕摇晃设备，图标会因重力感应下坠
+ * 再次摇晃设备，将恢复原样
+ * 长按桌面，图标会被吸引过去
+Author: Chloe
+Icon: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/icon.png
+Name: Physpringboard 图标重力感应
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/js.json
+
+Package: com.chloe.physpringboards
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: Chloe
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17, com.chloe.physpringboard
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: ./debs/iphoneos-arm64/com.chloe.physpringboards_1.9.0_iphoneos-arm64.deb
+Size: 75836
+MD5sum: 9f1bfb123f523f083478558c862ed9f0
+SHA1: 4d7f43998dce1ce3aba17ae85427f16092d08179
+SHA256: 34d359c282bbdb5f5febfe6b2b4026670a92e34e6eced91ea4022c463fc734c6
+Section: Tweaks
+Description: 在主屏幕摇晃设备，图标会因重力感应下坠
+ * 再次摇晃设备，将恢复原样
+ * 长按桌面，图标会被吸引过去
+Author: Chloe
+Icon: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/icon.png
+Name: Physpringboard 图标重力感应
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/js.json
+
 Package: com.choco.tgextras
 Version: 0.0.1-1
 Architecture: iphoneos-arm64e
@@ -5690,6 +5737,48 @@ Author: huami & Lxcloud
 Icon: https://TrollStoreX.Github.io/sileodepiction/WCEhance/icon.png
 Name: 微信增强 WCEhance
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCEhance/js.json
+
+Package: com.m4fn3.mikkyys
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: m4fn3
+Installed-Size: 1500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Filename: ./debs/iphoneos-arm64e/com.m4fn3.mikkyys_1.0.1_iphoneos-arm64e.deb
+Size: 344216
+MD5sum: 4ae6baf63595b3d7e58328a8c1c08d98
+SHA1: 9afa25aeec34698f0b67ca74b996cb4ed77792e7
+SHA256: f35dea4ac5665c57dd0b5a8fc0a71a7e607788384610f96e4870879c8b4e500c
+Section: 主题美化
+Description: iOS 越狱主题管理插件
+ * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。
+ * 可将图标主题应用于主屏幕、Dock 栏、App 切换器、共享菜单、设置界面、文件夹预览，以及实时更新的日历和时钟图标。
+Author: m4fn3
+Icon: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/icon.png
+Name: Mikkyy 主题插件
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/js.json
+
+Package: com.m4fn3.mikkyys
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: m4fn3
+Installed-Size: 1500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Filename: ./debs/iphoneos-arm64/com.m4fn3.mikkyys_1.0.1_iphoneos-arm64.deb
+Size: 346240
+MD5sum: 46d65742995957f082de1e33c2bd1142
+SHA1: b9b6d977b7d7bdb1ccd6811f6e293f0f81a86b12
+SHA256: 60ec02fc72c998af5a3726ff29379c7c53cbe1bb4d07ee2b67eb2362769ad6a9
+Section: 主题美化
+Description: iOS 越狱主题管理插件
+ * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。
+ * 可将图标主题应用于主屏幕、Dock 栏、App 切换器、共享菜单、设置界面、文件夹预览，以及实时更新的日历和时钟图标。
+Author: m4fn3
+Icon: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/icon.png
+Name: Mikkyy 主题插件
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/js.json
 
 Package: com.mikey820.pleasedontstopthemusics
 Version: 2.3.1
