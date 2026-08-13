@@ -7686,6 +7686,31 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Choicy/icon.png
 Name: Choicy 禁止注入
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Choicy/js.json
 
+Package: com.opa334.choicys
+Version: 1.5.4-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 888
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: ./debs/iphoneos-arm64/iphoneos-arm64/com.opa334.choicys_1.5.4-2_iphoneos-arm64.deb
+Size: 162248
+MD5sum: d16d845f8188aca97e11879d66cef09e
+SHA1: 4438d51015a4e743014886c45091e1e3b9179d81
+SHA256: 54d299de6b1b2ccd9032c6b49828f41f828af2a15908e66c2fd57a3931d383c5
+Section: opa334
+Description: 一个高级的插件配置工具
+ * 不是“绕过越狱检测”工具，就算禁止注入也可能无法解决应用越狱检测问题
+ * 为每个进程单独禁用插件注入
+ * 为每个进程单独配置每个插件的动态库（dylib）
+ * 全局禁用插件（可为单独的进程设置例外）
+ * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
+ * 请从“设置”中进行配置
+Author: opa334
+Icon: https://TrollStoreX.Github.io/sileodepiction/Choicy/icon.png
+Name: Choicy 禁止注入
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Choicy/js.json
+
 Package: com.opa334.dopamine.trollstore
 Version: 1.0
 Architecture: iphoneos-arm64e
