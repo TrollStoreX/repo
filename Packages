@@ -3279,6 +3279,28 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/icon.png
 Name: iCleaner Pro
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/iCleanerPro/js.json
 
+Package: com.gdzhujun.backgrounderaction17s
+Version: 0.1.1
+Architecture: iphoneos-arm64e
+Maintainer: gdzhujun
+Installed-Size: 340
+Depends: firmware (>= 17.0), firmware (<< 18.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: jp.akusio.backgrounderaction15, jp.akusio.backgrounderaction13, com.gdzhujun.backgrounderaction17
+Replaces: jp.akusio.backgrounderaction15, jp.akusio.backgrounderaction13
+Provides: jp.akusio.backgrounderaction15, jp.akusio.backgrounderaction13
+Filename: ./debs/iphoneos-arm64e/com.gdzhujun.backgrounderaction17s_0.1.1_iphoneos-arm64e.deb
+Size: 10604
+MD5sum: b2f941187d224bcafe4d317ba1eca15b
+SHA1: 080cf1cd720eeaffad7f2507c56269ba9ce0b8b5
+SHA256: 9571b06209215ad5301117323788d3e1e502beb214706a0270b5c46657aaf9ae
+Section: 控制中心
+Description: 支持 iOS 17 真后台控制中心模块
+ * iOS 17 true-background Control Center toggle for RootHide.
+Author: gdzhujun
+Icon: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction17/icon.png
+Name: 真后台 BackgrounderAction17
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BackgrounderAction17/js.json
+
 Package: com.ginsu.ytmusicultimates
 Version: 2.3.1-1
 Architecture: iphoneos-arm64e
@@ -7629,6 +7651,31 @@ SHA256: 6f6b88bafdd350232636be59d25e612592d9517610261898fe1a03cd34c289b4
 Section: opa334
 Description: 一个高级的插件配置工具
  * 不是越狱检测绕过工具
+ * 为每个进程单独禁用插件注入
+ * 为每个进程单独配置每个插件的动态库（dylib）
+ * 全局禁用插件（可为单独的进程设置例外）
+ * 提供应用程序快捷方式，可选择临时启用或禁用插件运行应用
+ * 请从“设置”中进行配置
+Author: opa334
+Icon: https://TrollStoreX.Github.io/sileodepiction/Choicy/icon.png
+Name: Choicy 禁止注入
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Choicy/js.json
+
+Package: com.opa334.choicys
+Version: 1.5.4
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 888
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: ./debs/iphoneos-arm64/com.opa334.choicys_1.5.4_iphoneos-arm64.deb
+Size: 161996
+MD5sum: bc40564a5d4af5b4bff52edd00e222ff
+SHA1: ac65114ada1487c4a839659e3caa166945ff76a8
+SHA256: 4055da42b75f317731531198de4e71de53713d912c61ba47d4808e066f16efed
+Section: opa334
+Description: 一个高级的插件配置工具
+ * 不是“绕过越狱检测”工具，就算禁止注入也可能无法解决应用越狱检测问题
  * 为每个进程单独禁用插件注入
  * 为每个进程单独配置每个插件的动态库（dylib）
  * 全局禁用插件（可为单独的进程设置例外）
@@ -12507,4 +12554,23 @@ Author: sopranox
 Depiction: https://repo.cypwn.xyz/depiction/2629
 Icon: https://repo.cypwn.xyz/packages/camscanner-Rootless/icon.png
 Name: CamScanner
+
+Package: zone.uni9k.umounts
+Version: 1.1.9
+Architecture: iphoneos-arm64e
+Maintainer: uni9k
+Installed-Size: 2800
+Conflicts: zone.uni9k.umount, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager, com.hmmzzz.fontmanagers
+Filename: ./debs/iphoneos-arm64e/zone.uni9k.umounts_1.1.9_iphoneos-arm64e.deb
+Size: 1467248
+MD5sum: ebcfbd4886b3d32c68430c391b283168
+SHA1: 8ce377b631f5a72e178cdbac2afcbc5d1f8e738b
+SHA256: 23d90dab68d1d67748f5e1da536df86ded2e98e8a3f651b245c2c79d33c26930
+Section: Utilities
+Description: 用于 Relaxin/RootHide 的原生SwiftUI 系统目录绑定挂载管理器，具有内核后备、诊断、RootHide安全模式门控和引导循环保护。
+ * Native SwiftUI system-directory bind-mount manager for Relaxin / RootHide, with kernel-ucred fallback, diagnostics, RootHide safe-mode gating, and bootloop protection.
+Author: uni9k
+Icon: https://TrollStoreX.Github.io/sileodepiction/UMount/icon.png
+Name: UMount Relaxin 挂载
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/UMount/js.json
 
