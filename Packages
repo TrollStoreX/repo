@@ -4550,26 +4550,6 @@ Package: com.immortalizer.zh-Hans
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: 巨魔商店 Telegram
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
-Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
-Size: 3872
-MD5sum: 0180da62cbdcb474d5d581c97affe305
-SHA1: 5f766753106974fc5928d18212d6ee1467107a72
-SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
-Section: 汉化
-Description: zh-Hans for Immortalizer
- * Immortalizer 简体中文包
-Author: 巨魔商店 Telegram
-Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
-Name: Immortalizer 简体中文
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
-
-Package: com.immortalizer.zh-Hans
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: 巨魔商店 Telegram
 Installed-Size: 412
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -4584,6 +4564,26 @@ Description: zh-Hans for Immortalizer
  * Immortalizer 简体中文包
 Author: 巨魔商店 Telegram
 Icon: https://TrollStoreX.Github.io/sileodepiction/Sileo/Immortalizer.png
+Name: Immortalizer 简体中文
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
+
+Package: com.immortalizer.zh-Hans
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 巨魔商店 Telegram
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Replaces: com.sergy.immortalizers, com.sergy.immortalizer, byg.iosios.net.immortalizer
+Filename: ./debs/iphoneos-arm64e/com.immortalizer.zh-Hans_1.0.0_iphoneos-arm64e.deb
+Size: 3872
+MD5sum: 0180da62cbdcb474d5d581c97affe305
+SHA1: 5f766753106974fc5928d18212d6ee1467107a72
+SHA256: 2289058ed1d71cfc09efd6838a57ae4e5c8364316558e28494872766abfe3659
+Section: 汉化
+Description: zh-Hans for Immortalizer
+ * Immortalizer 简体中文包
+Author: 巨魔商店 Telegram
+Icon: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/icon.png
 Name: Immortalizer 简体中文
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Immortalizer/zh-Hans.json
 
@@ -6213,23 +6213,6 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSett
 
 Package: com.nathan.internalstoragesettingss
 Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Nathan Senter
-Installed-Size: 136
-Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
-Size: 4072
-MD5sum: eea4504514f5ad60d8386a1f7651a8b4
-SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
-SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
-Section: Tweaks
-Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
-Author: Nathan Senter
-Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
-Name: 显示存储系统数据详情InternalStorageSettings
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
-
-Package: com.nathan.internalstoragesettingss
-Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: Nathan Senter
 Installed-Size: 136
@@ -6239,6 +6222,23 @@ Size: 5692
 MD5sum: 4c474e7212efcc5e9b13fd6ff0897700
 SHA1: 3b544895f12991771a60deb34b28a565b1bc2b7c
 SHA256: 0510ceab79476ba6375492021a586483e13e9a3dc7489a90b075206e084f5778
+Section: Tweaks
+Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
+Author: Nathan Senter
+Icon: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/icon.png
+Name: 显示存储系统数据详情InternalStorageSettings
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/InternalStorageSettings/js.json
+
+Package: com.nathan.internalstoragesettingss
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 136
+Filename: ./debs/iphoneos-arm64/com.nathan.internalstoragesettingss_1.0_iphoneos-arm64.deb
+Size: 4072
+MD5sum: eea4504514f5ad60d8386a1f7651a8b4
+SHA1: 3d86a9701431315536b547c7f9750429b1c80faa
+SHA256: 23c9677af42fa18236313737e3afa1402e3ebf86e4f64675876df9f28eb97235
 Section: Tweaks
 Description: 显示存储“系统数据”详情 Tweak to enable the hidden storage settings
 Author: Nathan Senter
@@ -7583,6 +7583,25 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
 
 Package: com.nwzj.hooktcs
 Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 逆无止境
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
+Filename: ./debs/iphoneos-arm/com.nwzj.hooktcs_1.0_iphoneos-arm.deb
+Size: 92424
+MD5sum: dc6ed546106c90c9eef3a94bfdabfb73
+SHA1: 3c27a85a5626f04b8842d48c18444be0129ab6d9
+SHA256: 41766e252ed29c93a1876de1887b351c9d7199b19aa99aea974978e551549477
+Section: 抖音插件
+Description: 删除图层时间限制，屏蔽服务器远程闪退
+Author: 逆无止境
+Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
+Name: 逆无止境图层 1aaa3
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
+
+Package: com.nwzj.hooktcs
+Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: 逆无止境
 Installed-Size: 123
@@ -7613,25 +7632,6 @@ Size: 90432
 MD5sum: 02c2d7fdc71551a3b2833002afaaa203
 SHA1: eb8f391a0ff210343a590f259ebcdeb109bdaf36
 SHA256: 1c11daf86ec31498fd3f7d6df2b10b1696510aa48bba88a0cce4909c6b79adfb
-Section: 抖音插件
-Description: 删除图层时间限制，屏蔽服务器远程闪退
-Author: 逆无止境
-Icon: https://TrollStoreX.Github.io/sileodepiction/1aa2/icon.png
-Name: 逆无止境图层 1aaa3
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/1aa2/js.json
-
-Package: com.nwzj.hooktcs
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 逆无止境
-Installed-Size: 123
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.1aaa1.1aaa3, com.yourepo.huayuarc.1aaa3, byg.iosios.net.tucengpojie
-Filename: ./debs/iphoneos-arm/com.nwzj.hooktcs_1.0_iphoneos-arm.deb
-Size: 92424
-MD5sum: dc6ed546106c90c9eef3a94bfdabfb73
-SHA1: 3c27a85a5626f04b8842d48c18444be0129ab6d9
-SHA256: 41766e252ed29c93a1876de1887b351c9d7199b19aa99aea974978e551549477
 Section: 抖音插件
 Description: 删除图层时间限制，屏蔽服务器远程闪退
 Author: 逆无止境
@@ -10272,6 +10272,28 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.jso
 
 Package: com.xx.dyhooks
 Version: 2.0.8+8
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 9332
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
+Filename: ./debs/iphoneos-arm/com.xx.dyhooks_2.0.8+8_iphoneos-arm.deb
+Size: 2697448
+MD5sum: f8aab8ced3c2b067c95a839d08fb0cb0
+SHA1: 42549b0bc2847799d603de1ef49fd76757d6bb1e
+SHA256: 04922c50a6a7319a0978a301085835a6738eb187ba06d1157b3f45580458360f
+Section: 抖音插件
+Description: 抖音多功能增强插件
+ * 无水印下载视频/图片/LivePhoto
+ * 隐藏各种元素按钮文字等功能
+ * 双指双击屏幕打开插件设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
+Name: 抖音图层
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
+
+Package: com.xx.dyhooks
+Version: 2.0.8+8
 Architecture: iphoneos-arm64e
 Maintainer: x✨
 Installed-Size: 9332
@@ -10305,28 +10327,6 @@ Size: 2667504
 MD5sum: 8f8a0194c8fb2001d711ced270a6a14d
 SHA1: 499ae9f889674ec36bc59fb45c81abe52a8dc504
 SHA256: facea240ddc3e15255b6dadda06067d727c7af8608ba7319d0f83a81e2975d38
-Section: 抖音插件
-Description: 抖音多功能增强插件
- * 无水印下载视频/图片/LivePhoto
- * 隐藏各种元素按钮文字等功能
- * 双指双击屏幕打开插件设置界面
-Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/dytc/icon.png
-Name: 抖音图层
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/dytc/js.json
-
-Package: com.xx.dyhooks
-Version: 2.0.8+8
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 9332
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.xx.dyhook, byg.iosios.net.dyhook
-Filename: ./debs/iphoneos-arm/com.xx.dyhooks_2.0.8+8_iphoneos-arm.deb
-Size: 2697448
-MD5sum: f8aab8ced3c2b067c95a839d08fb0cb0
-SHA1: 42549b0bc2847799d603de1ef49fd76757d6bb1e
-SHA256: 04922c50a6a7319a0978a301085835a6738eb187ba06d1157b3f45580458360f
 Section: 抖音插件
 Description: 抖音多功能增强插件
  * 无水印下载视频/图片/LivePhoto
@@ -11217,6 +11217,29 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
 
 Package: com.xx.xhshooks
 Version: 1.1.5-1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook
+Filename: ./debs/iphoneos-arm/com.xx.xhshooks_1.1.5-1_iphoneos-arm.deb
+Size: 915460
+MD5sum: 26c36607fdf85d40222223ba144d3636
+SHA1: 21739a3c9f4f9faefd9c9cbf714051bee004557f
+SHA256: c1b2880b5d3b8da361fae82f8bcaca8da1e9f3fdd746c4ffc80f834cd635b2f8
+Section: 应用破解
+Description: 小红书增强插件
+ * 默认移除一些广告
+ * 无水印保存图片、视频、live图、评论区图片，长按复制文案
+ * 放大图片双指长按可保存高分辨率图片
+ * APP设置界面右上角打开插件界面或双指长按设置界面
+Author: x✨
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.1.5-1
 Architecture: iphoneos-arm64e
 Maintainer: x✨
 Installed-Size: 3196
@@ -11251,29 +11274,6 @@ Size: 906672
 MD5sum: ea04f6bc6d6f7314f8179bbca1920fd9
 SHA1: 877cc905942a335865a35961101a8a414a2019cd
 SHA256: afd792bef2c7fc07811b5c7864d6577d14fdc35f0a8011622853af5166db8ec2
-Section: 应用破解
-Description: 小红书增强插件
- * 默认移除一些广告
- * 无水印保存图片、视频、live图、评论区图片，长按复制文案
- * 放大图片双指长按可保存高分辨率图片
- * APP设置界面右上角打开插件界面或双指长按设置界面
-Author: x✨
-Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
-Name: 小红书图层 小红薯
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
-
-Package: com.xx.xhshooks
-Version: 1.1.5-1
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 3196
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.xx.xhshook
-Filename: ./debs/iphoneos-arm/com.xx.xhshooks_1.1.5-1_iphoneos-arm.deb
-Size: 915460
-MD5sum: 26c36607fdf85d40222223ba144d3636
-SHA1: 21739a3c9f4f9faefd9c9cbf714051bee004557f
-SHA256: c1b2880b5d3b8da361fae82f8bcaca8da1e9f3fdd746c4ffc80f834cd635b2f8
 Section: 应用破解
 Description: 小红书增强插件
  * 默认移除一些广告
