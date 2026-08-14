@@ -6176,6 +6176,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/icon.png
 Name: Mikoto 助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MikotoHelper/js.json
 
+Package: com.moxuan.fontchanges
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: moxuan1121
+Installed-Size: 2016
+Depends: firmware (>= 15.0), unzip
+Conflicts: com.moxuan.fontchange
+Filename: ./debs/iphoneos-arm64e/com.moxuan.fontchanges_1.1.1_iphoneos-arm64e.deb
+Size: 1643652
+MD5sum: 51bf52ca4d7dd2d111ce48a8b8ad2ad4
+SHA1: 9af643482996f9f8016e4176f5a3af4d6194c99a
+SHA256: c3427ea475acbfce10a43f6bbe79a12e850657015a911a7564e4b08f587b7dec
+Section: 挂载
+Description: 字体挂载，支持 Rootless/RootHide
+ * 管理受支持的 iOS 15+ 越狱环境中的自定义系统字体和锁屏字体，刷新语言缓存、恢复系统字体，并重启用户空间。
+ * Manages custom system and lock-screen fonts on supported iOS 15+ jailbreak environments, refreshes language caches, restores system fonts, and reboots userspace.
+Author: moxuan1121
+Icon: https://TrollStoreX.Github.io/sileodepiction/FontChange/icon.png
+Name: FontChange 字体挂载管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FontChange/js.json
+
+Package: com.moxuan.fontchanges
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: moxuan1121
+Installed-Size: 2016
+Depends: firmware (>= 15.0), unzip
+Conflicts: com.moxuan.fontchange
+Filename: ./debs/iphoneos-arm64/com.moxuan.fontchanges_1.1.1_iphoneos-arm64.deb
+Size: 1645072
+MD5sum: 3c3057086d7c7ae9218394855ea9346b
+SHA1: be35d83cb2621441d780de24cd0d014e44179812
+SHA256: af826aba363298f411ac70c2d848711550b46d4407c5bbe50726ddab02bd962d
+Section: 挂载
+Description: 字体挂载，支持 Rootless/RootHide
+ * 管理受支持的 iOS 15+ 越狱环境中的自定义系统字体和锁屏字体，刷新语言缓存、恢复系统字体，并重启用户空间。
+ * Manages custom system and lock-screen fonts on supported iOS 15+ jailbreak environments, refreshes language caches, restores system fonts, and reboots userspace.
+Author: moxuan1121
+Icon: https://TrollStoreX.Github.io/sileodepiction/FontChange/icon.png
+Name: FontChange 字体挂载管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FontChange/js.json
+
 Package: com.mrgcgamer.libgcuniversals
 Version: 1.7.0
 Architecture: iphoneos-arm64e
