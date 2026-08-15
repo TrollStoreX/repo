@@ -1118,6 +1118,56 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/icon.png
 Name: Single VPN 上色
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/SingleVPN/jj.json
 
+Package: com.82flex.unseens
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 14.0), preferenceloader
+Conflicts: com.82flex.unseen
+Filename: ./debs/iphoneos-arm64e/com.82flex.unseens_0.0.3_iphoneos-arm64e.deb
+Size: 44712
+MD5sum: b2f7b7432fc90e15431405a09e083c77
+SHA1: b18e2e286c300cecad6abed0adbe4b2118474d3f
+SHA256: 45381682821c24f53543ae6229b6bb3139a08f15bd8bfc6927b75b5fd3779c25
+Section: 乌龙工作室
+Description: Unseen 是一款 iOS 插件，帮助用户重新掌控自己设备上的截图和屏幕录制功能。
+ * 有些应用会检测截屏事件、监控屏幕录制或镜像状态，或利用私有图层行为在截图中隐藏普通界面内容。Unseen 能减少这类应用侧的干扰，让截屏和录制重新更接近用户可控的系统功能。
+ * 揭示应用中从截屏或录制中隐藏的普通内容
+ * 降低应用对系统截屏事件的感知
+ * 对普通应用隐藏屏幕录制和镜像状态
+ * 在“设置”中分别控制各项保护
+ * 如果插件不生效，可从插件设置重启渲染服务
+Author: 82flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/Unseen/icon.png
+Name: Unseen 绕过截图/录屏检测
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Unseen/js.json
+
+Package: com.82flex.unseens
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 14.0), preferenceloader
+Conflicts: com.82flex.unseen
+Filename: ./debs/iphoneos-arm64/com.82flex.unseens_0.0.3_iphoneos-arm64.deb
+Size: 44760
+MD5sum: f2c7793bac6de68365f3baae1a50fc83
+SHA1: b0f02276d274f5855b0f73063efdc4fc9c7a795e
+SHA256: a6129ac228fc1db6a7a51f5cdee0cbb3d7a5ef2b14d1315854b135b80eff8e61
+Section: 乌龙工作室
+Description: Unseen 是一款 iOS 插件，帮助用户重新掌控自己设备上的截图和屏幕录制功能。
+ * 有些应用会检测截屏事件、监控屏幕录制或镜像状态，或利用私有图层行为在截图中隐藏普通界面内容。Unseen 能减少这类应用侧的干扰，让截屏和录制重新更接近用户可控的系统功能。
+ * 揭示应用中从截屏或录制中隐藏的普通内容
+ * 降低应用对系统截屏事件的感知
+ * 对普通应用隐藏屏幕录制和镜像状态
+ * 在“设置”中分别控制各项保护
+ * 如果插件不生效，可从插件设置重启渲染服务
+Author: 82flex
+Icon: https://TrollStoreX.Github.io/sileodepiction/Unseen/icon.png
+Name: Unseen 绕过截图/录屏检测
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Unseen/js.json
+
 Package: com.82flex.wtvrbglaunchers
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -3060,6 +3110,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/YTlite/icon.png
 Name: YTLite YouTube 增强
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
 
+Package: com.dylv.liquidass
+Version: 0.1.0b
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 3596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: dylv.liquidass
+Filename: ./debs/iphoneos-arm64/com.dylv.liquidass_0.1.0b_iphoneos-arm64.deb
+Size: 1304500
+MD5sum: 497fd8151199cb297644225dd1e2f5cc
+SHA1: 556d3fb3feda21dd7c48021288cd17c20b8e6645
+SHA256: 8af17f7f8521acd3d8c61e50882de3a9ef01330a76bbfb2042a498803c9062c5
+Section: iOS 26
+Description: 让你的旧设备体验 Liquid Glass 液态玻璃
+Author: dylv
+Icon: https://TrollStoreX.Github.io/sileodepiction/Liquidass/icon.png
+Name: Liquid (Gl)ass 液态玻璃
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
+
+Package: com.dylv.liquidasss
+Version: 0.1.0b
+Architecture: iphoneos-arm64e
+Maintainer: dylv
+Installed-Size: 3596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: dylv.liquidass
+Filename: ./debs/iphoneos-arm64e/com.dylv.liquidasss_0.1.0b_iphoneos-arm64e.deb
+Size: 1301108
+MD5sum: 0f4420a3e6ddd5087cde3ecf800e21b1
+SHA1: 874ac697230a35d4e2fbdcb0f1d8bee0746bf551
+SHA256: bcb85d7c26efcbd57fb7ddcf417f3c9d4ae01ecfcbf2aa18ddba096a88705bc2
+Section: iOS 26
+Description: 让你的旧设备体验 Liquid Glass 液态玻璃
+Author: dylv
+Icon: https://TrollStoreX.Github.io/sileodepiction/Liquidass/icon.png
+Name: Liquid (Gl)ass 液态玻璃
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
+
 Package: com.eevee.spotifys
 Version: 6.1.4
 Architecture: iphoneos-arm64e
@@ -3570,6 +3658,54 @@ MD5sum: 4a456f8f0a2d9df371b9ac5b1746ecdb
 SHA1: a943cdf4ba59af00aaa051fe0b0da40cbab57b52
 SHA256: 299eee3eb9977dbb5f800fd9a4b999b878812dd1dbb50408e904815162fdd0c0
 Section: Utilities
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 全局字体管理器
+ * 支持 iOS 16.0 及以上版本
+ * 支持 Rootless 和 RootHide
+ * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
+ * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
+Author: Hmmzzz
+Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
+Name: MarkFont 字体管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
+
+Package: com.hmmzzz.fontmanagers
+Version: 0.3.5
+Architecture: iphoneos-arm64e
+Maintainer: Hmmzzz
+Installed-Size: 2324
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./debs/iphoneos-arm64e/com.hmmzzz.fontmanagers_0.3.5_iphoneos-arm64e.deb
+Size: 455564
+MD5sum: d33a4d5b0103e1b0efb83b7329ec204b
+SHA1: eb53d4195af7b964d0790b94b756041f3b300136
+SHA256: c3fd10009fc0bdf1d85e62e22254bcae4e031f8684f49e5f8cf9ff42f648f11a
+Section: 挂载
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 全局字体管理器
+ * 支持 iOS 16.0 及以上版本
+ * 支持 Rootless 和 RootHide
+ * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
+ * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
+Author: Hmmzzz
+Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
+Name: MarkFont 字体管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
+
+Package: com.hmmzzz.fontmanagers
+Version: 0.3.5
+Architecture: iphoneos-arm64
+Maintainer: Hmmzzz
+Installed-Size: 2324
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./debs/iphoneos-arm64/com.hmmzzz.fontmanagers_0.3.5_iphoneos-arm64.deb
+Size: 463428
+MD5sum: ec367194773daf0ba27ebeb5fb483e93
+SHA1: 488a77997a58a91f0ba1ea396705e19b7ec4fa04
+SHA256: 3898a26a2385669f6cfd5627fd7da2b6a3f9b8e4ff2ac9ceeaed9f608d45b333
+Section: 挂载
 Homepage: https://hmmzzz.github.io/repo/
 Description: iOS 全局字体管理器
  * 支持 iOS 16.0 及以上版本
@@ -5672,6 +5808,48 @@ Size: 346240
 MD5sum: 46d65742995957f082de1e33c2bd1142
 SHA1: b9b6d977b7d7bdb1ccd6811f6e293f0f81a86b12
 SHA256: 60ec02fc72c998af5a3726ff29379c7c53cbe1bb4d07ee2b67eb2362769ad6a9
+Section: 主题美化
+Description: iOS 越狱主题管理插件
+ * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。
+ * 可将图标主题应用于主屏幕、Dock 栏、App 切换器、共享菜单、设置界面、文件夹预览，以及实时更新的日历和时钟图标。
+Author: m4fn3
+Icon: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/icon.png
+Name: Mikkyy 主题插件
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/js.json
+
+Package: com.m4fn3.mikkyys
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: m4fn3
+Installed-Size: 1500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Filename: ./debs/iphoneos-arm64e/com.m4fn3.mikkyys_1.0.2_iphoneos-arm64e.deb
+Size: 429916
+MD5sum: 3a596a2b30bad59767c053189eb323eb
+SHA1: dc037d3307385ded80c7e68fe2b5b76ca2e8364a
+SHA256: 3d913452027a80169cb87b0affd3393837a695a953f4aa179416175f975ca9b4
+Section: 主题美化
+Description: iOS 越狱主题管理插件
+ * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。
+ * 可将图标主题应用于主屏幕、Dock 栏、App 切换器、共享菜单、设置界面、文件夹预览，以及实时更新的日历和时钟图标。
+Author: m4fn3
+Icon: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/icon.png
+Name: Mikkyy 主题插件
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/js.json
+
+Package: com.m4fn3.mikkyys
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: m4fn3
+Installed-Size: 1500
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.m4fn3.mikkyy
+Filename: ./debs/iphoneos-arm64/com.m4fn3.mikkyys_1.0.2_iphoneos-arm64.deb
+Size: 427168
+MD5sum: 1238476c71d50ce0e3afee124fdd1d0d
+SHA1: 943bd2902cb0ddbfd915f2939be41679856e4f37
+SHA256: 1286ebfdfdcae6f1e01f38cead47ec3b166ea8791cf93961507b9804a9cee136
 Section: 主题美化
 Description: iOS 越狱主题管理插件
  * 现代、轻量级的主题引擎，支持 iOS 16 至 iOS 26。
