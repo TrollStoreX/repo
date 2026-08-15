@@ -12698,3 +12698,22 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/UMount/icon.png
 Name: UMount Relaxin 挂载
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/UMount/js.json
 
+Package: zone.uni9k.umounts
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: uni9k
+Installed-Size: 2800
+Conflicts: zone.uni9k.umount, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager, com.hmmzzz.fontmanagers
+Filename: ./debs/iphoneos-arm64e/zone.uni9k.umounts_1.2.0_iphoneos-arm64e.deb
+Size: 1506696
+MD5sum: 464ad3a28cfe21e9d282756b0f36e749
+SHA1: 4c7c1ba5dfa049b5ec542b8e614afb8716b532f6
+SHA256: 392f7f5b4b8fa3bb05a2ef6bbfce90db99825c478498c73b2fec91826f0c1990
+Section: 挂载
+Description: 用于 Relaxin/RootHide 的原生SwiftUI 系统目录绑定挂载管理器，具有内核后备、诊断、RootHide安全模式门控和引导循环保护。
+ * Native SwiftUI system-directory bind-mount manager for Relaxin / RootHide, with kernel-ucred fallback, diagnostics, RootHide safe-mode gating, and bootloop protection.
+Author: uni9k
+Icon: https://TrollStoreX.Github.io/sileodepiction/UMount/icon.png
+Name: UMount Relaxin 挂载
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/UMount/js.json
+
