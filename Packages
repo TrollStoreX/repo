@@ -3112,6 +3112,25 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTlite/js.json
 
 Package: com.dylv.liquidass
 Version: 0.1.0b
+Architecture: iphoneos-arm64e
+Maintainer: dylv
+Installed-Size: 3596
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: dylv.liquidass
+Filename: ./debs/iphoneos-arm64e/com.dylv.liquidass_0.1.0b_iphoneos-arm64e.deb
+Size: 1301108
+MD5sum: 7ce127671c7f0ae59a97b3d6295b3220
+SHA1: dd12aaa471a60934677894fb48018a3b96ae8100
+SHA256: 3be97774a82ea87f5869dfdf5d23e2f3bfd9ef748484fc34be0d3a17657ecb93
+Section: iOS 26
+Description: 让你的旧设备体验 Liquid Glass 液态玻璃
+Author: dylv
+Icon: https://TrollStoreX.Github.io/sileodepiction/Liquidass/icon.png
+Name: Liquid (Gl)ass 液态玻璃
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
+
+Package: com.dylv.liquidass
+Version: 0.1.0b
 Architecture: iphoneos-arm64
 Maintainer: dylv
 Installed-Size: 3596
@@ -3122,25 +3141,6 @@ Size: 1304500
 MD5sum: 497fd8151199cb297644225dd1e2f5cc
 SHA1: 556d3fb3feda21dd7c48021288cd17c20b8e6645
 SHA256: 8af17f7f8521acd3d8c61e50882de3a9ef01330a76bbfb2042a498803c9062c5
-Section: iOS 26
-Description: 让你的旧设备体验 Liquid Glass 液态玻璃
-Author: dylv
-Icon: https://TrollStoreX.Github.io/sileodepiction/Liquidass/icon.png
-Name: Liquid (Gl)ass 液态玻璃
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Liquidass/js.json
-
-Package: com.dylv.liquidasss
-Version: 0.1.0b
-Architecture: iphoneos-arm64e
-Maintainer: dylv
-Installed-Size: 3596
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Conflicts: dylv.liquidass
-Filename: ./debs/iphoneos-arm64e/com.dylv.liquidasss_0.1.0b_iphoneos-arm64e.deb
-Size: 1301108
-MD5sum: 0f4420a3e6ddd5087cde3ecf800e21b1
-SHA1: 874ac697230a35d4e2fbdcb0f1d8bee0746bf551
-SHA256: bcb85d7c26efcbd57fb7ddcf417f3c9d4ae01ecfcbf2aa18ddba096a88705bc2
 Section: iOS 26
 Description: 让你的旧设备体验 Liquid Glass 液态玻璃
 Author: dylv
