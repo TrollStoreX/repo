@@ -3372,6 +3372,47 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/GTok/icon.png
 Name: GTok TikTok 增强
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/GTok/js.json
 
+Package: com.gtoks
+Version: 1.7-1
+Architecture: iphoneos-arm64e
+Maintainer: g_tweaks
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate | substitute | libhooker | ellekit
+Conflicts: com.gtokcom.gtok
+Filename: ./debs/iphoneos-arm64e/com.gtoks_1.7-1_iphoneos-arm64e.deb
+Size: 1712974
+MD5sum: 7d352b57791142ee12f2db47b07e7365
+SHA1: fefac535f97e6caea71714f75d1312eea7020287
+SHA256: acd9165d6d47e4efd1e70a116c6b411e28e23b0b360ef598c0c9876067f07d4d
+Section: TikTok
+Description: TikTok 增强插件
+ * 支持中文，需要在插件设置内手动云端翻译
+ * GTok for TikTok by t.me/g_tweaks
+Author: g_tweaks
+Icon: https://TrollStoreX.Github.io/sileodepiction/GTok/icon.png
+Name: GTok TikTok 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/GTok/js.json
+
+Package: com.gtoks
+Version: 1.7-1
+Architecture: iphoneos-arm64
+Maintainer: g_tweaks
+Depends: firmware (>= 14.0), mobilesubstrate | substitute | libhooker | ellekit
+Conflicts: com.gtokcom.gtok
+Filename: ./debs/iphoneos-arm64/com.gtoks_1.7-1_iphoneos-arm64.deb
+Size: 904494
+MD5sum: b66edfd28e11e2349f8340e032f942c7
+SHA1: a2f3b1832f1c1dd6eeba96d90bc01ec76e5f966f
+SHA256: 7954962f3103b4b7456b48a78172aefdab487c0aa809b799fb8bc6394edd93fa
+Section: TikTok
+Description: TikTok 增强插件
+ * 支持中文，需要在插件设置内手动云端翻译
+ * GTok for TikTok by t.me/g_tweaks
+Author: g_tweaks
+Icon: https://TrollStoreX.Github.io/sileodepiction/GTok/icon.png
+Name: GTok TikTok 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/GTok/js.json
+
 Package: com.hbwechathelper.ailuns
 Version: 2.0-1
 Architecture: iphoneos-arm64e
