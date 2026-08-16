@@ -3669,54 +3669,6 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
 Name: MarkFont 字体管理器
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
 
-Package: com.hmmzzz.fontmanagers
-Version: 0.3.5
-Architecture: iphoneos-arm64e
-Maintainer: Hmmzzz
-Installed-Size: 2324
-Depends: firmware (>= 16.0), uikittools
-Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
-Filename: ./debs/iphoneos-arm64e/com.hmmzzz.fontmanagers_0.3.5_iphoneos-arm64e.deb
-Size: 455564
-MD5sum: d33a4d5b0103e1b0efb83b7329ec204b
-SHA1: eb53d4195af7b964d0790b94b756041f3b300136
-SHA256: c3fd10009fc0bdf1d85e62e22254bcae4e031f8684f49e5f8cf9ff42f648f11a
-Section: 挂载
-Homepage: https://hmmzzz.github.io/repo/
-Description: iOS 全局字体管理器
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
-Author: Hmmzzz
-Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
-Name: MarkFont 字体管理器
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
-
-Package: com.hmmzzz.fontmanagers
-Version: 0.3.5
-Architecture: iphoneos-arm64
-Maintainer: Hmmzzz
-Installed-Size: 2324
-Depends: firmware (>= 16.0), uikittools
-Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
-Filename: ./debs/iphoneos-arm64/com.hmmzzz.fontmanagers_0.3.5_iphoneos-arm64.deb
-Size: 463428
-MD5sum: ec367194773daf0ba27ebeb5fb483e93
-SHA1: 488a77997a58a91f0ba1ea396705e19b7ec4fa04
-SHA256: 3898a26a2385669f6cfd5627fd7da2b6a3f9b8e4ff2ac9ceeaed9f608d45b333
-Section: 挂载
-Homepage: https://hmmzzz.github.io/repo/
-Description: iOS 全局字体管理器
- * 支持 iOS 16.0 及以上版本
- * 支持 Rootless 和 RootHide
- * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
- * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
-Author: Hmmzzz
-Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
-Name: MarkFont 字体管理器
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
-
 Package: com.huami.bilinoads
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -4704,6 +4656,46 @@ Author: iosdump
 Icon: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/icon.png
 Name: FilzaCarPlugin
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/FilzaCarPlugin/js.json
+
+Package: com.iosdump.zones
+Version: 2.1.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 1164
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Conflicts: com.iosdump.zone
+Filename: ./debs/iphoneos-arm64e/com.iosdump.zones_2.1.0_iphoneos-arm64e.deb
+Size: 208804
+MD5sum: 5841c69074bd285d75499ed5338fbe06
+SHA1: 15848659297d65ee0acf5637d0a3f9bb92decc79
+SHA256: af85e8edcc4c2ad0351bc91f828bba06cf468870eaccf3454bb27722574d01e7
+Section: 壁纸
+Description: Zone 支持旧系统使用 .tendies 格式的交互壁纸/视频
+ * 支持 iOS 14 - iOS 17
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Zone/icon.png
+Name: Zone 交互壁纸
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Zone/js.json
+
+Package: com.iosdump.zones
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 1164
+Depends: mobilesubstrate, preferenceloader, unzip, com.opa334.ccsupport
+Conflicts: com.iosdump.zone
+Filename: ./debs/iphoneos-arm64/com.iosdump.zones_2.1.0_iphoneos-arm64.deb
+Size: 210884
+MD5sum: 991d24a042357fe85e18f97527bd4705
+SHA1: 3b6c9212475022fd22ecd762f1f92e49b73d8f81
+SHA256: 23f4ca531f1442e5f04beb6e2d8967fc7707888283392f56c08183db54c797cd
+Section: 壁纸
+Description: Zone 支持旧系统使用 .tendies 格式的交互壁纸/视频
+ * 支持 iOS 14 - iOS 17
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Zone/icon.png
+Name: Zone 交互壁纸
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Zone/js.json
 
 Package: com.iosrxwy.QDReader
 Version: 0.1-1
