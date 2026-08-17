@@ -10264,6 +10264,43 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
 Name: 威锋去广告
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WF/js.json
 
+Package: com.weifeng.noad
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: ylr
+Installed-Size: 492
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.weifeng.noad_1.5.5_iphoneos-arm64e.deb
+Size: 133928
+MD5sum: f5ac23424ff676ca161b65717877b765
+SHA1: b4430d010d3ae800365b2720a859c4295e408e0f
+SHA256: b70c32acf263104bca6604594708a5cfb85a9f61629f808c387a1975093b9bef
+Section: 应用破解
+Description: 最后在威锋 7.1.1 进行测试
+Author: ylr
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
+Name: 威锋去广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WF/js.json
+
+Package: com.weifeng.noad
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 492
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64/com.weifeng.noad_1.5.5_iphoneos-arm64.deb
+Size: 88108
+MD5sum: 27061204468981fa3c44824090b9103c
+SHA1: 16f707ee51e5bb6ce4eed66c279b09a6348a83d4
+SHA256: 8e469e1afd44fdc7c05903f1bc2b92004de5681f8c2f624643c9cb56faeb9d2b
+Section: 应用破解
+Description: 最后在威锋 7.1.1 进行测试
+Author: ylr
+Icon: https://TrollStoreX.Github.io/sileodepiction/repo_pic/weifeng.png
+Name: 威锋去广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WF/js.json
+
 Package: com.wrp1002.cornbars
 Version: 1.1.0
 Architecture: iphoneos-arm64e
