@@ -4868,6 +4868,46 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/YTKACE/icon.png
 Name: YTKACE YouTube 增强
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTKACE/js.json
 
+Package: com.itzzace.ytkaces
+Version: 0.8.4
+Architecture: iphoneos-arm64e
+Maintainer: itzzace
+Installed-Size: 2936
+Depends: mobilesubstrate | ellekit, firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./debs/iphoneos-arm64e/com.itzzace.ytkaces_0.8.4_iphoneos-arm64e.deb
+Size: 1608674
+MD5sum: 0fa4e76530fe535dc4bc103feda92888
+SHA1: a05ada2ac8a4862e4132bc729e7478f15ee02f3c
+SHA256: 0ca2dc6d40ebc7d4d0a4953d6c9d2d6ecf18c83e68b1edb0601ef647fb039f65
+Section: 应用破解
+Description: YTKACE 是一款免费、开源的 iOS 版 YouTube 增强与下载工具，支持 SponsorBlock、后台播放、播放器控制及界面自定义。
+ * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Author: itzzace
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTKACE/icon.png
+Name: YTKACE YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTKACE/js.json
+
+Package: com.itzzace.ytkaces
+Version: 0.8.4
+Architecture: iphoneos-arm64
+Maintainer: itzzace
+Installed-Size: 2936
+Depends: mobilesubstrate | ellekit, firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./debs/iphoneos-arm64/com.itzzace.ytkaces_0.8.4_iphoneos-arm64.deb
+Size: 1608888
+MD5sum: c91491f18e871b1171bcfc65f547aebe
+SHA1: ff15a86ddaa0afd2a36d97998b60ba7d586c3978
+SHA256: d7d99a28a2f63bdb22ed9b5fe0aed6d6d325e09642ee66b19a3c28764d9df219
+Section: 应用破解
+Description: YTKACE 是一款免费、开源的 iOS 版 YouTube 增强与下载工具，支持 SponsorBlock、后台播放、播放器控制及界面自定义。
+ * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Author: itzzace
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTKACE/icon.png
+Name: YTKACE YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTKACE/js.json
+
 Package: com.jamme.picsartpatch
 Version: 4.2.0+debug
 Architecture: iphoneos-arm64e
