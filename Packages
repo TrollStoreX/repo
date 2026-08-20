@@ -276,48 +276,6 @@ Name: PhoneKeyReset 拨号键复位
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/PhoneKeyReset/js.json
 
 Package: codes.aurora.kayokos
-Version: 3.0
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 952
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
-Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_3.0_iphoneos-arm64e.deb
-Size: 131524
-MD5sum: a92fd8f635535d326bfc20d1bb169204
-SHA1: 9552b8e299d1666510066d64d0d0922e8386e1c8
-SHA256: 7326bd8bde82d1d59edf43bc72305fad96758dfe8166bd0335801e84ccc63d2a
-Section: 乌龙工作室
-Description: iOS 剪切板插件
- * Clipboard manager for iOS
- * 由「乌龙工作室」修复支持 iOS 16
-Author: Alexandra Aurora Göttlicher
-Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
-Name: Kayoko 剪切板
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
-
-Package: codes.aurora.kayokos
-Version: 3.0
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 952
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko
-Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_3.0_iphoneos-arm64.deb
-Size: 131684
-MD5sum: 6961d70c1fec2da747e4fa184b86913b
-SHA1: 8915eabe60767a6d0ac17f02c20c9d9d8bd2bff8
-SHA256: 91c6beaa3a95cda5f615c1bfed027f206f8f914abea9ae0825fc66611c64cbfb
-Section: 乌龙工作室
-Description: iOS 剪切板插件
- * Clipboard manager for iOS
- * 由「乌龙工作室」修复支持 iOS 16
-Author: Alexandra Aurora Göttlicher
-Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
-Name: Kayoko 剪切板
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
-
-Package: codes.aurora.kayokos
 Version: 4.6
 Architecture: iphoneos-arm64e
 Maintainer: mlgm
@@ -329,27 +287,6 @@ Size: 670708
 MD5sum: 926613a2d4c571848fc764bcdec19599
 SHA1: 58313edc6355db44b3947517a4f353b67f62f84e
 SHA256: 28de3cb3813b2d3f12f71991d6c752ff3dacc1880205dca0cd97e7757645379f
-Section: 乌龙工作室
-Description: iOS 剪切板插件
- * Clipboard manager for iOS
- * 基于「乌龙工作室」版本进行修改
-Author: mlgm
-Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
-Name: Kayoko 剪切板
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
-
-Package: codes.aurora.kayokos
-Version: 4.6
-Architecture: iphoneos-arm64
-Maintainer: mlgm
-Installed-Size: 3156
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko,com.mlgm.kayoko
-Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_4.6_iphoneos-arm64.deb
-Size: 672244
-MD5sum: eb3fdcbb44735e419e8527485b8bb65b
-SHA1: 643e2487d7e4d90d9a773970175b897bef52a749
-SHA256: 68ee1eb3f81329ad6408cf50113b9a6b8ca14384cf3e5760c78d31e0019b7f3c
 Section: 乌龙工作室
 Description: iOS 剪切板插件
  * Clipboard manager for iOS
@@ -3191,6 +3128,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
 Name: EeveeSpotify
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
 
+Package: com.eevee.spotifys
+Version: 6.6.8
+Architecture: iphoneos-arm64e
+Maintainer: Eevee
+Installed-Size: 1688
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.29.0)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64e/com.eevee.spotifys_6.6.8_iphoneos-arm64e.deb
+Size: 2072176
+MD5sum: ac97d70f0d6310abb9b28f5c3824bbad
+SHA1: 633821adf09c4c9d1a35e965022dbdfa7b4934d5
+SHA256: 416a6f071e010c6488ec3ad2ebf427537e1005e7c1afbd877b1b3b8e929549c1
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
+Package: com.eevee.spotifys
+Version: 6.6.8
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 1688
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobufs (>= 1.29.0)
+Conflicts: com.eevee.spotify, com.dao.spotify, xyz.cypwn.eeveespotify
+Filename: ./debs/iphoneos-arm64/com.eevee.spotifys_6.6.8_iphoneos-arm64.deb
+Size: 1999284
+MD5sum: caad90bd36a9a34f825b3972c3983028
+SHA1: b1ea2d4997af7e728f10a96d43497c951fb4f6f4
+SHA256: 5fab1ca05a9882e3746e1fb7c1ddfb9aec7479576dfe265c418f18380335eb40
+Section: 应用破解
+Description: Spotify Premium
+ * 一个获取免费 Spotify Premium 的插件
+ * A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Icon: https://TrollStoreX.Github.io/sileodepiction/Eevee/icon.png
+Name: EeveeSpotify
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Eevee/js.json
+
 Package: com.exile90.icleanerpros
 Version: 7.10.0
 Architecture: iphoneos-arm64e
@@ -6012,6 +5991,45 @@ Author: m4fn3
 Icon: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/icon.png
 Name: Mikkyy 主题插件
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Mikkyy/js.json
+
+Package: com.mg.adskips
+Version: 2.1.0
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64e/com.mg.adskips_2.1.0_iphoneos-arm64e.deb
+Size: 32872
+MD5sum: 774648410600aeaa20d0353af875a1e5
+SHA1: 97ade4b8d752937e03f58418a12c60e1eb7929dc
+SHA256: 5be48aba81a31f36f3a5e13a92c17cc3c08b4c153634a82725e36d992f11421d
+Section: 应用破解
+Description: 快速跳过开屏广告
+ * 适配大多数应用，具体自测
+ * 插件注入 com.apple.UIKit，有冲突自行禁用
+Author: M哥
+Icon: https://TrollStoreX.Github.io/sileodepiction/AdSkip/icon.png
+Name: AdSkip 跳过启动广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AdSkip/js.json
+
+Package: com.mg.adskips
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 144
+Filename: ./debs/iphoneos-arm64/com.mg.adskips_2.1.0_iphoneos-arm64.deb
+Size: 24812
+MD5sum: 292f532df7a59dc315d957ea8664bec7
+SHA1: 908e1d705f872f4538ea1a97d1a4f84ad0e047b7
+SHA256: 06d2796bc7d0956bd8cea18323226d03bf103fd79e5478f37e1a2dc1f9227347
+Section: 应用破解
+Description: 快速跳过开屏广告
+ * 适配大多数应用，具体自测
+ * 插件注入 com.apple.UIKit，有冲突自行禁用
+Author: M哥
+Icon: https://TrollStoreX.Github.io/sileodepiction/AdSkip/icon.png
+Name: AdSkip 跳过启动广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AdSkip/js.json
 
 Package: com.mikey820.pleasedontstopthemusics
 Version: 2.3.1
