@@ -1313,6 +1313,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AFN/icon.png
 Name: 微信大杂烩 AFN
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AFN/js.json
 
+Package: com.afns
+Version: 3.5.9
+Architecture: iphoneos-arm64e
+Maintainer: AFN Team
+Installed-Size: 5412
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper, com.afn
+Filename: ./debs/iphoneos-arm64e/com.afns_3.5.9_iphoneos-arm64e.deb
+Size: 2668172
+MD5sum: 6883e5fc210d6579e737d0c0b1a87622
+SHA1: 39faa44386e2ed31ffd539878994adc9142e8f24
+SHA256: 2e88f0abf10ebf25771e17aa0b8518ad74600b5eb6d97dcb780fb6b79c2ce374
+Section: 微信插件
+Description: 微信超多功能插件
+Author: AFN Team
+Icon: https://TrollStoreX.Github.io/sileodepiction/AFN/icon.png
+Name: 微信大杂烩 AFN
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AFN/js.json
+
+Package: com.afns
+Version: 3.5.9
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 5412
+Depends: firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper, com.afn
+Filename: ./debs/iphoneos-arm64/com.afns_3.5.9_iphoneos-arm64.deb
+Size: 2706480
+MD5sum: 995df654c721c292d4869bb225561908
+SHA1: 96318ff3691bf544f76dc8d16af7ca116fe21c01
+SHA256: f7b0e1a057cc59f97dbea05a013294fee21719c3cd8135c9dcb96476cd352d5c
+Section: 微信插件
+Description: 微信超多功能插件
+Author: AFN Team
+Icon: https://TrollStoreX.Github.io/sileodepiction/AFN/icon.png
+Name: 微信大杂烩 AFN
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AFN/js.json
+
 Package: com.anthopak.appaze3s
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -4249,6 +4288,62 @@ Size: 8747824
 MD5sum: a235c522712322b2dae15d92b9db1aba
 SHA1: e352728abcbd9bf65060eb3082ba3d46e6b7c1c8
 SHA256: a2cb4d3998cb59c02df54118aee57ae4de545b66dc575fcc34eb33eaf988cf7a
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.6-6
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.6-6_iphoneos-arm64e.deb
+Size: 4462016
+MD5sum: 821e3c59e3d4b8ed3f7e0c4e39003d89
+SHA1: e1738f1b989a7552802507b20af81381def4b86f
+SHA256: b6d6f05cb801ffa7cf404a8506c17e112d3fce6db2bddf0e854c02b3cec08572
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.6-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.6-6_iphoneos-arm64.deb
+Size: 4461292
+MD5sum: 5e7d134326500a2e8305ce72ad8147c5
+SHA1: 020eb0c4928a17dae147974b97b06724a058f3fa
+SHA256: 794d3606ff78c7758ea9d60a37f074be9eb2129fdfea2a50226de9207316d56c
 Section: 微信插件
 Description: 微信实用小插件
  * 分组功能
