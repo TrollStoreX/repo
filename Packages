@@ -235,6 +235,26 @@ Name: 连个锤子 修复联网
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Chuizi/js.json
 Sponsor: thebigboss.org
 
+Package: cn.zqbb.jailfoolss
+Version: 5.0-2
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 16700
+Depends: firmware (>= 15.0)
+Conflicts: cn.zqbb.jailfools
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.jailfoolss_5.0-2_iphoneos-arm64e.deb
+Size: 5098364
+MD5sum: 5f55c8071488c582ffed08a8417fae2d
+SHA1: dceb0fbcb7a24f105bababa6fbaa8b553ddcd2a8
+SHA256: db833eb669592742506ad18ea86a7260ae5fe807202c517358475751a98bbab4
+Section: Applications
+Description: 越狱版 TrollFools 注入工具
+ * 支持将 dylib 注入到应用内
+Author: zqbb
+Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.png
+Name: JailFools 越狱版 TrollFools
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.json
+
 Package: cn.zqbb.phonekey.resets
 Version: 1.0.3
 Architecture: iphoneos-arm64e
