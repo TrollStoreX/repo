@@ -255,6 +255,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.png
 Name: JailFools 越狱版 TrollFools
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.json
 
+Package: cn.zqbb.jailfoolss
+Version: 5.0-3
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 16700
+Depends: firmware (>= 15.0)
+Conflicts: cn.zqbb.jailfools
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.jailfoolss_5.0-3_iphoneos-arm64e.deb
+Size: 5033492
+MD5sum: a1b55f28655e8c077a95b651d3a826ee
+SHA1: f3da36ed0d6709f57967d38f6dbd337afe0010ea
+SHA256: b09f913e8951f87b7b8aa5af9eea957037e9103752e42e2c4107497ef43a5d6b
+Section: Applications
+Description: 越狱版 TrollFools 注入工具
+ * 支持将 dylib 注入到应用内
+Author: zqbb
+Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.png
+Name: JailFools 越狱版 TrollFools
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.json
+
 Package: cn.zqbb.phonekey.resets
 Version: 1.0.3
 Architecture: iphoneos-arm64e
