@@ -338,6 +338,48 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
 Name: Kayoko 剪切板
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
 
+Package: codes.aurora.kayokos
+Version: 4.8.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3156
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko,com.mlgm.kayoko
+Filename: ./debs/iphoneos-arm64e/codes.aurora.kayokos_4.8.1_iphoneos-arm64e.deb
+Size: 684276
+MD5sum: 6842bf2074e52e20835ac646e4773ad7
+SHA1: 0e5ee220475253e296f26b61c4212fe29680b670
+SHA256: 03029ba9e46dee14589c404d4a4e7ca327893790edaf117b75c8672a6a7bd9c8
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * 功能丰富的剪切板管理器
+ * 基于「乌龙工作室」版本进行修改
+Author: mlgm
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
+Package: codes.aurora.kayokos
+Version: 4.8.1
+Architecture: iphoneos-arm64
+Maintainer: mlgm
+Installed-Size: 3156
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: codes.aurora.kayoko, com.dao.kayoko, byg.iosios.net.kayoko, xyz.cypwn.kayoko,com.mlgm.kayoko
+Filename: ./debs/iphoneos-arm64/codes.aurora.kayokos_4.8.1_iphoneos-arm64.deb
+Size: 690392
+MD5sum: 603bc1db45c04ba1fa7e21d411a81a06
+SHA1: 634647e74b28e02a59d61c385a5119ce1861e819
+SHA256: d7ebbdb69de4ff9cabb3f567737943a2c0a9691fb75a7a9dfeaeb3936ee77198
+Section: 乌龙工作室
+Description: iOS 剪切板插件
+ * 功能丰富的剪切板管理器
+ * 基于「乌龙工作室」版本进行修改
+Author: mlgm
+Icon: https://TrollStoreX.Github.io/sileodepiction/Kayoko/icon.png
+Name: Kayoko 剪切板
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Kayoko/js.json
+
 Package: com.0xkuj.notificationsgroupcounts
 Version: 1.0.7
 Architecture: iphoneos-arm64e
@@ -1852,6 +1894,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/icon.png
 Name: Physpringboard 图标重力感应
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/js.json
 
+Package: com.chloe.physpringboards
+Version: 1.9.19
+Architecture: iphoneos-arm64e
+Maintainer: Chloe
+Installed-Size: 496
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17, com.chloe.physpringboard
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: ./debs/iphoneos-arm64e/com.chloe.physpringboards_1.9.19_iphoneos-arm64e.deb
+Size: 102434
+MD5sum: 9262e2445c01247201da3fca8b94b9e1
+SHA1: 16db440ef09e570fb01e8ad7b96f701fa32a4598
+SHA256: 255919579c6a538e422ef4e338871492052f7159e71e7f32ea50b869fcc8e3a0
+Section: Tweaks
+Description: 在主屏幕摇晃设备，图标会因重力感应下坠
+ * 再次摇晃设备，将恢复原样
+ * 长按桌面，图标会被吸引过去
+Author: Chloe
+Icon: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/icon.png
+Name: Physpringboard 图标重力感应
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/js.json
+
+Package: com.chloe.physpringboards
+Version: 1.9.19
+Architecture: iphoneos-arm64
+Maintainer: Chloe
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.chloe.gravitation17, com.chloe.physpringboard
+Replaces: com.chloe.gravitation17
+Provides: com.chloe.gravitation17
+Filename: ./debs/iphoneos-arm64/com.chloe.physpringboards_1.9.19_iphoneos-arm64.deb
+Size: 79660
+MD5sum: 2a815a16fbcac00840aecd4ed5fd7912
+SHA1: c3bbdab75ac6ba942d61c544cd0c739d06af8f04
+SHA256: ad37a56218db12ca52727ace2901c668954aa5d30e9f53a011e04bf406977639
+Section: Tweaks
+Description: 在主屏幕摇晃设备，图标会因重力感应下坠
+ * 再次摇晃设备，将恢复原样
+ * 长按桌面，图标会被吸引过去
+Author: Chloe
+Icon: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/icon.png
+Name: Physpringboard 图标重力感应
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Physpringboard/js.json
+
 Package: com.choco.tgextras
 Version: 0.0.1-1
 Architecture: iphoneos-arm64e
@@ -2575,6 +2664,47 @@ Size: 7908184
 MD5sum: 671e00da118ffde38e02a5af5544d84b
 SHA1: edb9209d75f156e35c851e65a3622fb20cb7e24a
 SHA256: 07759ec90fcc18c19e1109a4d3e10bd18916fc55dd158e590eab852abc6caa70
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.6.6
+Architecture: iphoneos-arm64e
+Maintainer: WeChat
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64e/com.dumpapp.wechat-rootlesss_2.6.6_iphoneos-arm64e.deb
+Size: 5861696
+MD5sum: 11e80ddb0e74f8b8271d726844144b2e
+SHA1: aae27c391e43dcc028ec747e9a251826c88a15ce
+SHA256: 7dad6bfc3ef15fae7cd485219275200e342ead87044ba06aa0543cc79042fc0c
+Section: 微信插件
+Description: 微信多功能插件
+ * 1:1 复刻“微信净化”插件，保留红包功能
+ * 注意：不可与“微信净化”共存
+Author: DumpApp
+Icon: https://TrollStoreX.Github.io/sileodepiction/DumpApp/icon.png
+Name: 锤子助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DumpApp/js.json
+
+Package: com.dumpapp.wechat-rootlesss
+Version: 2.6.6
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.dumpapp.wechat-rootless, netskao.wechatpurifications, netskao.wechatpurification, byg.iosios.net.dumpapp.wechat-rootless
+Filename: ./debs/iphoneos-arm64/com.dumpapp.wechat-rootlesss_2.6.6_iphoneos-arm64.deb
+Size: 8010176
+MD5sum: 9d3a11e8d3032702a4785ec9444abf7f
+SHA1: b934058586f4725331a68ee6288ede0006773899
+SHA256: f48acb28ffe3554ca262147e9eb936f82fa1488281ecf400eced88497f9e432a
 Section: 微信插件
 Description: 微信多功能插件
  * 1:1 复刻“微信净化”插件，保留红包功能
@@ -3584,6 +3714,57 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
 Name: 黄白助手
 Sileodepiction: https://TrollStoreX.Github.io/
 
+Package: com.hbwechathelper.ailuns
+Version: 2.1-5
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64e/com.hbwechathelper.ailuns_2.1-5_iphoneos-arm64e.deb
+Size: 6877696
+MD5sum: 1ae7429dc2ff453c59a15c8c36639779
+SHA1: 20963d116654c1ca648971e0dff3cb4ec54cc199
+SHA256: b8ca8f60b109e1b715e2e17e4cb30f8fa3f971c91c3bec889f226d7ae021a875
+Section: 微信插件
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K 原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/
+
+Package: com.hbwechathelper.ailuns
+Version: 2.1-5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Conflicts: com.HBWechatHelper.ailun, byg.iosios.net.hbwechathelper.rootlless
+Filename: ./debs/iphoneos-arm64/com.hbwechathelper.ailuns_2.1-5_iphoneos-arm64.deb
+Size: 6879404
+MD5sum: 8282a672b623bf146184a3bf5b3702a3
+SHA1: 94817c0e645127fb7166ae7d0d3118cb68d64a91
+SHA256: e62dd686e6f329f19db55c62a913e8e2af77a32bc4011fcd119a54384d7be5b4
+Section: 微信插件
+Description: 微信多功能插件
+ * 一个微信插件文本转语音
+ * 点歌朋友圈一键点赞等诸多功能
+ * 发送网络语录舔狗日记骂人等文案
+ * 4K 原图手绘壁纸等
+ * 抢私聊红包
+ * 自定义信息尾巴
+ * 自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai
+Icon: https://TrollStoreX.Github.io/sileodepiction/HB/icon.png
+Name: 黄白助手
+Sileodepiction: https://TrollStoreX.Github.io/
+
 Package: com.hmmzzz.fontmanagers
 Version: 0.3.0
 Architecture: iphoneos-arm64e
@@ -3717,6 +3898,54 @@ MD5sum: 4a456f8f0a2d9df371b9ac5b1746ecdb
 SHA1: a943cdf4ba59af00aaa051fe0b0da40cbab57b52
 SHA256: 299eee3eb9977dbb5f800fd9a4b999b878812dd1dbb50408e904815162fdd0c0
 Section: Utilities
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 全局字体管理器
+ * 支持 iOS 16.0 及以上版本
+ * 支持 Rootless 和 RootHide
+ * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
+ * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
+Author: Hmmzzz
+Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
+Name: MarkFont 字体管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
+
+Package: com.hmmzzz.fontmanagers
+Version: 0.3.7
+Architecture: iphoneos-arm64e
+Maintainer: Hmmzzz
+Installed-Size: 2324
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./debs/iphoneos-arm64e/com.hmmzzz.fontmanagers_0.3.7_iphoneos-arm64e.deb
+Size: 494212
+MD5sum: d7c0c04162cc7409b8714a75f1d2621a
+SHA1: f5f32c179beb7dbbbd837f6b0a738687bb78517b
+SHA256: ce2ef90fe5c74c5dfb3a431103bc0dd01aef0f9cc3d2c1805c29f8c29b06fe6d
+Section: 挂载
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 全局字体管理器
+ * 支持 iOS 16.0 及以上版本
+ * 支持 Rootless 和 RootHide
+ * 可在 App 内导入 ZIP、TTF、TTC 和 OTF 字体，创建并切换多套字体方案，将字体安全应用到整个系统，也可以随时恢复系统默认字体
+ * MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。两种环境需要安装各自对应的软件包，请勿混装
+Author: Hmmzzz
+Icon: https://TrollStoreX.Github.io/sileodepiction/MarkFont/icon.png
+Name: MarkFont 字体管理器
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MarkFont/js.json
+
+Package: com.hmmzzz.fontmanagers
+Version: 0.3.7
+Architecture: iphoneos-arm64
+Maintainer: Hmmzzz
+Installed-Size: 2324
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./debs/iphoneos-arm64/com.hmmzzz.fontmanagers_0.3.7_iphoneos-arm64.deb
+Size: 503608
+MD5sum: dbed7217b8da6886aeb10056397a2e7c
+SHA1: 0d6e172ad4279066b0d4c089316e496e6fc30606
+SHA256: 6fb7b9ff0b3a3e980154f0cc0657263f8cce121bac93354924af1d2223f7b60e
+Section: 挂载
 Homepage: https://hmmzzz.github.io/repo/
 Description: iOS 全局字体管理器
  * 支持 iOS 16.0 及以上版本
@@ -9761,6 +9990,45 @@ Description: 微信主题插件
 Author: 苏兔
 Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
 Name: 酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 6.2.7-1
+Architecture: iphoneos-arm64e
+Maintainer: Carby
+Installed-Size: 1848
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64e/com.sutuplus.releasefugu15s_6.2.7-1_iphoneos-arm64e.deb
+Size: 748888
+MD5sum: 569caf674ba867045e0730eac2a03fdd
+SHA1: 20fb6277a0610cd3dae23bf445db9061eaebd9ce
+SHA256: 061307bf583085a37c920b626cd844adb1d52cb5b9e9d325a1bd67fbe6dd4738
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 微信酸果
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
+
+Package: com.sutuplus.releasefugu15s
+Version: 6.2.7-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 1848
+Depends: mobilesubstrate
+Conflicts: com.sutuplus.releasefugu15, byg.iosios.net.releasefugu15
+Filename: ./debs/iphoneos-arm64/com.sutuplus.releasefugu15s_6.2.7-1_iphoneos-arm64.deb
+Size: 761300
+MD5sum: 13ee38392a2d4543eb5b9a3e0c26eb18
+SHA1: fcad45ffb910d677b78c4ff96af9abdf7895b8cd
+SHA256: ce2a1299742caaa8671ea2c963141c76ffd35209cf278fb91204b7ab582a6e57
+Section: 微信插件
+Description: 微信主题插件
+Author: 苏兔
+Icon: https://TrollStoreX.Github.io/sileodepiction/Sutu/icon.png
+Name: 微信酸果
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Sutu/js.json
 
 Package: com.swing.tiktoknocreatbutton
