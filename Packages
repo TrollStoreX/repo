@@ -276,17 +276,17 @@ Name: JailFools 越狱版 TrollFools
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.json
 
 Package: cn.zqbb.jailfoolss
-Version: 5.1.0
+Version: 5.1.1
 Architecture: iphoneos-arm64e
 Maintainer: zqbb
 Installed-Size: 16700
 Depends: firmware (>= 15.0)
 Conflicts: cn.zqbb.jailfools
-Filename: ./debs/cn.zqbb.jailfoolss_5.1.0_iphoneos-arm64e.deb
-Size: 9534160
-MD5sum: 3d3284f62a62250bb907389ac1b1ea56
-SHA1: da983908c1589f0ae4d177e788a4926b93040dfa
-SHA256: fdfd65153d9a2ecb30601e37e1a4e7903b7b0308e34469444b9fa2b72b377299
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.jailfoolss_5.1.1_iphoneos-arm64e.deb
+Size: 5098288
+MD5sum: b3394dea779ee408d8b2e784dca7d79a
+SHA1: 4c3db42b7c95706e07c3cabb7794fa94ae749c18
+SHA256: 45511408eb2bb1d6c560ba2a0f190c1b7d6e777fb1ba387d29ddc89352d8df1f
 Section: Applications
 Description: 越狱版 TrollFools 注入工具
  * 支持将 dylib 注入到应用内
@@ -10882,6 +10882,61 @@ Description: 基于 DYYY 的抖音插件
 Author: XUUᶻ
 Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
 Name: 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 2.2-5
+Architecture: iphoneos-arm64e
+Maintainer: XUUᶻ
+Installed-Size: 624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64e/com.xuuz.douyinhelpers_2.2-5_iphoneos-arm64e.deb
+Size: 6818892
+MD5sum: 8857feca213e79bb4b3cbd1d1d7babd0
+SHA1: 5ed8d385bc277cb69380693662d6e8d199a781eb
+SHA256: afd4c7e06b974fb9e74904ee1265c2ef032a6c0f4e62b0188ada8d4e303b4854
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 四种插件打开方式
+ * 三指长按
+ * 长按视频
+ * 设置页面
+ * 聊天长按➕/✖️图标
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: Xuu 抖音助手
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
+
+Package: com.xuuz.douyinhelpers
+Version: 2.2-5
+Architecture: iphoneos-arm64
+Maintainer: XUUᶻ
+Installed-Size: 624
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.xuuz.douyinhelper, byg.iosios.net.dyzs
+Filename: ./debs/iphoneos-arm64/com.xuuz.douyinhelpers_2.2-5_iphoneos-arm64.deb
+Size: 6814468
+MD5sum: 7c0385439f8521fcf714358768de2808
+SHA1: 6d0789d1fb3a6fff1472c8b2c3df696f06239890
+SHA256: 40af76624cdfa9de6263b8dc620a8bc4edac4fdd16109adedffcf2aaf67dab21
+Section: 抖音插件
+Priority: optional
+Description: 基于 DYYY 的抖音插件
+ * 四种插件打开方式
+ * 三指长按
+ * 长按视频
+ * 设置页面
+ * 聊天长按➕/✖️图标
+ * 支持信息防撤回
+ * 支持猜拳骰子作弊
+Author: XUUᶻ
+Icon: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/icon.png
+Name: Xuu 抖音助手
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Douyinhelper/js.json
 
 Package: com.xx.dyhooks
