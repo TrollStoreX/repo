@@ -4719,6 +4719,62 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
 Name: 微信 WCPulse
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
 
+Package: com.huami.wcpulses
+Version: 1.7-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64e/com.huami.wcpulses_1.7-2_iphoneos-arm64e.deb
+Size: 3561236
+MD5sum: 50817190e4df7f2f7f4eb3520d060c8b
+SHA1: 597ee3ee1d974e637d77035d12e8951cc96dfe1e
+SHA256: f590837cfe4c24c0ae1165aea58e7e97ed17ad5de6b402e74fa13e065dcaf259
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
+Package: com.huami.wcpulses
+Version: 1.7-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.huami.wcpulse, com.huami.WCPulse
+Filename: ./debs/iphoneos-arm64/com.huami.wcpulses_1.7-2_iphoneos-arm64.deb
+Size: 3561044
+MD5sum: aae88f538ce292306269b34e3d7adeb5
+SHA1: 5be08e676f07c9c43d3edeca946f063d46b4d988
+SHA256: 8c08ca3bda162bdfc09e32d7bdb66a894b8d81dc4aee1810ea5e91567371918e
+Section: 微信插件
+Description: 微信实用小插件
+ * 分组功能
+ * 启用视频倍速手势
+ * 启用头像时间标签
+ * 自定义防撤回功能
+ * 插件管理排序功能
+ * 禁止删除消息聊天记录
+ * 长按首页消息预览视图
+ * 消息直达聊天窗口
+ * 默认绕过多开人脸、无后台限制
+Author: huami
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCPulse/icon.png
+Name: 微信 WCPulse
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCPulse/js.json
+
 Package: com.huami.wcpush2chats
 Version: 1.0-2
 Architecture: iphoneos-arm64e
@@ -8865,6 +8921,49 @@ Size: 8633564
 MD5sum: 84577721dbfe76dca4e6152184bb5ba1
 SHA1: 8933dcf3e3923df61fb81e5eb63db2e38742a2e8
 SHA256: b918c0e2ba70651471dd26bb092048784a76f57db85970306a3487c0b34bfb90
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版
+ * 基于微信 8.0.64+ 版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCRefine/icon.png
+Name: WCRefine 微信优化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCRefine/js.json
+
+Package: com.qimiao.wcrefines
+Version: 2.1-2
+Architecture: iphoneos-arm64e
+Maintainer: 热心网友
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.qimiao.WCRefine
+Filename: ./debs/iphoneos-arm64e/com.qimiao.wcrefines_2.1-2_iphoneos-arm64e.deb
+Size: 9562240
+MD5sum: 3f0bc17e1b8c7b50b52ff0dbf754593d
+SHA1: be6f937338efda0b807fdf6b3b3f432e604f516f
+SHA256: 002e506a4851f921d8584439575965941cb7754d244d58ef7b0e99d96ce0a503
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版
+ * 基于微信 8.0.64+ 版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://TrollStoreX.Github.io/sileodepiction/WCRefine/icon.png
+Name: WCRefine 微信优化
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WCRefine/js.json
+
+Package: com.qimiao.wcrefines
+Version: 2.1-2
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: com.qimiao.WCRefine
+Filename: ./debs/iphoneos-arm64/com.qimiao.wcrefines_2.1-2_iphoneos-arm64.deb
+Size: 9749616
+MD5sum: b49bffb83d8b85599bf22cafaa9526db
+SHA1: 3638a280ccf42e810b974ce8e772573a54571756
+SHA256: 97ef3331d48dda4c314d21968048e5d65fd91b441303ad235c48e8db8e836dca
 Section: 微信插件
 Priority: optional
 Description: 微信优化的重制版
