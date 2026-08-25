@@ -295,6 +295,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.png
 Name: JailFools 越狱版 TrollFools
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.json
 
+Package: cn.zqbb.jailfoolss
+Version: 5.2.1
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 16700
+Depends: firmware (>= 15.0)
+Conflicts: cn.zqbb.jailfools
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.jailfoolss_5.2.1_iphoneos-arm64e.deb
+Size: 5100232
+MD5sum: 060b0a16d5de114b7444c70e3afc486c
+SHA1: e0828fa406d4be34705e7db417154e3233ba27ff
+SHA256: 3e5a3b0b49eab48a682a2e29affef7cc83ec1913aed3326a91c6acb913132423
+Section: Applications
+Description: 越狱版 TrollFools 注入工具
+ * 支持将 dylib 注入到应用内
+Author: zqbb
+Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.png
+Name: JailFools 越狱版 TrollFools
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.json
+
 Package: cn.zqbb.phonekey.resets
 Version: 1.0.3
 Architecture: iphoneos-arm64e
@@ -2213,6 +2233,31 @@ Description: Telegram 增强插件
  * 隐藏一些输入状态
  * 允许保存频道限制下载的文件
  * 设置界面-长按倒数第三个选项“客服”打开插件
+ * 支持 Telegram、Turrit 等第三方客户端，具体自测
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
+Package: com.choco.tgextras
+Version: 1.7.8
+Architecture: iphoneos-arm64e
+Maintainer: choco
+Installed-Size: 3256
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64e/com.choco.tgextras_1.7.8_iphoneos-arm64e.deb
+Size: 831464
+MD5sum: 272429ed92290ac99f91b649d565dc09
+SHA1: aa8724011f8fcd149aee7bd756fa3dbbb71e85fe
+SHA256: d093ceb50e7f7bde31ac12416de1d7ca31116703f9713a70a9545e4c15ffd6dc
+Section: 应用破解
+Description: Telegram 增强插件
+ * 最后在 Telegram 12.9.3 进行测试
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”或者三指长按打开插件
  * 支持 Telegram、Turrit 等第三方客户端，具体自测
 Author: choco
 Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
