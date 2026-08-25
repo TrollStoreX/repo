@@ -2219,6 +2219,31 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
 Name: Telegram TGExtra
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
 
+Package: com.choco.tgextras
+Version: 1.7.8
+Architecture: iphoneos-arm64
+Maintainer: choco
+Installed-Size: 3256
+Conflicts: com.choco.tgextra
+Filename: ./debs/iphoneos-arm64/com.choco.tgextras_1.7.8_iphoneos-arm64.deb
+Size: 833372
+MD5sum: d6db58658e3f2ffe297af626952c763a
+SHA1: b05e87e78d79fdad894e7d9f1f1506c729368c59
+SHA256: 59926479fa53c10d357da3d5bb2196d6be6309b26b407268fb1612b558803fc6
+Section: 应用破解
+Description: Telegram 增强插件
+ * 最后在 Telegram 12.9.3 进行测试
+ * 去除广告
+ * 虚拟定位
+ * 隐藏一些输入状态
+ * 允许保存频道限制下载的文件
+ * 设置界面-长按倒数第三个选项“客服”或者三指长按打开插件
+ * 支持 Telegram、Turrit 等第三方客户端，具体自测
+Author: choco
+Icon: https://TrollStoreX.Github.io/sileodepiction/Telegram/icon.png
+Name: Telegram TGExtra
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Telegram/TGExtra.json
+
 Package: com.colorblack.bottomxs
 Version: 0.2.71
 Architecture: iphoneos-arm64e
