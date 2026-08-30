@@ -1831,25 +1831,6 @@ Name: 微信推送直达聊天窗口 WechatPushMsgPage
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
 
 Package: com.be-huge.wechat-push-msg-pages
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 232
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Conflicts: com.be-huge.wechat-push-msg-page
-Filename: ./debs/iphoneos-arm64/com.be-huge.wechat-push-msg-pages_0.0.3_iphoneos-arm64.deb
-Size: 23296
-MD5sum: a8fe527ff9f1f3d424c9d24f789c4687
-SHA1: dbc9d3a4a8f908280ee50f0b45cb2065aa8c1925
-SHA256: 18a97493a7050cca97ea83d180a789c3c36319ea5aa6a3488e01320aca0816e0
-Section: 微信插件
-Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口
-Author: be-huge
-Icon: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/icon.png
-Name: 微信推送直达聊天窗口 WechatPushMsgPage
-Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/WechatPushMsgPage/js.json
-
-Package: com.be-huge.wechat-push-msg-pages
 Version: 0.0.4
 Architecture: iphoneos-arm64e
 Maintainer: be-huge
@@ -5161,6 +5142,51 @@ Size: 2378258
 MD5sum: a599ca6fb9063c16ba1acd38bf5e7804
 SHA1: 4147480977be507bb98dfe2aa18236248ff6938f
 SHA256: cb18b696f4ef4d5a2e187ca00c92ef52d40b715de2b3e4d7a386fe66b769e626
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdatas
+Version: 2.7.1
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 3772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas, com.iosdump.appdata
+Filename: ./debs/iphoneos-arm64e/com.iosdump.appdatas_2.7.1_iphoneos-arm64e.deb
+Size: 3947192
+MD5sum: f425f0c27ce3c6a7593e2a81eb1debff
+SHA1: 1a591080fd4615a6c6608ae523b026751c47999a
+SHA256: 68bf14d1a2786a7deae7ddeb23586e3b53effed9ef51fdedc38639de18be1803
+Section: Tweaks
+Description: 桌面图标增强插件
+ * 由 iosdump 汉化修改
+ * 桌面图标向上滑动或长按激活
+ * View & Manage Applications Data from your Home Screen
+Author: iosdump
+Icon: https://TrollStoreX.Github.io/sileodepiction/Appdata/icon.png
+Name: AppData iosdump
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Appdata/iosdump.json
+
+Package: com.iosdump.appdatas
+Version: 2.7.1
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 3772
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, byg.iosios.net.appdata-rootless, com.dao.appdata, com.netskao.appdatas, com.iosdump.appdata
+Filename: ./debs/iphoneos-arm64/com.iosdump.appdatas_2.7.1_iphoneos-arm64.deb
+Size: 1718220
+MD5sum: d0dbd8b2e03f01be70646e5de9aeb0a2
+SHA1: 8d2c6c044d1414508de77e041106b46dc3155b24
+SHA256: 8096a3565a449c796b921c635104d9f7983104a86704dd54bae83efd0f6912ec
 Section: Tweaks
 Description: 桌面图标增强插件
  * 由 iosdump 汉化修改
@@ -12167,6 +12193,59 @@ Description: 小红书增强插件
  * 保存评论区语音
  * 批量无水印保存原图图片/LivePhoto/视频
  * 应用设置内界面右上角打开插件界面或双指长按设置界面
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 3196
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, xhs.x
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.2.5_iphoneos-arm64e.deb
+Size: 2835492
+MD5sum: 9491869395ed0ab5c9283eb518e42f6c
+SHA1: 6fff50638c484f91862fe60d72e61649f0b4bf2d
+SHA256: 0d9c4a4f9208157bf05f47e4d16f013576cc226d02635acc5e39e85c98fb4001
+Section: 应用破解
+Description: 小红书增强插件
+ * 移除一些广告
+ * 隐藏底栏菜单
+ * 修改字体
+ * 消息防撤回
+ * 保存评论区语音
+ * 批量无水印保存原图图片/LivePhoto/视频
+ * 应用设置内界面右上角打开插件界面或双指长按
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, xhs.x
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.2.5_iphoneos-arm64.deb
+Size: 1062032
+MD5sum: 0e00babcfbc44a8b30514ab812f044a4
+SHA1: 6c6b8749517611b5f26ea6da55ff083a81ec35f1
+SHA256: d3f1b9ec1f149148fff1135bcd6047555ef060f8bf66e181e715b3506615c638
+Section: 应用破解
+Description: 小红书增强插件
+ * 移除一些广告
+ * 隐藏底栏菜单
+ * 修改字体
+ * 消息防撤回
+ * 保存评论区语音
+ * 批量无水印保存原图图片/LivePhoto/视频
+ * 应用设置内界面右上角打开插件界面或双指长按
 Author: 𝙓
 Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
 Name: 小红书图层 小红薯
