@@ -315,6 +315,26 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.png
 Name: JailFools 越狱版 TrollFools
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.json
 
+Package: cn.zqbb.jailfoolss
+Version: 5.2.3
+Architecture: iphoneos-arm64e
+Maintainer: zqbb
+Installed-Size: 16700
+Depends: firmware (>= 15.0)
+Conflicts: cn.zqbb.jailfools
+Filename: ./debs/iphoneos-arm64e/cn.zqbb.jailfoolss_5.2.3_iphoneos-arm64e.deb
+Size: 5287552
+MD5sum: 16c0405b18f36d7d0baf251b41394018
+SHA1: b74974309144267b3c0fc8acdb5314d18d40048d
+SHA256: 706032a506ba424a880bea19178d2d4494825e32e3d5fe684fa8644a68780653
+Section: Applications
+Description: 越狱版 TrollFools 注入工具
+ * 支持将 dylib 注入到应用内
+Author: zqbb
+Icon: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.png
+Name: JailFools 越狱版 TrollFools
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/TrollStore/JailFools.json
+
 Package: cn.zqbb.phonekey.resets
 Version: 1.0.3
 Architecture: iphoneos-arm64e
@@ -1760,6 +1780,53 @@ Size: 4571464
 MD5sum: 5b6f5551313477f1b09c666e166a812e
 SHA1: 13578549a2080e981bfb64e65a68b23119a5e2d7
 SHA256: 9760f451f2da279edcfa7dc950e116f5d096147d5c4f1fc569d5ea50745ee965
+Section: 应用破解
+Description: Twitter X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、隐藏底部标签栏等功能
+ * 最后在 X 版本 12.14 进行测试
+Author: NeoFreeBird
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: NBF BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
+Package: com.bandarhl.bhtwitters
+Version: 6.5.1
+Architecture: iphoneos-arm64e
+Maintainer: NeoFreeBird
+Installed-Size: 18344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
+Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_6.5.1_iphoneos-arm64e.deb
+Size: 4239188
+MD5sum: 6143219b6863140a8e41c2fc3fa7f422
+SHA1: af6b73db6ad822d5a42c003ce73a5999623619b9
+SHA256: 5aec550ca00355804b75eeb5d7be066657204136ffadce847259bcd7a1115eba
+Section: 应用破解
+Description: Twitter X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、隐藏底部标签栏等功能
+ * 最后在 X 版本 12.14 进行测试
+Author: NeoFreeBird
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: NBF BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
+Package: com.bandarhl.bhtwitters
+Version: 6.5.1
+Architecture: iphoneos-arm64
+Maintainer: NeoFreeBird
+Installed-Size: 18344
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_6.5.1_iphoneos-arm64.deb
+Size: 4303752
+MD5sum: d6ff73cc9e69697f57ded2ee25e25d18
+SHA1: d9a7b2839dc055b27725df8415a3b75489edda09
+SHA256: 3f7244bad41422eb435e617e5ae23f4fb267462e487d4c7d58da819ca81bf44a
 Section: 应用破解
 Description: Twitter X 增强插件
  * 视频下载
@@ -5440,6 +5507,46 @@ Size: 1608888
 MD5sum: c91491f18e871b1171bcfc65f547aebe
 SHA1: ff15a86ddaa0afd2a36d97998b60ba7d586c3978
 SHA256: d7d99a28a2f63bdb22ed9b5fe0aed6d6d325e09642ee66b19a3c28764d9df219
+Section: 应用破解
+Description: YTKACE 是一款免费、开源的 iOS 版 YouTube 增强与下载工具，支持 SponsorBlock、后台播放、播放器控制及界面自定义。
+ * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Author: itzzace
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTKACE/icon.png
+Name: YTKACE YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTKACE/js.json
+
+Package: com.itzzace.ytkaces
+Version: 0.9.2
+Architecture: iphoneos-arm64e
+Maintainer: itzzace
+Installed-Size: 2936
+Depends: mobilesubstrate | ellekit, firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./debs/iphoneos-arm64e/com.itzzace.ytkaces_0.9.2_iphoneos-arm64e.deb
+Size: 878188
+MD5sum: 2bc91fafa379c4917d37ee21698f9523
+SHA1: 93c591967554190f8a2bea2888df85c7aa75d049
+SHA256: f788da57e5edbcf9ba3d954c41198088b5c44f5728df1dded6114ab3b2bebc32
+Section: 应用破解
+Description: YTKACE 是一款免费、开源的 iOS 版 YouTube 增强与下载工具，支持 SponsorBlock、后台播放、播放器控制及界面自定义。
+ * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
+Author: itzzace
+Icon: https://TrollStoreX.Github.io/sileodepiction/YTKACE/icon.png
+Name: YTKACE YouTube 增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/YTKACE/js.json
+
+Package: com.itzzace.ytkaces
+Version: 0.9.2
+Architecture: iphoneos-arm64
+Maintainer: itzzace
+Installed-Size: 2936
+Depends: mobilesubstrate | ellekit, firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./debs/iphoneos-arm64/com.itzzace.ytkaces_0.9.2_iphoneos-arm64.deb
+Size: 878500
+MD5sum: f333e172cce8ec9cb6250eaf0234e655
+SHA1: de0c2411770ae0ce9bb0eb4ce6a1f449b6c7efef
+SHA256: 487457f557f47eac0facc74a324c48ebdc7809c3b81ef5d7ac116d3aaa74a976
 Section: 应用破解
 Description: YTKACE 是一款免费、开源的 iOS 版 YouTube 增强与下载工具，支持 SponsorBlock、后台播放、播放器控制及界面自定义。
  * Open-source YouTube enhancement with downloads, SponsorBlock, background playback and interface controls
@@ -12237,6 +12344,59 @@ Size: 1062032
 MD5sum: 0e00babcfbc44a8b30514ab812f044a4
 SHA1: 6c6b8749517611b5f26ea6da55ff083a81ec35f1
 SHA256: d3f1b9ec1f149148fff1135bcd6047555ef060f8bf66e181e715b3506615c638
+Section: 应用破解
+Description: 小红书增强插件
+ * 移除一些广告
+ * 隐藏底栏菜单
+ * 修改字体
+ * 消息防撤回
+ * 保存评论区语音
+ * 批量无水印保存原图图片/LivePhoto/视频
+ * 应用设置内界面右上角打开插件界面或双指长按
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.2.8
+Architecture: iphoneos-arm64e
+Maintainer: 𝙓
+Installed-Size: 3196
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, xhs.x
+Filename: ./debs/iphoneos-arm64e/com.xx.xhshooks_1.2.8_iphoneos-arm64e.deb
+Size: 4244010
+MD5sum: 5030ffe800bdadf69d201c1906cfe2a8
+SHA1: 73e82179376ecd3a25f37ef440a52a3c65d216f5
+SHA256: e2ad0d564eb83632cfc0af71b093e4b2c867022df1e6352815bb444530b80fa1
+Section: 应用破解
+Description: 小红书增强插件
+ * 移除一些广告
+ * 隐藏底栏菜单
+ * 修改字体
+ * 消息防撤回
+ * 保存评论区语音
+ * 批量无水印保存原图图片/LivePhoto/视频
+ * 应用设置内界面右上角打开插件界面或双指长按
+Author: 𝙓
+Icon: https://TrollStoreX.Github.io/sileodepiction/XHS/icon.png
+Name: 小红书图层 小红薯
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/XHS/js.json
+
+Package: com.xx.xhshooks
+Version: 1.2.8
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 3196
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.xhshook, xhs.x
+Filename: ./debs/iphoneos-arm64/com.xx.xhshooks_1.2.8_iphoneos-arm64.deb
+Size: 1605764
+MD5sum: c1715786dfb9f19c82d7292902841d78
+SHA1: a3094218328ea1b9ebd8f71131835dbfa1e76d8c
+SHA256: 2897b5942b8983b2f19c7834b4f862b62baeb0eb0e4349fac2ffc2eb5fd37fc1
 Section: 应用破解
 Description: 小红书增强插件
  * 移除一些广告
