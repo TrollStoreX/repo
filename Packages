@@ -855,6 +855,58 @@ Name: 微信插件管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
 Sponsor: admin@25mao.com
 
+Package: com.25mao.wcplugins.rootlesss
+Version: 0.1-7
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.wcplugins.rootless
+Replaces: com.25mao.wcplugins.rootless
+Provides: com.25mao.wcplugins.rootless
+Filename: ./debs/iphoneos-arm64e/com.25mao.wcplugins.rootlesss_0.1-7_iphoneos-arm64e.deb
+Size: 15260
+MD5sum: f8bb911554bab9423ed922c02637604e
+SHA1: 2d05718a9f95d1d5d576c0ccd8eb7fee70aa53b1
+SHA256: c67f0f93248e624b9bc5f88da46fe5c09e1d4a1aae879b9275474c23cbb73672
+Section: 微信插件
+Priority: optional
+Description: 微信插件管理
+ * 收纳第三方微信插件
+ * 位于微信右下角“我”-“插件”
+ * 部分微信插件不支持收纳
+ * 最后更新日期 2026.09.01
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/wcplugins/icon.png
+Name: 微信插件管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcplugins.rootlesss
+Version: 0.1-7
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Conflicts: com.25mao.wcplugins.rootless
+Replaces: com.25mao.wcplugins.rootless
+Provides: com.25mao.wcplugins.rootless
+Filename: ./debs/iphoneos-arm64/com.25mao.wcplugins.rootlesss_0.1-7_iphoneos-arm64.deb
+Size: 15292
+MD5sum: d790c7c11640df2bd19e72a513453613
+SHA1: b4da4571cc6857c4a463c703763c79a9fdbee8d5
+SHA256: 81f2134758887e7c63aab5e0d91802cf6d6635b92df470945fa7a73169c3b1c9
+Section: 微信插件
+Priority: optional
+Description: 微信插件管理
+ * 收纳第三方微信插件
+ * 位于微信右下角“我”-“插件”
+ * 部分微信插件不支持收纳
+ * 最后更新日期 2026.09.01
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/wcplugins/icon.png
+Name: 微信插件管理
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
+Sponsor: admin@25mao.com
+
 Package: com.34306.upsidedowneds
 Version: 1.1-6+debug
 Architecture: iphoneos-arm64e
