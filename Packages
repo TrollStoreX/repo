@@ -1751,6 +1751,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AweJ/icon.png
 Name: 抖音+ aweJ
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AweJ/js.json
 
+Package: com.ban.mydocks
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 半生年华
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.ban.mydock
+Filename: ./debs/iphoneos-arm64e/com.ban.mydocks_1.0.0_iphoneos-arm64e.deb
+Size: 7036
+MD5sum: e1abcfd3a3e45fb142ced98ac5d7b1f0
+SHA1: b2a836fd1c88ebe1c8be660368aecfb8e3f9836f
+SHA256: c3fb40d669a5d21f9bf43c1ddaecbed4168d7925607185ea73a5c00d78ede1be
+Section: 键盘
+Description: 键盘底部显示「全选/粘贴/撤销/隐藏键盘」按钮
+Author: 半生年华
+Icon: https://TrollStoreX.Github.io/sileodepiction/MyDock/icon.png
+Name: MyDock 键盘增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MyDock/js.json
+
+Package: com.ban.mydocks
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 半生年华
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.ban.mydock
+Filename: ./debs/iphoneos-arm64/com.ban.mydocks_1.0.0_iphoneos-arm64.deb
+Size: 5208
+MD5sum: 16cddc6184bb98eec422aad5d64c3717
+SHA1: 9b69dc08f6f6f8f014fcd9cee5ebd4d26de55bbf
+SHA256: 0ff0bb1d8fc234bcdd27c335f6638dc576bebea3bc25cb1a128df12a97b23a5f
+Section: 键盘
+Description: 键盘底部显示「全选/粘贴/撤销/隐藏键盘」按钮
+Author: 半生年华
+Icon: https://TrollStoreX.Github.io/sileodepiction/MyDock/icon.png
+Name: MyDock 键盘增强
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/MyDock/js.json
+
 Package: com.bandarhl.bhtwitters
 Version: 4.4-1+debug
 Architecture: iphoneos-arm64e
