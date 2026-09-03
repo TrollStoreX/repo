@@ -11222,6 +11222,44 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/CornBar/icon.png
 Name: CornBar 玉米手势横杠
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/CornBar/js.json
 
+Package: com.xlzs001.dystorages
+Version: 1.2.76
+Architecture: iphoneos-arm64e
+Maintainer: DYStorage Contributors
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: com.xlzs001.dystorage
+Filename: ./debs/iphoneos-arm64e/com.xlzs001.dystorages_1.2.76_iphoneos-arm64e.deb
+Size: 60308
+MD5sum: b3b9d3875c1a038dec70758d405ebbdb
+SHA1: 4414831723b5eb771073344497403a6665727f6d
+SHA256: 964b2432221ca26169ece89ee8ca4f99c0eacc7ba0b54c10c38587dd198b0116
+Section: 抖音插件
+Description: 将你的抖音插件收纳起来
+Author: DYStorage Contributors
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYStorage/icon.png
+Name: 抖音插件收纳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYStorage/js.json
+
+Package: com.xlzs001.dystorages
+Version: 1.2.76
+Architecture: iphoneos-arm64
+Maintainer: DYStorage Contributors
+Installed-Size: 240
+Depends: mobilesubstrate
+Conflicts: com.xlzs001.dystorage
+Filename: ./debs/iphoneos-arm64/com.xlzs001.dystorages_1.2.76_iphoneos-arm64.deb
+Size: 60434
+MD5sum: 5d83acf90882fe38a28302a6933199a6
+SHA1: 3ec1aed8d759b8a49c2b80fed8b016466dcc915e
+SHA256: 7d7f49302b991a911b45b4b3be9874298a7028abcb1b66e1f338ab3443b7031a
+Section: 抖音插件
+Description: 将你的抖音插件收纳起来
+Author: DYStorage Contributors
+Icon: https://TrollStoreX.Github.io/sileodepiction/DYStorage/icon.png
+Name: 抖音插件收纳
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DYStorage/js.json
+
 Package: com.xuuz.douyinhelpers
 Version: 1.6-4
 Architecture: iphoneos-arm64e
