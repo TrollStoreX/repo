@@ -10866,6 +10866,25 @@ Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
 
 Package: com.tencent.themeboxs
 Version: 3.0.5
+Architecture: iphoneos-arm64
+Maintainer: Mao
+Installed-Size: 8588
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.tencent.themebox
+Filename: ./debs/iphoneos-arm64/com.tencent.themeboxs_3.0.5_iphoneos-arm64.deb
+Size: 9394024
+MD5sum: 5f3b58acf17d54f3bd89995ff0a3b030
+SHA1: 37b23b75c88d61711700cde5c2e5be6524f52874
+SHA256: e02902154adbc86a54b867517bc734492d9931e03dae2bbb5f1de5d3a19add35
+Section: 微信插件
+Description: 微信主题插件
+Author: Mao
+Icon: https://TrollStoreX.Github.io/sileodepiction/Themebox/icon.png
+Name: 主题盒子
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Themebox/js.json
+
+Package: com.tencent.themeboxs
+Version: 3.0.5
 Architecture: iphoneos-arm64e
 Maintainer: Mao
 Installed-Size: 8588
