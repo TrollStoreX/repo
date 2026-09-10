@@ -6765,6 +6765,45 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/AdSkip/icon.png
 Name: AdSkip 跳过启动广告
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AdSkip/js.json
 
+Package: com.mg.adskips
+Version: 3.3.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 144
+Filename: ./debs/iphoneos-arm64/com.mg.adskips_3.3.0_iphoneos-arm64.deb
+Size: 24036
+MD5sum: 5e5974e33cc407658cca7e4e4462d1cd
+SHA1: d0769107c9f567bb27a9c9863dcff808e7eb8444
+SHA256: 9f2550396c8d6ba8546d2508302c85bfb85f87ac0a862350d2e41f523ea99042
+Section: 应用破解
+Description: 快速跳过开屏广告
+ * 适配大多数应用，具体自测
+ * 插件注入 com.apple.UIKit，有冲突自行禁用
+Author: M哥
+Icon: https://TrollStoreX.Github.io/sileodepiction/AdSkip/icon.png
+Name: AdSkip 跳过启动广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AdSkip/js.json
+
+Package: com.mg.adskips
+Version: 3.3.0
+Architecture: iphoneos-arm64e
+Maintainer: M哥
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/iphoneos-arm64e/com.mg.adskips_3.3.0_iphoneos-arm64e.deb
+Size: 31830
+MD5sum: 78bf2af4d426bcc5c6b0c1534dc73f68
+SHA1: f3723251527ee91551dcb69a7f2c6ac9a27030b3
+SHA256: 64b4e7670e7e7af5249099b3774ed4fe97218bb0ab455c81f66d7e4549cbc6ed
+Section: 应用破解
+Description: 快速跳过开屏广告
+ * 适配大多数应用，具体自测
+ * 插件注入 com.apple.UIKit，有冲突自行禁用
+Author: M哥
+Icon: https://TrollStoreX.Github.io/sileodepiction/AdSkip/icon.png
+Name: AdSkip 跳过启动广告
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/AdSkip/js.json
+
 Package: com.mikey820.pleasedontstopthemusics
 Version: 2.3.1
 Architecture: iphoneos-arm64
