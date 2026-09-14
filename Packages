@@ -1929,6 +1929,53 @@ Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
 Name: NBF BHTwitter
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
 
+Package: com.bandarhl.bhtwitters
+Version: 6.7.0
+Architecture: iphoneos-arm64
+Maintainer: NeoFreeBird
+Installed-Size: 13624
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
+Filename: ./debs/iphoneos-arm64/com.bandarhl.bhtwitters_6.7.0_iphoneos-arm64.deb
+Size: 3736848
+MD5sum: 82253b6a0f511b460f037be94ff8fff5
+SHA1: 30f9b3c96ed2dd4a4aa7d369e2947b8584f7e655
+SHA256: df2f0e8334d4991e71ddf1176dcc25bfafb3ec4735dfc351e4b6d0dd86c8bd45
+Section: 应用破解
+Description: Twitter X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、隐藏底部标签栏等功能
+ * 最后在 X 版本 12.26 进行测试
+Author: NeoFreeBird
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: NeoFreeBird BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
+Package: com.bandarhl.bhtwitters
+Version: 6.7.0
+Architecture: iphoneos-arm64e
+Maintainer: NeoFreeBird
+Installed-Size: 13624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter, byg.iosios.net.rootless.bhtwitter, com.dao.bhtwitter
+Filename: ./debs/iphoneos-arm64e/com.bandarhl.bhtwitters_6.7.0_iphoneos-arm64e.deb
+Size: 3684652
+MD5sum: 50b6b1fb075978749f65005105c1da00
+SHA1: 49b116f0774707aacb84220cd856e044fbec95d3
+SHA256: d36d8b2cab730bf7b9703f5d797da15954989c832dc5871c7f80a75c75095425
+Section: 应用破解
+Description: Twitter X 增强插件
+ * 视频下载
+ * 修改应用图标
+ * 去广告、隐藏底部标签栏等功能
+ * 最后在 X 版本 12.26 进行测试
+Author: NeoFreeBird
+Icon: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/icon.png
+Name: NeoFreeBird BHTwitter
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/BHTwitter/js.json
+
 Package: com.be-huge.wechat-pop-vcs
 Version: 0.0.3
 Architecture: iphoneos-arm64
