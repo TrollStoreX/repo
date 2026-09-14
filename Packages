@@ -907,6 +907,47 @@ Name: 微信插件管理
 Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/wcplugins/js.json
 Sponsor: admin@25mao.com
 
+Package: com.34306.duobars
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 384
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.34306.duobar
+Filename: ./debs/iphoneos-arm64/com.34306.duobars_1.1.5_iphoneos-arm64.deb
+Size: 23264
+MD5sum: eb6de0dcb1d3619f3236a1ce94d97611
+SHA1: 4f45da63c00cdb810558d320e6d375dde24b181e
+SHA256: 48450072f4e237aa1e8d5761e8cb2f7c38c0830d478de7cd2b1cd5a3f6924904
+Section: iPhone Duo
+Description: 将 iPhone Duo 风格的组合状态栏（Wi-Fi + 蜂窝网络 + 电池位于一个圆圈内）移植到 iPhone 上
+ * Combined iPhone Duo-style status bar indicator (Wi-Fi + Cellular + Battery in one circle) ported to iPhone 16 Pro Max
+Author: 34306
+Icon: https://TrollStoreX.Github.io/sileodepiction/DuoBar/icon.png
+Name: DuoBar 折叠屏状态栏
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DuoBar/js.json
+
+Package: com.34306.duobars
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 384
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.34306.duobar
+Filename: ./debs/iphoneos-arm64e/com.34306.duobars_1.1.5_iphoneos-arm64e.deb
+Size: 32370
+MD5sum: eb823e9be7c41e05cab103d2887cf7ab
+SHA1: 583fa370da55e53c81de663993636cc4be30a59c
+SHA256: dd6de2e1d68a8d6fa274a715a293ad07846420c34bf8978034db970561742045
+Section: iPhone Duo
+Description: 将 iPhone Duo 风格的组合状态栏（Wi-Fi + 蜂窝网络 + 电池位于一个圆圈内）移植到 iPhone 上
+ * Combined iPhone Duo-style status bar indicator (Wi-Fi + Cellular + Battery in one circle) ported to iPhone 16 Pro Max
+Author: 34306
+Icon: https://TrollStoreX.Github.io/sileodepiction/DuoBar/icon.png
+Name: DuoBar 折叠屏状态栏
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/DuoBar/js.json
+
 Package: com.34306.upsidedowneds
 Version: 1.1-6+debug
 Architecture: iphoneos-arm64e
