@@ -12,7 +12,7 @@ jobs:
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           submodules: recursive
 
@@ -20,13 +20,13 @@ jobs:
         if: success()
         run: |
           sudo apt update 2>>/dev/null 1>>/dev/null
-          sudo apt install dpkg-dev bzip2 xz-utils zstd -y
+          sudo apt install apt-utils gawk sed bzip2 xz-utils zstd -y
 
       - name: Refresh Packages
         if: success()
         run: |
           rm -rf ./Packages*
-          dpkg-scanpackages -m ./debs /dev/null >./Packages
+          sudo apt-ftparchive packages ./debs | awk -v RS="" -v ORS="\0" '1' | sort -z | awk -v RS="\0" -v ORS="\n\n" '1' | sed '/./,$!d' > Packages
           bzip2 -v -k -9 Packages
           xz -v -k -9 --extreme Packages
           zstd --ultra -22 -k Packages -o Packages.zst
@@ -34,24 +34,13 @@ jobs:
       - name: save change if local change
         if: success()
         run: |
-          git config --global user.email 'action@github.com'
-          git config --global user.name 'GitHub Action'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add .
           if ! git diff --staged --exit-code 1>>/dev/null; then
             git commit -m 'Refresh Packages'
             git push
           fi
-          
-      - name: download remove_all_actions
-        if: success()
-        run: |
-          sudo curl -L -o '/usr/bin/remove_all_actions' 'https://raw.githubusercontent.com/invalidunit/action/main/remove_all_actions'
-          sudo chmod -R 0755 '/usr/bin/remove_all_actions'
 
-      - name: remove all old actions
-        if: success()
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
-        run: |
-          remove_all_actions
+  remove_all_old_actions:
+    uses: invalidunit/action/.github/workflows/remove_all_actions.yml@main
